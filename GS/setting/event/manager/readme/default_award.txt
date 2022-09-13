@@ -1,0 +1,1 @@
+Name	Kind	Exp	ExpBase	JxMoney	JxBindMoney	JxCoin	Genre	Detail	Particular	Level	Series	Amount	RandRate	nBind	TimeLimit	Annouce

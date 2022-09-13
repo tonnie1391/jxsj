@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trưởng Thị Vệ Nhất Đẳng	0	1074	0	5	85	1	20	20	20	20	20	1		51136	103424		1		4
+Tiểu Man	0	1002	3	5	60	1	20	20	20	20	20	1		50656	122880		1		
+Cao Thủ Đại Nội	0	1080	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\bangyuanmidong_shinei\npc\daneigaoshou.txt	1		0
+Cao Thủ Đại Nội	0	1080	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\bangyuanmidong_shinei\npc\daneigaoshou2.txt	1		1
+to_zhaoruyu	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_zhaoruyu.txt			
+to_bangyuanmidong	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_bangyuangmidong.txt			
+to_exit5	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit5.txt			
+to_exit9	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit9.txt			
+to_exit20	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit20.txt			
+to_exit12	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit12.txt			
+to_exit21	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit21.txt			
+to_exit27	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit27.txt			
+to_exit22	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit22.txt			
+to_exit28	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit28.txt			
+to_exit26	1															\setting\map\map_info\bangyuanmidong_shinei\trap\to_exit26.txt			

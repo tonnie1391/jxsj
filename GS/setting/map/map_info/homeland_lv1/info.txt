@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lữ Phong Niên	0	9681	3	5	35	1	20	20	20	20	20	1		58528	105600		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		57696	107520		1		
+Dã Luyện Đại Sư	0	3574	3	5	35	1	20	20	20	20	20	1		55392	107808		1		
+Lộ Trình Phi	0	9625	3	5	35	1	20	20	20	20	20	1		56864	107520		1		
+Mã Xuyên Sơn	0	2955	3	5	60	1	20	20	20	20	20	1		57184	107968		1		
+Hạ Phi Yên	0	6792	3	5	35	1	20	20	20	20	20	1		55744	107808		1		
+Bảng thông báo	0	9886	3	5	35	1	20	20	20	20	20	1		58304	105696		1		
+Chủ Tửu Lầu	0	3566	3	5	35	1	20	20	20	20	20	1		57280	106976		1		
+Tiệm thuốc	0	9636	3	5	35	1	20	20	20	20	20	1		57088	107232		1		
+Hạ Ngữ Hà	0	10235	3	5	35	1	20	20	20	20	20	1		57504	107808		1		
+to_fight	1															\setting\map\map_info\homeland_lv1\trap\to_fight.txt			
+to_peace	1															\setting\map\map_info\homeland_lv1\trap\to_peace.txt			

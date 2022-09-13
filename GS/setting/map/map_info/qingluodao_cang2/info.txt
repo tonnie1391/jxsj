@@ -1,0 +1,8 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Tần Công Xích	0	9	0	5	25	1	20	20	20	20	20	1		51360	102496		1		1
+Lê Việt	0	10	0	5	25	1	20	20	20	20	20	1		50144	103680		1		
+Lưu Mặc	0	11	0	5	25	1	20	20	20	20	20	1		52288	104448		1		0
+to_qingluodao	1															\setting\map\map_info\qingluodao_cang2\trap\to_qingluodao.txt			
+Thanh Loa Đảo	0	2525	4	5	1	1	20	20	20	20	20	1		50272	104832				
+to_3ceng	1															\setting\map\map_info\qingluodao_cang2\trap\to_ceng3.txt			
+Khoang Thuyền 3	0	2525	4	5	1	1	20	20	20	20	20	1		52320	102880				

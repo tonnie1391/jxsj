@@ -1,0 +1,33 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_shamomigong	1															\setting\map\map_info\wulahaicheng\trap\to_shamomigong.txt			
+Mê Cung Sa Mạc	0	2525	4	5	1	1	20	20	20	20	20	1		50816	115136				
+to_luhegu	1															\setting\map\map_info\wulahaicheng\trap\to_luhegu.txt			
+Lộc Hợp Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		51392	123200				
+haicheng_safe_enter1	1															\setting\map\map_info\wulahaicheng\trap\haicheng_safe_enter01.txt			
+Hậu Doanh Mông Cổ	0	2525	4	5	1	1	20	20	20	20	20	1		53184	111936				
+Hậu Doanh Mông Cổ	0	2525	4	5	1	1	20	20	20	20	20	1		51808	113312				
+haicheng_safe_exit1	1															\setting\map\map_info\wulahaicheng\trap\haicheng_safe_exit01.txt			
+haicheng_safe_enter2	1															\setting\map\map_info\wulahaicheng\trap\haicheng_safe_enter02.txt			
+haicheng_safe_exit2	1															\setting\map\map_info\wulahaicheng\trap\haicheng_safe_exit02.txt			
+Thiết Mộc Chân	0	10079	3	5	130	1	20	20	20	20	20	1		52192	111968				
+Bội Nhi Cát Đặc	0	10080	3	5	130	1	20	20	20	20	20	1		52128	112096				
+Oa Khoát Đài	0	10081	3	5	130	1	20	20	20	20	20	1		52160	112256				
+A Lạp Thản Tàng	0	10082	3	5	130	1	20	20	20	20	20	1		52224	112384				
+Ni Tư Cách Ba Nhật	0	10083	3	5	130	1	20	20	20	20	20	1		52288	111936				
+Oát Kỳ Nhĩ	0	10084	3	5	130	1	20	20	20	20	20	1		52384	111968				
+Tây Tấn Mãn Đạt	0	10085	3	5	130	1	20	20	20	20	20	1		52480	112032				
+Tù Binh Bị Bắt	0	10086	3	5	130	1	20	20	20	20	20	1		51968	112288				
+Xương Ninh Lưu Hộ	0	10087	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\wulahaicheng\npc\minions01.txt			
+Hỏa Nhi Xích	0	10088	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\wulahaicheng\npc\minions02.txt			
+Nhiên liệu	0	10090	3	5	130	1	20	20	20	20	20	1							
+Phân ngựa	0	10089	3	5	130	1	20	20	20	20	20	1				\setting\map\map_info\wulahaicheng\npc\task_shumu.txt			
+Mã thảo	0	10091	3	5	130	1	20	20	20	20	20	1				\setting\map\map_info\wulahaicheng\npc\task_macao.txt			
+Hốc cây	0	10066	3	5	130	1	20	20	20	20	20	1		56832	120224				
+Gạch	0	10067	3	5	130	1	20	20	20	20	20	1		52000	117632				
+Ba Đồ	0	10048	3	5	130	1	20	20	20	20	20	1		52800	112800				
+Cách Nhật Lặc Đồ	0	10050	3	5	130	1	20	20	20	20	20	1		52704	112896				
+Bà lão	0	9986	3	5	130	1	20	20	20	20	20	1		52672	125408				
+Dã Luyện Đại Sư	0	3574	3	5	130	1	20	20	20	20	20	1		52672	113088				
+Tiệm thuốc	0	10036	3	5	130	1	20	20	20	20	20	1		52928	112800				
+Xa Phu	0	2597	3	5	130	1	20	20	20	20	20	1		53088	112608				
+Thủ Khố	0	2599	3	5	130	1	20	20	20	20	20	1		53216	112512				

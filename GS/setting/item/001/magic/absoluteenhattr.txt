@@ -1,0 +1,21 @@
+AttId	Desc	Desc2	AddValue	AddFightPower	Enh1Times	EnhMA1Name	EnhMA1PA1Min	EnhMA1PA1Max	EnhMA1PA2Min	EnhMA1PA2Max	EnhMA1PA3Min	EnhMA1PA3Max	Enh2Times	EnhMA2Name	EnhMA2PA1Min	EnhMA2PA1Max	EnhMA2PA2Min	EnhMA2PA2Max	EnhMA2PA3Min	EnhMA2PA3Max	Enh3Times	EnhMA3Name	EnhMA3PA1Min	EnhMA3PA1Max	EnhMA3PA2Min	EnhMA3PA2Max	EnhMA3PA3Min	EnhMA3PA3Max	Enh4Times	EnhMA4Name	EnhMA4PA1Min	EnhMA4PA1Max	EnhMA4PA2Min	EnhMA4PA2Max	EnhMA4PA3Min	EnhMA4PA3Max	Enh5Times	EnhMA5Name	EnhMA5PA1Min	EnhMA5PA1Max	EnhMA5PA2Min	EnhMA5PA2Max	EnhMA5PA3Min	EnhMA5PA3Max	Enh6Times	EnhMA6Name	EnhMA6PA1Min	EnhMA6PA1Max	EnhMA6PA2Min	EnhMA6PA2Max	EnhMA6PA3Min	EnhMA6PA3Max	Str1Times	StrMA1Name	StrMA1PA1Min	StrMA1PA1Max	StrMA1PA2Min	StrMA1PA2Max	StrMA1PA3Min	StrMA1PA3Max	Str2Times	StrMA2Name	StrMA2PA1Min	StrMA2PA1Max	StrMA2PA2Min	StrMA2PA2Max	StrMA2PA3Min	StrMA2PA3Max
+1	白银护腕手镯		45000000	7																																																																
+2	黄金护腕手镯		140000000	15																																																																
+3	白银玉佩香囊		45000000	7																																																																
+4	黄金玉佩香囊		140000000	15																																																																
+5	白银鞋子		45000000	7																																																																
+6	黄金鞋子		140000000	15																																																																
+7	白银衣服		45000000	7	4	allskill_v	1	1			895	895	8	lifemax_p	12	12					10	lifemax_v	240	240					12	state_hurt_resisttime	240	240					14	state_hurt_resistrate	220	220					16	damage_physics_resist	225	225					15	damage_physics_resist	115	115												
+8	黄金衣服		140000000	15	4	allskill_v	2	2			895	895	8	lifemax_p	15	15					10	lifemax_v	275	275					12	state_hurt_resisttime	275	275					14	state_hurt_resistrate	250	250					16	damage_physics_resist	250	250					15	damage_physics_resist	125	125												
+9	白银护身符	价值量算法将装备基础价值乘了150%故而护身符作为最早出的装备价值会高出50%	67500000	7	4	active_all_ornament	0	0					8	adddefense_v	150	150					10	manamax_v	240	240					12	manareplenish_p	30	30					14	defencedeadlystrikedamagetrim	27	27					16	damage_all_resist	85	85					15	damage_all_resist	45	45												
+10	黄金护身符		135000000	15	4	active_all_ornament	0	0					8	adddefense_v	175	175					10	manamax_v	275	275					12	manareplenish_p	35	35					14	defencedeadlystrikedamagetrim	30	30					16	damage_all_resist	100	100					15	damage_all_resist	50	50												
+11	白银戒指		45000000	7	4	allskill_v	1	1	1	1			8	adddefense_v	150	150					10	manamax_v	240	240					12	lifereplenish_p	17	17					14	defencedeadlystrikedamagetrim	27	27					16	damage_all_resist	85	85					15	damage_all_resist	45	45												
+12	黄金戒指		140000000	15	4	allskill_v	1	1	1	1			8	adddefense_v	175	175					10	manamax_v	275	275					12	lifereplenish_p	20	20					14	defencedeadlystrikedamagetrim	30	30					16	damage_all_resist	100	100					15	damage_all_resist	50	50												
+13	白银帽子		45000000	7																																																																
+14	黄金帽子		140000000	15																																																																
+15	白银项链		45000000	7																																																																
+16	黄金项链		140000000	15																																																																
+17	白银腰带		45000000	7																																																																
+18	黄金腰带		140000000	15																																																																
+19	忠魂白银腰带		50000000	8																																																																
+20	忠魂黄金腰带		148000000	18				

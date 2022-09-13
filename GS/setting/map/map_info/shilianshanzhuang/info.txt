@@ -1,0 +1,15 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Biển báo	0	9736	8	0	1	1	20	20	20	20	20	1		51007	100608				
+Biển báo	0	9737	8	0	1	1	20	20	20	20	20	1		49152	99392				
+Biển báo	0	9738	8	0	1	1	20	20	20	20	20	1		49856	97920				
+Biển báo	0	9739	8	0	1	1	20	20	20	20	20	1		50464	98688				
+Biển báo	0	9740	8	0	1	1	20	20	20	20	20	1		52032	101600				
+Biển báo	0	9741	8	0	1	1	20	20	20	20	20	1		51296	101760				
+Biển báo	0	9742	8	0	1	1	20	20	20	20	20	1		50240	97600				
+Biển báo	0	9743	8	0	1	1	20	20	20	20	20	1		51776	98048				
+Biển báo	0	9744	8	0	1	1	20	20	20	20	20	1		52352	98368				
+Biển báo (Kim)	0	9745	8	0	1	1	20	20	20	20	20	1		51424	97760				
+Biển báo (Mộc)	0	9746	8	0	1	1	20	20	20	20	20	1		52128	97120				
+Biển báo (Thủy)	0	9747	8	0	1	1	20	20	20	20	20	1		53600	98688				
+Biển báo (Hỏa)	0	9748	8	0	1	1	20	20	20	20	20	1		53056	99424				
+Biển báo (Thổ)	0	9749	8	0	1	1	20	20	20	20	20	1		53184	97504				

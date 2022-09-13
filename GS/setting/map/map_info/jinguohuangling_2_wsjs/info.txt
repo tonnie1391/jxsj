@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngột Tát	0	238	3	5	60	1	20	20	20	20	20	1		51392	102656		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		51936	103168		1		
+wsjs2jinguohuangling	1															\setting\map\map_info\jinguohuangling_2_wsjs\trap\to_jinguohuangling.txt			

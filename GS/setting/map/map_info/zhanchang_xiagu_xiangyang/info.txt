@@ -1,0 +1,23 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+houying1_daying1	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\houying1_daying1.txt			
+houying1_qianying1	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\houying1_qianying1.txt			
+daying1_houying1	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\daying1_houying1.txt			
+qianying1_houying1	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\qianying1_houying1.txt			
+daying1_yewai	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\daying1_yewai.txt			
+qianying1_yewai	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\qianying1_yewai.txt			
+houying3_daying3	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\houying3_daying3.txt			
+houying3_qianying3	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\houying3_qianying3.txt			
+daying3_houying3	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\daying3_houying3.txt			
+qianying3_houying3	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\qianying3_houying3.txt			
+daying3_yewai	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\daying3_yewai.txt			
+qianying3_yewai	1															\setting\map\map_info\zhanchang_xiagu_xiangyang\trap\qianying3_yewai.txt			
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		77024	108864				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		58560	129888				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		72224	106816				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		76416	110176				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		59232	128416				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		62592	132608				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		77312	107104				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		58944	131776				
+Chiến thương của lão binh	0	1623	3	5	1	1	20	20	20	20	20	1		66368	119520		1		
+Người Liên Lạc Thương Hội	0	2962	3	5	1	1	20	20	20	20	20	1		69568	121152		1		

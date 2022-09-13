@@ -1,0 +1,89 @@
+TaskId	TaskName	TaskType	Value1	Value2	Series	Num	ItemName	Suffix	Level1	Level2	Level3	Level4	Level5	Level6	Level7	Level8	Level9	Level10	Level11
+Số nhiệm vụ	Tên nhiệm vụ	Loại nhiệm vụ	Giá trị 1	Giá trị 2	Ngũ hành	Số lượng	Tên vật phẩm	Tên hậu tố	Cấp 1	Cấp 2	Cấp 3	Cấp 4	Cấp 5	Cấp 6	Cấp 7	Cấp 8	Cấp 9	Cấp 10	Cấp 11
+30001	Thu thập 1 Khinh Giáp - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Khinh Giáp	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30002	Thu thập 1 Đồng Nữ Giáp - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Đồng Nữ Giáp	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30003	Thu thập 1 Khinh Bì Trang - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Khinh Bì Trang	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30004	Thu thập 1 Khinh Bì Giáp Y - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Khinh Bì Giáp Y	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30005	Thu thập 1 Thô Bố Trường Bào - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Thô Bố Trường Bào	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30006	Thu thập 1 Cẩm Sam - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Cẩm Sam	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30007	Thu thập 1 Tỏa Tử Giáp - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Tỏa Tử Giáp	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30008	Thu thập 1 Bạch Nhung Giáp - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Bạch Nhung Giáp	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30009	Thu thập 1 Thích Khách Trang - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Thích Khách Trang	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30010	Thu thập 1 Linh Vận Trang - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Linh Vận Trang	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30011	Thu thập 1 Dật Hiệp Bào - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Dật Hiệp Bào	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30012	Thu thập 1 Khởi Lệ Sam - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Khởi Lệ Sam	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30013	Thu thập 1 Lưỡng Đang Khải - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Lưỡng Đang Khải	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30014	Thu thập 1 Võ Luyện Giáp - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Võ Luyện Giáp	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30015	Thu thập 1 Ngư Nhẫn Trang - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Ngư Nhẫn Trang	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30016	Thu thập 1 Tử Kình Trang - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Tử Kình Trang	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30017	Thu thập 1 Thanh Sương Bào - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Thanh Sương Bào	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30018	Thu thập 1 Tâm Ấn Sam - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Tâm Ấn Sam	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30019	Thu thập 1 Thanh Đồng Thúc Phát - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Thanh Đồng Thúc Phát	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30020	Thu thập 1 Khinh Sa Ngọc Đái - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Khinh Sa Ngọc Đái	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30021	Thu thập 1 Nhược Thủy Lạp - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Nhược Thủy Lạp	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30022	Thu thập 1 Hoàng Bố Phát Đái - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Hoàng Bố Phát Đái	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30023	Thu thập 1 Nho Cân - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Nho Cân	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30024	Thu thập 1 Phát Thoa - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Phát Thoa	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30025	Thu thập 1 Tinh Thiết Thúc Phát - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Tinh Thiết Thúc Phát	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30026	Thu thập 1 Lục Điệp Ngọc Đái - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Lục Điệp Ngọc Đái	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30027	Thu thập 1 Mãn Nguyệt Lạp - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Mãn Nguyệt Lạp	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30028	Thu thập 1 Lục Ngọc Phát Đái - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Lục Ngọc Phát Đái	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30029	Thu thập 1 Tiêu Dao Cân - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Tiêu Dao Cân	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30030	Thu thập 1 Ngân Linh Thoa - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Ngân Linh Thoa	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30031	Thu thập 1 Song Diện Khôi - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Song Diện Khôi	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30032	Thu thập 1 Phỉ Thúy Trâm - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Phỉ Thúy Trâm	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30033	Thu thập 1 Huyền Sa Cân - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Huyền Sa Cân	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30034	Thu thập 1 Bích Thủy Phát Đái - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Bích Thủy Phát Đái	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30035	Thu thập 1 Kim Phong Quan - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Kim Phong Quán	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30036	Thu thập 1 Thú Cốt Thoa - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Thú Cốt Thoa	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30037	Thu thập 1 Thô Ma Yêu Đái - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Thô Ma Yêu Đái	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30038	Thu thập 1 Thanh Bố Yêu Đái - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Thanh Bố Yêu Đái	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30039	Thu thập 1 Xuyết Giáp Yêu Đái - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Xuyết Giáp Yêu Đái	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30040	Thu thập 1 Sĩ Nữ Yêu Đái - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Sĩ Nữ Yêu Đái	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30041	Thu thập 1 Thanh Thú Yêu Đái - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Thanh Thú Yêu Đái	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30042	Thu thập 1 Bàn Hoa Yêu Đái - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Bàn Hoa Yêu Đái	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30043	Thu thập 1 Đồng Hộ Uyển - Hoàng Quang	SearchItemBySuffix	70	750	0	1	Đồng Hộ Uyển	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30044	Thu thập 1 Thủ Trạc - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Thủ Trạc	Hoàng Quang	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30045	Thu thập 1 Bắc Sơn Hộ Uyển- Hoàng Quang	SearchItemBySuffix	540	750	0	1	Bắc Sơn Hộ Uyển	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30046	Thu thập 1 Ngọc Diệp Hộ Uyển- Hoàng Quang	SearchItemBySuffix	70	750	0	1	Ngọc Diệp Thủ Trạc	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30047	Thu thập 1 Thích Tường Hộ Uyển - Hoàng Quang	SearchItemBySuffix	240	750	0	1	Thích Tường Hộ Uyển	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30048	Thu thập 1 Linh Lung Thủ Trạc - Hoàng Quang	SearchItemBySuffix	540	750	0	1	Linh Lung Thủ Trạc	Hoàng Quang	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30049	Thu thập 1 Trường Ngoa - Diên Dương	SearchItemBySuffix	70	750	0	1	Trường Ngoa	Diên Dương	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30050	Thu thập 1 Đoản Ngoa - Diên Dương	SearchItemBySuffix	70	750	0	1	Đoản Ngoa	Diên Dương	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000	5000
+30051	Thu thập 1 Ô Cách Ngoa - Diên Dương	SearchItemBySuffix	200	750	0	1	Ô Cách Ngoa	Diên Dương	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30052	Thu thập 1 Kim Xỉ Ngoa - Diên Dương	SearchItemBySuffix	200	750	0	1	Kim Xỉ Ngoa	Diên Dương	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30053	Thu thập 1 Thị Vệ Ngoa - Diên Dương	SearchItemBySuffix	320	750	0	1	Thị Vệ Ngoa	Diên Dương	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30054	Thu thập 1 Bách Hoa Ngoa - Diên Dương	SearchItemBySuffix	320	750	0	1	Bách Hoa Ngoa	Diên Dương	0	0	500	1000	1500	1500	1500	1500	1500	1500	1500
+30055	Thu thập 1 Đồng Chỉ Hoàn - Hoàng Quang	SearchItemBySuffix	105	750	0	1	Đồng Chỉ Hoàn	Hoàng Quang	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000
+30056	Thu thập 1 Hiệp Thiếu Giới - Hoàng Quang	SearchItemBySuffix	405	750	0	1	Hiệp Thiếu Giới	Hoàng Quang	0	1500	2000	2000	2000	2000	2000	2000	2000	2000	2000
+30057	Thu thập 1 Phân Thủy Giới - Hoàng Quang	SearchItemBySuffix	975	750	0	1	Phân Thủy Giới	Hoàng Quang	0	0	400	800	1200	1200	1200	1200	1200	1200	1200
+30058	Thu thập 1 Lan Hoa Bội - Hoàng Quang	SearchItemBySuffix	105	750	0	1	Lan Hoa Bội	Hoàng Quang	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000
+30059	Thu thập 1 Huân Y Hương Nang - Hoàng Quang	SearchItemBySuffix	105	750	0	1	Huân Y Hương Nang	Hoàng Quang	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000
+30060	Thu thập 1 Hà Diệp Bội - Hoàng Quang	SearchItemBySuffix	405	750	0	1	Hà Diệp Bội	Hoàng Quang	0	1500	2000	2000	2000	2000	2000	2000	2000	2000	2000
+30061	Thu thập 1 Mạt Lợi Hương Nang - Hoàng Quang	SearchItemBySuffix	405	750	0	1	Mạt Lợi Hương Nang	Hoàng Quang	0	1500	2000	2000	2000	2000	2000	2000	2000	2000	2000
+30062	Thu thập 1 Lộc Văn Bội - Hoàng Quang	SearchItemBySuffix	975	750	0	1	Lộc Văn Bội	Hoàng Quang	0	0	400	800	1200	1200	1200	1200	1200	1200	1200
+30063	Thu thập 1 Nhũ Hương Hương Nang - Hoàng Quang	SearchItemBySuffix	975	750	0	1	Nhũ Hương Hương Nang	Hoàng Quang	0	0	400	800	1200	1200	1200	1200	1200	1200	1200
+30064	Thu thập 1 Thủy Trích Hạng Liên - Hoàng Quang	SearchItemBySuffix	105	750	0	1	Thủy Trích Hạng Liên	Hoàng Quang	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000
+30065	Thu thập 1 Hổ Tinh Hạng Liên - Hoàng Quang	SearchItemBySuffix	405	750	0	1	Hổ Tinh Hạng Liên	Hoàng Quang	0	1500	2000	2000	2000	2000	2000	2000	2000	2000	2000
+30066	Thu thập 1 Băng Tinh Hạng Liên - Hoàng Quang	SearchItemBySuffix	975	750	0	1	Băng Tinh Hạng Liên	Hoàng Quang	0	0	400	800	1200	1200	1200	1200	1200	1200	1200
+30067	Thu thập 1 Hộ Thân Phù - Hoàng Quang	SearchItemBySuffix	105	750	0	1	Hộ Thân Phù	Hoàng Quang	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000	4000
+30068	Thu thập 1 Linh Lung Phù - Hoàng Quang	SearchItemBySuffix	405	750	0	1	Linh Lung Phù	Hoàng Quang	0	1500	2000	2000	2000	2000	2000	2000	2000	2000	2000
+30069	Thu thập 1 Bách Cẩm Phù - Hoàng Quang	SearchItemBySuffix	975	750	0	1	Bách Cẩm Phù	Hoàng Quang	0	0	400	800	1200	1200	1200	1200	1200	1200	1200
+30070	Thu thập 1 Đơn Đao - Phi Yến	SearchItemBySuffix	450	750	0	1	Đơn đao	Phi Yến	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30071	Thu thập 1 Trọng Mộc Côn - Phi Yến	SearchItemBySuffix	450	750	0	1	Trọng Mộc Côn	Phi Yến	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30072	Thu thập 1 Trường Thương - Hoàng Quang	SearchItemBySuffix	450	750	0	1	Trường Thương 	Hoàng Quang	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30073	Thu thập 1 Chiến Chùy - Hoàng Quang	SearchItemBySuffix	450	750	0	1	Chiến Chùy	Hoàng Quang	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30074	Thu thập 1 Thô Bố Triền Thủ - Linh Vũ	SearchItemBySuffix	450	750	0	1	Thô Bố Triền Thủ	Linh Vũ	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30075	Thu thập 1 Đồng Kiếm - Phi Yến	SearchItemBySuffix	450	750	0	1	Đồng Kiếm	Phi Yến	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000	6000
+30076	Thu thập 1 Quỷ Đầu Đao - Phi Yến	SearchItemBySuffix	1500	750	0	1	Quỷ Đầu Đao	Phi Yến	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30077	Thu thập 1 Tề Mi Côn - Phi Yến	SearchItemBySuffix	1500	750	0	1	Tề Mi Côn	Phi Yến	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30078	Thu thập 1 Hồng Anh Thương - Hoàng Quang	SearchItemBySuffix	1500	750	0	1	Hồng Anh Thương	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30079	Thu thập 1 Bát Lăng Chùy - Hoàng Quang	SearchItemBySuffix	1500	750	0	1	Bát Lăng Chùy	Hoàng Quang	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30080	Thu thập 1 La Hán Triền Thủ - Linh Vũ	SearchItemBySuffix	1500	750	0	1	La Hán Triền Thủ	Linh Vũ	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30081	Thu thập 1 Tùng Văn Kiếm - Phi Yến	SearchItemBySuffix	1500	750	0	1	Tùng Văn Kiếm	Phi Yến	0	2000	3000	3000	3000	3000	3000	3000	3000	3000	3000
+30082	Thu thập 1 Trảm Mã Đao - Phi Yến	SearchItemBySuffix	3600	750	0	1	Trảm Mã Đao	Phi Yến	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800
+30083	Thu thập 1 Tứ Bình Côn - Phi Yến	SearchItemBySuffix	3600	750	0	1	Tứ Bình Côn	Phi Yến	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800
+30084	Thu thập 1 Điểm Cang Thương - Hoàng Quang	SearchItemBySuffix	3600	750	0	1	Điểm Cang Thương	Hoàng Quang	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800
+30085	Thu thập 1 Ngũ Tinh Chùy - Hoàng Quang	SearchItemBySuffix	3600	750	0	1	Ngũ Tinh Chùy	Hoàng Quang	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800
+30086	Thu thập 1 Quyền Tông Triền Thủ - Linh Vũ	SearchItemBySuffix	3600	750	0	1	Quyền Tông Triền Thủ	Linh Vũ	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800
+30087	Thu thập 1 Thất Xích Kiếm - Phi Yến	SearchItemBySuffix	3600	750	0	1	Thất Xích Kiếm	Phi Yến	0	0	600	1200	1800	1800	1800	1800	1800	1800	1800

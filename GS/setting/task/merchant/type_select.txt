@@ -1,0 +1,10 @@
+TypeId	TypeName	FileName	Step01	Step02	Step03
+任务类型Id	任务类型名称	任务内容文件	步骤1-9	步骤10	步骤100
+1	送信	type_deliveritem.txt	0	0	0
+2	购物	type_buyitem.txt	0	0	0
+3	寻物	type_finditem.txt	0	0	0
+4	采集	type_collectitem.txt	0	0	0
+5	送信	newtype_deliveritem.txt	0	1500	0
+6	购物	newtype_buyitem.txt	0	0	0
+7	寻物	newtype_finditem.txt	6000	9000	0
+8	采集	newtype_collectitem.txt	3000	4500	0

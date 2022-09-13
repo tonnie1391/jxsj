@@ -1,0 +1,6 @@
+Session	EventType	AwardFile	Desc	
+活动届数	活动类型	奖励表	描述	
+1	1	award_session_1.txt	Ném Tuyết	
+2	2	award_session_2.txt	Dạ Lam Quan	
+3	3	award_session_3.txt	Bảo vệ Hồn Tổ Tiên
+4	4	award_session_4.txt	Đua Thuyền Rồng	

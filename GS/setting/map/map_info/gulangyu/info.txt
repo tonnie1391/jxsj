@@ -1,0 +1,29 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Điệp Ảnh Côn	0	2342	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\gulangyu\npc\area1.txt	1		1
+Lãng Kiếm Khách	0	2343	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\gulangyu\npc\area2.txt	1		0
+Cổ Lãng Tu Sĩ	0	2344	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\gulangyu\npc\area3.txt	1		4
+Lãng Đao Khách	0	2345	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\gulangyu\npc\area4.txt	1		0
+to_suoyunyuan	1															\setting\map\map_info\gulangyu\trap\to_suoyunyuan.txt			
+to_wuyishan	1															\setting\map\map_info\gulangyu\trap\to_wuyishan.txt			
+to_changgemen	1															\setting\map\map_info\gulangyu\trap\to_changgemen.txt			
+Tỏa Vân Uyên	0	2525	4	5	1	1	20	20	20	20	20	1		49120	112256		1		
+Trường Ca Môn	0	2525	4	5	1	1	20	20	20	20	20	1		50368	100864		1		
+Vũ Di Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		48576	107168		1		
+Lâm Lôi	0	4576	0	5	130	1	20	20	20	20	20	1		58912	111936		1		
+Ninh Chí Phiêu	0	4618	3	5	130	1	20	20	20	20	20	1		61792	103520				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		55136	104960				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		54944	105344				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		55072	106176				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		55520	104832				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		55328	106784				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		55840	104864				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		56320	105568				
+Lục Lâm Hỗn Hỗn	0	4619	0	5	130	1	20	20	20	20	20	1		56544	106048				
+to_shihunwuling1	1															\setting\map\map_info\gulangyu\trap\to_shihunwuling1.txt			
+Thị Hồn Ốc-Linh	0	2525	4	5	1	1	20	20	20	20	20	1		62336	99808		1		
+to_shihunwuling2	1															\setting\map\map_info\gulangyu\trap\to_shihunwuling2.txt			
+Thị Hồn Ốc-Linh	0	2525	4	5	1	1	20	20	20	20	20	1		61536	104288		1		
+to_shihunwupo1	1															\setting\map\map_info\gulangyu\trap\to_shihunwupo1.txt			
+Thị Hồn Ốc-Phách	0	2525	4	5	1	1	20	20	20	20	20	1		61568	110240		1		
+to_shihunwupo2	1															\setting\map\map_info\gulangyu\trap\to_shihunwupo2.txt			
+Thị Hồn Ốc-Phách	0	2525	4	5	1	1	20	20	20	20	20	1		60672	112832		1		

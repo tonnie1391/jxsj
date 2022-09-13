@@ -1,0 +1,6 @@
+TrapName	TrapPosFile
+trap_1	\setting\task\treasuremap2\qianqionggongfuben\trap\trap_1.txt
+trap_2	\setting\task\treasuremap2\qianqionggongfuben\trap\trap_2.txt
+trap_3	\setting\task\treasuremap2\qianqionggongfuben\trap\trap_3.txt
+trap_4	\setting\task\treasuremap2\qianqionggongfuben\trap\trap_4.txt
+trap_start	\setting\task\treasuremap2\qianqionggongfuben\trap\trap_start.txt

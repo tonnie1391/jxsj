@@ -1,0 +1,2 @@
+ID	IMAGE	SHOWCHAT	PICID
+1	\image\effect\other\girllogo.spr	1	188

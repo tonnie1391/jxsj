@@ -1,0 +1,15 @@
+meleeweapon	400
+rangeweapon	400
+armor	100
+ring	150
+necklace	150
+amulet	150
+boots	100
+belt	100
+helm	100
+cuff	100
+pendant	150
+horse	100
+mask	100
+book	100
+zhen	100

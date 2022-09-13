@@ -1,0 +1,11 @@
+[xuanjingtimeout]
+CheckLeve=6
+Count=2
+genre1=18
+detailtype1=1
+particular1=1
+genre2=18
+detailtype2=1
+particular2=114
+
+

@@ -1,0 +1,40 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trương Trảm Kinh	0	3564	3	6	150	1	20	20	20	20	20	1		55136	100032		1		0
+Trâu Đức Khoái	0	2599	3	6	150	1	20	20	20	20	20	1		54592	100192		1		
+Lão Thuyền Phu	0	4120	3	6	150	1	20	20	20	20	20	1		55296	100160		1		0
+Bảo Quả Tử	0	4133	3	6	150	1	20	20	20	20	20	1		59776	90752		1		0
+Lộ Lộ Thông	0	4121	3	6	150	1	20	20	20	20	20	1		55200	100096		1		
+Bích Lân Xà	0	4122	0	5	110	1	20	20	20	20	20	1	\setting\npc\droprate\renwudiaoluo\bilinshe.txt			\setting\map\map_info\baimanshan\npc\bilinshe.txt	1		0
+Cửu Ngưng Đỉnh	0	4123	3	6	150	1	20	20	20	20	20	1		54848	99328		1		
+Độc Vĩ Hạt	0	4128	0	5	100	1	20	20	20	20	20	1	\setting\npc\droprate\renwudiaoluo\duweixie.txt			\setting\map\map_info\baimanshan\npc\duweixie.txt	1		
+Chiêng	0	4129	3	6	150	1	20	20	20	20	20	1		62240	92128		1		0
+Trống	0	4130	3	6	150	1	20	20	20	20	20	1		63008	91072		1		
+Đào Ngô	0	4133	0	5	100	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\taowu.txt	1		0
+Thiết Môn	0	4169	3	6	1	1	20	20	20	20	20	1		59904	86208		1		0
+Tuyết Vũ Hồng Phi	0	4143	3	6	1	1	20	20	20	20	20	1		60064	90240		1		0
+ 	0	4149	4	6	1	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\yuanyang.txt	1		
+ 	0	4168	4	6	1	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\xuetu.txt	1		0
+Đào Hoa Chướng	0	4140	4	6	1	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\zhangqi1.txt	1		
+ 	0	4151	4	6	1	1	20	20	20	20	20	1		53408	93184		1		
+ 	0	4151	4	6	1	1	20	20	20	20	20	1		57600	97152		1		
+ 	0	4151	4	6	1	1	20	20	20	20	20	1		58240	91072		1		
+ 	0	4151	4	6	1	1	20	20	20	20	20	1		60256	83360		1		
+ 	0	4151	4	6	1	1	20	20	20	20	20	1		63232	91232		1		
+Nhị A	0	4177	3	6	1	1	20	20	20	20	20	1		58816	90752		1		0
+Đấu Cổ	0	4180	0	3	55	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\zhizhu1.txt	1		
+Đấu Cổ	0	4179	0	2	55	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\xiezi1.txt	1		
+Đấu Cổ	0	4178	0	1	55	1	20	20	20	20	20	1				\setting\map\map_info\baimanshan\npc\wugong1.txt	1		
+to_zhandou	1															\setting\map\map_info\baimanshan\trap\to_zhandou.txt			
+to_feizhandou	1															\setting\map\map_info\baimanshan\trap\to_feizhandou.txt			
+to_zhongdu	1															\setting\map\map_info\baimanshan\trap\to_zhongdu.txt			
+to_jisi	1															\setting\map\map_info\baimanshan\trap\to_jisi.txt			
+to_lingxiefeng	1															\setting\map\map_info\baimanshan\trap\to_lingxiefeng.txt			
+to_shenzhufeng	1															\setting\map\map_info\baimanshan\trap\to_shenzhufeng.txt			
+to_biwufeng	1															\setting\map\map_info\baimanshan\trap\to_biwufeng.txt			
+to_tianjuegong	1															\setting\map\map_info\baimanshan\trap\to_tianjuegong.txt			
+to_gongji	1															\setting\map\map_info\baimanshan\trap\to_gongji.txt			
+to_jitan1	1															\setting\map\map_info\baimanshan\trap\to_jitan1.txt			
+to_jitan2	1															\setting\map\map_info\baimanshan\trap\to_jitan2.txt			
+to_jitan3	1															\setting\map\map_info\baimanshan\trap\to_jitan3.txt			
+to_jitan4	1															\setting\map\map_info\baimanshan\trap\to_jitan4.txt			
+to_jitan5	1															\setting\map\map_info\baimanshan\trap\to_jitan5.txt			

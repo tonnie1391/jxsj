@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cổ Trùng	0	4434	0	5	115	1	20	20	20	20	20	16				\setting\map\map_info\baiguzhen_2\npc\guchong.txt			1
+Bảo rương Bách Tiên Trận	0	1679	3	5	115	1	20	20	20	20	20	1		50304	100288				
+Bảo rương Bách Trùng Trận	0	1680	3	5	115	1	20	20	20	20	20	1		53856	100448				
+Bảo rương Bách Tước Trận	0	1681	3	5	115	1	20	20	20	20	20	1		52288	98592				
+to_1ceng	1															\setting\map\map_info\baiguzhen_2\trap\to_1ceng.txt			
+Bách Cổ Trận 1	0	2525	4	5	1	1	20	20	20	20	20	1		51200	103424		1		

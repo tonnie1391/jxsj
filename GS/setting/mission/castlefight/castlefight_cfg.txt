@@ -1,0 +1,5 @@
+Id	Name	SignNpcName	EventStartTime	EventEndTime	EventAwardTime	JoinItem	ItemEffect	EnterItemMaxCount	BagNeedFree	MaxDyMapNum	MaxReadyPlayer	MinTeamMember	MaxTeamMember	MinCount	MaxCount	MinLevel	PlayCount_Player	Time_Start	Time_End	Time_Long	ReadyTime	PKTime	ReadyMap	ReadyMapX	ReadyMapY	MatchMap	MatchMapX	MatchMapY	Mission	OpenWords	WaitWords	Desc
+1	类型名	报名官	活动开始时间	活动结束时间	活动领奖时间	参加活动需要的道具	道具特殊效果	道具的使用次数	需要空闲格子数	最大比赛场数	混战准备场最大玩家数	比赛队伍最少人数	比赛队伍最多人数	混战最少开启人数	混战最大人数	活动最低等级限制	每天累计的混战次数	第一阶段比赛日程开始时间	第一阶段比赛日程结束时间	比赛时长比赛日程结束时间（分钟）	准备时间（秒）	比赛时间（秒）	准备场地图	准备场X	准备场Y	活动比赛场地图模板	比赛场X	比赛场Y	活动Mission	开始活动消息	进入准备场消息	描述
+2	决战夜岚关	新手村秦洼	20110118	20110217	20110224				8	10	80	3	4	6	8	60	1	1000	2400	30	300	900	1860	1619	3224	1863	1360	3439	CastleFight.Mission	“决战夜岚关”已经火热开启，诸位侠士可前往新手村秦洼处报名参与。（报名时间5分钟）	请在此稍候，活动即将开启。	决战夜岚关欢迎你
+3																							1861	1619	3224							
+4																							1862	1619	3224							

@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đa Ma	0	896	3	5	75	1	20	20	20	20	20	1		52448	101376		1		1
+Thanh Thập Lục	0	900	0	5	75	1	20	20	20	20	20	1		50112	100992		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		50560	101280		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		50592	101952		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		50176	101440		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		50848	102272		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		50880	101728		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		51424	101216		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		51680	100864		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		51232	101504		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		51936	100672		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1		51744	101440		1		1
+to_exit543	1															\setting\map\map_info\shamomigonglvdian\trap\to_exit543.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51424	102144		1		
+Thi Thể	0	893	3	5	75	1	20	20	20	20	20	1		51520	101696		1		1

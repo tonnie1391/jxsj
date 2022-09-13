@@ -1,0 +1,52 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Phó Kỳ Chủ	0	991	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\fuqizhu.txt	1		
+Đệ Tử Ngũ Độc Giáo	0	875	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\wudujiaodizi.txt	1		
+Đệ Tử Cái Bang	0	878	0	0	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\tianwangbangdizi.txt	1		
+to_hanzhongqiushi	1															\setting\map\map_info\jiuyixi\trap\to_hanzhongqiushi.txt			
+to_qianbingchengfang	1															\setting\map\map_info\jiuyixi\trap\to_qianbingchengfang.txt			
+to_zhuguanfang	1															\setting\map\map_info\jiuyixi\trap\to_zhuguanfang.txt			
+Kiếm Khách Giang Hồ	0	2171	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\area1.txt	1		
+Đao Khách Giang Hồ	0	2172	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\area2.txt	1		
+Đại Nội Mật Thám	0	2173	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\area3.txt	1		
+Đao Khách Giang Hồ	0	2172	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\area4.txt	1		
+to_pengliguze	1															\setting\map\map_info\jiuyixi\trap\to_pengliguze.txt			
+to_caishiji	1															\setting\map\map_info\jiuyixi\trap\to_caishiji.txt			
+to_linanfu	1															\setting\map\map_info\jiuyixi\trap\to_linanfu.txt			
+to_bangyuanmidong	1															\setting\map\map_info\jiuyixi\trap\to_bangyuanmidong.txt			
+to_wuyishan	1															\setting\map\map_info\jiuyixi\trap\to_wuyishan.txt			
+Bia đá	0	618	3	5	75	1	20	20	20	20	20	1		60992	116704		1		
+Mạc Kỳ	0	640	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	59488	107968		1		
+Tiêu Thanh Phương	0	641	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	59584	108064		1		
+Phòng giam	0	2525	4	5	75	1	20	20	20	20	20	1		51456	114111		1		
+Nhà nhỏ	0	2525	4	5	75	1	20	20	20	20	20	1		51520	115136		1		
+Nhà lớn	0	2525	4	5	75	1	20	20	20	20	20	1		51936	115296		1		
+Bành Lãi Cổ Trạch	0	2525	4	5	75	1	20	20	20	20	20	1		51904	102880				
+Thái Thạch Cơ	0	2525	4	5	75	1	20	20	20	20	20	1		57760	103104				
+Lâm An Phủ	0	2525	4	5	75	1	20	20	20	20	20	1		62048	105952				
+Bang Nguyên Bí Động	0	2525	4	5	75	1	20	20	20	20	20	1		51648	118816				
+Vũ Di Sơn	0	2525	4	5	75	1	20	20	20	20	20	1		56864	122624				
+Đệ Tử Ngũ Độc Giáo	0	997	0	0	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\wudujiaodizi2.txt	1		
+Người Kim	0	983	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiuyixi\npc\jinguoren.txt	1		
+Tiêu Vạn Thiên	0	895	3	5	75	1	20	20	20	20	20	1		53696	117536		1		
+Hứa Quán Nhiên	0	879	3	5	75	1	20	20	20	20	20	1		57024	109376		1		
+Khổng Khánh Hạ	0	999	3	5	75	1	20	20	20	20	20	1		60416	117792		1		
+Chung Tường	0	1023	3	5	75	1	20	20	20	20	20	1		60320	117920		1		
+Bất diệt hỏa	0	1563	3	5	75	1	20	20	20	20	20	1		60480	118464		1		
+Mộc La Sam	0	1049	3	5	75	1	20	20	20	20	20	1		52928	109472		1		
+Yến Lưu Sênh	0	3075	0	5	75	1	20	20	20	20	20	16		55008	122304				0
+Dương Phong Dật	0	3076	0	5	75	1	20	20	20	20	20	16		61440	119680				1
+Tạ Trọng Hầu	0	3077	0	5	75	1	20	20	20	20	20	16		59104	105120				2
+Diệp Hạo Long	0	3078	0	5	75	1	20	20	20	20	20	16		55392	111648				3
+Triệu Phú Quý	0	4382	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	60512	109888		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53120	108928		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53472	108896		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53312	109152		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53920	107712		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		54016	108608		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		54080	108992		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53856	108864		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		53984	109280		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		54208	109408		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		54688	108480		1		
+Nho Sinh Gây Sự	0	4588	0	5	130	1	20	20	20	20	20	1		54368	107872		1		
+Hoài An	0	4563	0	5	130	1	20	20	20	20	20	1		54400	110112		1		

@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_linanfu	1															\setting\map\map_info\linanfu_mishi\trap\to_jingshe.txt			
+Đến Lâm An Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		52160	103136				
+Chu Hy	0	4314	3	5	105	1	20	20	20	20	20	1		51712	102528		1		

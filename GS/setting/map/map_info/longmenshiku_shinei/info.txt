@@ -1,0 +1,17 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đệ Nhất Mỹ	0	1065	0	5	85	1	20	20	20	20	20	1		56032	104864		1		2
+Quái Lão Đầu	0	1063	0	5	85	1	20	20	20	20	20	1		53248	114976		1		1
+Diệu Pháp Chân Nhân	0	1058	3	5	60	1	20	20	20	20	20	1		50656	125888		1		1
+Thi Nhân	0	1064	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\longmenshiku_shinei\npc\shiren.txt	1		2
+Tùy Tùng	0	1066	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\longmenshiku_shinei\npc\zhuisuizhe.txt	1		
+to_guailaotou	1															\setting\map\map_info\longmenshiku_shinei\trap\to_guailaotou.txt			
+to_exit6	1															\setting\map\map_info\longmenshiku_shinei\trap\to_exit6.txt			
+to_exit13	1															\setting\map\map_info\longmenshiku_shinei\trap\to_exit13.txt			
+to_exit17	1															\setting\map\map_info\longmenshiku_shinei\trap\to_exit17.txt			
+to_exit26	1															\setting\map\map_info\longmenshiku_shinei\trap\to_exit26.txt			
+to_exit27	1															\setting\map\map_info\longmenshiku_shinei\trap\to_exit27.txt			
+Rời đại điện	0	2525	4	5	1	1	20	20	20	20	20	1		50368	126272		1		
+Rời phòng bên	0	2525	4	5	1	1	20	20	20	20	20	1		50272	119360		1		
+Rời phòng Đệ Nhất Mỹ	0	2525	4	5	1	1	20	20	20	20	20	1		54944	105984		1		
+Rời Mật thất Quái Lão Đầu	0	2525	4	5	1	1	20	20	20	20	20	1		53248	115904		1		
+Mật thất Quái Lão Đầu	0	2525	4	5	1	1	20	20	20	20	20	1		51168	118432		1		

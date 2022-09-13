@@ -1,0 +1,121 @@
+Index	bStartSys	bCycle	CycleStartNum	StartAction	Action1	Action2	Action3	Action4	Action5	Action6	Action7	Action8	Action9	Action10	Action11	Action12	Action13	Action14	Action15
+编号	是否系统启动自己加载	是否循环	循环从第几步开始	开始动作：需要确认动作对象，否则无效	动作集1	动作集2	动作集3	动作集4	动作集5	动作集6	动作集7	动作集8	动作集9	动作集10	动作集11	动作集12	动作集13	动作集14	动作集15
+1	1	1	1	AddNpc:10264,taoxizhen,1696,3212,1	SetArrivePos:1700,3218	SetArrivePos:1704,3210	SetArrivePos:1696,3212												
+2	1	1	1	AddNpc:10264,taoxizhen,1700,3272,1	SetArrivePos:1707,3275	SetArrivePos:1697,3267	SetArrivePos:1702,3262	SetArrivePos:1700,3272											
+3	1	1	1	AddNpc:10264,taoxizhen,1652,3307,1	SetArrivePos:1659,3303	SetArrivePos:1653,3298	SetArrivePos:1696,3212	SetArrivePos:1656,3303	SetArrivePos:1652,3307										
+4	1	1	1	AddNpc:10264,taoxizhen,1783,3384,1	SetArrivePos:1742,3393	SetArrivePos:1741,3402	SetArrivePos:1736,3427	SetArrivePos:1783,3384											
+5	1	1	2	AddNpc:10265,taoxizhen,1973,3491,1	WaitTime:10|SpeakRandom:来看一看咯！上好的布料！临安最新花样！+买回去哄老婆孩子心上人咯，这可是今春最后一批了！,0,10,1	SetArrivePos:1944,3511	WaitTime:10	SetArrivePos:1928,3537	WaitTime:10	SetArrivePos:1944,3511	WaitTime:10	SetArrivePos:1973,3491	WaitTime:10						
+6	1	0	0	AddNpc:11072,taoxizhen,1915,3532,1	SpeakRandom:这位大爷，来看看奴家的首饰，保准您满意！+哟，这些可都是宫里娘娘们时兴的款式，不要错过！+嘻嘻，奴家的小铺可不喜讨价还价。,0,10,1														
+7	1	0	0	AddNpc:11064,taoxizhen,1896,3558,1	SpeakRandom:走过路过不要错过，上好瓷器，实用陶罐！+家居旅途行走江湖，必备良品！,0,10,1														
+8	0	0	0	AddSelfPlayer:0	SetArrivePos:2027,3424|WaitTime:2|Speak:书青，看这个罐子好看不...,0	WaitTime:2|Speak:我给你买一个要不要...,0	WaitTime:2|Speak:那边是吕老爷家请来的杂耍班子，过去看看,0	SetArrivePos:2030,3436|WaitTime:4|Speak:书青快看好多灯笼，好多烟花，真漂亮...,0	SetArrivePos:2022,3442|WaitTime:4|Speak:书青这边还有，快看呀...,0	SetArrivePos:2014,3433|WaitTime:4|Speak:书青这边，好热闹啊...,0	SetArrivePos:2020,3431|WaitTime:2	WaitTime:2|Speak:那边的大叔好功夫，真厉害...,0							
+9	0	0	0	AddNpc2:10277,2253,1876,3524,1,0,8	WaitTime:3	Speak:我敬你吕家刚烈，只要说出游龙珏的下落，保你全家平安。,0,1|WaitTime:12	Speak:你、你你……你们！给我杀了一个！看他们还嘴硬！,0,1|CastSkill:1478,1|WaitTime:10	WaitTime:5	Speak:好、好个吕匹夫！你以为你自尽我们就会作罢？！就让你吕家一家给你陪葬！！,0,1|CastSkill:1478,1|WaitTime:6	Speak:是谁在那！,0,1|WaitTime:1	ClearNpc:0								
+10	0	0	0	AddNpc2:10178,2253,1869,3527,1,0,48	WaitTime:6	Speak:呜呜呜呜……爷爷……,0,1|WaitTime:12	Speak:呜呜呜呜……爷爷……,0,1|WaitTime:1	WaitTime:13	Speak:爷爷……爷爷！,0,1|CastSkill:1478,1|WaitTime:1	ClearNpc:0									
+11	0	0	0	AddNpc2:10179,2253,1870,3532,1,0,40	WaitTime:9	Speak:吕勤，不许哭。我吕家男儿，金狗面前怎可落泪。,0,1	WaitTime:21	CastSkill:1478,1|WaitTime:1	ClearNpc:0										
+12	0	0	0	AddNpc2:10177,2253,1875,3529,1,0,32	WaitTime:12	Speak:哈哈！夫人说得好！我吕家一门忠烈，何时会受你这走狗桎梏！,0,1|WaitTime:7	Speak:你们查了这么久，也应该知道游龙珏的线索，乃我吕家历代家主才得知……,0,1|WaitTime:7	Speak:……夫人，勤儿……我吕某今生只得择大义而取之，让你们受苦了……叱！,0,1|WaitTime:3	ClearNpc:0										
+13	0	0	0	AddNpc2:10278,2253,1833,3484,1,0,16	WaitTime:4	Speak:秋琳，你教得很好。,0,1|WaitTime:5	Speak:没错。这天下的归属，凭什么以一块死物为据，我偏是不信。,0,1|WaitTime:10	WaitTime:5	Speak:哈哈…哈哈…我道他当年为何要跟天麻神相习藏血之法！他竟真舍得！他竟真舍得以自己孩子为引！就为隐藏游龙珏的线索！,0,1|WaitTime:5	Speak:我当然不会杀他，我要他睥睨武林！问鼎天下！我要他自己站在万人顶端，再亲手毁了你们的谎言！,0,1|WaitTime:5|CastSkill:2736,1	ClearNpc:0								
+14	0	0	0	AddNpc2:10180,2253,1826,3486,1,0,48	WaitTime:1	Speak:住手！莫慌，她只是被内力气劲震晕，并无大碍，只是余劲未散，不可妄动。,0,1|WaitTime:4	Speak:这么多年，你一直在找游龙珏的线索？,0,1|WaitTime:7	Speak:所以当年你临阵脱逃，陷他们于敌阵？所以你将我们多年辛苦付之一炬？如果现在我告诉你，吕家根本就不知道游龙珏的下落……,0,1|WaitTime:6	Speak:真正的线索在你的徒弟身上！你……还是要毁了他？,0,1	WaitTime:15	Speak:秋姨让义军兄弟先带书青离开，你……可有话要问秋姨？,0,1								
+15	0	0	0	AddNpc2:3582,2253,1870,3531,1,0,40	WaitTime:2	Speak:不要解药……我不要解药……,0|WaitTime:5	Speak:兄弟，我们走吧...,0|WaitTime:3	ClearNpc:0											
+16	0	0	0	AddNpc2:10246,2253,1874,3524,1,0,8	WaitTime:3	Speak:铁石，我...,0|WaitTime:3	Speak:丫头，不要怪你许大哥。,0|WaitTime:3	ClearNpc:0											
+17	0	0	0	FindNpc:10301,100	WaitTime:3|Speak:你等我下...,0,1	WaitTime:2|Speak:罐子有什么好看的，你给人家买个香包吧...,0,1	WaitTime:2|Speak:就知道自己玩，大叔那个香包我等下来买...,0,1	WaitTime:4|Speak:好漂亮...,0,1	WaitTime:4|Speak:等等我嘛...,0,1	WaitTime:2|Speak:慢点儿，等等我...,0,1	WaitTime:2|Speak:不好看，快陪我去买香包...,0,1								
+18	1	1	1	AddNpc:10264,taoxizhen,1676,3288,1	SetArrivePos:1660,3300	SetArrivePos:1676,3288													
+19	1	1	1	AddNpc:10264,taoxizhen,1669,3336,1	SetArrivePos:1655,3362	SetArrivePos:1676,3288	SetArrivePos:1664,3359	SetArrivePos:1669,3336											
+20	1	1	1	AddNpc:10264,taoxizhen,1730,3354,1	SetArrivePos:1728,3369	SetArrivePos:1676,3288	SetArrivePos:1744,3366	SetArrivePos:1730,3354											
+21	1	1	1	AddNpc:10264,taoxizhen,1737,3419,1	SetArrivePos:1756,3425	SetArrivePos:1766,3426	SetArrivePos:1762,3432	SetArrivePos:1737,3419											
+22	1	1	1	AddNpc:10311,taoxizhen,1778,3450,1	SetArrivePos:1805,3483	SetArrivePos:1857,3452	SetArrivePos:1844,3469	SetArrivePos:1871,3498	SetArrivePos:1884,3516	SetArrivePos:1869,3533	SetArrivePos:1844,3516	SetArrivePos:1778,3450							
+23	1	1	1	AddNpc:10313,taoxizhen,1760,3576,1	SetArrivePos:1712,3651	SetArrivePos:1760,3576													
+24	1	1	1	AddNpc:10313,taoxizhen,1796,3585,1	SetArrivePos:1784,3608	SetArrivePos:1760,3619	SetArrivePos:1789,3634	SetArrivePos:1796,3585											
+25	1	1	1	AddNpc:10313,taoxizhen,1797,3583,1	SetArrivePos:1785,3605	SetArrivePos:1761,3616	SetArrivePos:1791,3632	SetArrivePos:1797,3583											
+26	1	1	1	AddNpc:10313,taoxizhen,1796,3582,1	SetArrivePos:1784,3604	SetArrivePos:1760,3615	SetArrivePos:1790,3631	SetArrivePos:1796,3582											
+27	1	1	1	AddNpc:10313,taoxizhen,1799,3582,1	SetArrivePos:1787,3604	SetArrivePos:1763,3614	SetArrivePos:1793,3630	SetArrivePos:1799,3582											
+28	1	1	1	AddNpc:10313,taoxizhen,1801,3581,1	SetArrivePos:1789,3602	SetArrivePos:1765,3612	SetArrivePos:1795,3628	SetArrivePos:1801,3581											
+29	1	1	1	AddNpc:10313,taoxizhen,1801,3576,1	SetArrivePos:1789,3598	SetArrivePos:1765,3608	SetArrivePos:1795,3624	SetArrivePos:1801,3576											
+30	1	1	1	AddNpc:10298,taoxizhen,1717,3634,1	SetArrivePos:1734,3631	SetArrivePos:1746,3660	SetArrivePos:1730,3672	SetArrivePos:1715,3656	SetArrivePos:1717,3634										
+31	1	1	1	AddNpc:10298,taoxizhen,1660,3707,1	SetArrivePos:1646,3725	SetArrivePos:1637,3717	SetArrivePos:1624,3740	SetArrivePos:1637,3717	SetArrivePos:1627,3700	SetArrivePos:1605,3697	SetArrivePos:1603,3721	SetArrivePos:1619,3711	SetArrivePos:1627,3700	SetArrivePos:1637,3717	SetArrivePos:1646,3725	SetArrivePos:1660,3707			
+32	1	1	1	AddNpc:10298,taoxizhen,1745,3387,1	SetArrivePos:1767,3380	SetArrivePos:1786,3355	SetArrivePos:1799,3330	SetArrivePos:1780,3314	SetArrivePos:1772,3332	SetArrivePos:1767,3380	SetArrivePos:1745,3387								
+33	1	1	1	AddNpc:10299,taoxizhen,1779,3484,1	SetArrivePos:1777,3492	SetArrivePos:1779,3484|WaitTime:10	SetArrivePos:1777,3492	SetArrivePos:1779,3484											
+34	1	1	1	AddNpc:10299,taoxizhen,1751,3460,1	SetArrivePos:1743,3444	WaitTime:10	SetArrivePos:1752,3448	SetArrivePos:1766,3451	WaitTime:10	SetArrivePos:1751,3460									
+35	1	1	1	AddNpc:10299,taoxizhen,1701,3438,1	SetArrivePos:1708,3423	SetArrivePos:1720,3435	WaitTime:10	SetArrivePos:1725,3448	WaitTime:10	SetArrivePos:1715,3455	SetArrivePos:1701,3438								
+36	1	0	0	AddNpc:3582,taoxizhen,1652,3312,1,1	SpeakRandom:……阿姊，要给阿姊买珠链子…答应好了的。+你们……你们这群狗贼！谁赶上前一步！+仕伟？我冷……别把雪球塞我衣服里。+娘亲……爹亲……+不要糖葫芦！我……我……我不要糖葫芦！,0,6,1														
+37	1	0	0	AddNpc:10314,taoxizhen,1946,3482,1,7	SpeakRandom:今天真是坏天气！不然石头怎么会冷？！+再也不吃药了！吃得肚子疼！全身疼！疼！,0,10,1														
+38	0	1	1	AddNpc2:10299,2253,2002,3351,1	SetArrivePos:2013,3363	SetArrivePos:2019,3357	SetArrivePos:2025,3364	SetArrivePos:2030,3357	SetArrivePos:2002,3351										
+39	0	1	1	AddNpc2:10302,2253,2063,3384,1	SetArrivePos:2014,3367	SetArrivePos:2044,3357	SetArrivePos:2039,3352	SetArrivePos:2032,3352	SetArrivePos:1997,3343										
+40	0	1	1	AddNpc2:10303,2253,2045,3376,1	SetArrivePos:2037,3330	SetArrivePos:2045,3376													
+41	0	1	1	AddNpc2:10303,2253,2052,3382,1	SetArrivePos:2043,3331	SetArrivePos:2052,3382													
+42	0	1	1	AddNpc2:10302,2253,2051,3379,1	SetArrivePos:2071,3403	SetArrivePos:2067,3409	SetArrivePos:2088,3436	SetArrivePos:2085,3412	SetArrivePos:2051,3379										
+43	0	1	1	AddNpc2:10303,2253,2007,3455,1	SetArrivePos:2021,3458	SetArrivePos:2039,3441	SetArrivePos:2041,3432	SetArrivePos:2050,3424	SetArrivePos:2062,3437	SetArrivePos:2069,3462									
+44	0	1	1	AddNpc2:10302,2253,2004,3456,1	SetArrivePos:2019,3460	SetArrivePos:2036,3445	SetArrivePos:2053,3429	SetArrivePos:2064,3448	SetArrivePos:2065,3479										
+45	0	1	1	AddNpc2:10303,2253,2008,3460,1	SetArrivePos:2024,3463	SetArrivePos:2043,3437	SetArrivePos:2043,3439	SetArrivePos:2068,3451	SetArrivePos:2068,3488										
+46	0	0	0	AddNpc2:10305,2253,2036,3412,1,0,56	SpeakRandom:豆腐花咯，来尝尝新鲜的豆腐花咯！+还有自家娘子特制的桂花酒酿丸子咯！+嘿嘿，一看您就是外乡人，来尝点？,0,10,1														
+47	0	0	0	AddNpc2:10307,2253,2028,3417,1	SpeakRandom:不卖。+不卖。要买拿你自己来换。+那就算了。,0,6,1														
+48	0	0	0	AddNpc2:10310,2253,2040,3425,1,0,24	SpeakRandom:各位要不要来看看，这些绣品都是奴家亲手绣的。+这蜡纸伞也是自家染的，有什么问题只管来镇东找！+本镇上好蜡纸伞，绣品！,0,10,1														
+49	0	0	0	AddNpc2:10305,2253,2019,3428,1,0,56	SpeakRandom:今儿杂耍真好看，好多年不见这么热闹了。+小哥、姑娘们来看看，上好山水折扇！江南第一才子亲笔题字！+还有边塞诗人久违之作！,0,10,1														
+50	0	1	1	AddNpc2:10308,2253,2041,3394,1	SetArrivePos:2042,3411	SetArrivePos:2025,3427	SetArrivePos:2042,3411	SetArrivePos:2041,3394											
+51	0	0	0	AddNpc2:10265,2253,2032,3419,1	SpeakRandom:那……这个花瓶怎么卖？+为什么不卖？你你你摆摊出来不就是卖的？+不行不行，太贵了，我家娘子不会答应的！,0,40,1														
+52	0	1	1	AddNpc2:10309,2253,2044,3394,1	SetArrivePos:2051,3404	SetArrivePos:2033,3425	SetArrivePos:2051,3404	SetArrivePos:2044,3394											
+53	0	0	0	AddSelfPlayer:0	SetArrivePos:1908,3391|WaitTime:2|Speak:青妹慢举龙泉宝剑,0,1	SetArrivePos:1908,3389|WaitTime:2|Speak:妻把真情对你言,0,1	SetArrivePos:1906,3390|WaitTime:2|Speak:你妻不是凡间女,0,1	SetArrivePos:1906,3392|WaitTime:2|Speak:妻本是峨嵋一蛇仙,0,1	SetArrivePos:1907,3394|WaitTime:2|Speak:只为思凡把山下,0,1	SetArrivePos:1909,3394|WaitTime:2|Speak:与青儿来到西湖边,0,1	SetArrivePos:1910,3392|WaitTime:2|Speak:风雨湖中识郎面,0,1	SetArrivePos:1910,3390|WaitTime:2|Speak:我爱你深情眷眷风度翩翩,0,1	SetArrivePos:1908,3391|WaitTime:2|Speak:我爱你常把娘亲念,0,1	SetArrivePos:1908,3391|WaitTime:2|Speak:吕管家？！,0,1					
+54	1	0	0	AddNpc:10251,taoxizhen,1511,3684,1	SpeakRandom:大侠！救救我们！+多谢大侠救命之恩！+我要是死了我家娘子可怎么办啊！,0,8,1														
+55	1	0	0	AddNpc:10252,taoxizhen,1505,3691,1	SpeakRandom:咦，我怎么会在这？是水贼是水贼！+镇里还有谁来了？+多谢大侠救命之恩！,0,6,1														
+56	1	0	0	AddNpc:10253,taoxizhen,1507,3689,1	SpeakRandom:呜呜呜……爹亲……+呜呜呜……我要找爹亲……+爹亲说，这个时候要说谢谢……,0,5,1														
+57	1	1	1	AddNpc:10311,2253,2027,3428,1	SetArrivePos:2049,3401	SetArrivePos:2038,3396	SetArrivePos:2049,3401	SetArrivePos:2027,3428											
+58	1	0	0	AddNpc:11064,taoxizhen,1806,3473,1	SpeakRandom:各位路过的、打尖儿的，里面坐咯！+有茶水、卤蛋、凉果子咯！+这位客官，赶路辛苦，里面歇会？,0,8,1														
+59	1	0	0	AddNpc:11065,taoxizhen,1573,3634,1															
+60	1	1	2	AddNpc:11066,taoxizhen,1570,3598,1	WaitTime:6|SpeakRandom:我、我没醉……再喝……+嘿嘿！有他们吕家好看的……敢、敢……+美人儿！有美人儿！,0,10,1	SetArrivePos:1580,3613	WaitTime:2	SetArrivePos:1570,3633	WaitTime:1	SetArrivePos:1561,3619	WaitTime:3	SetArrivePos:1570,3633	WaitTime:1	SetArrivePos:1580,3613	WaitTime:3	SetArrivePos:1570,3598	WaitTime:3		
+61	1	1	1	AddNpc:11067,taoxizhen,1742,3425,1	SetArrivePos:1766,3435	SetArrivePos:1803,3482	SetArrivePos:1834,3504	SetArrivePos:1855,3523	SetArrivePos:1867,3536	SetArrivePos:1882,3513	SetArrivePos:1911,3487	SetArrivePos:1932,3464	SetArrivePos:1957,3450	SetArrivePos:1977,3476	SetArrivePos:1947,3510	SetArrivePos:1921,3536	SetArrivePos:1947,3510	SetArrivePos:1977,3476	SetArrivePos:1957,3450	SetArrivePos:1932,3464	SetArrivePos:1911,3487	SetArrivePos:1882,3513	SetArrivePos:1867,3536	SetArrivePos:1855,3523	SetArrivePos:1834,3504	SetArrivePos:1803,3482	SetArrivePos:1766,3435
+62	1	0	0	AddNpc:11068,taoxizhen,1576,3642,1	SpeakRandom:酒……我要酒……+唔……谁压着我……你个孙子给我起、起来！+当、当里个当……锵、锵锵锵！,0,10,1														
+63	1	0	0	AddNpc:11069,taoxizhen,1826,3502,1	WaitTime:3	SetArrivePos:1845,3473	WaitTime:5|SpeakRandom:得儿驾！得儿驾！+牛牛快跑！牛牛，牛牛！+囡囡回家，要爹亲买糖吃！,0,10,1	SetArrivePos:1840,3462	SetArrivePos:1873,3421	SetArrivePos:1840,3462	SetArrivePos:1845,3473	SetArrivePos:1826,3502							
+64	1	0	0	AddNpc:11070,taoxizhen,1816,3481,1	WaitTime:8	SpeakRandom:哎！各位乡亲父老，都过来看看朝廷颁下的通缉令！+……发现眼熟的，请马上知会衙门！+有偷藏嫌犯者！一律以同罪论处！,0,15,1													
+65	1	0	0	AddNpc:10307,taoxizhen,1824,3485,1	WaitTime:5	SpeakRandom:自家大米！各位哥哥姐姐，老爷小姐都来看看咯！+卖完就回家陪老婆孩子咯！+这位少侠，要不要买些米饼做干粮？,0,12,1													
+66	1	0	0	AddNpc:11071,taoxizhen,1865,3458,1	SpeakRandom:代写家书，抄录书文。+千门万户曈曈日，总把新桃换旧符……+天下之大，知音何在。,0,10,1														
+67	1	1	2	AddNpc:10265,taoxizhen,1692,3233,1	WaitTime:10|SpeakRandom:天儿真热啊，也不知今天这货能不能卖得掉，希望别剩这么多啊。+我的货又便宜又好，不怕货比货，就怕不识货呀！,0,10,1	SetArrivePos:1701,3255	WaitTime:10	SetArrivePos:1735,3323	WaitTime:10	SetArrivePos:1754,3379	WaitTime:10	SetArrivePos:1734,3416	WaitTime:10	SetArrivePos:1571,3427					
+68	1	1	2	AddNpc:10172,taoxizhen,1899,3501,1	WaitTime:10|SpeakRandom:来追我呀，来抓我呀，抓不着抓不着，哈哈……+藏起来，不让妞妞发现我，嘻嘻……,0,10,1	SetArrivePos:1915,3484	WaitTime:5	SetArrivePos:1932,3467	WaitTime:10	SetArrivePos:1932,3467	WaitTime:10	SetArrivePos:1959,3446							
+69	1	1	2	AddNpc:10315,taoxizhen,1879,3508,1	WaitTime:12|SpeakRandom:呜呜呜……呜呜……娘亲不让妞妞出来玩儿。+妞妞找不到牛牛了，太爷又不陪妞妞玩儿。,0,10,1	SetArrivePos:1845,3471	WaitTime:5	SetArrivePos:1823,3497	WaitTime:10	SetArrivePos:1797,3491	WaitTime:10	SetArrivePos:1822,3455							
+70	0	0	0	AddNpc2:11073,2253,1822,3485,1,0,48																							
+71	0	0	0	AddNpc2:11073,2253,1824,3489,1,0,48																							
+72	0	0	0	AddNpc2:11073,2253,1819,3485,1,0,48																							
+73	0	0	0	AddNpc2:11073,2253,1820,3488,1,0,48																							
+74	0	0	0	AddNpc2:11073,2253,1822,3490,1,0,48																							
+75	0	0	0	AddNpc2:11073,2253,1824,3493,1,0,48																							
+76	0	0	0	AddNpc2:11073,2253,1817,3486,1,0,48																							
+77	0	0	0	AddNpc2:11073,2253,1818,3489,1,0,48																							
+78	0	0	0	AddNpc2:11073,2253,1820,3492,1,0,48																							
+79	0	0	0	AddNpc2:11073,2253,1822,3494,1,0,48																							
+80	0	0	0	AddNpc2:11073,2253,1815,3488,1,0,48																							
+81	0	0	0	AddNpc2:11073,2253,1816,3491,1,0,48																							
+82	0	0	0	AddNpc2:11073,2253,1818,3494,1,0,48																							
+83	0	0	0	AddNpc2:11073,2253,1820,3496,1,0,48																							
+84	0	0	0	AddNpc2:11073,2253,1811,3481,1,0,56															
+85	0	0	0	AddNpc2:11073,2253,1809,3482,1,0,56															
+86	0	0	0	AddNpc2:11073,2253,1833,3498,1,0,24															
+87	0	0	0	AddNpc2:11073,2253,1835,3497,1,0,24															
+88	0	0	0	AddNpc2:11073,2253,1837,3496,1,0,24															
+89	0	0	0	AddNpc2:11073,2253,1833,3500,1,0,24															
+90	0	0	0	AddNpc2:11073,2253,1835,3499,1,0,24															
+91	0	0	0	AddNpc2:11073,2253,1837,3498,1,0,24															
+92	0	0	0	AddNpc2:11073,2253,1837,3500,1,0,24															
+93	0	0	0	AddNpc2:11073,2253,1835,3501,1,0,24															
+94	0	0	0	AddNpc2:11073,2253,1833,3502,1,0,24															
+95	0	0	0	AddNpc2:11073,2253,1835,3503,1,0,24															
+96	0	0	0	AddNpc2:11073,2253,1837,3502,1,0,24															
+97	0	0	0	AddNpc2:11073,2253,1839,3500,1,0,24															
+98	0	0	0	AddNpc2:11073,2253,1839,3498,1,0,24															
+99	0	0	0	AddNpc2:11073,2253,1839,3502,1,0,24															
+100	0	0	0	AddNpc2:11073,2253,1837,3504,1,0,24															
+101	0	0	0	AddNpc2:11073,2253,1819,3488,1,0,40															
+102	0	0	0	AddNpc2:11073,2253,1821,3490,1,0,40															
+103	0	0	0	AddNpc2:11073,2253,1823,3492,1,0,40															
+104	0	0	0	AddNpc2:11073,2253,1818,3490,1,0,40															
+105	0	0	0	AddNpc2:11073,2253,1820,3492,1,0,40															
+106	0	0	0	AddNpc2:11073,2253,1822,3494,1,0,40															
+107	0	0	0	AddNpc2:11073,2253,1817,3492,1,0,40															
+108	0	0	0	AddNpc2:11073,2253,1819,3494,1,0,40															
+109	0	0	0	AddNpc2:11073,2253,1821,3496,1,0,40															
+110	0	0	0	AddNpc2:11073,2253,1816,3494,1,0,40															
+111	0	0	0	AddNpc2:11073,2253,1818,3496,1,0,40															
+112	0	0	0	AddNpc2:11073,2253,1820,3498,1,0,40															
+113	0	0	0	AddNpc2:11073,2253,1815,3496,1,0,40															
+114	0	0	0	AddNpc2:11073,2253,1817,3498,1,0,40															
+115	1	1	2	AddNpc:11119,taoxizhen,1857,3573,1	WaitTime:10|SpeakRandom:说了多少次了！不可以占道摆摊！+更加不可以堵路口、桥头！+哎呀哎呀！你们怎么老不听！是不是一定要被抓进衙门才服气？！+算了算了……你们就会欺负我。,0,10,1	SetArrivePos:1872,3583	WaitTime:10	SetArrivePos:1892,3565	WaitTime:10	SetArrivePos:1919,3540	WaitTime:10	SetArrivePos:1892,3565	WaitTime:10	SetArrivePos:1872,3583	WaitTime:10	SetArrivePos:1857,3573			
+116	1	1	2	AddNpc:11120,taoxizhen,1805,3492,1	WaitTime:10|SpeakRandom:天下第一卦，一卜定天下！+瞧一瞧看一看！上卜缘起，下掐缘灭！不准不收钱！+多年卜卦经验，绝对诚信，千万放心，卜吉凶，防小人！+今儿路过本地，为酬谢各位乡亲父老捧场，特别赠送黄符一张！,0,10,1	SetArrivePos:1816,3466	WaitTime:10	SetArrivePos:1828,3452	WaitTime:10	SetArrivePos:1845,3472	WaitTime:10	SetArrivePos:1829,3494	WaitTime:10	SetArrivePos:1805,3492					
+117	0	0	0	AddNpc2:11071,2253,2038,3374,1,0,56	SpeakRandom:芙妹，卿可知，芙蕖如月时时映君心。+果然，你懂我，天涯一知己夫复何求！+你……你怎么就不懂我的心。,0,15,1														
+118	0	0	0	AddNpc2:11072,2253,2040,3376,1,0,40	SpeakRandom:公子说笑了，芙蕖何德何能得公子垂青。+噗……公子遣词造句，无韵无律，芙蕖得罪了。+芙蕖愚钝，得公子错爱，还请公子高抬贵手，放芙蕖一马。,0,18,1														
+119	1	1	2	AddNpc:11121,taoxizhen,1922,3428,1	WaitTime:10|SpeakRandom:热死老娘了……这才四月天，真是让奴家心烦气躁。+戏台上那些姑娘哪有老娘当年唱的好，多少才子绣阁仰望，缠头都堆到了门外……,0,5,1	SetArrivePos:1939,3453	WaitTime:5	SetArrivePos:1927,3470	WaitTime:5	SetArrivePos:1915,3486	WaitTime:5	SetArrivePos:1899,3503	WaitTime:5	SetArrivePos:1871,3532	WaitTime:5	SetArrivePos:1899,3503	WaitTime:5	SetArrivePos:1915,3486	WaitTime:5	SetArrivePos:1927,3470	WaitTime:5	SetArrivePos:1939,3453	WaitTime:5	SetArrivePos:1922,3428			

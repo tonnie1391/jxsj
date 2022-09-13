@@ -1,0 +1,9 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hắc Y Nhân	0	750	0	5	45	1	20	20	20	20	20	1				\setting\map\map_info\baihuazhen_2_xydzh\npc\heiyiren.txt	1		
+Chung Linh Tú	0	754	3	5	45	1	20	20	20	20	20	1		52416	103520		1		
+Hoàng Đội Trưởng	0	755	0	5	45	1	20	20	20	20	20	1		51680	104576		1		
+Hồng Đội Trưởng	0	756	0	5	45	1	20	20	20	20	20	1		53088	102784		1		
+Lam Đội Trưởng	0	757	0	5	45	1	20	20	20	20	20	1		53120	104640		1		
+Đệ Tử Thúy Yên Môn	0	749	3	5	45	1	20	20	20	20	20	1				\setting\map\map_info\baihuazhen_2_xydzh\npc\cuiyanmendizi.txt	1		
+Đến Trong Bách Hoa Trận	0	2525	4	5	45	1	20	20	20	20	20	1		51680	102496		1		
+xydzh2baihuazhen	1															\setting\map\map_info\baihuazhen_2_xydzh\trap\to_baihuazhen.txt			

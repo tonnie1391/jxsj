@@ -1,0 +1,4 @@
+TaskId	TaskName	StepDesc	TaskType	Diff	NpcName	MapId	NpcId	Step01	Step02	Step03	LevelFlag	StartDay	AwardExp	NeedTime
+任务编号	任务名	寻路描述	任务类型	难度(描述)	送信给的Npc名	Npc所在地图Id	送信给的NpcId	步骤1-9	步骤10	步骤100	达到60级	开服多少天后	获得经验	需要时间(秒)
+1	送信给战场商会接头人（宋金战场开启时间可以在F12帮助锦囊中查询）		GiveItem	4	商会接头人	0	2962	0	5000	0	0	0	0.6	1800
+2	送信给白虎堂二层商会接头人（白虎堂开启时间可以在F12帮助锦囊中查询；白虎堂中竞争非常激烈，请务必组队前往）		GiveItem	4	商会接头人	0	2961	0	0	0	0	0	0.6	1800

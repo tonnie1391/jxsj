@@ -1,0 +1,29 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cấm Quân Giả Trang	0	815	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\dasanguan_shinei\npc\yipintangdizi.txt	1		0
+Lãnh Vân	0	1057	3	5	60	1	20	20	20	20	20	1		50688	122944		1		
+to_jianzhongmishi	1															\setting\map\map_info\dasanguan_shinei\trap\to_jianzhongmishi.txt			
+to_jianzhongwai	1															\setting\map\map_info\dasanguan_shinei\trap\to_jianzhongwai.txt			
+to_mishichukou	1															\setting\map\map_info\dasanguan_shinei\trap\to_mishichukou.txt			
+Rời Thiên Quỳnh Cung	0	2525	4	5	1	1	20	20	20	20	20	1		51552	98432		1		
+Huyền Quan	0	2525	4	5	1	1	20	20	20	20	20	1		51040	96832		1		
+Thiên Ngoại Thiên	0	2525	4	5	1	1	20	20	20	20	20	1		50880	118112		1		
+Rời Huyền Quan	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119392		1		
+Rời Thiên Ngoại Thiên	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123264		1		
+Mật Đạo Xuất Cung	0	2525	4	5	1	1	20	20	20	20	20	1		50720	122496		1		
+to_exit1	1															\setting\map\map_info\dasanguan_shinei\trap\to_exit1.txt			
+to_exit17	1															\setting\map\map_info\dasanguan_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\dasanguan_shinei\trap\to_exit21.txt			
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51072	96608		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51168	96960		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51040	96992		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		50912	96928		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		50944	96704		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		50688	118272		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		50816	118400		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51200	96736		1		1
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		50912	97216		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		50752	96864		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		50944	96416		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		51136	97280		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		51264	96448		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		51360	96960		1		

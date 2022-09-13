@@ -1,0 +1,2 @@
+ClassName	LeftTrapName	RightTrapName	LeftTrapFile	RightTrapFile
+PlayerStateChangeUp	PlayerStateChangeLeftUp	PlayerStateChangeRightUp	\setting\mission\castlefight\trap\player_trap_left_up.txt	\setting\mission\castlefight\trap\player_trap_right_up.txt

@@ -1,0 +1,2 @@
+Name	MapId	PosX	PosY	NpcId	Level	Series	RandRate	Annouce
+

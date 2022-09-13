@@ -1,0 +1,8 @@
+Level	LevelGroup	GroupName
+Cấp	Cấp đoạn	Hiển thị danh xưng đặc biệt
+59	1	Truy bắt Hải Tặc cấp 50
+69	2	Truy bắt Hải Tặc cấp 60
+79	3	Truy bắt Hải Tặc cấp 70
+89	4	Truy bắt Hải Tặc cấp 80
+99	5	Truy bắt Hải Tặc cấp 90
+109	6	Tiêu diệt Thực Nguyệt Giáo Đồ

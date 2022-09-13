@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	±¸×¢
+1	2953	61024	92832	¸´ÖÆ¼ä¿ªÆô

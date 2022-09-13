@@ -1,0 +1,80 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Dương Anh	0	1	3	5	150	1	20	20	20	20	20	1		53088	121728		1		
+Dương Thiết Tâm	0	4	3	5	150	1	20	20	20	20	20	1		57184	113408		1		
+Dương Thiết Tâm	0	2	3	5	150	1	20	20	20	20	20	1		52992	121824		1		
+Quý Thúc Ban	0	6	3	5	90	1	20	20	20	20	20	1		57824	114016		1		
+Quý Thúc Ban	0	5	3	5	90	1	20	20	20	20	20	1		52992	121984		1		
+Lâu Nhất Quan	0	301	3	5	90	1	20	20	20	20	20	1		58144	112896		1		
+Lâu Nhất Quan	0	302	3	5	90	1	20	20	20	20	20	1		53216	121760		1		
+Cầu Chỉ Thủy	0	13	3	5	90	1	20	20	20	20	20	1		56544	110656		1		
+Cầu Chỉ Thủy	0	13	3	5	90	1	20	20	20	20	20	1		53312	110272		1		
+Bùi Dực Phi	0	12	3	5	90	1	20	20	20	20	20	1		57952	112352		1		
+Bùi Dực Phi	0	12	3	5	90	1	20	20	20	20	20	1		56000	106944		1		
+Hàn Thác Trụ	0	686	3	5	90	1	20	20	20	20	20	1		53664	106048		1		
+Thuyền Phu	0	8	3	5	60	1	20	20	20	20	20	1		53632	119232		1		
+Đệ Tử Phân Đà Thành Đô	0	14	3	5	60	1	20	20	20	20	20	1		58528	114432		1		
+Hoa Tử Lý Tuyền	0	15	3	5	60	1	20	20	20	20	20	1		52832	117088		1		
+Sát Thủ Thần Bí	0	1170	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\shenmishashou.txt	1		
+Lãnh Huyết Sát Thủ	0	16	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\lengxueshashou.txt	1		
+Lư Tiếu Bần	0	18	3	5	90	1	20	20	20	20	20	1		53504	106176		1		
+Đệ Tử Thiên Vương Bang	0	1174	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\qingluodao\npc\tianwangdizi.txt	1		
+Bang Chúng Kính Trang	0	19	3	5	60	1	20	20	20	20	20	1		52320	107552		1		
+Thương Nhân Thần Bí	0	1171	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\shenmishangren.txt	1		
+Lãnh Nguyệt Sứ	0	22	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	54592	105952		1		1
+Viêm Dương Sứ	0	23	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	54272	105856		1		3
+Thống Lĩnh Sát Thủ	0	24	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\shashoutongling.txt	1		2
+Sát Thủ Diêm Bang	0	1169	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\yanbangshashou.txt	1		
+Trưởng Lão Diêm Bang	0	25	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\yanbangzhanglao.txt	1		
+Tống Đao Binh	0	27	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\songjundaobing.txt	1		
+Tống Thống Lĩnh Lưu Khoát	0	28	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55904	121536		1		
+Ngư Phu	0	29	3	5	60	1	20	20	20	20	20	1		50176	106432		1		
+Đệ tử phòng tình báo	0	308	3	5	60	1	20	20	20	20	20	1		60768	111360		1		
+Nhuệ Tiệp Doanh Truy Binh 	0	312	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\ruijieyingzibing.txt	1		
+Nhuệ Tiệp Doanh Tinh Nhuệ	0	313	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\ruijieyingjingrui.txt	1		
+Người hầu Sở Trung Lương	0	314	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\tieshenshicong.txt	1		
+Sở Trung Lương	0	315	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	51616	115968		1		
+Sở Kiệt	0	316	3	5	60	1	20	20	20	20	20	1		53568	114848		1		
+Khước Thương	0	309	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	60352	110048		1		
+Lý Tiển 	0	310	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	62848	110848		1		
+Công Dương Tôn	0	311	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	61696	110048		1		
+Thống lĩnh Tiên Phong Bạch Phổ	0	317	3	5	60	1	20	20	20	20	20	1		55296	113952		1		
+U Uất Đệ Tử	0	1165	3	5	60	1	20	20	20	20	20	1		55968	114528		1		
+Á Lão Đầu	0	306	3	5	60	1	20	20	20	20	20	1		62496	116352		1		
+Cháu của Á Lão Đầu	0	1173	3	5	60	1	20	20	20	20	20	1		62624	116384		1		
+Hoa Tử kỳ bí	0	1172	0	0	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\qiguaihuazi.txt	1		
+Đống Lửa	0	1175	3	5	1	1	20	20	20	20	20	1		62496	112896		1		
+Tiễn xa	0	1407	5	6	1	1	20	20	20	20	20	1		62688	112704		1		
+Hùng Đỉnh	0	1166	3	5	90	1	20	20	20	20	20	1		60448	112480		1		
+Đống sắt vụn	0	1596	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\qingluodao\npc\feitiedui.txt	1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		56800	111296				2
+Bang Chúng Diêm Bang	0	2045	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\area1.txt	1		2
+Thích Khách Thần Bí	0	2046	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\area2.txt	1		3
+Tùy Tùng Đại Nội	0	2217	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\area3.txt	1		2
+Hành Cước Thương Nhân	0	2218	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\area4.txt	1		
+to_tianwangbang	1															\setting\map\map_info\qingluodao\trap\to_tianwangbang.txt			
+to_luweidang_1	1															\setting\map\map_info\qingluodao\trap\to_luweidang_1.txt			
+Thiên Vương Bang	0	2525	4	5	1	1	20	20	20	20	20	1		57312	121664				
+Lâm An Thủy Sư	0	11042	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\linanshuishi.txt	1		
+Kinh Sư Thích Khách	0	11043	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\qingluodao\npc\jingshicike.txt	1		
+Thuyền Phu Thanh Tiễn	0	11044	3	5	60	1	20	20	20	20	20	1		57184	121536		1		
+Đệ Tử Cáp Xá	0	11045	3	5	60	1	20	20	20	20	20	1		58400	107104		1		
+Văn bia cổ xưa	0	11046	3	5	60	1	20	20	20	20	20	1		59776	111200		1		
+Đệ Tử Cổ Mộ lạc đường	0	11047	3	5	60	1	20	20	20	20	20	1		58208	111264		1		
+Truyền Tín Phi Nô	0	11048	3	5	50	1	20	20	20	20	20	1				\setting\map\map_info\qingluodao\npc\chuanxinfeinu.txt	1		
+to_2ceng	1															\setting\map\map_info\qingluodao\trap\to_2ceng.txt			
+Khoang Thuyền 2	0	2525	4	5	1	1	20	20	20	20	20	1		53536	122208				
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		57280	110848				2
+Đông Nam Lư Vĩ Đãng	0	2525	4	5	1	1	20	20	20	20	20	1		52064	106656				
+to_nanmenwai	1															\setting\map\map_info\qingluodao\trap\to_nanmenwai.txt			
+to_nanmennei	1															\setting\map\map_info\qingluodao\trap\to_nanmennei.txt			
+to_beimenwai	1															\setting\map\map_info\qingluodao\trap\to_beimenwai.txt			
+to_beimennei	1															\setting\map\map_info\qingluodao\trap\to_beimennei.txt			
+to_ximenwai	1															\setting\map\map_info\qingluodao\trap\to_ximenwai.txt			
+to_ximennei	1															\setting\map\map_info\qingluodao\trap\to_ximennei.txt			
+to_dongmenwai	1															\setting\map\map_info\qingluodao\trap\to_dongmenwai.txt			
+to_dongmennei	1															\setting\map\map_info\qingluodao\trap\to_dongmennei.txt			
+to_fight	1															\setting\map\map_info\qingluodao\trap\change_to_fight.txt			
+to_peace	1															\setting\map\map_info\qingluodao\trap\change_to_peace.txt			
+Hồng Dược Nhi	0	11050	3	5	60	1	20	20	20	20	20	1		59296	123168		1		
+Thủy Phù Dung	0	11051	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\qingluodao\npc\shuifurong.txt			
+Cụ già lôi thôi	0	11052	3	5	60	1	20	20	20	20	20	1		57696	121216		1		

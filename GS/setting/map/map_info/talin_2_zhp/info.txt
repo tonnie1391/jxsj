@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Huyền Từ Phương Trượng	0	218	3	5	45	1	20	20	20	20	20	1		57216	122784		1		
+Trừng Huệ	0	213	3	5	45	1	20	20	20	20	20	1		57312	122912		1		
+Đệ Tử Thiếu Lâm	0	1419	3	5	45	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_zhp\npc\shaolindizis.txt	1		
+Cơ Dân	0	224	3	5	45	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_zhp\npc\jimins.txt	1		
+Đến Tây Tháp Lâm	0	2525	4	5	45	1	20	20	20	20	20	1		56672	123264		1		
+zhp2talin	1															\setting\map\map_info\talin_2_zhp\trap\to_talin.txt			

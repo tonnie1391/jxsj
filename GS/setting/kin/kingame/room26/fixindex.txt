@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	备注
+1	2956	63200	90208	BOSS房间说明用的石碑

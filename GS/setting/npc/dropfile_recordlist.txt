@@ -1,0 +1,4 @@
+DropFile	ID	Comment
+\setting\npc\droprate\treasuremap\chujibaoxiang.txt	1	ÍÚ±¦
+\setting\npc\droprate\treasuremap\level2\box_outside.txt	2	ÍÚ±¦
+\setting\npc\droprate\treasuremap\level3\box_outside.txt	3	ÍÚ±¦

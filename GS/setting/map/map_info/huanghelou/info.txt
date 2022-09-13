@@ -1,0 +1,32 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lưu Vong Đao Binh	0	2183	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\area1.txt			
+Trú Thành Thủ Quân	0	2184	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\area2.txt			
+Lưu Khấu	0	2185	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\area3.txt			
+Trú Thành Thủ Quân	0	2184	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\area4.txt			
+to_caishiji	1															\setting\map\map_info\huanghelou\trap\to_caishiji.txt			
+to_hanshuigudu	1															\setting\map\map_info\huanghelou\trap\to_hanshuigudu.txt			
+to_pengliguze	1															\setting\map\map_info\huanghelou\trap\to_pengliguze.txt			
+to_funiushan	1															\setting\map\map_info\huanghelou\trap\to_funiushan.txt			
+Thái Thạch Cơ	0	2525	4	5	85	1	20	20	20	20	20	1		62080	113056				
+Hán Thủy Cổ Độ	0	2525	4	5	85	1	20	20	20	20	20	1		51200	113984				
+Bành Lãi Cổ Trạch	0	2525	4	5	85	1	20	20	20	20	20	1		62080	121984				
+Phục Ngưu Sơn	0	2525	4	5	85	1	20	20	20	20	20	1		51040	104288				
+to_juyilou	1															\setting\map\map_info\huanghelou\trap\to_juyilou.txt			
+Tụ Nghĩa Lâu	0	2525	4	5	85	1	20	20	20	20	20	1		54432	104832				
+Điệp Phiêu Phiêu	0	1001	3	5	85	1	20	20	20	20	20	1		54176	105088				
+Thợ săn Đông Ngư Đảo	0	929	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\dongyudaolieshou.txt			
+Đội 2	0	933	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\erduiyanbangbangshou.txt			
+Đệ Tử Cái Bang	0	939	3	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\gaibangdizi.txt			
+Bang Chúng Cự Kình Bang	0	931	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\jujingbangdizi.txt			
+Cường Phỉ Thanh Phong Trại	0	927	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\qingfengzhaiqiangfei.txt			
+Đội 3	0	934	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\sanduiyanbangbangshou.txt			
+Đệ Tử Thiên Vương Bang	0	938	3	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\tianwangbangdizi.txt			
+Đệ Tử Ngũ Độc Giáo	0	936	0	0	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\wudujiaodizi.txt			
+Đệ Tử Hình Ý Môn	0	930	0	0	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\xingyimendizi.txt			
+Vạn Tương	0	1003	3	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	61184	105152				
+Đội 1	0	932	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\huanghelou\npc\yiduiyanbangbangshou.txt			
+Tín Sứ	0	1120	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	51232	122784				
+Mạc Tiểu Tiểu	0	3087	0	5	85	1	20	20	20	20	20	16		58336	124416				0
+Phan Thủ An	0	3088	0	5	85	1	20	20	20	20	20	16		58272	111168				1
+Tùng Vô Ảnh	0	3089	0	5	85	1	20	20	20	20	20	16		60352	106464				2
+Đặng An Khuê	0	3090	0	5	85	1	20	20	20	20	20	16		52672	105632				

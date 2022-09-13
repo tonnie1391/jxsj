@@ -1,0 +1,4 @@
+InstanceLevel	Desc	RequirePlayerLevel	Favor	NpcFile	AwardFile
+1	Cấp 70 trở lên	70	35	\setting\task\treasuremap2\damogucheng\npc_level1.txt	\setting\task\treasuremap2\damogucheng\award_level1.txt
+2	Cấp 80 trở lên	80	40	\setting\task\treasuremap2\damogucheng\npc_level2.txt	\setting\task\treasuremap2\damogucheng\award_level2.txt
+3	Cấp 130 trở lên	130	45	\setting\task\treasuremap2\damogucheng\npc_level3.txt	\setting\task\treasuremap2\damogucheng\award_level3.txt

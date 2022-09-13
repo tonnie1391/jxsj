@@ -1,0 +1,42 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lộc Uyển Khán Thủ	0	851	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\luyuankanshou.txt	1		
+Hươu	0	852	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\lu.txt	1		
+Ô Man Sĩ Binh	0	2135	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\area1.txt	1		0
+Ô Man Sĩ Binh	0	2135	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\area4.txt	1		0
+Ô Man Cung Thủ	0	2136	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\area2.txt	1		1
+Ô Man Thần Vu	0	2137	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\area3.txt	1		1
+to_chamagudao	1															\setting\map\map_info\erhaimoyan\trap\to_chamagudao.txt			
+to_huanhuaxi	1															\setting\map\map_info\erhaimoyan\trap\to_huanhuaxi.txt			
+to_diancangshan	1															\setting\map\map_info\erhaimoyan\trap\to_diancangshan.txt			
+to_tianlongsi	1															\setting\map\map_info\erhaimoyan\trap\to_tianlongsi.txt			
+to_dalifu	1															\setting\map\map_info\erhaimoyan\trap\to_dalifu.txt			
+Trà Mã Cổ Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		63584	110144		1		
+Cán Hoa Khê	0	2525	4	5	1	1	20	20	20	20	20	1		60064	103104		1		
+Điểm Thương Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		51136	113792		1		
+Thiên Long Tự	0	2525	4	5	1	1	20	20	20	20	20	1		51136	104096		1		
+Đại Lý Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		57440	123264		1		
+Đạt Nhật A Xích	0	541	3	5	60	1	20	20	20	20	20	1		57056	117856		1		
+Ban Ban	0	843	0	5	60	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	61312	122080		1		
+Tế Nặc La	0	550	3	5	60	1	20	20	20	20	20	1		53504	121760		1		
+Bì La Các	0	551	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	54912	119904		1		
+Hỏa Công Hòa Thượng	0	543	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	57920	120288		1		
+Tiểu Kiều	0	1572	3	5	60	1	20	20	20	20	20	1		61088	121600		1		0
+Đại Tế Tư	0	1224	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\erhaimoyan\npc\dajisi.txt	1		
+Cơ Quan Nhân Bỏ Phế	0	1806	0	5	60	1	20	20	20	20	20	2		61696	106272		1		
+Huyết Phong Đằng	0	1632	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\erhaimoyan\npc\xuefengteng.txt			
+Hắc Tinh Thạch	0	1633	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\erhaimoyan\npc\heijingshi.txt			
+Kiếm Tặc	0	2966	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\erhaimoyan\npc\jianzei.txt			1
+Đao Tặc	0	2967	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\erhaimoyan\npc\daozei.txt			1
+Tô Cổ Ngâm	0	3015	0	5	55	1	20	20	20	20	20	16		55104	104064				2
+Tôn Văn Bưu	0	3016	0	5	55	1	20	20	20	20	20	16		54720	121216				0
+Đàm Thiên Quân	0	3017	0	5	55	1	20	20	20	20	20	16		60768	120128				1
+Đường Bác Văn	0	3018	0	5	55	1	20	20	20	20	20	16		62816	105568				2
+Hứa Linh	0	4394	3	5	150	1	20	20	20	20	20	1		57248	122688		1		
+La Tuyết	0	4395	3	5	150	1	20	20	20	20	20	1		54176	121856		1		
+Tiểu Khất Cái	0	4400	3	5	150	1	20	20	20	20	20	1		62784	112512		1		
+Điền Dung	0	4401	0	5	55	1	20	20	20	20	20	1		55072	111456				1
+Điền Dịch	0	4402	0	5	55	1	20	20	20	20	20	1		56480	109664				1
+to_baiguzhen	1															\setting\map\map_info\erhaimoyan\trap\to_baiguzhen.txt			
+to_lingdong	1															\setting\map\map_info\erhaimoyan\trap\to_lingdong.txt			
+Bách Cổ Trận	0	2525	4	5	1	1	20	20	20	20	20	1		59072	103456		1		
+Linh Động	0	2525	4	5	1	1	20	20	20	20	20	1		51776	118880		1		

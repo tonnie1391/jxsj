@@ -1,0 +1,1801 @@
+Name	Kind	kind3	kind2	kind7	kind4	kind5	kind6	SuiteID	bVN	b2	Category	Genre	DetailType	ParticularType	Level
+Tiên Duyên Phù	Trang bị xanh_Tiên Duyên Phù cho tất cả hệ phái hệ Kim			Hệ Kim		3	pve				1	2	6	11	10
+Tiên Duyên Phù	Trang bị xanh_Tiên Duyên Phù cho tất cả hệ phái hệ Mộc			hệ Mộc		3	pve				1	2	6	21	10
+Tiên Duyên Phù	Trang bị xanh_Tiên Duyên Phù cho tất cả hệ phái hệ Thủy			Hệ Thủy		3	pve				1	2	6	31	10
+Tiên Duyên Phù	Trang bị xanh_Tiên Duyên Phù cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		3	pve				1	2	6	41	10
+Tiên Duyên Phù	Trang bị xanh_Tiên Duyên Phù cho tất cả hệ phái hệ Thổ			Hệ Thổ		3	pve				1	2	6	51	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Kim			Hệ Kim		4	pve				1	2	6	61	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pve				1	2	6	71	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pve				1	2	6	81	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pve				1	2	6	91	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pve				1	2	6	101	10
+Tiên Duyên Phù	Trang bị tím PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Kim			Hệ Kim		4	pvp				1	2	6	111	10
+Tiên Duyên Phù	Trang bị tím PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pvp				1	2	6	121	10
+Tiên Duyên Phù	Trang bị tím PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pvp				1	2	6	131	10
+Tiên Duyên Phù	Trang bị tím PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pvp				1	2	6	141	10
+Tiên Duyên Phù	Trang bị tím PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pvp				1	2	6	151	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Kim			Hệ Kim		5	pve				1	2	6	161	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pve				1	2	6	171	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pve				1	2	6	181	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pve				1	2	6	191	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pve				1	2	6	201	10
+Tiên Duyên Phù	Trang bị cam PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Kim			Hệ Kim		5	pvp				1	2	6	211	10
+Tiên Duyên Phù	Trang bị cam PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pvp				1	2	6	221	10
+Tiên Duyên Phù	Trang bị cam PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pvp				1	2	6	231	10
+Tiên Duyên Phù	Trang bị cam PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pvp				1	2	6	241	10
+Tiên Duyên Phù	Trang bị cam PVP_Tiên Duyên Phù cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pvp				1	2	6	251	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Kim			Hệ Kim		6	pvp				1	2	6	252	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Mộc			hệ Mộc		6	pvp				1	2	6	253	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Thủy			Hệ Thủy		6	pvp				1	2	6	254	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Hỏa			Hệ Hỏa		6	pvp				1	2	6	255	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Thổ			Hệ Thổ		6	pvp				1	2	6	256	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Kim			Hệ Kim		7	pvp				1	2	6	257	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Mộc			hệ Mộc		7	pvp				1	2	6	258	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Thủy			Hệ Thủy		7	pvp				1	2	6	259	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Hỏa			Hệ Hỏa		7	pvp				1	2	6	260	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Thổ			Hệ Thổ		7	pvp				1	2	6	261	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù hệ Kim chuyển môn phái dùng			Hệ Kim		4	pve				1	2	6	262	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù hệ Mộc chuyển môn phái dùng			hệ Mộc		4	pve				1	2	6	263	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù hệ Thủy chuyển môn phái dùng			Hệ Thủy		4	pve				1	2	6	264	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù hệ Hỏa chuyển môn phái dùng			Hệ Hỏa		4	pve				1	2	6	265	10
+Tiên Duyên Phù	Trang bị tím PVE_Tiên Duyên Phù hệ Thổ chuyển môn phái dùng			Hệ Thổ		4	pve				1	2	6	266	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù hệ Kim chuyển môn phái dùng			Hệ Kim		5	pve				1	2	6	267	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù hệ Mộc chuyển môn phái dùng			hệ Mộc		5	pve				1	2	6	268	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù hệ Thủy chuyển môn phái dùng			Hệ Thủy		5	pve				1	2	6	269	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù hệ Hỏa chuyển môn phái dùng			Hệ Hỏa		5	pve				1	2	6	270	10
+Tiên Duyên Phù	Trang bị cam PVE_Tiên Duyên Phù hệ Thổ chuyển môn phái dùng			Hệ Thổ		5	pve				1	2	6	271	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Kim_vn			Hệ Kim		6	pvp		vn		1	2	6	272	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Mộc_vn			hệ Mộc		6	pvp		vn		1	2	6	273	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Thủy_vn			Hệ Thủy		6	pvp		vn		1	2	6	274	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Hỏa_vn			Hệ Hỏa		6	pvp		vn		1	2	6	275	10
+Hổ Phách Thiên Tinh Phù	Kỳ Phúc Bạch Ngân Phù hệ Thổ_vn			Hệ Thổ		6	pvp		vn		1	2	6	276	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Kim_vn			Hệ Kim		7	pvp		vn		1	2	6	277	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Mộc_vn			hệ Mộc		7	pvp		vn		1	2	6	278	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Thủy_vn			Hệ Thủy		7	pvp		vn		1	2	6	279	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Hỏa_vn			Hệ Hỏa		7	pvp		vn		1	2	6	280	10
+Lẫm Nhật Tinh Huyễn Phù	Kỳ Phúc Hoàng Kim Phù hệ Thổ_vn			Hệ Thổ		7	pvp		vn		1	2	6	281	10
+Kính Hoa Khải	Trang bị xanh_Kính Hoa Khải (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	3	pve				1	2	3	12	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Tích Lịch Kim Phượng Giáp (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	3	pve				1	2	3	22	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Thiên Nhẫn Bí Trang (Đao Thiếu)		Da	Hệ Kim	Nam	3	pve				1	2	3	32	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Cửu Vĩ Bạch Hồ Cầu (Đao Thiếu)		Da	Hệ Kim	Nữ	3	pve				1	2	3	42	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Thiên Nhẫn Bí Trang (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	3	pve				1	2	3	52	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Cửu Vĩ Bạch Hồ Cầu (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	3	pve				1	2	3	62	10
+Giáng Sa Bào	Trang bị xanh_Giáng Sa Bào (Chưởng Độc)		Vải	hệ Mộc	Nam	3	pve				1	2	3	72	10
+Trầm Hương Sam	Trang bị xanh_Trầm Hương Sam (Chưởng Độc)		Vải	hệ Mộc	Nữ	3	pve				1	2	3	82	10
+Kính Hoa Khải	Trang bị xanh_Kính Hoa Khải (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	3	pve				1	2	3	92	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Tích Lịch Kim Phượng Giáp (Chỉ Đoàn)			Hệ Thủy	Nữ	3	pve				1	2	3	102	10
+Giáng Sa Bào	Trang bị xanh_Giáng Sa Bào (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	3	pve				1	2	3	112	10
+Trầm Hương Sam	Trang bị xanh_Trầm Hương Sam (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	3	pve				1	2	3	122	10
+Kính Hoa Khải	Trang bị xanh_Kính Hoa Khải (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	3	pve				1	2	3	132	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Tích Lịch Kim Phượng Giáp (Chiến Nhẫn)			Hệ Hỏa	Nữ	3	pve				1	2	3	142	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Thiên Nhẫn Bí Trang (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	3	pve				1	2	3	152	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Cửu Vĩ Bạch Hồ Cầu (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	3	pve				1	2	3	162	10
+Kính Hoa Khải	Trang bị xanh_Kính Hoa Khải (Kiếm Võ)		Sắt	Hệ Thổ	Nam	3	pve				1	2	3	172	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Tích Lịch Kim Phượng Giáp (Kiếm Võ)			Hệ Thổ	Nữ	3	pve				1	2	3	182	10
+Giáng Sa Bào	Trang bị xanh_Giáng Sa Bào (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	3	pve				1	2	3	192	10
+Trầm Hương Sam	Trang bị xanh_Trầm Hương Sam (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	3	pve				1	2	3	202	10
+Kính Hoa Khải	Trang bị tím PVE_Kính Hoa Khải (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	4	pve				1	2	3	212	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVE_Tích Lịch Kim Phượng Giáp (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	4	pve				1	2	3	222	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVE_Thiên Nhẫn Bí Trang (Đao Thiếu)		Da	Hệ Kim	Nam	4	pve				1	2	3	232	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVE_Cửu Vĩ Bạch Hồ Cầu (Đao Thiếu)		Da	Hệ Kim	Nữ	4	pve				1	2	3	242	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVE_Thiên Nhẫn Bí Trang (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	4	pve				1	2	3	252	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVE_Cửu Vĩ Bạch Hồ Cầu (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	4	pve				1	2	3	262	10
+Giáng Sa Bào	Trang bị tím PVE_Giáng Sa Bào (Chưởng Độc)		Vải	hệ Mộc	Nam	4	pve				1	2	3	272	10
+Trầm Hương Sam	Trang bị tím PVE_Trầm Hương Sam (Chưởng Độc)		Vải	hệ Mộc	Nữ	4	pve				1	2	3	282	10
+Kính Hoa Khải	Trang bị tím PVE_Kính Hoa Khải (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	4	pve				1	2	3	292	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVE_Tích Lịch Kim Phượng Giáp (Chỉ Đoàn)			Hệ Thủy	Nữ	4	pve				1	2	3	302	10
+Giáng Sa Bào	Trang bị tím PVE_Giáng Sa Bào (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	4	pve				1	2	3	312	10
+Trầm Hương Sam	Trang bị tím PVE_Trầm Hương Sam (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	4	pve				1	2	3	322	10
+Kính Hoa Khải	Trang bị tím PVE_Kính Hoa Khải (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	4	pve				1	2	3	332	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVE_Tích Lịch Kim Phượng Giáp (Chiến Nhẫn)			Hệ Hỏa	Nữ	4	pve				1	2	3	342	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVE_Thiên Nhẫn Bí Trang (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	4	pve				1	2	3	352	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVE_Cửu Vĩ Bạch Hồ Cầu (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	4	pve				1	2	3	362	10
+Kính Hoa Khải	Trang bị tím PVE_Kính Hoa Khải (Kiếm Võ)		Sắt	Hệ Thổ	Nam	4	pve				1	2	3	372	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVE_Tích Lịch Kim Phượng Giáp (Kiếm Võ)			Hệ Thổ	Nữ	4	pve				1	2	3	382	10
+Giáng Sa Bào	Trang bị tím PVE_Giáng Sa Bào (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	4	pve				1	2	3	392	10
+Trầm Hương Sam	Trang bị tím PVE_Trầm Hương Sam (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	4	pve				1	2	3	402	10
+Kính Hoa Khải	Trang bị tím PVP_Kính Hoa Khải (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	4	pvp				1	2	3	412	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Tích Lịch Kim Phượng Giáp (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	4	pvp				1	2	3	422	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Thiên Nhẫn Bí Trang (Đao Thiếu)		Da	Hệ Kim	Nam	4	pvp				1	2	3	432	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Cửu Vĩ Bạch Hồ Cầu (Đao Thiếu)		Da	Hệ Kim	Nữ	4	pvp				1	2	3	442	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Thiên Nhẫn Bí Trang (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	4	pvp				1	2	3	452	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Cửu Vĩ Bạch Hồ Cầu (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	4	pvp				1	2	3	462	10
+Giáng Sa Bào	Trang bị tím PVP_Giáng Sa Bào (Chưởng Độc)		Vải	hệ Mộc	Nam	4	pvp				1	2	3	472	10
+Trầm Hương Sam	Trang bị tím PVP_Trầm Hương Sam (Chưởng Độc)		Vải	hệ Mộc	Nữ	4	pvp				1	2	3	482	10
+Kính Hoa Khải	Trang bị tím PVP_Kính Hoa Khải (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	4	pvp				1	2	3	492	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Tích Lịch Kim Phượng Giáp (Chỉ Đoàn)			Hệ Thủy	Nữ	4	pvp				1	2	3	502	10
+Giáng Sa Bào	Trang bị tím PVP_Giáng Sa Bào (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	4	pvp				1	2	3	512	10
+Trầm Hương Sam	Trang bị tím PVP_Trầm Hương Sam (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	4	pvp				1	2	3	522	10
+Kính Hoa Khải	Trang bị tím PVP_Kính Hoa Khải (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	4	pvp				1	2	3	532	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Tích Lịch Kim Phượng Giáp (Chiến Nhẫn)			Hệ Hỏa	Nữ	4	pvp				1	2	3	542	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Thiên Nhẫn Bí Trang (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	4	pvp				1	2	3	552	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Cửu Vĩ Bạch Hồ Cầu (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	4	pvp				1	2	3	562	10
+Kính Hoa Khải	Trang bị tím PVP_Kính Hoa Khải (Kiếm Võ)		Sắt	Hệ Thổ	Nam	4	pvp				1	2	3	572	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Tích Lịch Kim Phượng Giáp (Kiếm Võ)			Hệ Thổ	Nữ	4	pvp				1	2	3	582	10
+Giáng Sa Bào	Trang bị tím PVP_Giáng Sa Bào (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	4	pvp				1	2	3	592	10
+Trầm Hương Sam	Trang bị tím PVP_Trầm Hương Sam (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	4	pvp				1	2	3	602	10
+Kính Hoa Khải	Trang bị cam PVE_Kính Hoa Khải (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	5	pve				1	2	3	612	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVE_Tích Lịch Kim Phượng Giáp (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	5	pve				1	2	3	622	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVE_Thiên Nhẫn Bí Trang (Đao Thiếu)		Da	Hệ Kim	Nam	5	pve				1	2	3	632	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVE_Cửu Vĩ Bạch Hồ Cầu (Đao Thiếu)		Da	Hệ Kim	Nữ	5	pve				1	2	3	642	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVE_Thiên Nhẫn Bí Trang (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	5	pve				1	2	3	652	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVE_Cửu Vĩ Bạch Hồ Cầu (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	5	pve				1	2	3	662	10
+Giáng Sa Bào	Trang bị cam PVE_Giáng Sa Bào (Chưởng Độc)		Vải	hệ Mộc	Nam	5	pve				1	2	3	672	10
+Trầm Hương Sam	Trang bị cam PVE_Trầm Hương Sam (Chưởng Độc)		Vải	hệ Mộc	Nữ	5	pve				1	2	3	682	10
+Kính Hoa Khải	Trang bị cam PVE_Kính Hoa Khải (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	5	pve				1	2	3	692	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVE_Tích Lịch Kim Phượng Giáp (Chỉ Đoàn)			Hệ Thủy	Nữ	5	pve				1	2	3	702	10
+Giáng Sa Bào	Trang bị cam PVE_Giáng Sa Bào (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	5	pve				1	2	3	712	10
+Trầm Hương Sam	Trang bị cam PVE_Trầm Hương Sam (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	5	pve				1	2	3	722	10
+Kính Hoa Khải	Trang bị cam PVE_Kính Hoa Khải (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	5	pve				1	2	3	732	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVE_Tích Lịch Kim Phượng Giáp (Chiến Nhẫn)			Hệ Hỏa	Nữ	5	pve				1	2	3	742	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVE_Thiên Nhẫn Bí Trang (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	5	pve				1	2	3	752	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVE_Cửu Vĩ Bạch Hồ Cầu (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	5	pve				1	2	3	762	10
+Kính Hoa Khải	Trang bị cam PVE_Kính Hoa Khải (Kiếm Võ)		Sắt	Hệ Thổ	Nam	5	pve				1	2	3	772	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVE_Tích Lịch Kim Phượng Giáp (Kiếm Võ)			Hệ Thổ	Nữ	5	pve				1	2	3	782	10
+Giáng Sa Bào	Trang bị cam PVE_Giáng Sa Bào (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	5	pve				1	2	3	792	10
+Trầm Hương Sam	Trang bị cam PVE_Trầm Hương Sam (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	5	pve				1	2	3	802	10
+Kính Hoa Khải	Trang bị cam PVP_Kính Hoa Khải (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	5	pvp				1	2	3	812	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Tích Lịch Kim Phượng Giáp (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	5	pvp				1	2	3	822	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Thiên Nhẫn Bí Trang (Đao Thiếu)		Da	Hệ Kim	Nam	5	pvp				1	2	3	832	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Cửu Vĩ Bạch Hồ Cầu (Đao Thiếu)		Da	Hệ Kim	Nữ	5	pvp				1	2	3	842	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Thiên Nhẫn Bí Trang (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	5	pvp				1	2	3	852	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Cửu Vĩ Bạch Hồ Cầu (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	5	pvp				1	2	3	862	10
+Giáng Sa Bào	Trang bị cam PVP_Giáng Sa Bào (Chưởng Độc)		Vải	hệ Mộc	Nam	5	pvp				1	2	3	872	10
+Trầm Hương Sam	Trang bị cam PVP_Trầm Hương Sam (Chưởng Độc)		Vải	hệ Mộc	Nữ	5	pvp				1	2	3	882	10
+Kính Hoa Khải	Trang bị cam PVP_Kính Hoa Khải (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	5	pvp				1	2	3	892	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Tích Lịch Kim Phượng Giáp (Chỉ Đoàn)			Hệ Thủy	Nữ	5	pvp				1	2	3	902	10
+Giáng Sa Bào	Trang bị cam PVP_Giáng Sa Bào (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	5	pvp				1	2	3	912	10
+Trầm Hương Sam	Trang bị cam PVP_Trầm Hương Sam (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	5	pvp				1	2	3	922	10
+Kính Hoa Khải	Trang bị cam PVP_Kính Hoa Khải (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	5	pvp				1	2	3	932	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Tích Lịch Kim Phượng Giáp (Chiến Nhẫn)			Hệ Hỏa	Nữ	5	pvp				1	2	3	942	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Thiên Nhẫn Bí Trang (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	5	pvp				1	2	3	952	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Cửu Vĩ Bạch Hồ Cầu (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	5	pvp				1	2	3	962	10
+Kính Hoa Khải	Trang bị cam PVP_Kính Hoa Khải (Kiếm Võ)		Sắt	Hệ Thổ	Nam	5	pvp				1	2	3	972	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Tích Lịch Kim Phượng Giáp (Kiếm Võ)			Hệ Thổ	Nữ	5	pvp				1	2	3	982	10
+Giáng Sa Bào	Trang bị cam PVP_Giáng Sa Bào (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	5	pvp				1	2	3	992	10
+Trầm Hương Sam	Trang bị cam PVP_Trầm Hương Sam (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	5	pvp				1	2	3	1002	10
+Kính Hoa Khải	Trang bị xanh_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	3	pvp				1	2	3	1008	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	3	pvp				1	2	3	1014	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nam	3	pvp				1	2	3	1020	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nữ	3	pvp				1	2	3	1026	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	3	pvp				1	2	3	1032	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	3	pvp				1	2	3	1038	10
+Giáng Sa Bào	Trang bị xanh_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nam	3	pvp				1	2	3	1044	10
+Trầm Hương Sam	Trang bị xanh_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nữ	3	pvp				1	2	3	1050	10
+Kính Hoa Khải	Trang bị xanh_Trang bị danh vọng cấp 10 (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	3	pvp				1	2	3	1056	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Trang bị danh vọng cấp 10 (Chỉ Đoàn)			Hệ Thủy	Nữ	3	pvp				1	2	3	1062	10
+Giáng Sa Bào	Trang bị xanh_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	3	pvp				1	2	3	1068	10
+Trầm Hương Sam	Trang bị xanh_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	3	pvp				1	2	3	1074	10
+Kính Hoa Khải	Trang bị xanh_Trang bị danh vọng cấp 10 (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	3	pvp				1	2	3	1080	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Trang bị danh vọng cấp 10 (Chiến Nhẫn)			Hệ Hỏa	Nữ	3	pvp				1	2	3	1086	10
+Thiên Nhẫn Bí Trang	Trang bị xanh_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	3	pvp				1	2	3	1092	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị xanh_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	3	pvp				1	2	3	1098	10
+Kính Hoa Khải	Trang bị xanh_Trang bị danh vọng cấp 10 (Kiếm Võ)		Sắt	Hệ Thổ	Nam	3	pvp				1	2	3	1104	10
+Tích Lịch Kim Phượng Giáp	Trang bị xanh_Trang bị danh vọng cấp 10 (Kiếm Võ)			Hệ Thổ	Nữ	3	pvp				1	2	3	1110	10
+Giáng Sa Bào	Trang bị xanh_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	3	pvp				1	2	3	1116	10
+Trầm Hương Sam	Trang bị xanh_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	3	pvp				1	2	3	1122	10
+Kính Hoa Khải	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	4	pvp				1	2	3	1128	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	4	pvp				1	2	3	1134	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nam	4	pvp				1	2	3	1140	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nữ	4	pvp				1	2	3	1146	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	4	pvp				1	2	3	1152	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	4	pvp				1	2	3	1158	10
+Giáng Sa Bào	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nam	4	pvp				1	2	3	1164	10
+Trầm Hương Sam	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nữ	4	pvp				1	2	3	1170	10
+Kính Hoa Khải	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	4	pvp				1	2	3	1176	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chỉ Đoàn)			Hệ Thủy	Nữ	4	pvp				1	2	3	1182	10
+Giáng Sa Bào	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	4	pvp				1	2	3	1188	10
+Trầm Hương Sam	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	4	pvp				1	2	3	1194	10
+Kính Hoa Khải	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	4	pvp				1	2	3	1200	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Chiến Nhẫn)			Hệ Hỏa	Nữ	4	pvp				1	2	3	1206	10
+Thiên Nhẫn Bí Trang	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	4	pvp				1	2	3	1212	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	4	pvp				1	2	3	1218	10
+Kính Hoa Khải	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Kiếm Võ)		Sắt	Hệ Thổ	Nam	4	pvp				1	2	3	1224	10
+Tích Lịch Kim Phượng Giáp	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Kiếm Võ)			Hệ Thổ	Nữ	4	pvp				1	2	3	1230	10
+Giáng Sa Bào	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	4	pvp				1	2	3	1236	10
+Trầm Hương Sam	Trang bị tím PVP_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	4	pvp				1	2	3	1242	10
+Kính Hoa Khải	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	5	pvp				1	2	3	1248	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Côn Thiếu, Thiên Vương)			Hệ Kim	Nữ	5	pvp				1	2	3	1254	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nam	5	pvp				1	2	3	1260	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Đao Thiếu)		Da	Hệ Kim	Nữ	5	pvp				1	2	3	1266	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	5	pvp				1	2	3	1272	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	5	pvp				1	2	3	1278	10
+Giáng Sa Bào	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nam	5	pvp				1	2	3	1284	10
+Trầm Hương Sam	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chưởng Độc)		Vải	hệ Mộc	Nữ	5	pvp				1	2	3	1290	10
+Kính Hoa Khải	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	5	pvp				1	2	3	1296	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chỉ Đoàn)			Hệ Thủy	Nữ	5	pvp				1	2	3	1302	10
+Giáng Sa Bào	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nam	5	pvp				1	2	3	1308	10
+Trầm Hương Sam	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Nga My, Thúy Yên, Khí Đoàn)		Vải	Hệ Thủy	Nữ	5	pvp				1	2	3	1314	10
+Kính Hoa Khải	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	5	pvp				1	2	3	1320	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Chiến Nhẫn)			Hệ Hỏa	Nữ	5	pvp				1	2	3	1326	10
+Thiên Nhẫn Bí Trang	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	5	pvp				1	2	3	1332	10
+Cửu Vĩ Bạch Hồ Cầu	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	5	pvp				1	2	3	1338	10
+Kính Hoa Khải	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Kiếm Võ)		Sắt	Hệ Thổ	Nam	5	pvp				1	2	3	1344	10
+Tích Lịch Kim Phượng Giáp	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Kiếm Võ)			Hệ Thổ	Nữ	5	pvp				1	2	3	1350	10
+Giáng Sa Bào	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	5	pvp				1	2	3	1356	10
+Trầm Hương Sam	Trang bị cam PVP_Trang bị danh vọng cấp 10 (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	5	pvp				1	2	3	1362	10
+Võ Hầu Thúc Đái	Trang bị xanh_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pve				1	2	8	10	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pve				1	2	8	20	10
+Võ Hầu Thúc Đái	Trang bị xanh_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pve				1	2	8	30	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pve				1	2	8	40	10
+Võ Hầu Thúc Đái	Trang bị xanh_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pve				1	2	8	50	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pve				1	2	8	60	10
+Võ Hầu Thúc Đái	Trang bị xanh_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pve				1	2	8	70	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pve				1	2	8	80	10
+Võ Hầu Thúc Đái	Trang bị xanh_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pve				1	2	8	90	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pve				1	2	8	100	10
+Võ Hầu Thúc Đái	Trang bị tím PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pve				1	2	8	110	10
+Việt Nữ Ngọc Đái	Trang bị tím PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pve				1	2	8	120	10
+Võ Hầu Thúc Đái	Trang bị tím PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pve				1	2	8	130	10
+Việt Nữ Ngọc Đái	Trang bị tím PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pve				1	2	8	140	10
+Võ Hầu Thúc Đái	Trang bị tím PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pve				1	2	8	150	10
+Việt Nữ Ngọc Đái	Trang bị tím PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pve				1	2	8	160	10
+Võ Hầu Thúc Đái	Trang bị tím PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pve				1	2	8	170	10
+Việt Nữ Ngọc Đái	Trang bị tím PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pve				1	2	8	180	10
+Võ Hầu Thúc Đái	Trang bị tím PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pve				1	2	8	190	10
+Việt Nữ Ngọc Đái	Trang bị tím PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pve				1	2	8	200	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	8	210	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	8	220	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	8	230	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	8	240	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	8	250	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	8	260	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	8	270	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	8	280	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	8	290	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	8	300	10
+Võ Hầu Thúc Đái	Trang bị cam PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pve				1	2	8	310	10
+Việt Nữ Ngọc Đái	Trang bị cam PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pve				1	2	8	320	10
+Võ Hầu Thúc Đái	Trang bị cam PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pve				1	2	8	330	10
+Việt Nữ Ngọc Đái	Trang bị cam PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pve				1	2	8	340	10
+Võ Hầu Thúc Đái	Trang bị cam PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pve				1	2	8	350	10
+Việt Nữ Ngọc Đái	Trang bị cam PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pve				1	2	8	360	10
+Võ Hầu Thúc Đái	Trang bị cam PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pve				1	2	8	370	10
+Việt Nữ Ngọc Đái	Trang bị cam PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pve				1	2	8	380	10
+Võ Hầu Thúc Đái	Trang bị cam PVE_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pve				1	2	8	390	10
+Việt Nữ Ngọc Đái	Trang bị cam PVE_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pve				1	2	8	400	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	8	410	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	8	420	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	8	430	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	8	440	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	8	450	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	8	460	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	8	470	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	8	480	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Võ Hầu Thúc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	8	490	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Việt Nữ Ngọc Đái cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	8	500	10
+Võ Hầu Thúc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pvp				1	2	8	505	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pvp				1	2	8	510	10
+Võ Hầu Thúc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pvp				1	2	8	515	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pvp				1	2	8	520	10
+Võ Hầu Thúc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pvp				1	2	8	525	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pvp				1	2	8	530	10
+Võ Hầu Thúc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pvp				1	2	8	535	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pvp				1	2	8	540	10
+Võ Hầu Thúc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pvp				1	2	8	545	10
+Việt Nữ Ngọc Đái	Trang bị xanh_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pvp				1	2	8	550	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	8	555	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	8	560	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	8	565	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	8	570	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	8	575	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	8	580	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	8	585	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	8	590	10
+Võ Hầu Thúc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	8	595	10
+Việt Nữ Ngọc Đái	Trang bị tím PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	8	600	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	8	605	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	8	610	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	8	615	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	8	620	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	8	625	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	8	630	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	8	635	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	8	640	10
+Võ Hầu Thúc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	8	645	10
+Việt Nữ Ngọc Đái	Trang bị cam PVP_Yêu đái danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	8	650	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Kim 08			Hệ Kim	Nam	6	pvp				1	2	8	651	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Mộc 08			hệ Mộc	Nam	6	pvp				1	2	8	652	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Thủy 08			Hệ Thủy	Nam	6	pvp				1	2	8	653	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Hỏa 08			Hệ Hỏa	Nam	6	pvp				1	2	8	654	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Thổ 08			Hệ Thổ	Nam	6	pvp				1	2	8	655	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Kim 08			Hệ Kim	Nữ	6	pvp				1	2	8	656	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Mộc 08			hệ Mộc	Nữ	6	pvp				1	2	8	657	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Thủy 08			Hệ Thủy	Nữ	6	pvp				1	2	8	658	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Hỏa 08			Hệ Hỏa	Nữ	6	pvp				1	2	8	659	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Thổ 08			Hệ Thổ	Nữ	6	pvp				1	2	8	660	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Kim 08			Hệ Kim	Nam	7	pvp				1	2	8	661	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Mộc 08			hệ Mộc	Nam	7	pvp				1	2	8	662	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Thủy 08			Hệ Thủy	Nam	7	pvp				1	2	8	663	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Hỏa 08			Hệ Hỏa	Nam	7	pvp				1	2	8	664	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Thổ 08			Hệ Thổ	Nam	7	pvp				1	2	8	665	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Kim 08			Hệ Kim	Nữ	7	pvp				1	2	8	666	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Mộc 08			hệ Mộc	Nữ	7	pvp				1	2	8	667	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Thủy 08			Hệ Thủy	Nữ	7	pvp				1	2	8	668	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Hỏa 08			Hệ Hỏa	Nữ	7	pvp				1	2	8	669	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Thổ 08			Hệ Thổ	Nữ	7	pvp				1	2	8	670	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Kim 08_vn			Hệ Kim	Nam	6	pvp		vn		1	2	8	671	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Mộc 08_vn			hệ Mộc	Nam	6	pvp		vn		1	2	8	672	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Thủy 08_vn			Hệ Thủy	Nam	6	pvp		vn		1	2	8	673	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Hỏa 08_vn			Hệ Hỏa	Nam	6	pvp		vn		1	2	8	674	10
+Hoa Hạ Đằng Long Thúc Yêu	Ngân yêu đái nam hệ Thổ_vn			Hệ Thổ	Nam	6	pvp		vn		1	2	8	675	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Kim 08_vn			Hệ Kim	Nữ	6	pvp		vn		1	2	8	676	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Mộc 08_vn			hệ Mộc	Nữ	6	pvp		vn		1	2	8	677	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Thủy 08_vn			Hệ Thủy	Nữ	6	pvp		vn		1	2	8	678	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Hỏa 08_vn			Hệ Hỏa	Nữ	6	pvp		vn		1	2	8	679	10
+Hoa Hạ Phi Phụng Ngọc Đái	Ngân yêu đái nữ hệ Thổ 08_vn			Hệ Thổ	Nữ	6	pvp		vn		1	2	8	680	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Kim 08_vn			Hệ Kim	Nam	7	pvp		vn		1	2	8	681	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Mộc 08_vn			hệ Mộc	Nam	7	pvp		vn		1	2	8	682	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Thủy 08_vn			Hệ Thủy	Nam	7	pvp		vn		1	2	8	683	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Hỏa 08_vn			Hệ Hỏa	Nam	7	pvp		vn		1	2	8	684	10
+Thần Châu Viêm Đế Thúc Yêu	Kim yêu đái nam hệ Thổ 08_vn			Hệ Thổ	Nam	7	pvp		vn		1	2	8	685	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Kim 08_vn			Hệ Kim	Nữ	7	pvp		vn		1	2	8	686	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Mộc 08_vn			hệ Mộc	Nữ	7	pvp		vn		1	2	8	687	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Thủy 08_vn			Hệ Thủy	Nữ	7	pvp		vn		1	2	8	688	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Hỏa 08_vn			Hệ Hỏa	Nữ	7	pvp		vn		1	2	8	689	10
+Thần Châu Nữ Oa Ngọc Đái	Kim yêu đái nữ hệ Thổ 08_vn			Hệ Thổ	Nữ	7	pvp		vn		1	2	8	690	10
+Thiên Tàm Ngoa	Trang bị xanh_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pve				1	2	7	12	10
+Phi Phụng Ngoa	Trang bị xanh_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pve				1	2	7	22	10
+Thiên Tàm Ngoa	Trang bị xanh_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pve				1	2	7	32	10
+Phi Phụng Ngoa	Trang bị xanh_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pve				1	2	7	42	10
+Thiên Tàm Ngoa	Trang bị xanh_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pve				1	2	7	52	10
+Phi Phụng Ngoa	Trang bị xanh_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pve				1	2	7	62	10
+Thiên Tàm Ngoa	Trang bị xanh_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pve				1	2	7	72	10
+Phi Phụng Ngoa	Trang bị xanh_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pve				1	2	7	82	10
+Thiên Tàm Ngoa	Trang bị xanh_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pve				1	2	7	92	10
+Phi Phụng Ngoa	Trang bị xanh_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pve				1	2	7	102	10
+Thiên Tàm Ngoa	Trang bị tím PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pve				1	2	7	112	10
+Phi Phụng Ngoa	Trang bị tím PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pve				1	2	7	122	10
+Thiên Tàm Ngoa	Trang bị tím PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pve				1	2	7	132	10
+Phi Phụng Ngoa	Trang bị tím PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pve				1	2	7	142	10
+Thiên Tàm Ngoa	Trang bị tím PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pve				1	2	7	152	10
+Phi Phụng Ngoa	Trang bị tím PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pve				1	2	7	162	10
+Thiên Tàm Ngoa	Trang bị tím PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pve				1	2	7	172	10
+Phi Phụng Ngoa	Trang bị tím PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pve				1	2	7	182	10
+Thiên Tàm Ngoa	Trang bị tím PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pve				1	2	7	192	10
+Phi Phụng Ngoa	Trang bị tím PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pve				1	2	7	202	10
+Thiên Tàm Ngoa	Trang bị tím PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	7	212	10
+Phi Phụng Ngoa	Trang bị tím PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	7	222	10
+Thiên Tàm Ngoa	Trang bị tím PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	7	232	10
+Phi Phụng Ngoa	Trang bị tím PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	7	242	10
+Thiên Tàm Ngoa	Trang bị tím PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	7	252	10
+Phi Phụng Ngoa	Trang bị tím PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	7	262	10
+Thiên Tàm Ngoa	Trang bị tím PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	7	272	10
+Phi Phụng Ngoa	Trang bị tím PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	7	282	10
+Thiên Tàm Ngoa	Trang bị tím PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	7	292	10
+Phi Phụng Ngoa	Trang bị tím PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	7	302	10
+Thiên Tàm Ngoa	Trang bị cam PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pve				1	2	7	312	10
+Phi Phụng Ngoa	Trang bị cam PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pve				1	2	7	322	10
+Thiên Tàm Ngoa	Trang bị cam PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pve				1	2	7	332	10
+Phi Phụng Ngoa	Trang bị cam PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pve				1	2	7	342	10
+Thiên Tàm Ngoa	Trang bị cam PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pve				1	2	7	352	10
+Phi Phụng Ngoa	Trang bị cam PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pve				1	2	7	362	10
+Thiên Tàm Ngoa	Trang bị cam PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pve				1	2	7	372	10
+Phi Phụng Ngoa	Trang bị cam PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pve				1	2	7	382	10
+Thiên Tàm Ngoa	Trang bị cam PVE_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pve				1	2	7	392	10
+Phi Phụng Ngoa	Trang bị cam PVE_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pve				1	2	7	402	10
+Thiên Tàm Ngoa	Trang bị cam PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	7	412	10
+Phi Phụng Ngoa	Trang bị cam PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	7	422	10
+Thiên Tàm Ngoa	Trang bị cam PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	7	432	10
+Phi Phụng Ngoa	Trang bị cam PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	7	442	10
+Thiên Tàm Ngoa	Trang bị cam PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	7	452	10
+Phi Phụng Ngoa	Trang bị cam PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	7	462	10
+Thiên Tàm Ngoa	Trang bị cam PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	7	472	10
+Phi Phụng Ngoa	Trang bị cam PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	7	482	10
+Thiên Tàm Ngoa	Trang bị cam PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	7	492	10
+Phi Phụng Ngoa	Trang bị cam PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	7	502	10
+Bá Vương Ngoa	Bạch Ngân PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	6	pvp				1	2	7	503	10
+Huyền Nữ Ngoa	Bạch Ngân PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	6	pvp				1	2	7	504	10
+Bá Vương Ngoa	Bạch Ngân PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	6	pvp				1	2	7	505	10
+Huyền Nữ Ngoa	Bạch Ngân PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	6	pvp				1	2	7	506	10
+Bá Vương Ngoa	Bạch Ngân PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	6	pvp				1	2	7	507	10
+Huyền Nữ Ngoa	Bạch Ngân PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	6	pvp				1	2	7	508	10
+Bá Vương Ngoa	Bạch Ngân PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	6	pvp				1	2	7	509	10
+Huyền Nữ Ngoa	Bạch Ngân PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	6	pvp				1	2	7	510	10
+Bá Vương Ngoa	Bạch Ngân PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	6	pvp				1	2	7	511	10
+Huyền Nữ Ngoa	Bạch Ngân PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	6	pvp				1	2	7	512	10
+Hậu Nghệ Lữ	Hoàng Kim PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	7	pvp				1	2	7	513	10
+Hằng Nga Lữ	Hoàng Kim PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	7	pvp				1	2	7	514	10
+Hậu Nghệ Lữ	Hoàng Kim PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	7	pvp				1	2	7	515	10
+Hằng Nga Lữ	Hoàng Kim PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	7	pvp				1	2	7	516	10
+Hậu Nghệ Lữ	Hoàng Kim PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	7	pvp				1	2	7	517	10
+Hằng Nga Lữ	Hoàng Kim PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	7	pvp				1	2	7	518	10
+Hậu Nghệ Lữ	Hoàng Kim PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	7	pvp				1	2	7	519	10
+Hằng Nga Lữ	Hoàng Kim PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	7	pvp				1	2	7	520	10
+Hậu Nghệ Lữ	Hoàng Kim PVP_Thiên Tàm Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	7	pvp				1	2	7	521	10
+Hằng Nga Lữ	Hoàng Kim PVP_Phi Phụng Ngoa cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	7	pvp				1	2	7	522	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pve				1	2	10	12	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pve				1	2	10	22	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pve				1	2	10	32	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pve				1	2	10	42	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pve				1	2	10	52	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pve				1	2	10	62	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pve				1	2	10	72	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pve				1	2	10	82	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pve				1	2	10	92	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pve				1	2	10	102	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pve				1	2	10	112	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pve				1	2	10	122	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pve				1	2	10	132	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pve				1	2	10	142	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pve				1	2	10	152	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pve				1	2	10	162	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pve				1	2	10	172	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pve				1	2	10	182	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pve				1	2	10	192	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pve				1	2	10	202	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	10	212	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	10	222	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	10	232	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	10	242	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	10	252	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	10	262	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	10	272	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	10	282	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	10	292	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	10	302	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pve				1	2	10	312	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pve				1	2	10	322	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pve				1	2	10	332	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pve				1	2	10	342	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pve				1	2	10	352	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pve				1	2	10	362	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pve				1	2	10	372	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pve				1	2	10	382	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVE_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pve				1	2	10	392	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVE_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pve				1	2	10	402	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	10	412	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	10	422	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	10	432	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	10	442	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	10	452	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	10	462	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	10	472	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	10	482	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Thiên Tàm Hộ Uyển cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	10	492	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Long Phượng Huyết Ngọc Trạc cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	10	502	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pvp				1	2	10	508	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pvp				1	2	10	514	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pvp				1	2	10	520	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pvp				1	2	10	526	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pvp				1	2	10	532	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pvp				1	2	10	538	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pvp				1	2	10	544	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pvp				1	2	10	550	10
+Thiên Tàm Hộ Uyển	Trang bị xanh_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pvp				1	2	10	556	10
+Long Phượng Huyết Ngọc Trạc	Trang bị xanh_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pvp				1	2	10	562	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	10	568	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	10	574	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	10	580	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	10	586	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	10	592	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	10	598	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	10	604	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	10	610	10
+Thiên Tàm Hộ Uyển	Trang bị tím PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	10	616	10
+Long Phượng Huyết Ngọc Trạc	Trang bị tím PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	10	622	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	10	628	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	10	634	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	10	640	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	10	646	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	10	652	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	10	658	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	10	664	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	10	670	10
+Thiên Tàm Hộ Uyển	Trang bị cam PVP_Hộ Uyển danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	10	676	10
+Long Phượng Huyết Ngọc Trạc	Trang bị cam PVP_Thủ Trạc danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	10	682	10
+Thánh Lân Chi Uyển	Bạch Ngân_Hộ uyển hệ Kim			Hệ Kim	Nam	6	pvp				1	2	10	703	10
+Tỏa Hồn Chi Hoàn	Bạch Ngân_Thủ trạc hệ Kim			Hệ Kim	Nữ	6	pvp				1	2	10	704	10
+Thánh Lân Chi Uyển	Bạch Ngân_Hộ uyển hệ Mộc			hệ Mộc	Nam	6	pvp				1	2	10	705	10
+Tỏa Hồn Chi Hoàn	Bạch Ngân_Thủ trạc hệ Mộc			hệ Mộc	Nữ	6	pvp				1	2	10	706	10
+Thánh Lân Chi Uyển	Bạch Ngân_Hộ uyển hệ Thủy			Hệ Thủy	Nam	6	pvp				1	2	10	707	10
+Tỏa Hồn Chi Hoàn	Bạch Ngân_Thủ trạc hệ Thủy			Hệ Thủy	Nữ	6	pvp				1	2	10	708	10
+Thánh Lân Chi Uyển	Bạch Ngân_Hộ uyển hệ Hỏa			Hệ Hỏa	Nam	6	pvp				1	2	10	709	10
+Tỏa Hồn Chi Hoàn	Bạch Ngân_Thủ trạc hệ Hỏa			Hệ Hỏa	Nữ	6	pvp				1	2	10	710	10
+Thánh Lân Chi Uyển	Bạch Ngân_Hộ uyển hệ Thổ			Hệ Thổ	Nam	6	pvp				1	2	10	711	10
+Tỏa Hồn Chi Hoàn	Bạch Ngân_Thủ trạc hệ Thổ			Hệ Thổ	Nữ	6	pvp				1	2	10	712	10
+Hồng Hoang Chi Uyển	Hoàng Kim_Hộ uyển hệ Kim			Hệ Kim	Nam	7	pvp				1	2	10	713	10
+Ngự Thần Chi Hoàn	Hoàng Kim_Thủ trạc hệ Kim			Hệ Kim	Nữ	7	pvp				1	2	10	714	10
+Hồng Hoang Chi Uyển	Hoàng Kim_Hộ uyển hệ Mộc			hệ Mộc	Nam	7	pvp				1	2	10	715	10
+Ngự Thần Chi Hoàn	Hoàng Kim_Thủ trạc hệ Mộc			hệ Mộc	Nữ	7	pvp				1	2	10	716	10
+Hồng Hoang Chi Uyển	Hoàng Kim_Hộ uyển hệ Thủy			Hệ Thủy	Nam	7	pvp				1	2	10	717	10
+Ngự Thần Chi Hoàn	Hoàng Kim_Thủ trạc hệ Thủy			Hệ Thủy	Nữ	7	pvp				1	2	10	718	10
+Hồng Hoang Chi Uyển	Hoàng Kim_Hộ uyển hệ Hỏa			Hệ Hỏa	Nam	7	pvp				1	2	10	719	10
+Ngự Thần Chi Hoàn	Hoàng Kim_Thủ trạc hệ Hỏa			Hệ Hỏa	Nữ	7	pvp				1	2	10	720	10
+Hồng Hoang Chi Uyển	Hoàng Kim_Hộ uyển hệ Thổ			Hệ Thổ	Nam	7	pvp				1	2	10	721	10
+Ngự Thần Chi Hoàn	Hoàng Kim_Thủ trạc hệ Thổ			Hệ Thổ	Nữ	7	pvp				1	2	10	722	10
+Yểm Nhật Khôi	Trang bị xanh_Yểm Nhật Khôi (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	3	pve				1	2	9	10	10
+Song Phượng Triều Thiên Quán	Trang bị xanh_Song Phượng Triều Thiên Quán (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nữ	3	pve				1	2	9	20	10
+Tu La Phát Kết	Trang bị xanh_Tu La Phát Kết (Đao Thiếu)		Da	Hệ Kim	Nam	3	pve				1	2	9	30	10
+Huyền Tê Diện Tráo	Trang bị xanh_Huyền Tê Diện Tráo (Đao Thiếu)		Da	Hệ Kim	Nữ	3	pve				1	2	9	40	10
+Tu La Phát Kết	Trang bị xanh_Tu La Phát Kết (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	3	pve				1	2	9	50	10
+Huyền Tê Diện Tráo	Trang bị xanh_Huyền Tê Diện Tráo (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	3	pve				1	2	9	60	10
+Thông Thiên Phát Quán	Trang bị xanh_Thông Thiên Phát Quán (Chưởng Độc)		Vải	hệ Mộc	Nam	3	pve				1	2	9	70	10
+Trường Sinh Phát Kết	Trang bị xanh_Trường Sinh Phát Kết (Chưởng Độc)		Vải	hệ Mộc	Nữ	3	pve				1	2	9	80	10
+Yểm Nhật Khôi	Trang bị xanh_Yểm Nhật Khôi (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	3	pve				1	2	9	90	10
+Song Phượng Triều Thiên Quán	Trang bị xanh_Song Phượng Triều Thiên Quán (Chỉ Đoàn)		Sắt	Hệ Thủy	Nữ	3	pve				1	2	9	100	10
+Thông Thiên Phát Quán	Trang bị xanh_Thông Thiên Phát Quán (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nam	3	pve				1	2	9	110	10
+Trường Sinh Phát Kết	Trang bị xanh_Trường Sinh Phát Kết (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nữ	3	pve				1	2	9	120	10
+Yểm Nhật Khôi	Trang bị xanh_Yểm Nhật Khôi (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	3	pve				1	2	9	130	10
+Song Phượng Triều Thiên Quán	Trang bị xanh_Song Phượng Triều Thiên Quán (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nữ	3	pve				1	2	9	140	10
+Tu La Phát Kết	Trang bị xanh_Tu La Phát Kết (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	3	pve				1	2	9	150	10
+Huyền Tê Diện Tráo	Trang bị xanh_Huyền Tê Diện Tráo (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	3	pve				1	2	9	160	10
+Yểm Nhật Khôi	Trang bị xanh_Yểm Nhật Khôi (Kiếm Võ)		Sắt	Hệ Thổ	Nam	3	pve				1	2	9	170	10
+Song Phượng Triều Thiên Quán	Trang bị xanh_Song Phượng Triều Thiên Quán (Kiếm Võ)		Sắt	Hệ Thổ	Nữ	3	pve				1	2	9	180	10
+Thông Thiên Phát Quán	Trang bị xanh_Thông Thiên Phát Quán (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	3	pve				1	2	9	190	10
+Trường Sinh Phát Kết	Trang bị xanh_Trường Sinh Phát Kết (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	3	pve				1	2	9	200	10
+Yểm Nhật Khôi	Trang bị tím PVE_Yểm Nhật Khôi (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	4	pve				1	2	9	210	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVE_Song Phượng Triều Thiên Quán (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nữ	4	pve				1	2	9	220	10
+Tu La Phát Kết	Trang bị tím PVE_Tu La Phát Kết (Đao Thiếu)		Da	Hệ Kim	Nam	4	pve				1	2	9	230	10
+Huyền Tê Diện Tráo	Trang bị tím PVE_Huyền Tê Diện Tráo (Đao Thiếu)		Da	Hệ Kim	Nữ	4	pve				1	2	9	240	10
+Tu La Phát Kết	Trang bị tím PVE_Tu La Phát Kết (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	4	pve				1	2	9	250	10
+Huyền Tê Diện Tráo	Trang bị tím PVE_Huyền Tê Diện Tráo (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	4	pve				1	2	9	260	10
+Thông Thiên Phát Quán	Trang bị tím PVE_Thông Thiên Phát Quán (Chưởng Độc)		Vải	hệ Mộc	Nam	4	pve				1	2	9	270	10
+Trường Sinh Phát Kết	Trang bị tím PVE_Trường Sinh Phát Kết (Chưởng Độc)		Vải	hệ Mộc	Nữ	4	pve				1	2	9	280	10
+Yểm Nhật Khôi	Trang bị tím PVE_Yểm Nhật Khôi (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	4	pve				1	2	9	290	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVE_Song Phượng Triều Thiên Quán (Chỉ Đoàn)		Sắt	Hệ Thủy	Nữ	4	pve				1	2	9	300	10
+Thông Thiên Phát Quán	Trang bị tím PVE_Thông Thiên Phát Quán (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nam	4	pve				1	2	9	310	10
+Trường Sinh Phát Kết	Trang bị tím PVE_Trường Sinh Phát Kết (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nữ	4	pve				1	2	9	320	10
+Yểm Nhật Khôi	Trang bị tím PVE_Yểm Nhật Khôi (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	4	pve				1	2	9	330	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVE_Song Phượng Triều Thiên Quán (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nữ	4	pve				1	2	9	340	10
+Tu La Phát Kết	Trang bị tím PVE_Tu La Phát Kết (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	4	pve				1	2	9	350	10
+Huyền Tê Diện Tráo	Trang bị tím PVE_Huyền Tê Diện Tráo (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	4	pve				1	2	9	360	10
+Yểm Nhật Khôi	Trang bị tím PVE_Yểm Nhật Khôi (Kiếm Võ)		Sắt	Hệ Thổ	Nam	4	pve				1	2	9	370	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVE_Song Phượng Triều Thiên Quán (Kiếm Võ)		Sắt	Hệ Thổ	Nữ	4	pve				1	2	9	380	10
+Thông Thiên Phát Quán	Trang bị tím PVE_Thông Thiên Phát Quán (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	4	pve				1	2	9	390	10
+Trường Sinh Phát Kết	Trang bị tím PVE_Trường Sinh Phát Kết (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	4	pve				1	2	9	400	10
+Yểm Nhật Khôi	Trang bị tím PVP_Yểm Nhật Khôi (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	4	pvp				1	2	9	410	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVP_Song Phượng Triều Thiên Quán (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nữ	4	pvp				1	2	9	420	10
+Tu La Phát Kết	Trang bị tím PVP_Tu La Phát Kết (Đao Thiếu)		Da	Hệ Kim	Nam	4	pvp				1	2	9	430	10
+Huyền Tê Diện Tráo	Trang bị tím PVP_Huyền Tê Diện Tráo (Đao Thiếu)		Da	Hệ Kim	Nữ	4	pvp				1	2	9	440	10
+Tu La Phát Kết	Trang bị tím PVP_Tu La Phát Kết (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	4	pvp				1	2	9	450	10
+Huyền Tê Diện Tráo	Trang bị tím PVP_Huyền Tê Diện Tráo (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	4	pvp				1	2	9	460	10
+Thông Thiên Phát Quán	Trang bị tím PVP_Thông Thiên Phát Quán (Chưởng Độc)		Vải	hệ Mộc	Nam	4	pvp				1	2	9	470	10
+Trường Sinh Phát Kết	Trang bị tím PVP_Trường Sinh Phát Kết (Chưởng Độc)		Vải	hệ Mộc	Nữ	4	pvp				1	2	9	480	10
+Yểm Nhật Khôi	Trang bị tím PVP_Yểm Nhật Khôi (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	4	pvp				1	2	9	490	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVP_Song Phượng Triều Thiên Quán (Chỉ Đoàn)		Sắt	Hệ Thủy	Nữ	4	pvp				1	2	9	500	10
+Thông Thiên Phát Quán	Trang bị tím PVP_Thông Thiên Phát Quán (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nam	4	pvp				1	2	9	510	10
+Trường Sinh Phát Kết	Trang bị tím PVP_Trường Sinh Phát Kết (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nữ	4	pvp				1	2	9	520	10
+Yểm Nhật Khôi	Trang bị tím PVP_Yểm Nhật Khôi (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	4	pvp				1	2	9	530	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVP_Song Phượng Triều Thiên Quán (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nữ	4	pvp				1	2	9	540	10
+Tu La Phát Kết	Trang bị tím PVP_Tu La Phát Kết (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	4	pvp				1	2	9	550	10
+Huyền Tê Diện Tráo	Trang bị tím PVP_Huyền Tê Diện Tráo (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	4	pvp				1	2	9	560	10
+Yểm Nhật Khôi	Trang bị tím PVP_Yểm Nhật Khôi (Kiếm Võ)		Sắt	Hệ Thổ	Nam	4	pvp				1	2	9	570	10
+Song Phượng Triều Thiên Quán	Trang bị tím PVP_Song Phượng Triều Thiên Quán (Kiếm Võ)		Sắt	Hệ Thổ	Nữ	4	pvp				1	2	9	580	10
+Thông Thiên Phát Quán	Trang bị tím PVP_Thông Thiên Phát Quán (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	4	pvp				1	2	9	590	10
+Trường Sinh Phát Kết	Trang bị tím PVP_Trường Sinh Phát Kết (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	4	pvp				1	2	9	600	10
+Yểm Nhật Khôi	Trang bị cam PVE_Yểm Nhật Khôi (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	5	pve				1	2	9	610	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVE_Song Phượng Triều Thiên Quán (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nữ	5	pve				1	2	9	620	10
+Tu La Phát Kết	Trang bị cam PVE_Tu La Phát Kết (Đao Thiếu)		Da	Hệ Kim	Nam	5	pve				1	2	9	630	10
+Huyền Tê Diện Tráo	Trang bị cam PVE_Huyền Tê Diện Tráo (Đao Thiếu)		Da	Hệ Kim	Nữ	5	pve				1	2	9	640	10
+Tu La Phát Kết	Trang bị cam PVE_Tu La Phát Kết (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	5	pve				1	2	9	650	10
+Huyền Tê Diện Tráo	Trang bị cam PVE_Huyền Tê Diện Tráo (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	5	pve				1	2	9	660	10
+Thông Thiên Phát Quán	Trang bị cam PVE_Thông Thiên Phát Quán (Chưởng Độc)		Vải	hệ Mộc	Nam	5	pve				1	2	9	670	10
+Trường Sinh Phát Kết	Trang bị cam PVE_Trường Sinh Phát Kết (Chưởng Độc)		Vải	hệ Mộc	Nữ	5	pve				1	2	9	680	10
+Yểm Nhật Khôi	Trang bị cam PVE_Yểm Nhật Khôi (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	5	pve				1	2	9	690	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVE_Song Phượng Triều Thiên Quán (Chỉ Đoàn)		Sắt	Hệ Thủy	Nữ	5	pve				1	2	9	700	10
+Thông Thiên Phát Quán	Trang bị cam PVE_Thông Thiên Phát Quán (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nam	5	pve				1	2	9	710	10
+Trường Sinh Phát Kết	Trang bị cam PVE_Trường Sinh Phát Kết (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nữ	5	pve				1	2	9	720	10
+Yểm Nhật Khôi	Trang bị cam PVE_Yểm Nhật Khôi (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	5	pve				1	2	9	730	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVE_Song Phượng Triều Thiên Quán (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nữ	5	pve				1	2	9	740	10
+Tu La Phát Kết	Trang bị cam PVE_Tu La Phát Kết (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	5	pve				1	2	9	750	10
+Huyền Tê Diện Tráo	Trang bị cam PVE_Huyền Tê Diện Tráo (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	5	pve				1	2	9	760	10
+Yểm Nhật Khôi	Trang bị cam PVE_Yểm Nhật Khôi (Kiếm Võ)		Sắt	Hệ Thổ	Nam	5	pve				1	2	9	770	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVE_Song Phượng Triều Thiên Quán (Kiếm Võ)		Sắt	Hệ Thổ	Nữ	5	pve				1	2	9	780	10
+Thông Thiên Phát Quán	Trang bị cam PVE_Thông Thiên Phát Quán (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	5	pve				1	2	9	790	10
+Trường Sinh Phát Kết	Trang bị cam PVE_Trường Sinh Phát Kết (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	5	pve				1	2	9	800	10
+Yểm Nhật Khôi	Trang bị cam PVP_Yểm Nhật Khôi (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nam	5	pvp				1	2	9	810	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVP_Song Phượng Triều Thiên Quán (Côn Thiếu, Thiên Vương)		Sắt	Hệ Kim	Nữ	5	pvp				1	2	9	820	10
+Tu La Phát Kết	Trang bị cam PVP_Tu La Phát Kết (Đao Thiếu)		Da	Hệ Kim	Nam	5	pvp				1	2	9	830	10
+Huyền Tê Diện Tráo	Trang bị cam PVP_Huyền Tê Diện Tráo (Đao Thiếu)		Da	Hệ Kim	Nữ	5	pvp				1	2	9	840	10
+Tu La Phát Kết	Trang bị cam PVP_Tu La Phát Kết (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nam	5	pvp				1	2	9	850	10
+Huyền Tê Diện Tráo	Trang bị cam PVP_Huyền Tê Diện Tráo (Đao Độc, Đường Môn, Minh Giáo)		Da	hệ Mộc	Nữ	5	pvp				1	2	9	860	10
+Thông Thiên Phát Quán	Trang bị cam PVP_Thông Thiên Phát Quán (Chưởng Độc)		Vải	hệ Mộc	Nam	5	pvp				1	2	9	870	10
+Trường Sinh Phát Kết	Trang bị cam PVP_Trường Sinh Phát Kết (Chưởng Độc)		Vải	hệ Mộc	Nữ	5	pvp				1	2	9	880	10
+Yểm Nhật Khôi	Trang bị cam PVP_Yểm Nhật Khôi (Chỉ Đoàn)		Sắt	Hệ Thủy	Nam	5	pvp				1	2	9	890	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVP_Song Phượng Triều Thiên Quán (Chỉ Đoàn)		Sắt	Hệ Thủy	Nữ	5	pvp				1	2	9	900	10
+Thông Thiên Phát Quán	Trang bị cam PVP_Thông Thiên Phát Quán (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nam	5	pvp				1	2	9	910	10
+Trường Sinh Phát Kết	Trang bị cam PVP_Trường Sinh Phát Kết (Khí Đoàn, Thúy Yên, Nga My)		Vải	Hệ Thủy	Nữ	5	pvp				1	2	9	920	10
+Yểm Nhật Khôi	Trang bị cam PVP_Yểm Nhật Khôi (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nam	5	pvp				1	2	9	930	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVP_Song Phượng Triều Thiên Quán (Chiến Nhẫn)		Sắt	Hệ Hỏa	Nữ	5	pvp				1	2	9	940	10
+Tu La Phát Kết	Trang bị cam PVP_Tu La Phát Kết (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nam	5	pvp				1	2	9	950	10
+Huyền Tê Diện Tráo	Trang bị cam PVP_Huyền Tê Diện Tráo (Ma Nhẫn, Cái Bang)		Da	Hệ Hỏa	Nữ	5	pvp				1	2	9	960	10
+Yểm Nhật Khôi	Trang bị cam PVP_Yểm Nhật Khôi (Kiếm Võ)		Sắt	Hệ Thổ	Nam	5	pvp				1	2	9	970	10
+Song Phượng Triều Thiên Quán	Trang bị cam PVP_Song Phượng Triều Thiên Quán (Kiếm Võ)		Sắt	Hệ Thổ	Nữ	5	pvp				1	2	9	980	10
+Thông Thiên Phát Quán	Trang bị cam PVP_Thông Thiên Phát Quán (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nam	5	pvp				1	2	9	990	10
+Trường Sinh Phát Kết	Trang bị cam PVP_Trường Sinh Phát Kết (Khí Võ, Côn Lôn)		Vải	Hệ Thổ	Nữ	5	pvp				1	2	9	1000	10
+Triều Lộ Liên	Trang bị xanh_Triều Lộ Liên cho tất cả hệ phái hệ Kim			Hệ Kim		3	pve				1	2	5	10	10
+Triều Lộ Liên	Trang bị xanh_Triều Lộ Liên cho tất cả hệ phái hệ Mộc			hệ Mộc		3	pve				1	2	5	20	10
+Triều Lộ Liên	Trang bị xanh_Triều Lộ Liên cho tất cả hệ phái hệ Thủy			Hệ Thủy		3	pve				1	2	5	30	10
+Triều Lộ Liên	Trang bị xanh_Triều Lộ Liên cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		3	pve				1	2	5	40	10
+Triều Lộ Liên	Trang bị xanh_Triều Lộ Liên cho tất cả hệ phái hệ Thổ			Hệ Thổ		3	pve				1	2	5	50	10
+Triều Lộ Liên	Trang bị tím PVE_Triều Lộ Liên cho tất cả hệ phái hệ Kim			Hệ Kim		4	pve				1	2	5	60	10
+Triều Lộ Liên	Trang bị tím PVE_Triều Lộ Liên cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pve				1	2	5	70	10
+Triều Lộ Liên	Trang bị tím PVE_Triều Lộ Liên cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pve				1	2	5	80	10
+Triều Lộ Liên	Trang bị tím PVE_Triều Lộ Liên cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pve				1	2	5	90	10
+Triều Lộ Liên	Trang bị tím PVE_Triều Lộ Liên cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pve				1	2	5	100	10
+Triều Lộ Liên	Trang bị tím PVP_Triều Lộ Liên cho tất cả hệ phái hệ Kim			Hệ Kim		4	pvp				1	2	5	110	10
+Triều Lộ Liên	Trang bị tím PVP_Triều Lộ Liên cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pvp				1	2	5	120	10
+Triều Lộ Liên	Trang bị tím PVP_Triều Lộ Liên cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pvp				1	2	5	130	10
+Triều Lộ Liên	Trang bị tím PVP_Triều Lộ Liên cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pvp				1	2	5	140	10
+Triều Lộ Liên	Trang bị tím PVP_Triều Lộ Liên cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pvp				1	2	5	150	10
+Triều Lộ Liên	Trang bị cam PVE_Triều Lộ Liên cho tất cả hệ phái hệ Kim			Hệ Kim		5	pve				1	2	5	160	10
+Triều Lộ Liên	Trang bị cam PVE_Triều Lộ Liên cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pve				1	2	5	170	10
+Triều Lộ Liên	Trang bị cam PVE_Triều Lộ Liên cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pve				1	2	5	180	10
+Triều Lộ Liên	Trang bị cam PVE_Triều Lộ Liên cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pve				1	2	5	190	10
+Triều Lộ Liên	Trang bị cam PVE_Triều Lộ Liên cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pve				1	2	5	200	10
+Triều Lộ Liên	Trang bị cam PVP_Triều Lộ Liên cho tất cả hệ phái hệ Kim			Hệ Kim		5	pvp				1	2	5	210	10
+Triều Lộ Liên	Trang bị cam PVP_Triều Lộ Liên cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pvp				1	2	5	220	10
+Triều Lộ Liên	Trang bị cam PVP_Triều Lộ Liên cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pvp				1	2	5	230	10
+Triều Lộ Liên	Trang bị cam PVP_Triều Lộ Liên cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pvp				1	2	5	240	10
+Triều Lộ Liên	Trang bị cam PVP_Triều Lộ Liên cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pvp				1	2	5	250	10
+Triều Lộ Liên	Trang bị xanh_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim		3	pvp				1	2	5	256	10
+Triều Lộ Liên	Trang bị xanh_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc		3	pvp				1	2	5	262	10
+Triều Lộ Liên	Trang bị xanh_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy		3	pvp				1	2	5	268	10
+Triều Lộ Liên	Trang bị xanh_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		3	pvp				1	2	5	274	10
+Triều Lộ Liên	Trang bị xanh_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ		3	pvp				1	2	5	280	10
+Triều Lộ Liên	Trang bị tím PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim		4	pvp				1	2	5	286	10
+Triều Lộ Liên	Trang bị tím PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pvp				1	2	5	292	10
+Triều Lộ Liên	Trang bị tím PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pvp				1	2	5	298	10
+Triều Lộ Liên	Trang bị tím PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pvp				1	2	5	304	10
+Triều Lộ Liên	Trang bị tím PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pvp				1	2	5	310	10
+Triều Lộ Liên	Trang bị cam PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim		5	pvp				1	2	5	316	10
+Triều Lộ Liên	Trang bị cam PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pvp				1	2	5	322	10
+Triều Lộ Liên	Trang bị cam PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pvp				1	2	5	328	10
+Triều Lộ Liên	Trang bị cam PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pvp				1	2	5	334	10
+Triều Lộ Liên	Trang bị cam PVP_Hạng liên danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pvp				1	2	5	340	10
+Cửu Long Huỳnh Quang Liên	Bạch Ngân Hạng Liên_hệ Kim			Hệ Kim		6	pvp				1	2	5	341	10
+Cửu Long Huỳnh Quang Liên	Bạch Ngân Hạng Liên_hệ Mộc			hệ Mộc		6	pvp				1	2	5	342	10
+Cửu Long Huỳnh Quang Liên	Bạch Ngân Hạng Liên_hệ Thủy			Hệ Thủy		6	pvp				1	2	5	343	10
+Cửu Long Huỳnh Quang Liên	Bạch Ngân Hạng Liên_hệ Hỏa			Hệ Hỏa		6	pvp				1	2	5	344	10
+Cửu Long Huỳnh Quang Liên	Bạch Ngân Hạng Liên_hệ Thổ			Hệ Thổ		6	pvp				1	2	5	345	10
+Thiên Điệp Lưu Vân Liên	Hoàng Kim Hạng Liên_hệ Kim			Hệ Kim		7	pvp				1	2	5	346	10
+Thiên Điệp Lưu Vân Liên	Hoàng Kim Hạng Liên_hệ Mộc			hệ Mộc		7	pvp				1	2	5	347	10
+Thiên Điệp Lưu Vân Liên	Hoàng Kim Hạng Liên_hệ Thủy			Hệ Thủy		7	pvp				1	2	5	348	10
+Thiên Điệp Lưu Vân Liên	Hoàng Kim Hạng Liên_hệ Hỏa			Hệ Hỏa		7	pvp				1	2	5	349	10
+Thiên Điệp Lưu Vân Liên	Hoàng Kim Hạng Liên_hệ Thổ			Hệ Thổ		7	pvp				1	2	5	350	10
+Bắc Minh Bội	Trang bị xanh_Bắc Minh Bội cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pve				1	2	11	10	10
+Long Diên Hương Nang	Trang bị xanh_Long Diên Hương Nang cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pve				1	2	11	20	10
+Bắc Minh Bội	Trang bị xanh_Bắc Minh Bội cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pve				1	2	11	30	10
+Long Diên Hương Nang	Trang bị xanh_Long Diên Hương Nang cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pve				1	2	11	40	10
+Bắc Minh Bội	Trang bị xanh_Bắc Minh Bội cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pve				1	2	11	50	10
+Long Diên Hương Nang	Trang bị xanh_Long Diên Hương Nang cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pve				1	2	11	60	10
+Bắc Minh Bội	Trang bị xanh_Bắc Minh Bội cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pve				1	2	11	70	10
+Long Diên Hương Nang	Trang bị xanh_Long Diên Hương Nang cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pve				1	2	11	80	10
+Bắc Minh Bội	Trang bị xanh_Bắc Minh Bội cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pve				1	2	11	90	10
+Long Diên Hương Nang	Trang bị xanh_Long Diên Hương Nang cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pve				1	2	11	100	10
+Bắc Minh Bội	Trang bị tím PVE_Bắc Minh Bội cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pve				1	2	11	110	10
+Long Diên Hương Nang	Trang bị tím PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pve				1	2	11	120	10
+Bắc Minh Bội	Trang bị tím PVE_Bắc Minh Bội cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pve				1	2	11	130	10
+Long Diên Hương Nang	Trang bị tím PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pve				1	2	11	140	10
+Bắc Minh Bội	Trang bị tím PVE_Bắc Minh Bội cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pve				1	2	11	150	10
+Long Diên Hương Nang	Trang bị tím PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pve				1	2	11	160	10
+Bắc Minh Bội	Trang bị tím PVE_Bắc Minh Bội cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pve				1	2	11	170	10
+Long Diên Hương Nang	Trang bị tím PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pve				1	2	11	180	10
+Bắc Minh Bội	Trang bị tím PVE_Bắc Minh Bội cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pve				1	2	11	190	10
+Long Diên Hương Nang	Trang bị tím PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pve				1	2	11	200	10
+Bắc Minh Bội	Trang bị tím PVP_Bắc Minh Bội cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	11	210	10
+Long Diên Hương Nang	Trang bị tím PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	11	220	10
+Bắc Minh Bội	Trang bị tím PVP_Bắc Minh Bội cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	11	230	10
+Long Diên Hương Nang	Trang bị tím PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	11	240	10
+Bắc Minh Bội	Trang bị tím PVP_Bắc Minh Bội cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	11	250	10
+Long Diên Hương Nang	Trang bị tím PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	11	260	10
+Bắc Minh Bội	Trang bị tím PVP_Bắc Minh Bội cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	11	270	10
+Long Diên Hương Nang	Trang bị tím PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	11	280	10
+Bắc Minh Bội	Trang bị tím PVP_Bắc Minh Bội cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	11	290	10
+Long Diên Hương Nang	Trang bị tím PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	11	300	10
+Bắc Minh Bội	Trang bị cam PVE_Bắc Minh Bội cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pve				1	2	11	310	10
+Long Diên Hương Nang	Trang bị cam PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pve				1	2	11	320	10
+Bắc Minh Bội	Trang bị cam PVE_Bắc Minh Bội cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pve				1	2	11	330	10
+Long Diên Hương Nang	Trang bị cam PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pve				1	2	11	340	10
+Bắc Minh Bội	Trang bị cam PVE_Bắc Minh Bội cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pve				1	2	11	350	10
+Long Diên Hương Nang	Trang bị cam PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pve				1	2	11	360	10
+Bắc Minh Bội	Trang bị cam PVE_Bắc Minh Bội cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pve				1	2	11	370	10
+Long Diên Hương Nang	Trang bị cam PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pve				1	2	11	380	10
+Bắc Minh Bội	Trang bị cam PVE_Bắc Minh Bội cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pve				1	2	11	390	10
+Long Diên Hương Nang	Trang bị cam PVE_Long Diên Hương Nang cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pve				1	2	11	400	10
+Bắc Minh Bội	Trang bị cam PVP_Bắc Minh Bội cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	11	410	10
+Long Diên Hương Nang	Trang bị cam PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	11	420	10
+Bắc Minh Bội	Trang bị cam PVP_Bắc Minh Bội cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	11	430	10
+Long Diên Hương Nang	Trang bị cam PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	11	440	10
+Bắc Minh Bội	Trang bị cam PVP_Bắc Minh Bội cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	11	450	10
+Long Diên Hương Nang	Trang bị cam PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	11	460	10
+Bắc Minh Bội	Trang bị cam PVP_Bắc Minh Bội cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	11	470	10
+Long Diên Hương Nang	Trang bị cam PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	11	480	10
+Bắc Minh Bội	Trang bị cam PVP_Bắc Minh Bội cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	11	490	10
+Long Diên Hương Nang	Trang bị cam PVP_Long Diên Hương Nang cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	11	500	10
+Bắc Minh Bội	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	3	pvp				1	2	11	507	10
+Long Diên Hương Nang	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	3	pvp				1	2	11	514	10
+Bắc Minh Bội	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	3	pvp				1	2	11	521	10
+Long Diên Hương Nang	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	3	pvp				1	2	11	528	10
+Bắc Minh Bội	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	3	pvp				1	2	11	535	10
+Long Diên Hương Nang	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	3	pvp				1	2	11	542	10
+Bắc Minh Bội	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	3	pvp				1	2	11	549	10
+Long Diên Hương Nang	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	3	pvp				1	2	11	556	10
+Bắc Minh Bội	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	3	pvp				1	2	11	563	10
+Long Diên Hương Nang	Trang bị xanh_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	3	pvp				1	2	11	570	10
+Bắc Minh Bội	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	4	pvp				1	2	11	577	10
+Long Diên Hương Nang	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	4	pvp				1	2	11	584	10
+Bắc Minh Bội	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	4	pvp				1	2	11	591	10
+Long Diên Hương Nang	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	4	pvp				1	2	11	598	10
+Bắc Minh Bội	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	4	pvp				1	2	11	605	10
+Long Diên Hương Nang	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	4	pvp				1	2	11	612	10
+Bắc Minh Bội	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	4	pvp				1	2	11	619	10
+Long Diên Hương Nang	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	4	pvp				1	2	11	626	10
+Bắc Minh Bội	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	4	pvp				1	2	11	633	10
+Long Diên Hương Nang	Trang bị tím PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	4	pvp				1	2	11	640	10
+Bắc Minh Bội	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nam	5	pvp				1	2	11	647	10
+Long Diên Hương Nang	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Kim			Hệ Kim	Nữ	5	pvp				1	2	11	654	10
+Bắc Minh Bội	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nam	5	pvp				1	2	11	661	10
+Long Diên Hương Nang	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Mộc			hệ Mộc	Nữ	5	pvp				1	2	11	668	10
+Bắc Minh Bội	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nam	5	pvp				1	2	11	675	10
+Long Diên Hương Nang	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thủy			Hệ Thủy	Nữ	5	pvp				1	2	11	682	10
+Bắc Minh Bội	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nam	5	pvp				1	2	11	689	10
+Long Diên Hương Nang	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Hỏa			Hệ Hỏa	Nữ	5	pvp				1	2	11	696	10
+Bắc Minh Bội	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nam	5	pvp				1	2	11	703	10
+Long Diên Hương Nang	Trang bị cam PVP_Ngọc bội danh vọng cấp 10 cho tất cả hệ phái hệ Thổ			Hệ Thổ	Nữ	5	pvp				1	2	11	710	10
+Chiến Thần Hàn Ngọc Bội	Bạch Ngân_Ngọc bội hệ Kim			Hệ Kim	Nam	6	pvp				1	2	11	711	10
+Chiến Thần Minh Nguyệt Hương Nang	Bạch Ngân_Ngọc bội hệ Kim			Hệ Kim	Nữ	6	pvp				1	2	11	712	10
+Chiến Thần Hàn Ngọc Bội	Bạch Ngân_Ngọc bội hệ Mộc			hệ Mộc	Nam	6	pvp				1	2	11	713	10
+Chiến Thần Minh Nguyệt Hương Nang	Bạch Ngân_Ngọc bội hệ Mộc			hệ Mộc	Nữ	6	pvp				1	2	11	714	10
+Chiến Thần Hàn Ngọc Bội	Bạch Ngân_Ngọc bội hệ Thủy			Hệ Thủy	Nam	6	pvp				1	2	11	715	10
+Chiến Thần Minh Nguyệt Hương Nang	Bạch Ngân_Ngọc bội hệ Thủy			Hệ Thủy	Nữ	6	pvp				1	2	11	716	10
+Chiến Thần Hàn Ngọc Bội	Bạch Ngân_Ngọc bội hệ Hỏa			Hệ Hỏa	Nam	6	pvp				1	2	11	717	10
+Chiến Thần Minh Nguyệt Hương Nang	Bạch Ngân_Ngọc bội hệ Hỏa			Hệ Hỏa	Nữ	6	pvp				1	2	11	718	10
+Chiến Thần Hàn Ngọc Bội	Bạch Ngân_Ngọc bội hệ Thổ			Hệ Thổ	Nam	6	pvp				1	2	11	719	10
+Chiến Thần Minh Nguyệt Hương Nang	Bạch Ngân_Ngọc bội hệ Thổ			Hệ Thổ	Nữ	6	pvp				1	2	11	720	10
+Chiến Thần Đằng Vân Bội	Hoàng Kim_Ngọc bội hệ Kim			Hệ Kim	Nam	7	pvp				1	2	11	721	10
+Chiến Thần Băng Tinh Hương Nang	Hoàng Kim_Ngọc bội hệ Kim			Hệ Kim	Nữ	7	pvp				1	2	11	722	10
+Chiến Thần Đằng Vân Bội	Hoàng Kim_Ngọc bội hệ Mộc			hệ Mộc	Nam	7	pvp				1	2	11	723	10
+Chiến Thần Băng Tinh Hương Nang	Hoàng Kim_Ngọc bội hệ Mộc			hệ Mộc	Nữ	7	pvp				1	2	11	724	10
+Chiến Thần Đằng Vân Bội	Hoàng Kim_Ngọc bội hệ Thủy			Hệ Thủy	Nam	7	pvp				1	2	11	725	10
+Chiến Thần Băng Tinh Hương Nang	Hoàng Kim_Ngọc bội hệ Thủy			Hệ Thủy	Nữ	7	pvp				1	2	11	726	10
+Chiến Thần Đằng Vân Bội	Hoàng Kim_Ngọc bội hệ Hỏa			Hệ Hỏa	Nam	7	pvp				1	2	11	727	10
+Chiến Thần Băng Tinh Hương Nang	Hoàng Kim_Ngọc bội hệ Hỏa			Hệ Hỏa	Nữ	7	pvp				1	2	11	728	10
+Chiến Thần Đằng Vân Bội	Hoàng Kim_Ngọc bội hệ Thổ			Hệ Thổ	Nam	7	pvp				1	2	11	729	10
+Chiến Thần Băng Tinh Hương Nang	Hoàng Kim_Ngọc bội hệ Thổ			Hệ Thổ	Nữ	7	pvp				1	2	11	730	10
+Ứng Long Giới	Trang bị xanh_Ứng Long Giới cho tất cả hệ phái hệ Kim			Hệ Kim		3	pve				1	2	4	10	10
+Ứng Long Giới	Trang bị xanh_Ứng Long Giới cho tất cả hệ phái hệ Mộc			hệ Mộc		3	pve				1	2	4	20	10
+Ứng Long Giới	Trang bị xanh_Ứng Long Giới cho tất cả hệ phái hệ Thủy			Hệ Thủy		3	pve				1	2	4	30	10
+Ứng Long Giới	Trang bị xanh_Ứng Long Giới cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		3	pve				1	2	4	40	10
+Ứng Long Giới	Trang bị xanh_Ứng Long Giới cho tất cả hệ phái hệ Thổ			Hệ Thổ		3	pve				1	2	4	50	10
+Ứng Long Giới	Trang bị tím PVE_Ứng Long Giới cho tất cả hệ phái hệ Kim			Hệ Kim		4	pve				1	2	4	60	10
+Ứng Long Giới	Trang bị tím PVE_Ứng Long Giới cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pve				1	2	4	70	10
+Ứng Long Giới	Trang bị tím PVE_Ứng Long Giới cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pve				1	2	4	80	10
+Ứng Long Giới	Trang bị tím PVE_Ứng Long Giới cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pve				1	2	4	90	10
+Ứng Long Giới	Trang bị tím PVE_Ứng Long Giới cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pve				1	2	4	100	10
+Ứng Long Giới	Trang bị tím PVP_Ứng Long Giới cho tất cả hệ phái hệ Kim			Hệ Kim		4	pvp				1	2	4	110	10
+Ứng Long Giới	Trang bị tím PVP_Ứng Long Giới cho tất cả hệ phái hệ Mộc			hệ Mộc		4	pvp				1	2	4	120	10
+Ứng Long Giới	Trang bị tím PVP_Ứng Long Giới cho tất cả hệ phái hệ Thủy			Hệ Thủy		4	pvp				1	2	4	130	10
+Ứng Long Giới	Trang bị tím PVP_Ứng Long Giới cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		4	pvp				1	2	4	140	10
+Ứng Long Giới	Trang bị tím PVP_Ứng Long Giới cho tất cả hệ phái hệ Thổ			Hệ Thổ		4	pvp				1	2	4	150	10
+Ứng Long Giới	Trang bị cam PVE_Ứng Long Giới cho tất cả hệ phái hệ Kim			Hệ Kim		5	pve				1	2	4	160	10
+Ứng Long Giới	Trang bị cam PVE_Ứng Long Giới cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pve				1	2	4	170	10
+Ứng Long Giới	Trang bị cam PVE_Ứng Long Giới cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pve				1	2	4	180	10
+Ứng Long Giới	Trang bị cam PVE_Ứng Long Giới cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pve				1	2	4	190	10
+Ứng Long Giới	Trang bị cam PVE_Ứng Long Giới cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pve				1	2	4	200	10
+Ứng Long Giới	Trang bị cam PVP_Ứng Long Giới cho tất cả hệ phái hệ Kim			Hệ Kim		5	pvp				1	2	4	210	10
+Ứng Long Giới	Trang bị cam PVP_Ứng Long Giới cho tất cả hệ phái hệ Mộc			hệ Mộc		5	pvp				1	2	4	220	10
+Ứng Long Giới	Trang bị cam PVP_Ứng Long Giới cho tất cả hệ phái hệ Thủy			Hệ Thủy		5	pvp				1	2	4	230	10
+Ứng Long Giới	Trang bị cam PVP_Ứng Long Giới cho tất cả hệ phái hệ Hỏa			Hệ Hỏa		5	pvp				1	2	4	240	10
+Ứng Long Giới	Trang bị cam PVP_Ứng Long Giới cho tất cả hệ phái hệ Thổ			Hệ Thổ		5	pvp				1	2	4	250	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Kim			Hệ Kim		6	pvp				1	2	4	256	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Mộc			hệ Mộc		6	pvp				1	2	4	257	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Thủy			Hệ Thủy		6	pvp				1	2	4	258	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Hỏa			Hệ Hỏa		6	pvp				1	2	4	259	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Thổ			Hệ Thổ		6	pvp				1	2	4	260	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Kim			Hệ Kim		7	pvp				1	2	4	261	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Mộc			hệ Mộc		7	pvp				1	2	4	262	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Thủy			Hệ Thủy		7	pvp				1	2	4	263	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Hỏa			Hệ Hỏa		7	pvp				1	2	4	264	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Thổ			Hệ Thổ		7	pvp				1	2	4	265	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Kim_vn			Hệ Kim		6	pvp		vn		1	2	4	271	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Mộc_vn			hệ Mộc		6	pvp		vn		1	2	4	272	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Thủy_vn			Hệ Thủy		6	pvp		vn		1	2	4	273	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Hỏa_vn			Hệ Hỏa		6	pvp		vn		1	2	4	274	10
+Lăng Vân Giới	Bạch Ngân_Nhẫn hệ Thổ_vn			Hệ Thổ		6	pvp		vn		1	2	4	275	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Kim_vn			Hệ Kim		7	pvp		vn		1	2	4	276	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Mộc_vn			hệ Mộc		7	pvp		vn		1	2	4	277	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Thủy_vn			Hệ Thủy		7	pvp		vn		1	2	4	278	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Hỏa_vn			Hệ Hỏa		7	pvp		vn		1	2	4	279	10
+Cô Tinh Giới	Hoàng Kim_Nhẫn hệ Thổ_vn			Hệ Thổ		7	pvp		vn		1	2	4	280	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	5	pvp	1			1	4	10	1	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	5	pvp	1			1	4	10	2	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	4	pvp	1			1	4	10	3	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	4	pvp	1			1	4	10	4	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	3	pvp	1			1	4	10	5	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	3	pvp	1			1	4	10	6	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	5	pvp	1			1	4	10	7	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	5	pvp	1			1	4	10	8	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	5	pvp	1			1	4	10	9	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	5	pvp	1			1	4	10	10	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	4	pvp	1			1	4	10	11	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	4	pvp	1			1	4	10	12	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	4	pvp	1			1	4	10	13	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	4	pvp	1			1	4	10	14	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	3	pvp	1			1	4	10	15	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	3	pvp	1			1	4	10	16	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	3	pvp	1			1	4	10	17	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	3	pvp	1			1	4	10	18	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	5	pvp	1			1	4	10	19	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	5	pvp	1			1	4	10	20	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	5	pvp	1			1	4	10	21	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	5	pvp	1			1	4	10	22	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	4	pvp	1			1	4	10	23	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	4	pvp	1			1	4	10	24	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	4	pvp	1			1	4	10	25	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	4	pvp	1			1	4	10	26	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	3	pvp	1			1	4	10	27	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	3	pvp	1			1	4	10	28	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	3	pvp	1			1	4	10	29	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	3	pvp	1			1	4	10	30	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	5	pvp	1			1	4	10	31	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	5	pvp	1			1	4	10	32	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	5	pvp	1			1	4	10	33	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	5	pvp	1			1	4	10	34	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	4	pvp	1			1	4	10	35	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	4	pvp	1			1	4	10	36	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	4	pvp	1			1	4	10	37	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	4	pvp	1			1	4	10	38	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	3	pvp	1			1	4	10	39	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	3	pvp	1			1	4	10	40	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	3	pvp	1			1	4	10	41	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	3	pvp	1			1	4	10	42	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	5	pvp	1			1	4	10	43	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	5	pvp	1			1	4	10	44	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	5	pvp	1			1	4	10	45	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	5	pvp	1			1	4	10	46	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	4	pvp	1			1	4	10	47	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	4	pvp	1			1	4	10	48	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	4	pvp	1			1	4	10	49	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	4	pvp	1			1	4	10	50	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	3	pvp	1			1	4	10	51	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	3	pvp	1			1	4	10	52	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	3	pvp	1			1	4	10	53	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	3	pvp	1			1	4	10	54	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Cam_Ngọc bội nam hệ Kim			Hệ Kim	Nam	5	pvp	1			1	4	11	1	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Cam_Hương nang nữ hệ Kim			Hệ Kim	Nữ	5	pvp	1			1	4	11	2	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Tím_Ngọc bội nam hệ Kim			Hệ Kim	Nam	4	pvp	1			1	4	11	3	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Tím_Hương nang nữ hệ Kim			Hệ Kim	Nữ	4	pvp	1			1	4	11	4	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Xanh_Ngọc bội nam hệ Kim			Hệ Kim	Nam	3	pvp	1			1	4	11	5	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Xanh_Hương nang nữ hệ Kim			Hệ Kim	Nữ	3	pvp	1			1	4	11	6	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Cam_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	5	pvp	1			1	4	11	7	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Cam_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	1			1	4	11	8	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Tím_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	4	pvp	1			1	4	11	9	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Tím_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	1			1	4	11	10	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Xanh_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	3	pvp	1			1	4	11	11	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Xanh_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	3	pvp	1			1	4	11	12	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Cam_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	5	pvp	1			1	4	11	13	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Cam_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	1			1	4	11	14	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Tím_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	4	pvp	1			1	4	11	15	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Tím_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	1			1	4	11	16	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Xanh_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	3	pvp	1			1	4	11	17	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Xanh_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	1			1	4	11	18	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Cam_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	1			1	4	11	19	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Cam_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	1			1	4	11	20	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Tím_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	1			1	4	11	21	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Tím_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	1			1	4	11	22	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Xanh_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	3	pvp	1			1	4	11	23	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Xanh_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	1			1	4	11	24	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Cam_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	5	pvp	1			1	4	11	25	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Cam_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	1			1	4	11	26	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Tím_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	4	pvp	1			1	4	11	27	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Tím_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	1			1	4	11	28	10
+Tiêu Dao Hỏa Vân Bội	Bộ Tiêu Dao Xanh_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	3	pvp	1			1	4	11	29	10
+Tiêu Dao Băng Nguyệt Hương Nang	Bộ Tiêu Dao Xanh_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	1			1	4	11	30	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Cam_Giày nam hệ Kim			Hệ Kim	Nam	5	pvp	1			1	4	7	1	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Cam_Giày nữ hệ Kim			Hệ Kim	Nữ	5	pvp	1			1	4	7	2	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Tím_Giày nam hệ Kim			Hệ Kim	Nam	4	pvp	1			1	4	7	3	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Tím_Giày nữ hệ Kim			Hệ Kim	Nữ	4	pvp	1			1	4	7	4	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Xanh_Giày nam hệ Kim			Hệ Kim	Nam	3	pvp	1			1	4	7	5	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Xanh_Giày nữ hệ Kim			Hệ Kim	Nữ	3	pvp	1			1	4	7	6	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Cam_Giày nam hệ Mộc			hệ Mộc	Nam	5	pvp	1			1	4	7	7	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Cam_Giày nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	1			1	4	7	8	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Tím_Giày nam hệ Mộc			hệ Mộc	Nam	4	pvp	1			1	4	7	9	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Tím_Giày nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	1			1	4	7	10	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Xanh_Giày nam hệ Mộc			hệ Mộc	Nam	3	pvp	1			1	4	7	11	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Xanh_Giày nữ hệ Mộc			hệ Mộc	Nữ	3	pvp	1			1	4	7	12	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Cam_Giày nam hệ Thủy			Hệ Thủy	Nam	5	pvp	1			1	4	7	13	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Cam_Giày nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	1			1	4	7	14	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Tím_Giày nam hệ Thủy			Hệ Thủy	Nam	4	pvp	1			1	4	7	15	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Tím_Giày nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	1			1	4	7	16	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Xanh_Giày nam hệ Thủy			Hệ Thủy	Nam	3	pvp	1			1	4	7	17	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Xanh_Giày nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	1			1	4	7	18	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Cam_Giày nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	1			1	4	7	19	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Cam_Giày nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	1			1	4	7	20	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Tím_Giày nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	1			1	4	7	21	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Tím_Giày nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	1			1	4	7	22	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Xanh_Giày nam hệ Hỏa			Hệ Hỏa	Nam	3	pvp	1			1	4	7	23	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Xanh_Giày nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	1			1	4	7	24	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Cam_Giày nam hệ Thổ			Hệ Thổ	Nam	5	pvp	1			1	4	7	25	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Cam_Giày nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	1			1	4	7	26	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Tím_Giày nam hệ Thổ			Hệ Thổ	Nam	4	pvp	1			1	4	7	27	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Tím_Giày nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	1			1	4	7	28	10
+Tiêu Dao Thừa Phong Ngoa	Bộ Tiêu Dao Xanh_Giày nam hệ Thổ			Hệ Thổ	Nam	3	pvp	1			1	4	7	29	10
+Tiêu Dao Đạp Lãng Ngoa	Bộ Tiêu Dao Xanh_Giày nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	1			1	4	7	30	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	3	pvp	3			1	4	3	31	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	3	pvp	3			1	4	3	32	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	4	pvp	3			1	4	3	33	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	4	pvp	3			1	4	3	34	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	5	pvp	3			1	4	3	35	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	5	pvp	3			1	4	3	36	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	3	pvp	3			1	4	3	37	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	3	pvp	3			1	4	3	38	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	4	pvp	3			1	4	3	39	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	4	pvp	3			1	4	3	40	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	5	pvp	3			1	4	3	41	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	5	pvp	3			1	4	3	42	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	3	pvp	3			1	4	3	43	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	3	pvp	3			1	4	3	44	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	4	pvp	3			1	4	3	45	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	4	pvp	3			1	4	3	46	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	5	pvp	3			1	4	3	47	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	5	pvp	3			1	4	3	48	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	3	pvp	3			1	4	3	49	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	3	pvp	3			1	4	3	50	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	4	pvp	3			1	4	3	51	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	4	pvp	3			1	4	3	52	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	5	pvp	3			1	4	3	53	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	5	pvp	3			1	4	3	54	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	3	pvp	3			1	4	3	55	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	3	pvp	3			1	4	3	56	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	4	pvp	3			1	4	3	57	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	4	pvp	3			1	4	3	58	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	5	pvp	3			1	4	3	59	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	5	pvp	3			1	4	3	60	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	3	pvp	3			1	4	3	61	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	3	pvp	3			1	4	3	62	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	4	pvp	3			1	4	3	63	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	4	pvp	3			1	4	3	64	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	5	pvp	3			1	4	3	65	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	5	pvp	3			1	4	3	66	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	3	pvp	3			1	4	3	67	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	3	pvp	3			1	4	3	68	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	4	pvp	3			1	4	3	69	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	4	pvp	3			1	4	3	70	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	5	pvp	3			1	4	3	71	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	5	pvp	3			1	4	3	72	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	3	pvp	3			1	4	3	73	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	3			1	4	3	74	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	4	pvp	3			1	4	3	75	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	3			1	4	3	76	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	5	pvp	3			1	4	3	77	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	3			1	4	3	78	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	3	pvp	3			1	4	3	79	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	3			1	4	3	80	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	4	pvp	3			1	4	3	81	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	3			1	4	3	82	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	5	pvp	3			1	4	3	83	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	3			1	4	3	84	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	3	pvp	3			1	4	3	85	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Xanh_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	3			1	4	3	86	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	4	pvp	3			1	4	3	87	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Tím_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	3			1	4	3	88	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	5	pvp	3			1	4	3	89	10
+Vũ Uy Trục Nhật Y	Bộ Liên Đấu Cam_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	3			1	4	3	90	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Xanh_Hộ thân phù hệ Kim			Hệ Kim		3	pvp	3			1	4	6	91	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Kim			Hệ Kim		4	pvp	3			1	4	6	92	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Kim			Hệ Kim		5	pvp	3			1	4	6	93	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ Liên Đấu_Kỳ Phúc Bạch Ngân Phù hệ Kim			Hệ Kim		6	pvp	3			1	4	6	94	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Kim			Hệ Kim		7	pvp	3			1	4	6	95	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Xanh_Hộ thân phù hệ Mộc			hệ Mộc		3	pvp	3			1	4	6	96	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Mộc			hệ Mộc		4	pvp	3			1	4	6	97	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Mộc			hệ Mộc		5	pvp	3			1	4	6	98	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ Liên Đấu_Kỳ Phúc Bạch Ngân Phù hệ Mộc			hệ Mộc		6	pvp	3			1	4	6	99	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Mộc			hệ Mộc		7	pvp	3			1	4	6	100	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Xanh_Hộ thân phù hệ Thủy			Hệ Thủy		3	pvp	3			1	4	6	101	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Thủy			Hệ Thủy		4	pvp	3			1	4	6	102	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Thủy			Hệ Thủy		5	pvp	3			1	4	6	103	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ Liên Đấu_Kỳ Phúc Bạch Ngân Phù hệ Thủy			Hệ Thủy		6	pvp	3			1	4	6	104	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Thủy			Hệ Thủy		7	pvp	3			1	4	6	105	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Xanh_Hộ thân phù hệ Hỏa			Hệ Hỏa		3	pvp	3			1	4	6	106	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Hỏa			Hệ Hỏa		4	pvp	3			1	4	6	107	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Hỏa			Hệ Hỏa		5	pvp	3			1	4	6	108	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ Liên Đấu_Kỳ Phúc Bạch Ngân Phù hệ Hỏa			Hệ Hỏa		6	pvp	3			1	4	6	109	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Hỏa			Hệ Hỏa		7	pvp	3			1	4	6	110	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Xanh_Hộ thân phù hệ Thổ			Hệ Thổ		3	pvp	3			1	4	6	111	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Thổ			Hệ Thổ		4	pvp	3			1	4	6	112	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Thổ			Hệ Thổ		5	pvp	3			1	4	6	113	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ Liên Đấu_Kỳ Phúc Bạch Ngân Phù hệ Thổ			Hệ Thổ		6	pvp	3			1	4	6	114	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Thổ			Hệ Thổ		7	pvp	3			1	4	6	115	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		3	pvp	3			1	4	4	116	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		4	pvp	3			1	4	4	117	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		5	pvp	3			1	4	4	118	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		3	pvp	3			1	4	4	119	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		4	pvp	3			1	4	4	120	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		5	pvp	3			1	4	4	121	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ nội công hệ Mộc	Hệ nội công		hệ Mộc		3	pvp	3			1	4	4	122	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ nội công hệ Mộc	Hệ nội công		hệ Mộc		4	pvp	3			1	4	4	123	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ nội công hệ Mộc	Hệ nội công		hệ Mộc		5	pvp	3			1	4	4	124	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		3	pvp	3			1	4	4	125	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		4	pvp	3			1	4	4	126	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		5	pvp	3			1	4	4	127	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ nội công hệ Thủy	Hệ nội công		Hệ Thủy		3	pvp	3			1	4	4	128	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ nội công hệ Thủy	Hệ nội công		Hệ Thủy		4	pvp	3			1	4	4	129	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ nội công hệ Thủy	Hệ nội công		Hệ Thủy		5	pvp	3			1	4	4	130	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		3	pvp	3			1	4	4	131	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		4	pvp	3			1	4	4	132	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		5	pvp	3			1	4	4	133	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		3	pvp	3			1	4	4	134	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		4	pvp	3			1	4	4	135	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		5	pvp	3			1	4	4	136	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		3	pvp	3			1	4	4	137	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		4	pvp	3			1	4	4	138	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		5	pvp	3			1	4	4	139	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ nội công hệ Thổ	Hệ nội công		Hệ Thổ		3	pvp	3			1	4	4	140	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ nội công hệ Thổ	Hệ nội công		Hệ Thổ		4	pvp	3			1	4	4	141	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ nội công hệ Thổ	Hệ nội công		Hệ Thổ		5	pvp	3			1	4	4	142	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nữ hệ Kim			Hệ Kim	Nữ	6	pvp	3			1	4	3	143	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	3			1	4	3	144	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	3			1	4	3	145	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	3			1	4	3	146	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	3			1	4	3	147	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nữ hệ Kim			Hệ Kim	Nữ	7	pvp	3			1	4	3	148	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	3			1	4	3	149	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	3			1	4	3	150	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	3			1	4	3	151	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	3			1	4	3	152	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nam hệ Kim			Hệ Kim	Nam	6	pvp	3			1	4	3	153	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nam hệ Mộc			hệ Mộc	Nam	6	pvp	3			1	4	3	154	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nam hệ Thủy			Hệ Thủy	Nam	6	pvp	3			1	4	3	155	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	3			1	4	3	156	10
+Vũ Uy Thừa Ảnh Y	Bộ Liên Đấu_Y phục bạch ngân nam hệ Thổ			Hệ Thổ	Nam	6	pvp	3			1	4	3	157	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nam hệ Kim			Hệ Kim	Nam	7	pvp	3			1	4	3	158	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nam hệ Mộc			hệ Mộc	Nam	7	pvp	3			1	4	3	159	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nam hệ Thủy			Hệ Thủy	Nam	7	pvp	3			1	4	3	160	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	3			1	4	3	161	10
+Vũ Uy Trường Không Y	Bộ Liên Đấu_Y phục hoàng kim nam hệ Thổ			Hệ Thổ	Nam	7	pvp	3			1	4	3	162	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nam hệ Kim		Sắt	Hệ Kim	Nam	3	pvp	4			1	4	9	163	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nữ hệ Kim		Sắt	Hệ Kim	Nữ	3	pvp	4			1	4	9	164	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nam hệ Kim		Da	Hệ Kim	Nam	3	pvp	4			1	4	9	165	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nữ hệ Kim		Da	Hệ Kim	Nữ	3	pvp	4			1	4	9	166	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Kim		Sắt	Hệ Kim	Nam	4	pvp	4			1	4	9	167	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Kim		Sắt	Hệ Kim	Nữ	4	pvp	4			1	4	9	168	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Kim		Da	Hệ Kim	Nam	4	pvp	4			1	4	9	169	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Kim		Da	Hệ Kim	Nữ	4	pvp	4			1	4	9	170	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Kim		Sắt	Hệ Kim	Nam	4	pvp	4			1	4	9	171	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Kim		Sắt	Hệ Kim	Nữ	4	pvp	4			1	4	9	172	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Kim		Da	Hệ Kim	Nam	4	pvp	4			1	4	9	173	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Kim		Da	Hệ Kim	Nữ	4	pvp	4			1	4	9	174	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Kim		Sắt	Hệ Kim	Nam	5	pvp	4			1	4	9	175	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Kim		Sắt	Hệ Kim	Nữ	5	pvp	4			1	4	9	176	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Kim		Da	Hệ Kim	Nam	5	pvp	4			1	4	9	177	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Kim		Da	Hệ Kim	Nữ	5	pvp	4			1	4	9	178	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Kim		Sắt	Hệ Kim	Nam	5	pvp	4			1	4	9	179	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Kim		Sắt	Hệ Kim	Nữ	5	pvp	4			1	4	9	180	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Kim		Da	Hệ Kim	Nam	5	pvp	4			1	4	9	181	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Kim		Da	Hệ Kim	Nữ	5	pvp	4			1	4	9	182	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nam hệ Mộc		Da	hệ Mộc	Nam	3	pvp	4			1	4	9	183	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nữ hệ Mộc		Da	hệ Mộc	Nữ	3	pvp	4			1	4	9	184	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nam hệ Mộc		Vải	hệ Mộc	Nam	3	pvp	4			1	4	9	185	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nữ hệ Mộc		Vải	hệ Mộc	Nữ	3	pvp	4			1	4	9	186	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Mộc		Da	hệ Mộc	Nam	4	pvp	4			1	4	9	187	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Mộc		Da	hệ Mộc	Nữ	4	pvp	4			1	4	9	188	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Mộc		Vải	hệ Mộc	Nam	4	pvp	4			1	4	9	189	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Mộc		Vải	hệ Mộc	Nữ	4	pvp	4			1	4	9	190	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Mộc		Da	hệ Mộc	Nam	4	pvp	4			1	4	9	191	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Mộc		Da	hệ Mộc	Nữ	4	pvp	4			1	4	9	192	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Mộc		Vải	hệ Mộc	Nam	4	pvp	4			1	4	9	193	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Mộc		Vải	hệ Mộc	Nữ	4	pvp	4			1	4	9	194	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Mộc		Da	hệ Mộc	Nam	5	pvp	4			1	4	9	195	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Mộc		Da	hệ Mộc	Nữ	5	pvp	4			1	4	9	196	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Mộc		Vải	hệ Mộc	Nam	5	pvp	4			1	4	9	197	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Mộc		Vải	hệ Mộc	Nữ	5	pvp	4			1	4	9	198	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Mộc		Da	hệ Mộc	Nam	5	pvp	4			1	4	9	199	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Mộc		Da	hệ Mộc	Nữ	5	pvp	4			1	4	9	200	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Mộc		Vải	hệ Mộc	Nam	5	pvp	4			1	4	9	201	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Mộc		Vải	hệ Mộc	Nữ	5	pvp	4			1	4	9	202	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nam hệ Thủy		Sắt	Hệ Thủy	Nam	3	pvp	4			1	4	9	203	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nữ hệ Thủy		Sắt	Hệ Thủy	Nữ	3	pvp	4			1	4	9	204	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nam hệ Thủy		Vải	Hệ Thủy	Nam	3	pvp	4			1	4	9	205	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nữ hệ Thủy		Vải	Hệ Thủy	Nữ	3	pvp	4			1	4	9	206	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Thủy		Sắt	Hệ Thủy	Nam	4	pvp	4			1	4	9	207	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Thủy		Sắt	Hệ Thủy	Nữ	4	pvp	4			1	4	9	208	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Thủy		Vải	Hệ Thủy	Nam	4	pvp	4			1	4	9	209	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Thủy		Vải	Hệ Thủy	Nữ	4	pvp	4			1	4	9	210	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Thủy		Sắt	Hệ Thủy	Nam	4	pvp	4			1	4	9	211	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Thủy		Sắt	Hệ Thủy	Nữ	4	pvp	4			1	4	9	212	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Thủy		Vải	Hệ Thủy	Nam	4	pvp	4			1	4	9	213	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Thủy		Vải	Hệ Thủy	Nữ	4	pvp	4			1	4	9	214	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Thủy		Sắt	Hệ Thủy	Nam	5	pvp	4			1	4	9	215	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Thủy		Sắt	Hệ Thủy	Nữ	5	pvp	4			1	4	9	216	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Thủy		Vải	Hệ Thủy	Nam	5	pvp	4			1	4	9	217	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Thủy		Vải	Hệ Thủy	Nữ	5	pvp	4			1	4	9	218	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Thủy		Sắt	Hệ Thủy	Nam	5	pvp	4			1	4	9	219	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Thủy		Sắt	Hệ Thủy	Nữ	5	pvp	4			1	4	9	220	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Thủy		Vải	Hệ Thủy	Nam	5	pvp	4			1	4	9	221	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Thủy		Vải	Hệ Thủy	Nữ	5	pvp	4			1	4	9	222	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	3	pvp	4			1	4	9	223	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nữ hệ Hỏa		Sắt	Hệ Hỏa	Nữ	3	pvp	4			1	4	9	224	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nam hệ Hỏa		Da	Hệ Hỏa	Nam	3	pvp	4			1	4	9	225	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bì mão nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	3	pvp	4			1	4	9	226	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	4	pvp	4			1	4	9	227	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Hỏa		Sắt	Hệ Hỏa	Nữ	4	pvp	4			1	4	9	228	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Hỏa		Da	Hệ Hỏa	Nam	4	pvp	4			1	4	9	229	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	4	pvp	4			1	4	9	230	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	4	pvp	4			1	4	9	231	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Hỏa		Sắt	Hệ Hỏa	Nữ	4	pvp	4			1	4	9	232	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nam hệ Hỏa		Da	Hệ Hỏa	Nam	4	pvp	4			1	4	9	233	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bì mão nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	4	pvp	4			1	4	9	234	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	5	pvp	4			1	4	9	235	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Hỏa		Sắt	Hệ Hỏa	Nữ	5	pvp	4			1	4	9	236	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Hỏa		Da	Hệ Hỏa	Nam	5	pvp	4			1	4	9	237	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	5	pvp	4			1	4	9	238	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	5	pvp	4			1	4	9	239	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Hỏa		Sắt	Hệ Hỏa	Nữ	5	pvp	4			1	4	9	240	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nam hệ Hỏa		Da	Hệ Hỏa	Nam	5	pvp	4			1	4	9	241	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bì mão nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	5	pvp	4			1	4	9	242	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nam hệ Thổ		Sắt	Hệ Thổ	Nam	3	pvp	4			1	4	9	243	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Thiết mão nữ hệ Thổ		Sắt	Hệ Thổ	Nữ	3	pvp	4			1	4	9	244	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nam hệ Thổ		Vải	Hệ Thổ	Nam	3	pvp	4			1	4	9	245	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Xanh_Bố mão nữ hệ Thổ		Vải	Hệ Thổ	Nữ	3	pvp	4			1	4	9	246	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Thổ		Sắt	Hệ Thổ	Nam	4	pvp	4			1	4	9	247	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Thổ		Sắt	Hệ Thổ	Nữ	4	pvp	4			1	4	9	248	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Thổ		Vải	Hệ Thổ	Nam	4	pvp	4			1	4	9	249	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Thổ		Vải	Hệ Thổ	Nữ	4	pvp	4			1	4	9	250	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nam hệ Thổ		Sắt	Hệ Thổ	Nam	4	pvp	4			1	4	9	251	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Thiết mão nữ hệ Thổ		Sắt	Hệ Thổ	Nữ	4	pvp	4			1	4	9	252	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nam hệ Thổ		Vải	Hệ Thổ	Nam	4	pvp	4			1	4	9	253	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Tím_Bố mão nữ hệ Thổ		Vải	Hệ Thổ	Nữ	4	pvp	4			1	4	9	254	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Thổ		Sắt	Hệ Thổ	Nam	5	pvp	4			1	4	9	255	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Thổ		Sắt	Hệ Thổ	Nữ	5	pvp	4			1	4	9	256	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Thổ		Vải	Hệ Thổ	Nam	5	pvp	4			1	4	9	257	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Thổ		Vải	Hệ Thổ	Nữ	5	pvp	4			1	4	9	258	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nam hệ Thổ		Sắt	Hệ Thổ	Nam	5	pvp	4			1	4	9	259	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Thiết mão nữ hệ Thổ		Sắt	Hệ Thổ	Nữ	5	pvp	4			1	4	9	260	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nam hệ Thổ		Vải	Hệ Thổ	Nam	5	pvp	4			1	4	9	261	10
+Trục Lộc Thương Khung Quán	Bộ Tranh Đoạt Cam_Bố mão nữ hệ Thổ		Vải	Hệ Thổ	Nữ	5	pvp	4			1	4	9	262	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		3	pvp	4			1	4	5	263	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		4	pvp	4			1	4	5	264	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		4	pvp	4			1	4	5	265	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		5	pvp	4			1	4	5	266	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		5	pvp	4			1	4	5	267	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		3	pvp	4			1	4	5	268	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		4	pvp	4			1	4	5	269	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		5	pvp	4			1	4	5	270	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		3	pvp	4			1	4	5	271	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		4	pvp	4			1	4	5	272	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		4	pvp	4			1	4	5	273	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		5	pvp	4			1	4	5	274	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		5	pvp	4			1	4	5	275	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		3	pvp	4			1	4	5	276	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		4	pvp	4			1	4	5	277	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		5	pvp	4			1	4	5	278	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		3	pvp	4			1	4	5	279	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		4	pvp	4			1	4	5	280	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		4	pvp	4			1	4	5	281	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		5	pvp	4			1	4	5	282	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		5	pvp	4			1	4	5	283	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		3	pvp	4			1	4	5	284	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		4	pvp	4			1	4	5	285	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Mộc	Hệ nội công		hệ Mộc		5	pvp	4			1	4	5	286	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		3	pvp	4			1	4	5	287	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		4	pvp	4			1	4	5	288	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		4	pvp	4			1	4	5	289	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		5	pvp	4			1	4	5	290	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		5	pvp	4			1	4	5	291	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		3	pvp	4			1	4	5	292	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		4	pvp	4			1	4	5	293	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		5	pvp	4			1	4	5	294	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		3	pvp	4			1	4	5	295	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		4	pvp	4			1	4	5	296	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		4	pvp	4			1	4	5	297	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		5	pvp	4			1	4	5	298	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		5	pvp	4			1	4	5	299	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		3	pvp	4			1	4	5	300	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		4	pvp	4			1	4	5	301	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		5	pvp	4			1	4	5	302	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		3	pvp	4			1	4	5	303	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		4	pvp	4			1	4	5	304	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		4	pvp	4			1	4	5	305	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		5	pvp	4			1	4	5	306	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		5	pvp	4			1	4	5	307	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		3	pvp	4			1	4	5	308	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		4	pvp	4			1	4	5	309	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		5	pvp	4			1	4	5	310	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		3	pvp	4			1	4	5	311	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		4	pvp	4			1	4	5	312	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		4	pvp	4			1	4	5	313	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		5	pvp	4			1	4	5	314	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		5	pvp	4			1	4	5	315	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		3	pvp	4			1	4	5	316	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		4	pvp	4			1	4	5	317	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		5	pvp	4			1	4	5	318	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		3	pvp	4			1	4	5	319	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		4	pvp	4			1	4	5	320	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		4	pvp	4			1	4	5	321	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		5	pvp	4			1	4	5	322	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		5	pvp	4			1	4	5	323	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		3	pvp	4			1	4	5	324	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		4	pvp	4			1	4	5	325	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		5	pvp	4			1	4	5	326	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		3	pvp	4			1	4	5	327	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		4	pvp	4			1	4	5	328	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		4	pvp	4			1	4	5	329	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		5	pvp	4			1	4	5	330	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		5	pvp	4			1	4	5	331	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		3	pvp	4			1	4	5	332	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		4	pvp	4			1	4	5	333	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		5	pvp	4			1	4	5	334	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Kim			Hệ Kim	Nam	3	pvp	4			1	4	8	335	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	3	pvp	4			1	4	8	336	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Kim			Hệ Kim	Nam	4	pvp	4			1	4	8	337	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	4	pvp	4			1	4	8	338	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Kim			Hệ Kim	Nam	4	pvp	4			1	4	8	339	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	4	pvp	4			1	4	8	340	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Kim			Hệ Kim	Nam	5	pvp	4			1	4	8	341	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	5	pvp	4			1	4	8	342	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Kim			Hệ Kim	Nam	5	pvp	4			1	4	8	343	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	5	pvp	4			1	4	8	344	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Kim			Hệ Kim	Nam	3	pvp	4			1	4	8	345	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	3	pvp	4			1	4	8	346	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Kim			Hệ Kim	Nam	4	pvp	4			1	4	8	347	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	4	pvp	4			1	4	8	348	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Kim			Hệ Kim	Nam	5	pvp	4			1	4	8	349	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Kim			Hệ Kim	Nữ	5	pvp	4			1	4	8	350	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Kim			Hệ Kim	Nam	6	pvp	4			1	4	8	351	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Kim			Hệ Kim	Nữ	6	pvp	4			1	4	8	352	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Kim			Hệ Kim	Nam	7	pvp	4			1	4	8	353	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Kim			Hệ Kim	Nữ	7	pvp	4			1	4	8	354	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Mộc			hệ Mộc	Nam	3	pvp	4			1	4	8	355	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	3	pvp	4			1	4	8	356	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Mộc			hệ Mộc	Nam	4	pvp	4			1	4	8	357	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	4			1	4	8	358	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Mộc			hệ Mộc	Nam	4	pvp	4			1	4	8	359	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	4			1	4	8	360	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Mộc			hệ Mộc	Nam	5	pvp	4			1	4	8	361	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	4			1	4	8	362	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Mộc			hệ Mộc	Nam	5	pvp	4			1	4	8	363	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	4			1	4	8	364	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Mộc			hệ Mộc	Nam	3	pvp	4			1	4	8	365	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	3	pvp	4			1	4	8	366	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Mộc			hệ Mộc	Nam	4	pvp	4			1	4	8	367	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	4			1	4	8	368	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Mộc			hệ Mộc	Nam	5	pvp	4			1	4	8	369	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	4			1	4	8	370	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Mộc			hệ Mộc	Nam	6	pvp	4			1	4	8	371	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	4			1	4	8	372	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Mộc			hệ Mộc	Nam	7	pvp	4			1	4	8	373	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	4			1	4	8	374	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	3	pvp	4			1	4	8	375	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	4			1	4	8	376	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	4	pvp	4			1	4	8	377	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	4			1	4	8	378	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	4	pvp	4			1	4	8	379	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	4			1	4	8	380	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	5	pvp	4			1	4	8	381	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	4			1	4	8	382	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	5	pvp	4			1	4	8	383	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	4			1	4	8	384	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	3	pvp	4			1	4	8	385	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	4			1	4	8	386	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	4	pvp	4			1	4	8	387	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	4			1	4	8	388	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thủy			Hệ Thủy	Nam	5	pvp	4			1	4	8	389	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	4			1	4	8	390	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Thủy			Hệ Thủy	Nam	6	pvp	4			1	4	8	391	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	4			1	4	8	392	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Thủy			Hệ Thủy	Nam	7	pvp	4			1	4	8	393	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	4			1	4	8	394	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	3	pvp	4			1	4	8	395	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	4			1	4	8	396	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	4			1	4	8	397	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	4			1	4	8	398	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	4			1	4	8	399	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	4			1	4	8	400	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	4			1	4	8	401	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	4			1	4	8	402	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	4			1	4	8	403	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	4			1	4	8	404	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	3	pvp	4			1	4	8	405	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	4			1	4	8	406	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	4			1	4	8	407	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	4			1	4	8	408	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	4			1	4	8	409	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	4			1	4	8	410	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	4			1	4	8	411	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	4			1	4	8	412	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	4			1	4	8	413	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	4			1	4	8	414	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	3	pvp	4			1	4	8	415	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	4			1	4	8	416	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	4	pvp	4			1	4	8	417	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	4			1	4	8	418	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	4	pvp	4			1	4	8	419	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	4			1	4	8	420	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	5	pvp	4			1	4	8	421	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	4			1	4	8	422	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	5	pvp	4			1	4	8	423	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	4			1	4	8	424	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	3	pvp	4			1	4	8	425	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Xanh_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	4			1	4	8	426	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	4	pvp	4			1	4	8	427	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Tím_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	4			1	4	8	428	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nam hệ Thổ			Hệ Thổ	Nam	5	pvp	4			1	4	8	429	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt Cam_Yêu đái nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	4			1	4	8	430	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Thổ			Hệ Thổ	Nam	6	pvp	4			1	4	8	431	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	4			1	4	8	432	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Thổ			Hệ Thổ	Nam	7	pvp	4			1	4	8	433	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	4			1	4	8	434	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Cam_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	5	pvp	1			1	4	10	435	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Cam_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	5	pvp	1			1	4	10	436	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Tím_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	4	pvp	1			1	4	10	437	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Tím_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	4	pvp	1			1	4	10	438	10
+Tiêu Dao Nộ Long Hộ Uyển	Bộ Tiêu Dao Xanh_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	3	pvp	1			1	4	10	439	10
+Tiêu Dao Tường Phượng Thủ Trạc	Bộ Tiêu Dao Xanh_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	3	pvp	1			1	4	10	440	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Xanh_Giới chỉ nội công hệ Kim	Hệ nội công		Hệ Kim		3	pvp	3			1	4	4	441	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Tím_Giới chỉ nội công hệ Kim	Hệ nội công		Hệ Kim		4	pvp	3			1	4	4	442	10
+Vũ Uy Trích Tinh Giới	Bộ Liên Đấu Cam_Giới chỉ nội công hệ Kim	Hệ nội công		Hệ Kim		5	pvp	3			1	4	4	443	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Xanh_Hạng liên nội công hệ Kim	Hệ nội công		Hệ Kim		3	pvp	4			1	4	5	444	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Tím_Hạng liên nội công hệ Kim	Hệ nội công		Hệ Kim		4	pvp	4			1	4	5	445	10
+Trục Lộc Thiên Hựu Liên	Bộ Tranh Đoạt Cam_Hạng liên nội công hệ Kim	Hệ nội công		Hệ Kim		5	pvp	4			1	4	5	446	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Kim chuyển môn phái dùng			Hệ Kim		4	pvp	3			1	4	6	447	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Kim chuyển môn phái dùng			Hệ Kim		5	pvp	3			1	4	6	448	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Mộc chuyển môn phái dùng			hệ Mộc		4	pvp	3			1	4	6	449	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Mộc chuyển môn phái dùng			hệ Mộc		5	pvp	3			1	4	6	450	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Thủy chuyển môn phái dùng			Hệ Thủy		4	pvp	3			1	4	6	451	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Thủy chuyển môn phái dùng			Hệ Thủy		5	pvp	3			1	4	6	452	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Hỏa chuyển môn phái dùng			Hệ Hỏa		4	pvp	3			1	4	6	453	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Hỏa chuyển môn phái dùng			Hệ Hỏa		5	pvp	3			1	4	6	454	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Tím_Hộ thân phù hệ Thổ chuyển môn phái dùng			Hệ Thổ		4	pvp	3			1	4	6	455	10
+Vũ Uy Truy Nguyệt Phù	Bộ Liên Đấu Cam_Hộ thân phù hệ Thổ chuyển môn phái dùng			Hệ Thổ		5	pvp	3			1	4	6	456	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù hệ Kim_vn			Hệ Kim		6	pvp	3	vn		1	4	6	457	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù hệ Kim_vn			Hệ Kim		7	pvp	3	vn		1	4	6	458	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù hệ Mộc_vn			hệ Mộc		6	pvp	3	vn		1	4	6	459	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù hệ Mộc_vn			hệ Mộc		7	pvp	3	vn		1	4	6	460	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù hệ Thủy_vn			Hệ Thủy		6	pvp	3	vn		1	4	6	461	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù hệ Thủy_vn			Hệ Thủy		7	pvp	3	vn		1	4	6	462	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù hệ Hỏa_vn			Hệ Hỏa		6	pvp	3	vn		1	4	6	463	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù hệ Hỏa_vn			Hệ Hỏa		7	pvp	3	vn		1	4	6	464	10
+Vũ Uy Hổ Phách Thiên Tinh Phù	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù hệ Thổ_vn			Hệ Thổ		6	pvp	3	vn		1	4	6	465	10
+Vũ Uy Lẫm Nhật Tinh Huyễn Phù	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù hệ Thổ_vn			Hệ Thổ		7	pvp	3	vn		1	4	6	466	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Kim			Hệ Kim	Nam	6	pvp	4		1	1	4	8	457	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Kim			Hệ Kim	Nữ	6	pvp	4		1	1	4	8	458	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Kim			Hệ Kim	Nam	7	pvp	4		1	1	4	8	459	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Kim			Hệ Kim	Nữ	7	pvp	4		1	1	4	8	460	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Mộc			hệ Mộc	Nam	6	pvp	4		1	1	4	8	461	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Mộc			hệ Mộc	Nữ	6	pvp	4		1	1	4	8	462	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Mộc			hệ Mộc	Nam	7	pvp	4		1	1	4	8	463	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Mộc			hệ Mộc	Nữ	7	pvp	4		1	1	4	8	464	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Thủy			Hệ Thủy	Nam	6	pvp	4		1	1	4	8	465	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Thủy			Hệ Thủy	Nữ	6	pvp	4		1	1	4	8	466	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Thủy			Hệ Thủy	Nam	7	pvp	4		1	1	4	8	467	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Thủy			Hệ Thủy	Nữ	7	pvp	4		1	1	4	8	468	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Hỏa			Hệ Hỏa	Nam	6	pvp	4		1	1	4	8	469	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	4		1	1	4	8	470	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Hỏa			Hệ Hỏa	Nam	7	pvp	4		1	1	4	8	471	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	4		1	1	4	8	472	10
+Trục Lộc Hoa Hạ Đằng Long Thúc Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Thổ			Hệ Thổ	Nam	6	pvp	4		1	1	4	8	473	10
+Trục Lộc Hoa Hạ Phi Phụng Ngọc Đái	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Thổ			Hệ Thổ	Nữ	6	pvp	4		1	1	4	8	474	10
+Trục Lộc Thần Châu Viêm Đế Thúc Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Thổ			Hệ Thổ	Nam	7	pvp	4		1	1	4	8	475	10
+Trục Lộc Thần Châu Nữ Oa Ngọc Đái	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Thổ			Hệ Thổ	Nữ	7	pvp	4		1	1	4	8	476	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Kim_vn			Hệ Kim	Nam	6	pvp	4	vn		1	4	8	477	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Kim_vn			Hệ Kim	Nữ	6	pvp	4	vn		1	4	8	478	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Kim_vn			Hệ Kim	Nam	7	pvp	4	vn		1	4	8	479	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Kim_vn			Hệ Kim	Nữ	7	pvp	4	vn		1	4	8	480	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Mộc_vn			hệ Mộc	Nam	6	pvp	4	vn		1	4	8	481	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Mộc_vn			hệ Mộc	Nữ	6	pvp	4	vn		1	4	8	482	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Mộc_vn			hệ Mộc	Nam	7	pvp	4	vn		1	4	8	483	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Mộc_vn			hệ Mộc	Nữ	7	pvp	4	vn		1	4	8	484	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Thủy_vn			Hệ Thủy	Nam	6	pvp	4	vn		1	4	8	485	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Thủy_vn			Hệ Thủy	Nữ	6	pvp	4	vn		1	4	8	486	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Thủy_vn			Hệ Thủy	Nam	7	pvp	4	vn		1	4	8	487	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Thủy_vn			Hệ Thủy	Nữ	7	pvp	4	vn		1	4	8	488	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Hỏa_vn			Hệ Hỏa	Nam	6	pvp	4	vn		1	4	8	489	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Hỏa_vn			Hệ Hỏa	Nữ	6	pvp	4	vn		1	4	8	490	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Hỏa_vn			Hệ Hỏa	Nam	7	pvp	4	vn		1	4	8	491	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Hỏa_vn			Hệ Hỏa	Nữ	7	pvp	4	vn		1	4	8	492	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam hệ Thổ_vn			Hệ Thổ	Nam	6	pvp	4	vn		1	4	8	493	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ hệ Thổ_vn			Hệ Thổ	Nữ	6	pvp	4	vn		1	4	8	494	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam hệ Thổ_vn			Hệ Thổ	Nam	7	pvp	4	vn		1	4	8	495	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ hệ Thổ_vn			Hệ Thổ	Nữ	7	pvp	4	vn		1	4	8	496	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Kim_vn			Hệ Kim	Nam	6	pvp	4	vn	1	1	4	8	497	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Kim_vn			Hệ Kim	Nữ	6	pvp	4	vn	1	1	4	8	498	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Kim_vn			Hệ Kim	Nam	7	pvp	4	vn	1	1	4	8	499	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Kim_vn			Hệ Kim	Nữ	7	pvp	4	vn	1	1	4	8	500	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Mộc_vn			hệ Mộc	Nam	6	pvp	4	vn	1	1	4	8	501	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Mộc_vn			hệ Mộc	Nữ	6	pvp	4	vn	1	1	4	8	502	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Mộc_vn			hệ Mộc	Nam	7	pvp	4	vn	1	1	4	8	503	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Mộc_vn			hệ Mộc	Nữ	7	pvp	4	vn	1	1	4	8	504	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Thủy_vn			Hệ Thủy	Nam	6	pvp	4	vn	1	1	4	8	505	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Thủy_vn			Hệ Thủy	Nữ	6	pvp	4	vn	1	1	4	8	506	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Thủy_vn			Hệ Thủy	Nam	7	pvp	4	vn	1	1	4	8	507	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Thủy_vn			Hệ Thủy	Nữ	7	pvp	4	vn	1	1	4	8	508	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Hỏa_vn			Hệ Hỏa	Nam	6	pvp	4	vn	1	1	4	8	509	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Hỏa_vn			Hệ Hỏa	Nữ	6	pvp	4	vn	1	1	4	8	510	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Hỏa_vn			Hệ Hỏa	Nam	7	pvp	4	vn	1	1	4	8	511	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Hỏa_vn			Hệ Hỏa	Nữ	7	pvp	4	vn	1	1	4	8	512	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nam 2 hệ Thổ_vn			Hệ Thổ	Nam	6	pvp	4	vn	1	1	4	8	513	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Bạch Ngân Yêu Đái Nữ 2 hệ Thổ_vn			Hệ Thổ	Nữ	6	pvp	4	vn	1	1	4	8	514	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nam 2 hệ Thổ_vn			Hệ Thổ	Nam	7	pvp	4	vn	1	1	4	8	515	10
+Trục Lộc Hoàng Long Triền Yêu	Bộ Tranh Đoạt_Hoàng Kim Yêu Đái Nữ 2 hệ Thổ_vn			Hệ Thổ	Nữ	7	pvp	4	vn	1	1	4	8	516	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nam hệ Kim			Hệ Kim	Nam	6	pvp	4			1	4	9	477	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nữ hệ Kim			Hệ Kim	Nữ	6	pvp	4			1	4	9	478	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nam hệ Mộc			hệ Mộc	Nam	6	pvp	4			1	4	9	479	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	4			1	4	9	480	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nam hệ Thủy			Hệ Thủy	Nam	6	pvp	4			1	4	9	481	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	4			1	4	9	482	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	4			1	4	9	483	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	4			1	4	9	484	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nam hệ Thổ			Hệ Thổ	Nam	6	pvp	4			1	4	9	485	10
+Trục Lộc Huyền Dương Khôi	Bộ Tranh Đoạt_Bạch Ngân Mão nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	4			1	4	9	486	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nam hệ Kim			Hệ Kim	Nam	7	pvp	4			1	4	9	487	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nữ hệ Kim			Hệ Kim	Nữ	7	pvp	4			1	4	9	488	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nam hệ Mộc			hệ Mộc	Nam	7	pvp	4			1	4	9	489	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	4			1	4	9	490	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nam hệ Thủy			Hệ Thủy	Nam	7	pvp	4			1	4	9	491	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	4			1	4	9	492	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	4			1	4	9	493	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	4			1	4	9	494	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nam hệ Thổ			Hệ Thổ	Nam	7	pvp	4			1	4	9	495	10
+Trục Lộc Kinh Vân Khôi	Bộ Tranh Đoạt_Hoàng Kim Mão nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	4			1	4	9	496	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển ngoại công nam hệ Kim	Hệ ngoại công		Hệ Kim	Nam	3	pvp	5			1	4	10	55	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc ngoại công nữ hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	3	pvp	5			1	4	10	56	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển nội công nam hệ Kim	Hệ nội công		Hệ Kim	Nam	3	pvp	5			1	4	10	57	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc nội công nữ hệ Kim	Hệ nội công		Hệ Kim	Nữ	3	pvp	5			1	4	10	58	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển ngoại công nam hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	3	pvp	5			1	4	10	59	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc ngoại công nữ hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	3	pvp	5			1	4	10	60	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển nội công nam hệ Mộc	Hệ nội công		hệ Mộc	Nam	3	pvp	5			1	4	10	61	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc nội công nữ hệ Mộc	Hệ nội công		hệ Mộc	Nữ	3	pvp	5			1	4	10	62	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển ngoại công nam hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	3	pvp	5			1	4	10	63	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc ngoại công nữ hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	3	pvp	5			1	4	10	64	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển nội công nam hệ Thủy	Hệ nội công		Hệ Thủy	Nam	3	pvp	5			1	4	10	65	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc nội công nữ hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	3	pvp	5			1	4	10	66	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển ngoại công nam hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	3	pvp	5			1	4	10	67	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc ngoại công nữ hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	3	pvp	5			1	4	10	68	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển nội công nam hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	3	pvp	5			1	4	10	69	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc nội công nữ hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	3	pvp	5			1	4	10	70	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển ngoại công nam hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	3	pvp	5			1	4	10	71	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc ngoại công nữ hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	3	pvp	5			1	4	10	72	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng xanh_Hộ uyển nội công nam hệ Thổ	Hệ nội công		Hệ Thổ	Nam	3	pvp	5			1	4	10	73	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng xanh_Thủ trạc nội công nữ hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	3	pvp	5			1	4	10	74	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển ngoại công nam hệ Kim	Hệ ngoại công		Hệ Kim	Nam	4	pvp	5			1	4	10	75	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc ngoại công nữ hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	4	pvp	5			1	4	10	76	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển nội công nam hệ Kim	Hệ nội công		Hệ Kim	Nam	4	pvp	5			1	4	10	77	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc nội công nữ hệ Kim	Hệ nội công		Hệ Kim	Nữ	4	pvp	5			1	4	10	78	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển ngoại công nam hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	4	pvp	5			1	4	10	79	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc ngoại công nữ hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	4	pvp	5			1	4	10	80	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển nội công nam hệ Mộc	Hệ nội công		hệ Mộc	Nam	4	pvp	5			1	4	10	81	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc nội công nữ hệ Mộc	Hệ nội công		hệ Mộc	Nữ	4	pvp	5			1	4	10	82	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển ngoại công nam hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	4	pvp	5			1	4	10	83	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc ngoại công nữ hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	4	pvp	5			1	4	10	84	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển nội công nam hệ Thủy	Hệ nội công		Hệ Thủy	Nam	4	pvp	5			1	4	10	85	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc nội công nữ hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	4	pvp	5			1	4	10	86	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển ngoại công nam hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	4	pvp	5			1	4	10	87	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc ngoại công nữ hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	4	pvp	5			1	4	10	88	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển nội công nam hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	4	pvp	5			1	4	10	89	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc nội công nữ hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	4	pvp	5			1	4	10	90	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển ngoại công nam hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	4	pvp	5			1	4	10	91	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc ngoại công nữ hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	4	pvp	5			1	4	10	92	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng tím_Hộ uyển nội công nam hệ Thổ	Hệ nội công		Hệ Thổ	Nam	4	pvp	5			1	4	10	93	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng tím_Thủ trạc nội công nữ hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	4	pvp	5			1	4	10	94	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển ngoại công nam hệ Kim	Hệ ngoại công		Hệ Kim	Nam	5	pvp	5			1	4	10	95	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc ngoại công nữ hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	5	pvp	5			1	4	10	96	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển nội công nam hệ Kim	Hệ nội công		Hệ Kim	Nam	5	pvp	5			1	4	10	97	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc nội công nữ hệ Kim	Hệ nội công		Hệ Kim	Nữ	5	pvp	5			1	4	10	98	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển ngoại công nam hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	5	pvp	5			1	4	10	99	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc ngoại công nữ hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	5	pvp	5			1	4	10	100	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển nội công nam hệ Mộc	Hệ nội công		hệ Mộc	Nam	5	pvp	5			1	4	10	101	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc nội công nữ hệ Mộc	Hệ nội công		hệ Mộc	Nữ	5	pvp	5			1	4	10	102	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển ngoại công nam hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	5	pvp	5			1	4	10	103	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc ngoại công nữ hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	5	pvp	5			1	4	10	104	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển nội công nam hệ Thủy	Hệ nội công		Hệ Thủy	Nam	5	pvp	5			1	4	10	105	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc nội công nữ hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	5	pvp	5			1	4	10	106	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển ngoại công nam hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	5	pvp	5			1	4	10	107	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc ngoại công nữ hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	5	pvp	5			1	4	10	108	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển nội công nam hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	5	pvp	5			1	4	10	109	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc nội công nữ hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	5	pvp	5			1	4	10	110	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển ngoại công nam hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	5	pvp	5			1	4	10	111	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc ngoại công nữ hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	5	pvp	5			1	4	10	112	10
+Thủy Hoàng Long Hoàng Hộ Uyển	Bộ Thủy Hoàng cam_Hộ uyển nội công nam hệ Thổ	Hệ nội công		Hệ Thổ	Nam	5	pvp	5			1	4	10	113	10
+Thủy Hoàng Long Hoàng Thủ Trạc	Bộ Thủy Hoàng cam_Thủ trạc nội công nữ hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	5	pvp	5			1	4	10	114	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	6	pvp	1			1	4	10	441	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	6	pvp	1			1	4	10	442	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	6	pvp	1			1	4	10	443	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	6	pvp	1			1	4	10	444	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	6	pvp	1			1	4	10	445	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	6	pvp	1			1	4	10	446	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	6	pvp	1			1	4	10	447	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	6	pvp	1			1	4	10	448	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	6	pvp	1			1	4	10	449	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	6	pvp	1			1	4	10	450	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	6	pvp	1			1	4	10	451	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	6	pvp	1			1	4	10	452	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	6	pvp	1			1	4	10	453	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	6	pvp	1			1	4	10	454	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	6	pvp	1			1	4	10	455	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	6	pvp	1			1	4	10	456	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	6	pvp	1			1	4	10	457	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	6	pvp	1			1	4	10	458	10
+Tiêu Dao Thánh Lân Uyển	Bộ Tiêu Dao Bạch Ngân_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	6	pvp	1			1	4	10	459	10
+Tiêu Dao Tỏa Hồn Hoàn	Bộ Tiêu Dao Bạch Ngân_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	6	pvp	1			1	4	10	460	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	7	pvp	1			1	4	10	461	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	7	pvp	1			1	4	10	462	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	7	pvp	1			1	4	10	463	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	7	pvp	1			1	4	10	464	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	7	pvp	1			1	4	10	465	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	7	pvp	1			1	4	10	466	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	7	pvp	1			1	4	10	467	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	7	pvp	1			1	4	10	468	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	7	pvp	1			1	4	10	469	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	7	pvp	1			1	4	10	470	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	7	pvp	1			1	4	10	471	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	7	pvp	1			1	4	10	472	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	7	pvp	1			1	4	10	473	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	7	pvp	1			1	4	10	474	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	7	pvp	1			1	4	10	475	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	7	pvp	1			1	4	10	476	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	7	pvp	1			1	4	10	477	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	7	pvp	1			1	4	10	478	10
+Tiêu Dao Hồng Hoang Uyển	Bộ Tiêu Dao Hoàng Kim_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	7	pvp	1			1	4	10	479	10
+Tiêu Dao Ngự Thần Hoàn	Bộ Tiêu Dao Hoàng Kim_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	7	pvp	1			1	4	10	480	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	6	pvp	5			1	4	10	481	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	6	pvp	5			1	4	10	482	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	6	pvp	5			1	4	10	483	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	6	pvp	5			1	4	10	484	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	6	pvp	5			1	4	10	485	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	6	pvp	5			1	4	10	486	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	6	pvp	5			1	4	10	487	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	6	pvp	5			1	4	10	488	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	6	pvp	5			1	4	10	489	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	6	pvp	5			1	4	10	490	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	6	pvp	5			1	4	10	491	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	6	pvp	5			1	4	10	492	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	6	pvp	5			1	4	10	493	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	6	pvp	5			1	4	10	494	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	6	pvp	5			1	4	10	495	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	6	pvp	5			1	4	10	496	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	6	pvp	5			1	4	10	497	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	6	pvp	5			1	4	10	498	10
+Thủy Hoàng Thánh Lân Uyển	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	6	pvp	5			1	4	10	499	10
+Thủy Hoàng Tỏa Hồn Hoàn	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	6	pvp	5			1	4	10	500	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nam	7	pvp	5			1	4	10	501	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Kim	Hệ ngoại công		Hệ Kim	Nữ	7	pvp	5			1	4	10	502	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Kim	Hệ nội công		Hệ Kim	Nam	7	pvp	5			1	4	10	503	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Kim	Hệ nội công		Hệ Kim	Nữ	7	pvp	5			1	4	10	504	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nam	7	pvp	5			1	4	10	505	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc	Nữ	7	pvp	5			1	4	10	506	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Mộc	Hệ nội công		hệ Mộc	Nam	7	pvp	5			1	4	10	507	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Mộc	Hệ nội công		hệ Mộc	Nữ	7	pvp	5			1	4	10	508	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nam	7	pvp	5			1	4	10	509	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy	Nữ	7	pvp	5			1	4	10	510	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nam	7	pvp	5			1	4	10	511	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Thủy	Hệ nội công		Hệ Thủy	Nữ	7	pvp	5			1	4	10	512	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nam	7	pvp	5			1	4	10	513	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa	Nữ	7	pvp	5			1	4	10	514	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nam	7	pvp	5			1	4	10	515	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Hỏa	Hệ nội công		Hệ Hỏa	Nữ	7	pvp	5			1	4	10	516	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nam	7	pvp	5			1	4	10	517	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ	Nữ	7	pvp	5			1	4	10	518	10
+Thủy Hoàng Hồng Hoang Uyển	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nam	7	pvp	5			1	4	10	519	10
+Thủy Hoàng Ngự Thần Hoàn	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Thổ	Hệ nội công		Hệ Thổ	Nữ	7	pvp	5			1	4	10	520	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng xanh_Ngọc bội nam hệ Kim			Hệ Kim	Nam	3	pvp	5			1	4	11	31	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng xanh_Hương nang nữ hệ Kim			Hệ Kim	Nữ	3	pvp	5			1	4	11	32	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng xanh_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	3	pvp	5			1	4	11	33	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng xanh_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	3	pvp	5			1	4	11	34	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng xanh_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	3	pvp	5			1	4	11	35	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng xanh_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	5			1	4	11	36	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng xanh_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	3	pvp	5			1	4	11	37	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng xanh_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	5			1	4	11	38	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng xanh_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	3	pvp	5			1	4	11	39	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng xanh_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	5			1	4	11	40	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng tím_Ngọc bội nam hệ Kim			Hệ Kim	Nam	4	pvp	5			1	4	11	41	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng tím_Hương nang nữ hệ Kim			Hệ Kim	Nữ	4	pvp	5			1	4	11	42	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng tím_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	4	pvp	5			1	4	11	43	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng tím_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	4	pvp	5			1	4	11	44	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng tím_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	4	pvp	5			1	4	11	45	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng tím_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	5			1	4	11	46	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng tím_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	4	pvp	5			1	4	11	47	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng tím_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	5			1	4	11	48	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng tím_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	4	pvp	5			1	4	11	49	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng tím_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	5			1	4	11	50	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng cam_Ngọc bội nam hệ Kim			Hệ Kim	Nam	5	pvp	5			1	4	11	51	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng cam_Hương nang nữ hệ Kim			Hệ Kim	Nữ	5	pvp	5			1	4	11	52	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng cam_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	5	pvp	5			1	4	11	53	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng cam_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	5	pvp	5			1	4	11	54	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng cam_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	5	pvp	5			1	4	11	55	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng cam_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	5			1	4	11	56	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng cam_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	5	pvp	5			1	4	11	57	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng cam_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	5			1	4	11	58	10
+Thủy Hoàng Long Vân Bội	Bộ Thủy Hoàng cam_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	5	pvp	5			1	4	11	59	10
+Thủy Hoàng Long Vân Hương Nang	Bộ Thủy Hoàng cam_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	5			1	4	11	60	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	3	pvp	5			1	4	3	163	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	3	pvp	5			1	4	3	164	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	3	pvp	5			1	4	3	165	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	3	pvp	5			1	4	3	166	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	3	pvp	5			1	4	3	167	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	3	pvp	5			1	4	3	168	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	3	pvp	5			1	4	3	169	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	3	pvp	5			1	4	3	170	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	3	pvp	5			1	4	3	171	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	3	pvp	5			1	4	3	172	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	3	pvp	5			1	4	3	173	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	3	pvp	5			1	4	3	174	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	3	pvp	5			1	4	3	175	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	3	pvp	5			1	4	3	176	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	3	pvp	5			1	4	3	177	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	3	pvp	5			1	4	3	178	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	3	pvp	5			1	4	3	179	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	3	pvp	5			1	4	3	180	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	3	pvp	5			1	4	3	181	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng xanh_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	3	pvp	5			1	4	3	182	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	4	pvp	5			1	4	3	183	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	4	pvp	5			1	4	3	184	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	4	pvp	5			1	4	3	185	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	4	pvp	5			1	4	3	186	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	4	pvp	5			1	4	3	187	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	4	pvp	5			1	4	3	188	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	4	pvp	5			1	4	3	189	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	4	pvp	5			1	4	3	190	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	4	pvp	5			1	4	3	191	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	4	pvp	5			1	4	3	192	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	4	pvp	5			1	4	3	193	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	4	pvp	5			1	4	3	194	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	4	pvp	5			1	4	3	195	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	4	pvp	5			1	4	3	196	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	4	pvp	5			1	4	3	197	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	4	pvp	5			1	4	3	198	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	4	pvp	5			1	4	3	199	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	4	pvp	5			1	4	3	200	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	4	pvp	5			1	4	3	201	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng tím_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	4	pvp	5			1	4	3	202	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nam hệ Mộc		Vải	hệ Mộc	Nam	5	pvp	5			1	4	3	203	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nữ hệ Mộc		Vải	hệ Mộc	Nữ	5	pvp	5			1	4	3	204	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nam hệ Thủy		Vải	Hệ Thủy	Nam	5	pvp	5			1	4	3	205	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nữ hệ Thủy		Vải	Hệ Thủy	Nữ	5	pvp	5			1	4	3	206	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nam hệ Thổ		Vải	Hệ Thổ	Nam	5	pvp	5			1	4	3	207	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bố giáp nữ hệ Thổ		Vải	Hệ Thổ	Nữ	5	pvp	5			1	4	3	208	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nam hệ Kim		Da	Hệ Kim	Nam	5	pvp	5			1	4	3	209	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nữ hệ Kim		Da	Hệ Kim	Nữ	5	pvp	5			1	4	3	210	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nam hệ Mộc		Da	hệ Mộc	Nam	5	pvp	5			1	4	3	211	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nữ hệ Mộc		Da	hệ Mộc	Nữ	5	pvp	5			1	4	3	212	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nam hệ Hỏa		Da	Hệ Hỏa	Nam	5	pvp	5			1	4	3	213	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Bì giáp nữ hệ Hỏa		Da	Hệ Hỏa	Nữ	5	pvp	5			1	4	3	214	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nam hệ Kim		Sắt	Hệ Kim	Nam	5	pvp	5			1	4	3	215	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nữ hệ Kim			Hệ Kim	Nữ	5	pvp	5			1	4	3	216	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nam hệ Thủy		Sắt	Hệ Thủy	Nam	5	pvp	5			1	4	3	217	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nữ hệ Thủy			Hệ Thủy	Nữ	5	pvp	5			1	4	3	218	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nam hệ Hỏa		Sắt	Hệ Hỏa	Nam	5	pvp	5			1	4	3	219	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nữ hệ Hỏa			Hệ Hỏa	Nữ	5	pvp	5			1	4	3	220	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nam hệ Thổ		Sắt	Hệ Thổ	Nam	5	pvp	5			1	4	3	221	10
+Thủy Hoàng Long Lân Y	Bộ Thủy Hoàng cam_Thiết giáp nữ hệ Thổ			Hệ Thổ	Nữ	5	pvp	5			1	4	3	222	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nam hệ Kim			Hệ Kim	Nam	6	pvp	5			1	4	3	223	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nam hệ Mộc			hệ Mộc	Nam	6	pvp	5			1	4	3	224	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nam hệ Thủy			Hệ Thủy	Nam	6	pvp	5			1	4	3	225	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	5			1	4	3	226	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nam hệ Thổ			Hệ Thổ	Nam	6	pvp	5			1	4	3	227	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nữ hệ Kim			Hệ Kim	Nữ	6	pvp	5			1	4	3	228	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	5			1	4	3	229	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	5			1	4	3	230	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	5			1	4	3	231	10
+Thủy Hoàng Thừa Ảnh Y	Bộ Thủy Hoàng Bạch Ngân_Y phục nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	5			1	4	3	232	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nam hệ Kim			Hệ Kim	Nam	7	pvp	5			1	4	3	233	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nam hệ Mộc			hệ Mộc	Nam	7	pvp	5			1	4	3	234	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nam hệ Thủy			Hệ Thủy	Nam	7	pvp	5			1	4	3	235	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	5			1	4	3	236	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nam hệ Thổ			Hệ Thổ	Nam	7	pvp	5			1	4	3	237	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ hệ Kim			Hệ Kim	Nữ	7	pvp	5			1	4	3	238	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	5			1	4	3	239	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	5			1	4	3	240	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	5			1	4	3	241	10
+Thủy Hoàng Trường Không Y	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	5			1	4	3	242	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		6	pvp	3			1	4	4	444	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn nội công hệ Kim	Hệ nội công		Hệ Kim		6	pvp	3			1	4	4	445	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		6	pvp	3			1	4	4	446	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn nội công hệ Mộc	Hệ nội công		hệ Mộc		6	pvp	3			1	4	4	447	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		6	pvp	3			1	4	4	448	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn nội công hệ Thủy	Hệ nội công		Hệ Thủy		6	pvp	3			1	4	4	449	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		6	pvp	3			1	4	4	450	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		6	pvp	3			1	4	4	451	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		6	pvp	3			1	4	4	452	10
+Vũ Uy Lăng Vân Giới	Bộ Liên Đấu Bạch Ngân_Nhẫn nội công hệ Thổ	Hệ nội công		Hệ Thổ		6	pvp	3			1	4	4	453	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		7	pvp	3			1	4	4	454	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Kim	Hệ nội công		Hệ Kim		7	pvp	3			1	4	4	455	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		7	pvp	3			1	4	4	456	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Mộc	Hệ nội công		hệ Mộc		7	pvp	3			1	4	4	457	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		7	pvp	3			1	4	4	458	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Thủy	Hệ nội công		Hệ Thủy		7	pvp	3			1	4	4	459	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		7	pvp	3			1	4	4	460	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		7	pvp	3			1	4	4	461	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		7	pvp	3			1	4	4	462	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Thổ	Hệ nội công		Hệ Thổ		7	pvp	3			1	4	4	463	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ Kim_vn	Hệ ngoại công		Hệ Kim		6	pvp	3	vn		1	4	4	464	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ Kim_vn	Hệ nội công		Hệ Kim		6	pvp	3	vn		1	4	4	465	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ Mộc_vn	Hệ ngoại công		hệ Mộc		6	pvp	3	vn		1	4	4	466	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ Mộc_vn	Hệ nội công		hệ Mộc		6	pvp	3	vn		1	4	4	467	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ Thủy_vn	Hệ ngoại công		Hệ Thủy		6	pvp	3	vn		1	4	4	468	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ Thủy_vn	Hệ nội công		Hệ Thủy		6	pvp	3	vn		1	4	4	469	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ Hỏa_vn	Hệ ngoại công		Hệ Hỏa		6	pvp	3	vn		1	4	4	470	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ Hỏa_vn	Hệ nội công		Hệ Hỏa		6	pvp	3	vn		1	4	4	471	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ Thổ_vn	Hệ ngoại công		Hệ Thổ		6	pvp	3	vn		1	4	4	472	10
+Vũ Uy Lăng Vân Giới	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ Thổ_vn	Hệ nội công		Hệ Thổ		6	pvp	3	vn		1	4	4	473	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Kim_vn	Hệ ngoại công		Hệ Kim		7	pvp	3	vn		1	4	4	474	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Kim_vn	Hệ nội công		Hệ Kim		7	pvp	3	vn		1	4	4	475	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Mộc_vn	Hệ ngoại công		hệ Mộc		7	pvp	3	vn		1	4	4	476	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Mộc_vn	Hệ nội công		hệ Mộc		7	pvp	3	vn		1	4	4	477	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Thủy_vn	Hệ ngoại công		Hệ Thủy		7	pvp	3	vn		1	4	4	478	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Thủy_vn	Hệ nội công		Hệ Thủy		7	pvp	3	vn		1	4	4	479	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Hỏa_vn	Hệ ngoại công		Hệ Hỏa		7	pvp	3	vn		1	4	4	480	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Hỏa_vn	Hệ nội công		Hệ Hỏa		7	pvp	3	vn		1	4	4	481	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn ngoại công hệ Thổ_vn	Hệ ngoại công		Hệ Thổ		7	pvp	3	vn		1	4	4	482	10
+Vũ Uy Cô Tinh Giới	Bộ Liên Đấu Hoàng Kim_Nhẫn nội công hệ Thổ_vn	Hệ nội công		Hệ Thổ		7	pvp	3	vn		1	4	4	483	10
+Tiêu Dao Bá Vương Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Kim			Hệ Kim	Nam	6	pvp	1			1	4	7	31	10
+Tiêu Dao Huyền Nữ Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Kim			Hệ Kim	Nữ	6	pvp	1			1	4	7	32	10
+Tiêu Dao Bá Vương Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Mộc			hệ Mộc	Nam	6	pvp	1			1	4	7	33	10
+Tiêu Dao Huyền Nữ Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	1			1	4	7	34	10
+Tiêu Dao Bá Vương Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Thủy			Hệ Thủy	Nam	6	pvp	1			1	4	7	35	10
+Tiêu Dao Huyền Nữ Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	1			1	4	7	36	10
+Tiêu Dao Bá Vương Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	1			1	4	7	37	10
+Tiêu Dao Huyền Nữ Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	1			1	4	7	38	10
+Tiêu Dao Bá Vương Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Thổ			Hệ Thổ	Nam	6	pvp	1			1	4	7	39	10
+Tiêu Dao Huyền Nữ Ngoa	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	1			1	4	7	40	10
+Tiêu Dao Hậu Nghệ Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Kim			Hệ Kim	Nam	7	pvp	1			1	4	7	41	10
+Tiêu Dao Hằng Nga Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Kim			Hệ Kim	Nữ	7	pvp	1			1	4	7	42	10
+Tiêu Dao Hậu Nghệ Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Mộc			hệ Mộc	Nam	7	pvp	1			1	4	7	43	10
+Tiêu Dao Hằng Nga Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	1			1	4	7	44	10
+Tiêu Dao Hậu Nghệ Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Thủy			Hệ Thủy	Nam	7	pvp	1			1	4	7	45	10
+Tiêu Dao Hằng Nga Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	1			1	4	7	46	10
+Tiêu Dao Hậu Nghệ Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	1			1	4	7	47	10
+Tiêu Dao Hằng Nga Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	1			1	4	7	48	10
+Tiêu Dao Hậu Nghệ Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Thổ			Hệ Thổ	Nam	7	pvp	1			1	4	7	49	10
+Tiêu Dao Hằng Nga Lữ	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	1			1	4	7	50	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		6	pvp	4			1	4	5	447	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên nội công hệ Kim	Hệ nội công		Hệ Kim		6	pvp	4			1	4	5	448	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		6	pvp	4			1	4	5	449	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên nội công hệ Mộc	Hệ nội công		hệ Mộc		6	pvp	4			1	4	5	450	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		6	pvp	4			1	4	5	451	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		6	pvp	4			1	4	5	452	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		6	pvp	4			1	4	5	453	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		6	pvp	4			1	4	5	454	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		6	pvp	4			1	4	5	455	10
+Trục Lộc Cửu Long Huỳnh Quang Liên	Bộ Bạch Ngân Lãnh Thổ_Liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		6	pvp	4			1	4	5	456	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên ngoại công hệ Kim	Hệ ngoại công		Hệ Kim		7	pvp	4			1	4	5	457	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên nội công hệ Kim	Hệ nội công		Hệ Kim		7	pvp	4			1	4	5	458	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên ngoại công hệ Mộc	Hệ ngoại công		hệ Mộc		7	pvp	4			1	4	5	459	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên nội công hệ Mộc	Hệ nội công		hệ Mộc		7	pvp	4			1	4	5	460	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên ngoại công hệ Thủy	Hệ ngoại công		Hệ Thủy		7	pvp	4			1	4	5	461	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên nội công hệ Thủy	Hệ nội công		Hệ Thủy		7	pvp	4			1	4	5	462	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên ngoại công hệ Hỏa	Hệ ngoại công		Hệ Hỏa		7	pvp	4			1	4	5	463	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên nội công hệ Hỏa	Hệ nội công		Hệ Hỏa		7	pvp	4			1	4	5	464	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên ngoại công hệ Thổ	Hệ ngoại công		Hệ Thổ		7	pvp	4			1	4	5	465	10
+Trục Lộc Thiên Điệp Lưu Vân Liên	Bộ Hoàng Kim Lãnh Thổ_Liên nội công hệ Thổ	Hệ nội công		Hệ Thổ		7	pvp	4			1	4	5	466	10
+Tiêu Dao Chiến Thần Hàn Ngọc Bội	Bộ Tiêu Dao Bạch Ngân_Ngọc bội nam hệ Kim			Hệ Kim	Nam	6	pvp	1			1	4	11	61	10
+Tiêu Dao Chiến Thần Minh Nguyệt Hương Nang	Bộ Tiêu Dao Bạch Ngân_Hương nang nữ hệ Kim			Hệ Kim	Nữ	6	pvp	1			1	4	11	62	10
+Tiêu Dao Chiến Thần Hàn Ngọc Bội	Bộ Tiêu Dao Bạch Ngân_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	6	pvp	1			1	4	11	63	10
+Tiêu Dao Chiến Thần Minh Nguyệt Hương Nang	Bộ Tiêu Dao Bạch Ngân_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	1			1	4	11	64	10
+Tiêu Dao Chiến Thần Hàn Ngọc Bội	Bộ Tiêu Dao Bạch Ngân_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	6	pvp	1			1	4	11	65	10
+Tiêu Dao Chiến Thần Minh Nguyệt Hương Nang	Bộ Tiêu Dao Bạch Ngân_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	1			1	4	11	66	10
+Tiêu Dao Chiến Thần Hàn Ngọc Bội	Bộ Tiêu Dao Bạch Ngân_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	1			1	4	11	67	10
+Tiêu Dao Chiến Thần Minh Nguyệt Hương Nang	Bộ Tiêu Dao Bạch Ngân_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	1			1	4	11	68	10
+Tiêu Dao Chiến Thần Hàn Ngọc Bội	Bộ Tiêu Dao Bạch Ngân_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	6	pvp	1			1	4	11	69	10
+Tiêu Dao Chiến Thần Minh Nguyệt Hương Nang	Bộ Tiêu Dao Bạch Ngân_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	1			1	4	11	70	10
+Thủy Hoàng Chiến Thần Hàn Ngọc Bội	Bộ Thủy Hoàng Bạch Ngân_Ngọc bội nam hệ Kim			Hệ Kim	Nam	6	pvp	5			1	4	11	71	10
+Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang	Bộ Thủy Hoàng Bạch Ngân_Hương nang nữ hệ Kim			Hệ Kim	Nữ	6	pvp	5			1	4	11	72	10
+Thủy Hoàng Chiến Thần Hàn Ngọc Bội	Bộ Thủy Hoàng Bạch Ngân_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	6	pvp	5			1	4	11	73	10
+Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang	Bộ Thủy Hoàng Bạch Ngân_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	6	pvp	5			1	4	11	74	10
+Thủy Hoàng Chiến Thần Hàn Ngọc Bội	Bộ Thủy Hoàng Bạch Ngân_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	6	pvp	5			1	4	11	75	10
+Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang	Bộ Thủy Hoàng Bạch Ngân_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	6	pvp	5			1	4	11	76	10
+Thủy Hoàng Chiến Thần Hàn Ngọc Bội	Bộ Thủy Hoàng Bạch Ngân_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	6	pvp	5			1	4	11	77	10
+Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang	Bộ Thủy Hoàng Bạch Ngân_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	6	pvp	5			1	4	11	78	10
+Thủy Hoàng Chiến Thần Hàn Ngọc Bội	Bộ Thủy Hoàng Bạch Ngân_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	6	pvp	5			1	4	11	79	10
+Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang	Bộ Thủy Hoàng Bạch Ngân_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	6	pvp	5			1	4	11	80	10
+Tiêu Dao Chiến Thần Đằng Vân Bội	Bộ Tiêu Dao Hoàng Kim_Ngọc bội nam hệ Kim			Hệ Kim	Nam	7	pvp	1			1	4	11	81	10
+Tiêu Dao Chiến Thần Băng Tinh Hương Nang	Bộ Tiêu Dao Hoàng Kim_Hương nang nữ hệ Kim			Hệ Kim	Nữ	7	pvp	1			1	4	11	82	10
+Tiêu Dao Chiến Thần Đằng Vân Bội	Bộ Tiêu Dao Hoàng Kim_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	7	pvp	1			1	4	11	83	10
+Tiêu Dao Chiến Thần Băng Tinh Hương Nang	Bộ Tiêu Dao Hoàng Kim_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	1			1	4	11	84	10
+Tiêu Dao Chiến Thần Đằng Vân Bội	Bộ Tiêu Dao Hoàng Kim_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	7	pvp	1			1	4	11	85	10
+Tiêu Dao Chiến Thần Băng Tinh Hương Nang	Bộ Tiêu Dao Hoàng Kim_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	1			1	4	11	86	10
+Tiêu Dao Chiến Thần Đằng Vân Bội	Bộ Tiêu Dao Hoàng Kim_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	1			1	4	11	87	10
+Tiêu Dao Chiến Thần Băng Tinh Hương Nang	Bộ Tiêu Dao Hoàng Kim_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	1			1	4	11	88	10
+Tiêu Dao Chiến Thần Đằng Vân Bội	Bộ Tiêu Dao Hoàng Kim_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	7	pvp	1			1	4	11	89	10
+Tiêu Dao Chiến Thần Băng Tinh Hương Nang	Bộ Tiêu Dao Hoàng Kim_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	1			1	4	11	90	10
+Thủy Hoàng Chiến Thần Đằng Vân Bội	Bộ Thủy Hoàng Hoàng Kim_Ngọc bội nam hệ Kim			Hệ Kim	Nam	7	pvp	5			1	4	11	91	10
+Thủy Hoàng Chiến Thần Băng Tinh Hương Nang	Bộ Thủy Hoàng Hoàng Kim_Hương nang nữ hệ Kim			Hệ Kim	Nữ	7	pvp	5			1	4	11	92	10
+Thủy Hoàng Chiến Thần Đằng Vân Bội	Bộ Thủy Hoàng Hoàng Kim_Ngọc bội nam hệ Mộc			hệ Mộc	Nam	7	pvp	5			1	4	11	93	10
+Thủy Hoàng Chiến Thần Băng Tinh Hương Nang	Bộ Thủy Hoàng Hoàng Kim_Hương nang nữ hệ Mộc			hệ Mộc	Nữ	7	pvp	5			1	4	11	94	10
+Thủy Hoàng Chiến Thần Đằng Vân Bội	Bộ Thủy Hoàng Hoàng Kim_Ngọc bội nam hệ Thủy			Hệ Thủy	Nam	7	pvp	5			1	4	11	95	10
+Thủy Hoàng Chiến Thần Băng Tinh Hương Nang	Bộ Thủy Hoàng Hoàng Kim_Hương nang nữ hệ Thủy			Hệ Thủy	Nữ	7	pvp	5			1	4	11	96	10
+Thủy Hoàng Chiến Thần Đằng Vân Bội	Bộ Thủy Hoàng Hoàng Kim_Ngọc bội nam hệ Hỏa			Hệ Hỏa	Nam	7	pvp	5			1	4	11	97	10
+Thủy Hoàng Chiến Thần Băng Tinh Hương Nang	Bộ Thủy Hoàng Hoàng Kim_Hương nang nữ hệ Hỏa			Hệ Hỏa	Nữ	7	pvp	5			1	4	11	98	10
+Thủy Hoàng Chiến Thần Đằng Vân Bội	Bộ Thủy Hoàng Hoàng Kim_Ngọc bội nam hệ Thổ			Hệ Thổ	Nam	7	pvp	5			1	4	11	99	10
+Thủy Hoàng Chiến Thần Băng Tinh Hương Nang	Bộ Thủy Hoàng Hoàng Kim_Hương nang nữ hệ Thổ			Hệ Thổ	Nữ	7	pvp	5			1	4	11	100	10

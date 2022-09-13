@@ -1,0 +1,33 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Sào Phỉ Binh	0	2119	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\taihanggujing\npc\area1.txt			
+Sào Phỉ Binh	0	2119	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\taihanggujing\npc\area2.txt			
+Vũ Trang Thôn Dân	0	2117	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\taihanggujing\npc\area3.txt			0
+Bạo Nộ Khoáng Công	0	2118	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\taihanggujing\npc\area4.txt			2
+to_bianjingfu	1															\setting\map\map_info\taihanggujing\trap\to_bianjingfu.txt			
+to_fenglingdu	1															\setting\map\map_info\taihanggujing\trap\to_fenglingdu.txt			
+to_longmenshiku	1															\setting\map\map_info\taihanggujing\trap\to_longmenshiku.txt			
+to_yaowangdong	1															\setting\map\map_info\taihanggujing\trap\to_yaowangdong.txt			
+Biện Kinh Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		62400	126048				
+Phong Lăng Độ	0	2525	4	5	1	1	20	20	20	20	20	1		51040	115680				
+Long Môn Thạch Quật	0	2525	4	5	1	1	20	20	20	20	20	1		57408	126048				
+Dược Vương Động	0	2525	4	5	1	1	20	20	20	20	20	1		51648	103744				
+Vương Phó Tướng	0	439	3	5	60	1	20	20	20	20	20	1		56832	105056				
+Bàng Thái Thanh	0	437	0	5	55	1	20	20	20	20	20	1		59104	107008				
+Nguyệt Ảnh Sa Khâu	0	438	3	5	60	1	20	20	20	20	20	1		55520	114016				
+Tiểu Tất	0	1218	0	5	55	1	20	20	20	20	20	1		59296	103904				
+Tiểu Võ	0	1219	0	5	55	1	20	20	20	20	20	1		61696	107584				
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		51648	112128				1
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		54688	109696				1
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		54688	106784				1
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		54400	104000				1
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		55232	105984				1
+Điền Trung Ngưu	0	1221	0	5	55	1	20	20	20	20	20	1		53152	116864				1
+Ma Bổ Đầu	0	1243	3	5	60	1	20	20	20	20	20	1		51904	103744				
+Quản đốc thợ mỏ	0	1220	0	5	55	1	20	20	20	20	20	1		53248	113376				1
+Sen Mẫu Đơn	0	1630	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\taihanggujing\npc\mudanhe.txt			
+Bách Hương Quả	0	1631	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\taihanggujing\npc\baixiangguo.txt			
+Kiếm Tặc	0	2966	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\taihanggujing\npc\jianzei.txt			1
+Bộc Tán A Lỗ	0	2995	0	5	55	1	20	20	20	20	20	16		59232	124768				
+Bào Triệt Sơn	0	2996	0	5	55	1	20	20	20	20	20	16		58208	107328				0
+Thái Cô Trần	0	2997	0	5	55	1	20	20	20	20	20	16		54720	105248				1
+Tào An Phủ	0	2998	0	5	55	1	20	20	20	20	20	16		54784	125376				2

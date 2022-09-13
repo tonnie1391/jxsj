@@ -1,0 +1,3 @@
+id	templateid	posx	posy	level	serires	revive	boss
+1	7313	53920	121696	100	-1	0	0
+2	7313	53952	122560	100	-1	0	0

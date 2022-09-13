@@ -1,0 +1,3 @@
+nId	MapId	Name	MinNumber	MaxNumber	Grade	Time	ItemName	GroupModel	Count	AutoOpen	FubenId
+1	298	家族	4	6	60	20	初级军营令牌	2	5	2	1
+2	298	帮会	4	6	60	20	初级军营令牌2	3	5	2	1

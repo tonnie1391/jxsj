@@ -1,0 +1,1 @@
+SuiteID	Name	SuiteNum1	SuiteMA1Name	SuiteMA1PA1	SuiteMA1PA2	SuiteMA1PA3	SuiteNum2	SuiteMA2Name	SuiteMA2PA1	SuiteMA2PA2	SuiteMA2PA3	SuiteNum3	SuiteMA3Name	SuiteMA3PA1	SuiteMA3PA2	SuiteMA3PA3	SuiteNum4	SuiteMA4Name	SuiteMA4PA1	SuiteMA4PA2	SuiteMA4PA3	Head	Body	Belt	Weapon	Foot	Cuff	Amulet	Ring	Necklace	Pendant	Horse	Mask	Book

@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lý Thăng Dương	0	908	0	5	75	1	20	20	20	20	20	1		51456	102816		1		1
+to_exit544	1															\setting\map\map_info\yipintangbingying\trap\to_exit544.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		52352	103776		1		
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51104	103040		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51648	102464		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51296	103584		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51904	102624		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51744	103232		1		1
+Dương Thiết Tâm	0	1184	0	0	150	1	20	20	20	20	20	1		51264	102976		1		1
+Thạch Hiên Viên	0	1185	0	0	150	1	20	20	20	20	20	1		51616	102624		1		1
+Cổ Yên Nhiên	0	1110	0	0	150	1	20	20	20	20	20	1		51680	102880		1		1
+Bạch Thu Lâm	0	1111	0	0	150	1	20	20	20	20	20	1		51520	103104		1		1
+Du Long Giác	0	1502	3	5	75	1	20	20	20	20	20	1		51488	102528		1		1

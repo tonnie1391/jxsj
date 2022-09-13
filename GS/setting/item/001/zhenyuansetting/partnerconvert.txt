@@ -1,0 +1,17 @@
+PartnerId	PartnerName	Name	G	D	P	L	ZhenYuanTemp	CalValueRate
+241	Diệp Tịnh	[Chân nguyên] Diệp Tịnh	1	24	1	1	1	50
+193	Bảo Ngọc	[Chân nguyên] Bảo Ngọc	1	24	2	1	2	100
+182	Hạ Tiểu Sảnh	[Chân nguyên] Hạ Tiểu Sảnh	1	24	3	1	3	100
+194	Oanh Oanh	[Chân nguyên] Oanh Oanh	1	24	4	1	4	100
+181	Mộc Siêu	[Chân nguyên] Mộc Siêu	1	24	5	1	5	100
+177	Tử Uyển	[Chân nguyên] Tử Uyển	1	24	6	1	6	100
+178	Tần Trọng	[Chân nguyên] Tần Trọng	1	24	7	1	7	100
+246	Diệp Tịnh	[Chân nguyên] Diệp Tịnh	1	24	1	1	1	100
+247	Hạ Tiểu Sảnh	[Chân nguyên] Hạ Tiểu Sảnh	1	24	3	1	3	50
+248	Tử Uyển	[Chân nguyên] Tử Uyển	1	24	6	1	6	50
+249	Bảo Ngọc	[Chân nguyên] Bảo Ngọc	1	24	2	1	2	50
+250	Diệp Tịnh	[Chân nguyên] Diệp Tịnh	1	24	1	1	1	50
+251	Bảo Ngọc	[Chân nguyên] Bảo Ngọc	1	24	2	1	2	50
+252	Tử Uyển	[Chân nguyên] Tử Uyển	1	24	6	1	6	50
+253	Tử Uyển	[Chân nguyên] Tử Uyển	1	24	6	1	6	50
+256	Mộc Siêu	[Chân nguyên] Mộc Siêu	1	24	5	1	5	50

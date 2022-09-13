@@ -1,0 +1,5 @@
+TrapName	TrapPosFile
+trap1	\setting\task\treasuremap2\biluogu\trap\trap1.txt
+trap2	\setting\task\treasuremap2\biluogu\trap\trap2.txt
+trap3	\setting\task\treasuremap2\biluogu\trap\trap3.txt
+trap4	\setting\task\treasuremap2\biluogu\trap\trap4.txt

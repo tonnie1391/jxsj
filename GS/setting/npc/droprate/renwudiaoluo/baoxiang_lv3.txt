@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	2	381000		2Ό¶ΠώΎ§
+		18	1	1	3	300000		3Ό¶ΠώΎ§
+		18	1	114	4	286000		4Ό¶ΠώΎ§
+		18	1	114	5	30000		5Ό¶ΠώΎ§
+		18	1	114	6	3000		6Ό¶ΠώΎ§

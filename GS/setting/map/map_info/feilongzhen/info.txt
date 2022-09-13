@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cấm Quân Bị Nhốt	0	945	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\feilongzhen\npc\beikundejinjun.txt	1		
+Mộc Nhân Điên	0	946	0	0	55	1	20	20	20	20	20	1		51968	98016		1		
+to_exit512	1															\setting\map\map_info\feilongzhen\trap\to_exit512.txt			
+Lối ra	0	2525	4	5	1	1	20	20	20	20	20	1		51328	103136		1		

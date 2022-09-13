@@ -1,0 +1,1579 @@
+MapName	TemplateId	ResName	InfoFile	MapType	MapLevel	Domain	GoldNpc1	GoldNpc2	GoldNpc3	GoldNpc4	GoldNpc5	ParamName1	ParamVuale1	ParamName2	ParamVuale2	ParamName3	ParamVuale3
+Tên bản đồ	0	Tên nguồn	mapinfo tên tập tin	Loại bản đồ	Cấp bản đồ	Khu vực	Định dạng: xác suất|Loại|File tỷ lệ rớt					Tên tham số	Trị tham số (trong 256 byte)				
+Vân Trung Trấn	1	yunzhongzhen	yunzhongzhen	village		28											
+Long Môn Trấn	2	longmenzhen	longmenzhen	village		1											
+Vĩnh Lạc Trấn	3	yonglezhen	yonglezhen	village		11											
+Đạo Hương Thôn	4	daoxiangcun	daoxiangcun	village		39											
+Giang Tân Thôn	5	jiangjincun	jiangjincun	village		19											
+Thạch Cổ Trấn	6	shiguzhen	shiguzhen	village		63											
+Long Tuyền Thôn	7	longquancun	longquancun	village		48											
+Ba Lăng Huyện	8	balingxian	balingxian	village		59											
+Thiếu Lâm Phái	9	shaolinpai	shaolinpai	faction		29											
+Thiên Nhẫn Giáo	10	tianrenjiao	tianrenjiao	faction		30											
+Tát Mãn Giáo	11	samanjiao	samanjiao	faction		31											
+Côn Lôn Phái	12	kunlunpai	kunlunpai	faction		2											
+Tây Hạ Nhất Phẩm Đường	13	xixiayipintang	xixiayipintang	faction		3											
+Võ Đang Phái	14	wudangpai	wudangpai	faction		12											
+Cái Bang	15	gaibang	gaibang	faction		40											
+Nga My Phái	16	emeipai	emeipai	faction		20											
+Thúy Yên Môn	17	cuiyanmen	cuiyanmen	faction		64											
+Đường Môn	18	tangmen	tangmen	faction		65											
+Đại Lý Đoàn Thị	19	daliduanshi	daliduanshi	faction		66											
+Ngũ Độc Giáo	20	wudujiao	wudujiao	faction		49											
+Trường Ca Môn	21	changgemen	changgemen	faction		51											
+Thiên Vương Bang	22	tianwangbang	tianwangbang	faction		60											
+Biện Kinh Phủ	23	bianjingfu1	bianjingfu	city		32											
+Phượng Tường Phủ	24	fengxiangfu1	fengxiangfu	city		4											
+Tương Dương Phủ	25	xiangyangfu1	xiangyangfu	city		13											
+Dương Châu Phủ	26	yangzhoufu	yangzhoufu	city		41											
+Thành Đô Phủ	27	chengdufu	chengdufu	city		21											
+Đại Lý Phủ	28	dalifu	dalifu	city		67											
+Lâm An Phủ	29	linanfu1	linanfu	city		52											
+Chiến Trường Cổ	30	guzhanchang	guzhanchang	fight	5	28	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Quán Trọ Long Môn	31	longmenkezhan	longmenkezhan	fight	5	1	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Quân Mã Trường	32	junmachang	junmachang	fight	5	11	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Mai Hoa Lĩnh	33	meihualing	meihualing	fight	5	39	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Trường Giang Hà Cốc	34	changjianghegu	changjianghegu	fight	5	19	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Thị trấn Bạch Tộc	35	baizushiji	baizushiji	fight	5	63	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Nhạn Đãng Long Thu	36	yandanglongqiu	yandanglongqiu	fight	5	48	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Bờ Hồ Động Đình	37	dongtinghupan	dongtinghupan	fight	5	59	1000|1|\setting\npc\droprate\droprate001_jingying.txt	350|2|\setting\npc\droprate\droprate001_jingying.txt									
+Trấn Đông Mộ Viên	38	zhendongmuyuan	zhendongmuyuan	fight	15	28	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Kỳ Liên Sơn	39	qilianshan	qilianshan	fight	15	1	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Đồng Quan	40	tongguan	tongguan	fight	15	11	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Hoài Thủy Sa Châu	41	huaishuishazhou	huaishuishazhou	fight	15	39	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Thục Nam Trúc Hải	42	shunanzhuhai	shunanzhuhai	fight	15	19	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Trà Mã Cổ Đạo	43	chamagudao	chamagudao	fight	15	63	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Phường Đúc Kiếm	44	zhujianfang	zhujianfang	fight	15	48	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Nhạc Dương Lâu	45	yueyanglou	yueyanglou	fight	15	59	1000|1|\setting\npc\droprate\droprate002_jingying.txt	350|2|\setting\npc\droprate\droprate002_jingying.txt									
+Cấm Địa Hậu Sơn	46	houshanjindi	houshanjindi	fight	25	29	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Cấm Địa Thiên Nhẫn	47	tianrenjiaojindi	tianrenjiaojindi	fight	25	30	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Kiến Tính Phong	48	jianxingfeng	jianxingfeng	fight	25	2	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Thiên Trụ Phong	49	tianzhufeng	tianzhufeng	fight	25	12	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Cô Tô Thủy Tạ	50	gusushuixie	gusushuixie	fight	25	40	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Cửu Lão Phong	51	jiulaofeng	jiulaofeng	fight	25	20	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Bách Hoa Cốc	52	baihuagu	baihuagu	fight	25	64	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Hồ Phỉ Thúy	53	feicuihu	feicuihu	fight	25	65	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Bộ Lạc Nam Di	54	nanyibuluo	nanyibuluo	fight	25	49	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Thanh Loa Đảo	55	qingluodao2	qingluodao	fight	25	60	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Đông Tháp Lâm	56	talin	talin_1	fight	35	29	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Hoàng Lăng Kim Quốc 1	57	jinguohuangling	jinguohuangling_1	fight	35	30	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Mê Cung Băng Huyệt 1	58	bingxuemigong	bingxuemigong_1	fight	35	2	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Đông Long Hổ Huyễn Cảnh	59	longhuhuanjing	longhuhuanjing_1	fight	35	12	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Ngoài Yến Tử Ổ	60	yanziwu	yanziwu_1	fight	35	40	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Cửu Lão Động 1	61	jiulaodong	jiulaodong_1	fight	35	20	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Ngoài Bách Hoa Trận	62	baihuazhen	baihuazhen_1	fight	35	64	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Đông Bờ Hồ Trúc Lâm	63	hupanzhulin	hupanzhulin_1	fight	35	65	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Đông Rừng Nguyên Sinh	64	yuanshisenlin	yuanshisenlin_1	fight	35	49	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Đông Nam Lư Vĩ Đãng	65	luweidang	luweidang_1	fight	35	60	1000|1|\setting\npc\droprate\droprate004_jingying.txt	350|2|\setting\npc\droprate\droprate004_shouling.txt									
+Tây Tháp Lâm	66	talin	talin_2	fight	45	29	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Hoàng Lăng Kim Quốc 2	67	jinguohuangling	jinguohuangling_2	fight	45	30	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Mê Cung Băng Huyệt 2	68	bingxuemigong	bingxuemigong_2	fight	45	2	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Tây Long Hổ Huyễn Cảnh	69	longhuhuanjing	longhuhuanjing_2	fight	45	12	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Giữa Yến Tử Ổ	70	yanziwu	yanziwu_2	fight	45	40	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Cửu Lão Động 2	71	jiulaodong	jiulaodong_2	fight	45	20	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Trong Bách Hoa Trận	72	baihuazhen	baihuazhen_2	fight	45	64	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Tây Bờ Hồ Trúc Lâm	73	hupanzhulin	hupanzhulin_2	fight	45	65	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Tây Rừng Nguyên Sinh	74	yuanshisenlin	yuanshisenlin_2	fight	45	49	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Tây Bắc Lư Vĩ Đãng	75	luweidang	luweidang_2	fight	45	60	1000|1|\setting\npc\droprate\droprate005_jingying.txt	350|2|\setting\npc\droprate\droprate005_shouling.txt									
+Giữa Tháp Lâm	76	talin	talin_3	fight													
+Hoàng Lăng Kim Quốc 3	77	jinguohuangling	jinguohuangling_3	fight													
+Mê Cung Băng Huyệt 3	78	bingxuemigong	bingxuemigong_3	fight													
+Giữa Long Hổ Huyễn Cảnh	79	longhuhuanjing	longhuhuanjing_3	fight													
+Trong Yến Tử Ổ	80	yanziwu	yanziwu_3	fight													
+Cửu Lão Động 3	81	jiulaodong	jiulaodong_3	fight													
+Giữa Bách Hoa Trận	82	baihuazhen	baihuazhen_3	fight													
+Giữa Bờ Hồ Trúc Lâm	83	hupanzhulin	hupanzhulin_3	fight													
+Giữa Rừng Nguyên Sinh	84	yuanshisenlin	yuanshisenlin_3	fight													
+Trung Lư Vĩ Đãng	85	luweidang	luweidang_3	fight													
+Thái Hành Cổ Kính	86	taihanggujing	taihanggujing	fight	55	33	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Đại Tán Quan	87	dasanguan	dasanguan	fight	55	5	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Hán Thủy Cổ Độ	88	hanshuigudu	hanshuigudu	fight	55	14	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Hàn Sơn Cổ Sát	89	hanshangucha	hanshangucha	fight	55	42	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Cán Hoa Khê	90	huanhuaxi	huanhuaxi	fight	55	22	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Nhĩ Hải Ma Nham	91	erhaimoyan	erhaimoyan	fight	55	68	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Thái Thạch Cơ	92	caishiji	caishiji	fight	55	53	1000|1|\setting\npc\droprate\droprate006_jingying.txt	350|2|\setting\npc\droprate\droprate006_shouling.txt									
+Dược Vương Động	93	yaowangdong	yaowangdong	fight	65	33	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Cư Diên Trạch	94	juyanze	juyanze	fight	65	6	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Phục Ngưu Sơn	95	funiushan	funiushan	fight	65	15	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Hổ Khâu Kiếm Trì	96	huqiujianchi	huqiujianchi	fight	65	43	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Hưởng Thủy Động	97	xiangshuidong	xiangshuidong	fight	65	22	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Điểm Thương Sơn	98	diancangshan	diancangshan	fight	65	69	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Bành Lãi Cổ Trạch	99	pengliguze	pengliguze	fight	65	54	1000|1|\setting\npc\droprate\droprate007_jingying.txt	350|2|\setting\npc\droprate\droprate007_shouling.txt									
+Phong Lăng Độ	100	fenglingdu	fenglingdu	fight	75	34	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Mê Cung Sa Mạc	101	shamomigong	shamomigong	fight	75	7	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Kê Quán Động	102	jiguandong	jiguandong	fight	75	15	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Thục Cương Sơn	103	shugangshan	shugangshan	fight	75	44	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Kiếm Các Thục Đạo	104	jiangeshudao	jiangeshudao	fight	75	23	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Hoàng Lăng Đoàn Thị	105	duanshihuangling	duanshihuangling	fight	75	69	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Cửu Nghi Khê	106	jiuyixi	jiuyixi	fight	75	55	1000|1|\setting\npc\droprate\droprate008_jingying.txt	350|2|\setting\npc\droprate\droprate008_shouling.txt									
+Long Môn Thạch Quật	107	longmenshiku	longmenshiku	fight	85	35	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Hoàng Lăng Tây Hạ	108	xixiahuangling	xixiahuangling	fight	85	7	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Hoàng Hạc Lâu	109	huanghelou	huanghelou	fight	85	16	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Tiến Cúc Động	110	jianjudong	jianjudong	fight	85	44	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Kiếm Môn Quan	111	jianmenguan	jianmenguan	fight	85	24	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Thiên Long Tự	112	tianlongsi	tianlongsi	fight	85	70	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Bang Nguyên Bí Động	113	bangyuanmidong	bangyuanmidong	fight	85	56	1000|1|\setting\npc\droprate\droprate009_jingying.txt	350|2|\setting\npc\droprate\droprate009_shouling.txt									
+Sắc Lặc Xuyên	114	chilechuan	chilechuan	fight	95	36	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Gia Dụ Quan	115	jiayuguan	jiayuguan	fight	95	8	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Hoa Sơn	116	huashan_new	huashan	fight	95	17	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Thục Cương Bí Cảnh	117	shugangmijing	shugangmijing	fight	95	45	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Phong Đô Quỷ Thành	118	fengduguicheng	fengduguicheng	fight	95	25	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Miêu Lĩnh	119	miaoling	miaoling	fight	95	71	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Vũ Di Sơn	120	wuyishan	wuyishan	fight	95	56	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Vũ Lăng Sơn	121	wulingshan	wulingshan	fight	95	61	1000|1|\setting\npc\droprate\droprate010_jingying.txt	350|2|\setting\npc\droprate\droprate010_shouling.txt									
+Mạc Bắc Thảo Nguyên	122	mobeicaoyuan	mobeicaoyuan	fight	105	37	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Đôn Hoàng Cổ Thành	123	dunhuanggucheng	dunhuanggucheng	fight	105	9	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Hoạt Tử Nhân Mộ	124	huosirenmu	huosirenmu	fight	105	17	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Đại Vũ Đài	125	dayutai	dayutai	fight	105	46	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Tam Hiệp Sạn Đạo	126	sanxiazhandao	sanxiazhandao	fight	105	26	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Xi Vưu Động	127	chiyoudong	chiyoudong	fight	105	71	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Tỏa Vân Uyên	128	suoyunyuan	suoyunyuan	fight	105	57	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Phục Lưu Động	129	fuliudong	fuliudong	fight	105	4	800|1|\setting\npc\droprate\droprate011b_jingying.txt	280|2|\setting\npc\droprate\droprate011b_shouling.txt									
+Mông Cổ Vương Đình	130	mengguwangting	mengguwangting	fight	115	38	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Nguyệt Nha Tuyền	131	yueyaquan	yueyaquan	fight	115	10	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Tàn Tích Cung A Phòng	132	afanggongfeixu	afanggongfeixu	fight	115	18	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Lương Sơn Bạc	133	liangshanpo	liangshanpo	fight	115	47	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Thần Nữ Phong	134	shennvfeng	shennvfeng	fight	115	27	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Tàn Tích Dạ Lang	135	yelangjiuxu	yelangjiuxu	fight	115	72	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Cổ Lãng Dữ	136	gulangyu	gulangyu	fight	115	58	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Đào Hoa Nguyên	137	taohuayuan	taohuayuan	fight	115	62	800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Vân Trung Trấn_Trong	138	blank	yunzhongzhen_shinei	blank													
+Long Môn Trấn_Trong	139	blank	longmenzhen_shinei	blank													
+Vĩnh Lạc Trấn_Trong	140	blank	yonglezhen_shinei	blank													
+Đạo Hương Thôn_Trong	141	blank	daoxiangcun_shinei	blank													
+Giang Tân Thôn_Trong	142	blank	jiangjincun_shinei	blank													
+Giang Tân Thôn_Trong	143	blank	shiguzhen_shinei	blank													
+Long Tuyền Thôn_Trong	144	blank	longquancun_shinei	blank													
+Ba Lăng Huyện_Trong	145	blank	balingxian_shinei	blank													
+Thiếu Lâm Phái_Trong	146	blank	shaolinpai_shinei	blank													
+Thiên Nhẫn Giáo_Trong	147	blank	tianrenjiao_shinei	blank													
+Tát Mãn Giáo_Trong	148	blank	samanjiao_shinei	blank													
+Côn Lôn Phái_Trong	149	blank	kunlunpai_shinei	blank													
+Tây Hạ Nhất Phẩm Đường_Trong	150	blank	xixiayipintang_shinei	blank													
+Võ Đang Phái_Trong	151	blank	wudangpai_shinei	blank													
+Cái Bang_Trong	152	blank	gaibang_shinei	blank													
+Nga My Phái_Trong	153	blank	emeipai_shinei	blank													
+Thúy Yên Môn_Trong	154	blank	cuiyanmen_shinei	blank													
+Đường Môn_Trong	155	blank	tangmen_shinei	blank													
+Đại Lý Đoàn Thị_Trong	156	blank	daliduanshi_shinei	blank													
+Ngũ Độc Giáo_Trong	157	blank	wudujiao_shinei	blank													
+Trường Ca Môn_Trong	158	blank	changgemen_shinei	blank													
+Thiên Vương Bang_Trong	159	blank	tianwangbang_shinei	blank													
+Biện Kinh Phủ_Trong	160	blank	bianjingfu_shinei	blank													
+Phượng Tường Phủ_Trong	161	blank	fengxiangfu_shinei	blank													
+Tương Dương Phủ_Trong	162	blank	xiangyangfu_shinei	blank													
+Dương Châu Phủ_Trong	163	blank	yangzhoufu_shinei	blank													
+Thành Đô Phủ_Trong	164	blank	chengdufu_shinei	blank													
+Đại Lý Phủ_Trong	165	blank	dalifu_shinei	blank													
+Lâm An Phủ_Trong	166	blank	linanfu_shinei	blank													
+Lôi Đài Võ Lâm (Biện Kinh)	167	wulinleitai	wulinleitai_bianjing	leitai													
+Lôi Đài Võ Lâm (Phượng Tường)	168	wulinleitai	wulinleitai_fengxiang	leitai													
+Lôi Đài Võ Lâm (Tương Dương)	169	wulinleitai	wulinleitai_xiangyang	leitai													
+Lôi Đài Võ Lâm (Dương Châu)	170	wulinleitai	wulinleitai_yangzhou	leitai													
+Lôi Đài Võ Lâm (Thành Đô)	171	wulinleitai	wulinleitai_chengdu	leitai													
+Lôi Đài Võ Lâm (Đại Lý)	172	wulinleitai	wulinleitai_dali	leitai													
+Lôi Đài Võ Lâm (Lâm An)	173	wulinleitai	wulinleitai_linan	leitai													
+Thiết Sách Sạn Kiều (Biện Kinh)	174	tiesuozhanqiao	tiesuozhanqiao_bianjing	leitai													
+Thiết Sách Sạn Kiều (Phượng Tường)	175	tiesuozhanqiao	tiesuozhanqiao_fengxiang	leitai													
+Thiết Sách Sạn Kiều (Tương Dương)	176	tiesuozhanqiao	tiesuozhanqiao_xiangyang	leitai													
+Thiết Sách Sạn Kiều (Dương Châu)	177	tiesuozhanqiao	tiesuozhanqiao_yangzhou	leitai													
+Thiết Sách Sạn Kiều (Thành Đô)	178	tiesuozhanqiao	tiesuozhanqiao_chengdu	leitai													
+Thiết Sách Sạn Kiều (Đại Lý)	179	tiesuozhanqiao	tiesuozhanqiao_dali	leitai													
+Thiết Sách Sạn Kiều (Lâm An)	180	tiesuozhanqiao	tiesuozhanqiao_linan	leitai													
+Báo Danh_Mông Cổ (Dương Châu 1)	181	zhanchangbaomingdian	zhanchang_baomingdian_song_yangzhou	battle_signup													
+Báo Danh_Mông Cổ (Phượng Tường 1)	182	zhanchangbaomingdian	zhanchang_baomingdian_song_fengxiang	battle_signup													
+Báo Danh_Mông Cổ (Tương Dương 1)	183	zhanchangbaomingdian	zhanchang_baomingdian_song_xiangyang	battle_signup													
+Báo Danh_Tây Hạ (Dương Châu 1)	184	zhanchangbaomingdian	zhanchang_baomingdian_jin_yangzhou	battle_signup													
+Báo Danh_Tây Hạ (Phượng Tường 1)	185	zhanchangbaomingdian	zhanchang_baomingdian_jin_fengxiang	battle_signup													
+Báo Danh_Tây Hạ (Tương Dương 1)	186	zhanchangbaomingdian	zhanchang_baomingdian_jin_xiangyang	battle_signup													
+Cửu Khúc Chiến (Dương Châu 1)	187	shanguzhanchang	zhanchang_shangu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Cửu Khúc Chiến (Phượng Tường 1)	188	shanguzhanchang	zhanchang_shangu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Cửu Khúc Chiến (Tương Dương 1)	189	shanguzhanchang	zhanchang_shangu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Ngũ Trượng Nguyên Chiến (Dương Châu 1)	190	xibeizhanchang	zhanchang_xibei_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Ngũ Trượng Nguyên Chiến (Phượng Tường 1)	191	xibeizhanchang	zhanchang_xibei_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Ngũ Trượng Nguyên Chiến (Tương Dương 1)	192	xibeizhanchang	zhanchang_xibei_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Bàn Long Cốc Chiến (Dương Châu 1)	193	xiaguzhanchang	zhanchang_xiagu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Bàn Long Cốc Chiến (Phượng Tường 1)	194	xiaguzhanchang	zhanchang_xiagu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Bàn Long Cốc Chiến (Tương Dương 1)	195	xiaguzhanchang	zhanchang_xiagu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Kiến Tính Phong_Trong	196	blank	jianxingfeng_shinei	blank													
+Cửu Lão Phong_Trong	197	blank	jiulaofeng_shinei	blank													
+Thanh Loa Đảo_Trong	198	blank	qingluodao_shinei	blank													
+Đông Long Hổ Huyễn Cảnh_Trong	199	blank	longhuhuanjing_1_shinei	blank													
+Ngoài Yến Tử Ổ_Trong	200	blank	yanziwu_1_shinei	blank													
+Đông Bờ Hồ Trúc Lâm_Trong	201	blank	hupanzhulin_1_shinei	blank													
+Tây Tháp Lâm_Trong	202	blank	talin_2_shinei	blank													
+Hoàng Lăng Kim Quốc 2_Trong	203	blank	jinguohuangling_2_shinei	blank													
+Trong Bách Hoa Trận_Trong	204	blank	baihuazhen_2_shinei	blank													
+Tây Rừng Nguyên Sinh_Trong	205	blank	yuanshisenlin_2_shinei	blank													
+Đại Tán Quan_Trong	206	blank	dasanguan_shinei	blank													
+Hán Thủy Cổ Độ_Trong	207	blank	hanshuigudu_shinei	blank													
+Cán Hoa Khê_Trong	208	blank	huanhuaxi_shinei	blank													
+Nhĩ Hải Ma Nham_Trong	209	blank	erhaimoyan_shinei	blank													
+Cư Diên Trạch_Trong	210	blank	juyanze_shinei	blank													
+Phục Ngưu Sơn_Trong	211	blank	funiushan_shinei	blank													
+Điểm Thương Sơn_Trong	212	blank	diancangshan_shinei	blank													
+Bành Lãi Cổ Trạch_Trong	213	blank	pengliguze_shinei	blank													
+Mê Cung Sa Mạc_Trong	214	blank	shamomigong_shinei	blank													
+Kê Quán Động_Trong	215	blank	jiguandong_shinei	blank													
+Kiếm Các Thục Đạo_Trong	216	blank	jiangeshudao_shinei	blank													
+Cửu Nghi Khê_Trong	217	blank	jiuyixi_shinei	blank													
+Long Môn Thạch Quật_Trong	218	blank	longmenshiku_shinei	blank													
+Hoàng Lăng Tây Hạ_Trong	219	blank	xixiahuangling_shinei	blank													
+Thiên Long Tự_Trong	220	blank	tianlongsi_shinei	blank													
+Bang Nguyên Bí Động_Trong	221	blank	bangyuanmidong_shinei	blank													
+Đại Lao Biện Kinh	222	dalao	bianjingfu_dalao	dalao													
+Đại Lao Lâm An	223	dalao	linanfu_dalao	dalao													
+Minh Giáo	224	mingjiao	mingjiao	faction		50											
+Đại điện Bạch Hổ Đường (sơ 1)	225	baihutangdadian	baihutangdadian_1	baihutang													
+Bạch Hổ Đường 1_Đông (sơ 1)	226	baihutangyiceng	baihutangyiceng_dong_1	baihutang													
+Bạch Hổ Đường 1_Nam (sơ 1)	227	baihutangyiceng	baihutangyiceng_nan_1	baihutang													
+Bạch Hổ Đường 1_Tây (sơ 1)	228	baihutangyiceng	baihutangyiceng_xi_1	baihutang													
+Bạch Hổ Đường 1_Bắc (sơ 1)	229	baihutangyiceng	baihutangyiceng_bei_1	baihutang													
+Bạch Hổ Đường 2_Âm (sơ 1)	230	baihutangyiceng	baihutangerceng_yin_1	baihutang													
+Bạch Hổ Đường 2_Dương (sơ 1)	231	baihutangyiceng	baihutangerceng_yang_1	baihutang													
+Bạch Hổ Đường 3 (sơ 1)	232	baihutangyiceng	baihutangsanceng_1	baihutang													
+Đại điện Bạch Hổ Đường (cao)	233	baihutangdadian	baihutangdadian_2	baihutang													
+Bạch Hổ Đường 1_Đông (cao)	234	baihutangyiceng	baihutangyiceng_dong_2	baihutang													
+Bạch Hổ Đường 1_Nam (cao)	235	baihutangyiceng	baihutangyiceng_nan_2	baihutang													
+Bạch Hổ Đường 1_Tây (cao)	236	baihutangyiceng	baihutangyiceng_xi_2	baihutang													
+Bạch Hổ Đường 1_Bắc (cao)	237	baihutangyiceng	baihutangyiceng_bei_2	baihutang													
+Bạch Hổ Đường 2_Âm (cao)	238	baihutangyiceng	baihutangerceng_yin_2	baihutang													
+Bạch Hổ Đường 2_Dương (cao)	239	baihutangyiceng	baihutangerceng_yang_2	baihutang													
+Bạch Hổ Đường 3 (cao)	240	baihutangyiceng	baihutangsanceng_2	baihutang													
+Đấu trường môn phái (Thiếu Lâm)	241	menpaijingjichang	menpaijingjichang_shaolin	factionbattle													
+Đấu trường môn phái (Thiên Vương)	242	menpaijingjichang	menpaijingjichang_tianwang	factionbattle													
+Đấu trường môn phái (Đường Môn)	243	menpaijingjichang	menpaijingjichang_tangmen	factionbattle													
+Đấu trường môn phái (Ngũ Độc)	244	menpaijingjichang	menpaijingjichang_wudu	factionbattle													
+Đấu trường môn phái (Nga My)	245	menpaijingjichang	menpaijingjichang_emei	factionbattle													
+Đấu trường môn phái (Thúy Yên)	246	menpaijingjichang	menpaijingjichang_cuiyan	factionbattle													
+Đấu trường môn phái (Cái Bang)	247	menpaijingjichang	menpaijingjichang_gaibang	factionbattle													
+Đấu trường môn phái (Thiên Nhẫn)	248	menpaijingjichang	menpaijingjichang_tianren	factionbattle													
+Đấu trường môn phái (Võ Đang)	249	menpaijingjichang	menpaijingjichang_wudang	factionbattle													
+Đấu trường môn phái (Côn Lôn)	250	menpaijingjichang	menpaijingjichang_kunlun	factionbattle													
+Đấu trường môn phái (Minh Giáo)	251	menpaijingjichang	menpaijingjichang_mingjiao	factionbattle													
+Đấu trường môn phái (Đoàn Thị)	252	menpaijingjichang	menpaijingjichang_duanshi	factionbattle													
+Bách Niên Thiên Lao (phó bản)	253	bainiantianlao	bainiantianlao	cangbaotu_fb													
+Đào Chu Công Nghi Chủng (phó bản)	254	taozhugongyizhong	taozhugongyizhong	cangbaotu_fb													
+Tẩy Tủy Đảo	255	xisuidao	xisuidao	xisuidao													
+Tẩy Tủy Đảo Sơn Động	256	xisuidaoshandong	xisuidaoshandong	xisuidao_shandong													
+Báo Danh_Mông Cổ (Dương Châu 2)	257	zhanchangbaomingdian	zhanchang_baomingdian_song_yangzhou	battle_signup													
+Báo Danh_Mông Cổ (Phượng Tường 2)	258	zhanchangbaomingdian	zhanchang_baomingdian_song_fengxiang	battle_signup													
+Báo Danh_Mông Cổ (Tương Dương 2)	259	zhanchangbaomingdian	zhanchang_baomingdian_song_xiangyang	battle_signup													
+Báo Danh_Tây Hạ (Dương Châu 2)	260	zhanchangbaomingdian	zhanchang_baomingdian_jin_yangzhou	battle_signup													
+Báo Danh_Tây Hạ (Phượng Tường 2)	261	zhanchangbaomingdian	zhanchang_baomingdian_jin_fengxiang	battle_signup													
+Báo Danh_Tây Hạ (Tương Dương 2)	262	zhanchangbaomingdian	zhanchang_baomingdian_jin_xiangyang	battle_signup													
+Cửu Khúc Chiến (Dương Châu 2)	263	shanguzhanchang	zhanchang_shangu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Cửu Khúc Chiến (Phượng Tường 2)	264	shanguzhanchang	zhanchang_shangu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Cửu Khúc Chiến (Tương Dương 2)	265	shanguzhanchang	zhanchang_shangu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Ngũ Trượng Nguyên Chiến (Dương Châu 2)	266	xibeizhanchang	zhanchang_xibei_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Ngũ Trượng Nguyên Chiến (Phượng Tường 2)	267	xibeizhanchang	zhanchang_xibei_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Ngũ Trượng Nguyên Chiến (Tương Dương 2)	268	xibeizhanchang	zhanchang_xibei_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Bàn Long Cốc Chiến (Dương Châu 2)	269	xiaguzhanchang	zhanchang_xiagu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Bàn Long Cốc Chiến (Phượng Tường 2)	270	xiaguzhanchang	zhanchang_xiagu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Bàn Long Cốc Chiến (Tương Dương 2)	271	xiaguzhanchang	zhanchang_xiagu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Đại Mạc Cổ Thành (phó bản)	272	damogucheng	damogucheng	cangbaotu_fb													
+Thần Bí Bảo Khố (phó bản)	273	shenmibaoku	shenmibaoku	shenmibaoku_fb			2000|30|\setting\npc\droprate\shenmibaoku\xiaoguai_jingying.txt										
+Đại điện Bạch Hổ Đường (sơ 2)	274	baihutangdadian	baihutangdadian_1	baihutang													
+Bạch Hổ Đường 1_Đông (sơ 2)	275	baihutangyiceng	baihutangyiceng_dong_1	baihutang													
+Bạch Hổ Đường 1_Nam (sơ 2)	276	baihutangyiceng	baihutangyiceng_nan_1	baihutang													
+Bạch Hổ Đường 1_Tây (sơ 2)	277	baihutangyiceng	baihutangyiceng_xi_1	baihutang													
+Bạch Hổ Đường 1_Bắc (sơ 2)	278	baihutangyiceng	baihutangyiceng_bei_1	baihutang													
+Bạch Hổ Đường 2_Âm (sơ 2)	279	baihutangyiceng	baihutangerceng_yin_1	baihutang													
+Bạch Hổ Đường 2_Dương (sơ 2)	280	baihutangyiceng	baihutangerceng_yang_1	baihutang													
+Bạch Hổ Đường 3 (sơ 2)	281	baihutangyiceng	baihutangsanceng_1	baihutang													
+Báo Danh_Mông Cổ (Dương Châu 3)	282	zhanchangbaomingdian	zhanchang_baomingdian_song_yangzhou	battle_signup													
+Báo Danh_Tây Hạ (Dương Châu 3)	283	zhanchangbaomingdian	zhanchang_baomingdian_jin_yangzhou	battle_signup													
+Cửu Khúc Chiến (Dương Châu 3)	284	shanguzhanchang	zhanchang_shangu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Ngũ Trượng Nguyên Chiến (Dương Châu 3)	285	xibeizhanchang	zhanchang_xibei_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Bàn Long Cốc Chiến (Dương Châu 3)	286	xiaguzhanchang	zhanchang_xiagu_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Thiên Quỳnh Cung (phó bản)	287	qianqionggongfuben	qianqionggongfuben	cangbaotu_fb													
+Báo Danh_Mông Cổ (Phượng Tường 3)	288	zhanchangbaomingdian	zhanchang_baomingdian_song_fengxiang	battle_signup													
+Báo Danh_Tây Hạ (Phượng Tường 3)	289	zhanchangbaomingdian	zhanchang_baomingdian_jin_fengxiang	battle_signup													
+Cửu Khúc Chiến (Phượng Tường 3)	290	shanguzhanchang	zhanchang_shangu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Ngũ Trượng Nguyên Chiến (Phượng Tường 3)	291	xibeizhanchang	zhanchang_xibei_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Bàn Long Cốc Chiến (Phượng Tường 3)	292	xiaguzhanchang	zhanchang_xiagu_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Báo Danh_Mông Cổ (Tương Dương 3)	293	zhanchangbaomingdian	zhanchang_baomingdian_song_xiangyang	battle_signup													
+Báo Danh_Tây Hạ (Tương Dương 3)	294	zhanchangbaomingdian	zhanchang_baomingdian_jin_xiangyang	battle_signup													
+Cửu Khúc Chiến (Tương Dương 3)	295	shanguzhanchang	zhanchang_shangu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\shangu\				
+Ngũ Trượng Nguyên Chiến (Tương Dương 3)	296	xibeizhanchang	zhanchang_xibei_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xibei\				
+Bàn Long Cốc Chiến (Tương Dương 3)	297	xiaguzhanchang	zhanchang_xiagu_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\xiagu\				
+Tiêu Dao Cốc	298	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	299	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	300	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	301	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	302	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	303	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	304	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	305	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	306	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	307	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	308	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	309	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	310	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	311	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	312	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	313	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	314	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	315	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	316	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	317	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	318	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	319	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	320	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	321	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	322	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	323	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	324	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	325	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	326	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	327	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Tiêu Dao Cốc	328	xiaoyaogu_lv1	xiaoyaogu_lv1	xoyogame													
+Tiêu Dao Cốc	329	xiaoyaogu_lv2	xiaoyaogu_lv2	xoyogame													
+Tiêu Dao Cốc	330	xiaoyaogu_lv3	xiaoyaogu_lv3	xoyogame													
+Tiêu Dao Cốc	331	xiaoyaogu_lv4	xiaoyaogu_lv4	xoyogame													
+Tiêu Dao Cốc	332	xiaoyaogu_lv5	xiaoyaogu_lv5	xoyogame													
+Đại điện Bạch Hổ Đường (sơ 3)	333	baihutangdadian	baihutangdadian_1	baihutang													
+Bạch Hổ Đường 1_Đông (sơ 3)	334	baihutangyiceng	baihutangyiceng_dong_1	baihutang													
+Bạch Hổ Đường 1_Nam (sơ 3)	335	baihutangyiceng	baihutangyiceng_nan_1	baihutang													
+Bạch Hổ Đường 1_Tây (sơ 3)	336	baihutangyiceng	baihutangyiceng_xi_1	baihutang													
+Bạch Hổ Đường 1_Bắc (sơ 3)	337	baihutangyiceng	baihutangyiceng_bei_1	baihutang													
+Bạch Hổ Đường 2_Âm (sơ 3)	338	baihutangyiceng	baihutangerceng_yin_1	baihutang													
+Bạch Hổ Đường 2_Dương (sơ 3)	339	baihutangyiceng	baihutangerceng_yang_1	baihutang													
+Bạch Hổ Đường 3 (sơ 3)	340	baihutangyiceng	baihutangsanceng_1	baihutang													
+Báo Danh Tiêu Dao Cốc 1	341	feilonggu	xiaoyaogubaomingdian	xoyogame_baoming													
+Báo Danh Tiêu Dao Cốc 2	342	feilonggu	xiaoyaogubaomingdian	xoyogame_baoming													
+Vân Lĩnh	343	mijing_2	yunling	mijing			85000|1|\setting\npc\droprate\droprate_fb_jingying.txt										
+Vạn Hoa Cốc	344	wanhuagu	wanhuagu	cangbaotu_fb													
+Thiên Lao	399	dalao	tianlao	tianlao													
+Khoang Thuyền 1	400	chuancang_1ceng	qingluodao_cang1	taskfight													
+Khoang Thuyền 2	401	ercengchuancang	qingluodao_cang2	qingluodao_cang2													
+Khoang Thuyền 3	402	sancengchuancang	qingluodao_cang3	qingluodao_cang3													
+Phòng Bùi Dực Phi	403	junying_xiao_zuo	qingluodao_pyf	tasksafe													
+Phòng Cầu Chỉ Thủy	404	junying_xiao_you	qingluodao_qzhsh	tasksafe													
+Ngoại Mộ Anh Hùng	405	waiyingxiongzhong	yanziwu_1_wyxz	taskfight													
+Ưng Chuẩn Giác	406	shandong_12	yanziwu_1_ysj	taskfight													
+Mãnh Hổ Hạng	407	shandong_8	yanziwu_1_mhx	taskfight													
+Đảo khỉ	408	shandong_5	yanziwu_1_hd	taskfight													
+Trích Thủy Động	409	shandong_5	yanziwu_1_dshd	taskfight													
+Tàng Vân Hiên	410	minju_zhongxing	yanziwu_1_cyx	tasksafe													
+Biệt Viện Trường Giang	411	minju_daxing	yanziwu_1_cjby	tasksafe													
+Xích Luyện Xà Động	412	shandong_12	yuanshisenlin_2_chlshd	taskfight													
+Đăng Sát Khẩu	413	yuanshisenlin_2_dshk	yuanshisenlin_2_dshk	taskfight													
+Cam Lộ Cốc 1	414	ganlugu_tongdao	yuanshisenlin_2_glu1c	taskfight													
+Cam Lộ Cốc 2	415	ganlugu_tongdao	yuanshisenlin_2_glu2c	taskfight													
+Cuối Cam Lộ Cốc	416	ganlugu_jintou	yuanshisenlin_2_jtm	tasksafe													
+Cuối Cam Lộ Cốc	417	ganlugu_jintou	yuanshisenlin_2_jtf	tasksafe													
+Vấn Tâm Các	418	minju_zhongxing	yuanshisenlin_2_wxgm	taskfight													
+Vấn Tâm Các	419	minju_zhongxing	yuanshisenlin_2_wxgf	taskfight													
+Tụ Nghĩa Sảnh	420	junying_zhong_you	yuanshisenlin_2_jyt	tasksafe													
+Nữ Vu Oa Bằng	421	junying_xiao_you	yuanshisenlin_2_mwwp	taskfight													
+Phòng Ân Đồng	422	huiketing_haohua_y	yuanshisenlin_2_ytfj	tasksafe													
+Phòng Ân Phương	423	huiketing_haohua_z	yuanshisenlin_2_yffj	tasksafe													
+Đăng Sát Khẩu Lâu	424	junying_xiao_zuo	yuanshisenlin_2_dshkgl	tasksafe													
+Nơi ở Mộc Thị	425	minju_daxing	yuanshisenlin_2_mshjs	taskfight													
+Cuối Cát Hà Lĩnh	426	yuanshisenlin_2_gexialingm	yuanshisenlin_2_gexialingm	taskfight													
+Cuối Cát Hà Lĩnh	427	yuanshisenlin_2_gexialingm	yuanshisenlin_2_gexialingf	taskfight													
+Mê Cung Thạch Tượng_1	428	shixianmigong_1	jianxingfeng_ceng1	taskfight													
+Mê Cung Thạch Tượng_2	429	shixianmigong_2	jianxingfeng_ceng2	taskfight													
+Mê Cung Thạch Tượng_3	430	shixianmigong_3	jianxingfeng_ceng3	taskfight													
+Biệt Viện Âm Sơn	431	huiketing_haohua_z	jianxingfeng_ys1	tasksafe													
+Biệt Viện Âm Sơn	432	huiketing_haohua_z	jianxingfeng_ys2	tasksafe													
+Giải Kiếm Trì	433	longhuhuanjing_1_jjc	longhuhuanjing_1_jjc	taskfight													
+Thanh Hư Chân Thất	434	minju_zhongxing	longhuhuanjing_1_qxzs1	tasksafe													
+Thanh Hư Chân Thất	435	minju_zhongxing	longhuhuanjing_1_qxzs2	tasksafe													
+Vân Lộc Thủy Cư	436	huiketing_haohua_y	longhuhuanjing_1_ylshj1	tasksafe													
+Vân Lộc Thủy Cư	437	huiketing_haohua_y	longhuhuanjing_1_ylshj2	tasksafe													
+Vân Lộc Thủy Cư	438	huiketing_haohua_y	longhuhuanjing_1_ylshjz	taskfight													
+Nơi ở Đào Vĩnh Xương	439	junying_xiao_you	longhuhuanjing_1_tycjs1	tasksafe													
+Nơi ở Đào Vĩnh Xương	440	junying_xiao_you	longhuhuanjing_1_tycjs2	tasksafe													
+Nơi ở Đào Vĩnh Xương	441	junying_xiao_you	longhuhuanjing_1_tycjs3	tasksafe													
+Nơi ở Đào Vĩnh Xương	442	junying_xiao_you	longhuhuanjing_1_tycjs4	tasksafe													
+Nơi ở Ngụy Trường Phong	443	junying_xiao_you	longhuhuanjing_1_wchfjs	tasksafe													
+Kim Cang Lĩnh	444	tanlin_2_trxz	talin_2_trxz	taskfight													
+Kim Cang Lĩnh	445	tanlin_2_trxz	talin_2_wyyj	tasksafe													
+Sơ Tổ Am	446	siyuan_haohua	talin_2_cza	tasksafe													
+Tiệm Cháo	447	tanlin_2_zhp	talin_2_zhp	tasksafe													
+Hồi Phong Giác Thảo Đường	448	junying_zhong_you	talin_2_hfjct1	tasksafe													
+Hồi Phong Giác Thảo Đường	449	junying_zhong_you	talin_2_hfjct2	tasksafe													
+Huyền Tự Lao	450	jinguohuangling_2_xzl	jinguohuangling_2_xzl	taskfight													
+Nơi ở Ngột Tát	451	junying_xiao_you	jinguohuangling_2_wsjs	tasksafe													
+Thiên Hình Điện	452	huiketing_haohua_y	jinguohuangling_2_txd	tasksafe													
+Trung Thành Điện	453	huiketing_haohua_z	jinguohuangling_2_zhchd	tasksafe													
+Nội Doanh Hành Tại	454	huiketing_haohua_z	jiulaofeng_xzny	tasksafe													
+Đại Trướng Trung Quân	455	huiketing_haohua_z	jiulaofeng_zhjdzh	taskfight													
+Từ Vân Am	456	junying_xiao_you	jiulaofeng_cya	tasksafe													
+Phòng Cừu Tuyết	457	minju_zhongxing	jiulaofeng_chxwsh	tasksafe													
+Kiến Long Động	458	shandong_5	hupanzhulin_1_jld	taskfight													
+Bố Y Các	459	minju_zhongxing	hupanzhulin_1_byg1	tasksafe													
+Bố Y Các	460	minju_zhongxing	hupanzhulin_1_byg2	tasksafe													
+Chuyết Giả Cư	461	minju_maowu	hupanzhulin_1_zhzj	tasksafe													
+Gian tây Biệt Nhã Tiểu Trúc	462	huiketing_haohua_y	hupanzhulin_1_byxzhx	tasksafe													
+Gian chính Biệt Nhã Tiểu Trúc	463	huiketing_haohua_z	hupanzhulin_1_byxzhz	tasksafe													
+Xuân Mai Nhã Trúc	464	huiketing_haohua_y	baihuazhen_2_chmyzh1	tasksafe													
+Xuân Mai Nhã Trúc	465	huiketing_haohua_y	baihuazhen_2_chmyzh2	tasksafe													
+Xuân Mai Nhã Trúc	466	huiketing_haohua_y	baihuazhen_2_chmyzh3	tasksafe													
+Hậu đình Xuân Mai Nhã Trúc	467	huiketing_haohua_y	baihuazhen_2_chmyzhhzh1	tasksafe													
+Hậu đình Xuân Mai Nhã Trúc	468	huiketing_haohua_y	baihuazhen_2_chmyzhhzh2	tasksafe													
+Dịch Quán	469	minju_zhongxing	baihuazhen_2_gy1	tasksafe													
+Dịch Quán	470	minju_zhongxing	baihuazhen_2_gy2	tasksafe													
+Trận pháp tầng kế	471	xiacengzhenfa	baihuazhen_2_xczhf	taskfight													
+Trận Pháp Tổng Khu	472	zhenfazongshu	baihuazhen_2_zhfzhx	tasksafe													
+Huyền Nguyệt Đại Trận	473	xuanyuezhenfa	baihuazhen_2_xydzh	taskfight													
+Trung tâm Huyền Nguyệt Trận	474	zhenfazhongxin	baihuazhen_2_xyzhzh	taskfight													
+Phẩm Hà Đường	475	huiketing_haohua_z	baihuazhen_2_pht	tasksafe													
+Bồ Sát Phong Nô	476	jinguohuangling_2_xzl	jinguohuangling_2_pchfn	taskfight													
+Tàng Kiếm Sơn Trang	477	cangjianshanzhuang	cangjianshanzhuang	tasksafe													
+Tri Xuân Đài	478	dufang_putong	linanfu_zhichuntai	tasksafe													
+Phủ đệ Chu Hy	479	huiketing_haohua_z	linanfu_zhuxi	tasksafe													
+Vào cung dạy học	480	linanfu	linanfu_jiangxue	taskfight													
+Vào cung dạy học	481	linanfu	linanfu_jiangxue2	taskfight													
+Vào cung dạy học	482	linanfu	linanfu_jiangxue3	taskfight													
+Phủ đệ Bành Quy Niên	483	huiketing_haohua_y	linanfu_pengfu	tasksafe													
+Hậu viện Bành Phủ	484	linanfu	linanfu_houyuan	taskfight													
+Đại sảnh Triệu Phủ	485	huiketing_haohua_z	linanfu_zhaofu	tasksafe													
+Lâm An Thành	486	linanfu	linanfu_huifu	taskfight													
+Phủ đệ Chu Hy	487	huiketing_haohua_z	linanfu_zhuxi2	tasksafe													
+Lâm An Thành	488	linanfu	linanfu_shenfu	taskfight													
+Mật Thất Thẩm Phủ	489	minju_maowu	linanfu_shenfumishi	tasksafe													
+Lâm An Thành	490	linanfu	linanfu_penglijing	taskfight													
+Lâm An Thành	491	linanfu	linanfu_zhaolijing	taskfight													
+Lâm An Thành	492	linanfu	linanfu_zhulijing	taskfight													
+Hải Lăng Vương Mộ	493	hailingwangmu01	hailingwangmu	taskarmy_fb													
+Hiệp Sĩ Danh Cư	494	jiehunchangjing_pingmin	hl_pingmin	jiehun_fb													
+Trang Viên Quý Tộc	495	jiehunchangjing_guizu	hl_guizu	jiehun_fb													
+Bãi Biển Vương Hầu	496	jiehunchangjing_wanghou	hl_wanghou	jiehun_fb													
+Hoàng Gia Tiên Cảnh	497	jiehunchangjing_huangjia	hl_huangjia	jiehun_fb													
+Hiệp Sĩ Danh Cư	498	jiehunchangjing_pingmin	hl_yl_pingmin	jiehun_fb													
+Trang Viên Quý Tộc	499	jiehunchangjing_guizu	hl_yl_guizu	jiehun_fb													
+Bãi Biển Vương Hầu	500	jiehunchangjing_wanghou	hl_yl_wanghou	jiehun_fb													
+Nhà tranh	501	minju_maowu	maowu_1	tasksafe													
+Nhà tranh	502	minju_maowu	maowu_2	taskfight													
+Ẩn Sở	503	minju_zhongxing	yinsuo	taskfight													
+Phân Đà Cái Bang	504	minju_daxing	gaibangfenduo	taskfight													
+Mật Đạo Cái Bang	505	midao	gaibangmidao	taskfight													
+Long Vương Miếu	506	siyuan_putong	longwangmiao_1	tasksafe													
+Long Vương Miếu	507	siyuan_putong	longwangmiao_2	tasksafe													
+Sơn Động	508	shandong_putongz	shandong	taskfight													
+Soái Trướng Hổ Sư	509	junying_zhong_you	hushishuaizhang	taskfight													
+Nhà Ẩn Giả	510	minju_daxing	yinzhexiaowu	taskfight													
+Phi Long Cốc	511	feilonggu	feilonggu	tasksafe													
+Phi Long Trận	512	feilongzhen	feilongzhen	taskfight													
+Thiên Quỳnh Cung	513	qianqionggong	qianqionggong	taskfight													
+Thiên Ngoại Thiên	514	qianqionggong_wai	tianwaitian	tasksafe													
+Đại sảnh Triệu Phủ	515	huiketing_haohua_z	zhaofudating	tasksafe													
+Đại sảnh Hàn Phủ	516	huiketing_haohua_z	hanfudating	tasksafe													
+Gian bên Hàn Phủ	517	huiketing_haohua_y	hanfupianxiang	tasksafe													
+Tẩm Cung Hoàng Thượng	518	huanggongqinshi	huangshangqingong	tasksafe													
+Tẩm Cung Thái Hậu	519	huanggongqinshi	taihouqingong_1	tasksafe													
+Tẩm Cung Thái Hậu	520	huanggongqinshi	taihouqingong_2	tasksafe													
+Tẩm Cung Thái Hậu	521	huanggongqinshi	taihouqingong_3	tasksafe													
+Tri Xuân Đài	522	huanggongqinshi	zhichuntai	taskfight													
+Hoàng Cung Đại Điện	523	huanggongdadian	huanggongdadian	taskfight													
+Linh Ẩn Tự	524	siyuan_haohua	lingyinsi	taskfight													
+Sòng Bạc Vong Quy	525	dufang_putong	wangguidufang	tasksafe													
+Doanh Trướng Lỗ Binh	526	junying_xiao_you	lubingyingzhang	tasksafe													
+Doanh Trướng Lương Hạng Lâm	527	junying_zhong_zuo	liangxianglinyingzhang	taskfight													
+Mật Thất Lương Hạng Lâm	528	junying_zhong_you	liangxianglinmishi	tasksafe													
+Phục Ngưu Sơn Trang	529	minju_daxing	funiushanzhuang	tasksafe													
+Hắc Long Đàm	530	heilongtan	heilongtan	taskfight													
+Sơn Trại	531	minju_daxing	diancangshanzhai_1	tasksafe													
+Sơn Trại	532	minju_daxing	diancangshanzhai_2	tasksafe													
+Biệt Viện Đường Môn	533	diancangshanbieyuan	tangmenbieyuan_1	tasksafe													
+Biệt Viện Đường Môn	534	diancangshanbieyuan	tangmenbieyuan_2	taskfight													
+Dịch Quán	535	minju_daxing	yiguan	taskfight													
+Biệt Viện Ngô Hy	536	huiketing_haohua_y	wuxibieyuan	tasksafe													
+Biệt Viện Phòng Khách	537	huiketing_haohua_y	bieyuanhuiketing_1	tasksafe													
+Biệt Viện Phòng Khách	538	huiketing_haohua_y	bieyuanhuiketing_2	tasksafe													
+Nhà nhỏ bên đường	539	minju_daxing	lubianxiaowu	taskfight													
+Phòng giam	540	junying_xiao_you	jiuyixiqiufang	tasksafe													
+Nhà nhỏ	541	minju_maowu	jiuyixixiaowu	taskfight													
+Nhà lớn	542	minju_daxing	jiuyixidawu	taskfight													
+Quán trọ	543	minju_daxing	shamomigonglvdian	taskfight													
+Nhất Phẩm Đường Binh Doanh	544	junying_zhong_you	yipintangbingying	taskfight													
+Tiêu Thạch Cốc	545	ganlugu_tongdao	xiaoshigu	taskfight													
+Tụ Nghĩa Lâu	546	dufang_putong	juyilou	tasksafe													
+Lầu Các	547	huanggongqinshi	gelou	tasksafe													
+Mãng Xà Động	548	shandong_8	mangshedong	taskfight													
+Hiệp Cốc	549	shandong_12	xiagu1	tasktip													
+Hiệp Cốc	550	shandong_12	xiagu2	tasktip													
+Hiệp Cốc	551	shandong_12	xiagu3	tasktip													
+Hiệp Cốc	552	shandong_12	xiagu4	tasktip													
+Thái Tổ Bảo Khố	553	taizubaoku	taizubaoku	tasktip													
+Nơi ở Đại Nhật La	554	minju_daxing	dariluojusuo	taskfight													
+Thượng Tiên Trang	555	huiketing_haohua_z	shangxianzhuang	taskfight													
+Phục Ngưu Sơn Quân Doanh [Thanh Long]	556	fuben_junying	funiushanjunying	taskarmy													
+Hậu Sơn Phục Ngưu (phó bản)	557	fuben_funiushan	funiushanhoushan	taskarmy_fb													
+Phục Ngưu Sơn Quân Doanh [Chu Tước]	558	fuben_junying	funiushanjunying	taskarmy													
+Phục Ngưu Sơn Quân Doanh [Huyền Vũ]	559	fuben_junying	funiushanjunying	taskarmy													
+Bách Man Sơn	560	baimanshan_fuben	baimanshan	taskarmy_fb													
+Vọng Long Sơn	561	wanglongshan	wanglongshan	fight													
+Nhà hoang	562	minju_zhongxing	huangwu	fight													
+Mật Thất Vương Phủ	563	midao	wangfumishi	fight													
+Ngự Thư Phòng Hoàng Cung	564	huiketing_haohua_z	huanggongyushufang	tasksafe													
+Tẩm Cung Hàn Hoàng Hậu	565	huanggongqinshi	hanhuanghouqingong	tasksafe													
+Ngọc Noãn Các	566	huanggongqinshi	yunuange	tasksafe													
+Kim Duyệt Hiên	567	huanggongqinshi	jinyuexuan	tasksafe													
+Hoàng Cung Đại Điện	568	huanggongdadian	huanggongdadian_1	tasksafe													
+Linh Bích Bạc	569	lingbipo	lingbipo	tasksafe													
+Bạch Phủ Mộng Cảnh	570	baifumengjing	baifumengjing	tasksafe													
+Sơn Trại Mộng Cảnh	571	shanzhaimengjing	shanzhaimengjing	tasksafe													
+Thân Thế Mộng Cảnh	572	shenshimengjing	shenshimengjing	tasksafe													
+Bí Doanh Quân Kim	573	midao	jinjunmiying	tasksafe													
+Du Long Bảo Khố	574	taizubaoku	youlongbaoku	tasksafe													
+Hoàng Gia Tiên Cảnh	575	jiehunchangjing_huangjia	hl_yl_huangjia	jiehun_fb													
+Phòng trọ 1	576	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 2	577	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 3 	578	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 4	579	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 5	580	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 6	581	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Phòng trọ 7	582	xiaoyaogu_lv6	hl_zhunbei	tasksafe													
+Trạm Gác Tiền Tuyến 1 	583	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Trạm Gác Tiền Tuyến 2 	584	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Trạm Gác Tiền Tuyến 3 	585	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Thiền Cảnh Hoa Viên	586	hd_qingming	paota	towerdefence													
+Ngọc Lộ Thôn (1)	587	shanzhaimengjing	yulucun	yulucun													
+Phòng bên Trường Ca Môn	800	minju_daxing	changgemen_cefang1	taskfight													
+Phòng bên Trường Ca Môn	801	minju_daxing	changgemen_cefang2	taskfight													
+Vũ Di Sơn Tinh Xá	802	feilonggu	jingshe_yuan	tasksafe													
+Vũ Di Sơn Tinh Xá	803	minju_maowu_z	jingshe_shutong	tasksafe													
+Vũ Di Sơn Tinh Xá	804	huiketing_haohua_y	jingshe_huliniang	tasksafe													
+Phủ đệ Chu Hy	805	huiketing_haohua_z	linanfu_zhuxi3	tasksafe													
+Mật Thất Chu Hy	806	minju_maowu_z	linanfu_mishi	tasksafe													
+Mật Thất Chu Hy	807	minju_maowu_z	linanfu_mishi2	tasksafe													
+Hậu viện tinh xá Vũ Di Sơn	808	ganlugu_jintou	jingshe_mudi	tasksafe													
+Đại sảnh Hàn Phủ	809	huiketing_haohua_z	linanfu_hanfu	taskfight													
+Phòng bên Trường Ca Môn	810	minju_daxing	changgemen_cefang3	taskfight													
+Lâm An Thành	811	linanfu	linanfu_huoshao	taskfight													
+Phòng giam Hoàn Nhan Quang	812	minju_zhongxing	suoyunyuan_wanyan	tasksafe													
+Phòng Trần Quý Thường	813	junying_xiao_you	suoyunyuan_chenji	tasksafe													
+Lạc Nữ Động	814	shandong_12	fuliudong_luonv	taskfight													
+Trong Phục Ngưu Sơn Trang	815	minju_daxing	beizhan_shinei	taskfight													
+Bách Cổ Trận 1	816	shandong_8	baiguzhen_1	taskfight													
+Bách Cổ Trận 2	817	shandong_12	baiguzhen_2	taskfight													
+Tiên Linh Động	818	siyuan_putong	xianlingdong	tasksafe													
+Hoàng Cung Đại Lý	819	qianqionggong	dalifu_huanggong	tasksafe													
+Hậu Viện Hoàng Cung	820	qianqionggong_wai	dalifu_huanggongh	tasksafe													
+Đại Điện (Hoàng Kim)	821	baihutangdadian	baihutangdadian_2	baihutang													
+Bạch Hổ 1_Đông (Hoàng Kim)	822	baihutangyiceng	baihutangyiceng_dong_2	baihutang													
+Bạch Hổ 1_Nam (Hoàng Kim)	823	baihutangyiceng	baihutangyiceng_nan_2	baihutang													
+Bạch Hổ 1_Tây (Hoàng Kim)	824	baihutangyiceng	baihutangyiceng_xi_2	baihutang													
+Bạch Hổ 1_Bắc (Hoàng Kim)	825	baihutangyiceng	baihutangyiceng_bei_2	baihutang													
+Bạch Hổ 2_Âm (Hoàng Kim)	826	baihutangyiceng	baihutangerceng_yin_2	baihutang													
+Bạch Hổ 2_Dương (Hoàng Kim)	827	baihutangyiceng	baihutangerceng_yang_2	baihutang													
+Bạch Hổ 3 (Hoàng Kim)	828	baihutangyiceng	baihutangsanceng_2	baihutang													
+Tiêu Dao Cốc	829	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	830	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	831	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	832	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	833	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	834	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	835	xoyo_lv6_youxia1	xiaoyaogu_lv6_huo	xoyogame													
+Tiêu Dao Cốc	836	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	837	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	838	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	839	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	840	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	841	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	842	xoyo_lv6_youxia2	xiaoyaogu_lv6_feng	xoyogame													
+Tiêu Dao Cốc	843	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	844	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	845	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	846	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	847	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	848	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	849	xoyo_lv6_youxia3	xiaoyaogu_lv6_murong	xoyogame													
+Tiêu Dao Cốc	850	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	851	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	852	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	853	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	854	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	855	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	856	xoyo_lv6_youxia4	xiaoyaogu_lv6_xie	xoyogame													
+Tiêu Dao Cốc	857	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	858	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	859	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	860	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	861	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	862	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	863	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	864	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	865	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	866	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	867	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	868	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	869	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	870	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	871	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	872	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	873	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	874	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	875	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	876	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	877	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	878	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	879	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	880	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	881	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	882	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	883	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	884	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc	885	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	886	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	887	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	888	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	889	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	890	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	891	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	892	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	893	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	894	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	895	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	896	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	897	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	898	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	899	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	900	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	901	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	902	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	903	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	904	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	905	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	906	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	907	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	908	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	909	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	910	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	911	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	912	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	913	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	914	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	915	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	916	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	917	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	918	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	919	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	920	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	921	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	922	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	923	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	924	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	925	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	926	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	927	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	928	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	929	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	930	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	931	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	932	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	933	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	934	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	935	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	936	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	937	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	938	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	939	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	940	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc	941	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	942	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	943	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	944	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	945	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	946	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	947	xoyo_lv7_bai	xiaoyaogu_lv7_heiqiulin	xoyogame													
+Tiêu Dao Cốc	948	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	949	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	950	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	951	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	952	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	953	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Tiêu Dao Cốc	954	xoyo_lv8_guzhu	xiaoyaogu_lv8_xiaoyaoguzhu	xoyogame													
+Hội trường liên đấu (sơ) (1)	1401	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (2)	1402	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (3)	1403	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (4)	1404	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (5)	1405	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (6)	1406	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (7)	1407	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (8)	1408	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (9)	1409	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (10)	1410	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (11)	1411	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (sơ) (12)	1412	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu (sơ) (1)	1413	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (2)	1414	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (3)	1415	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (4)	1416	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (5)	1417	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (6)	1418	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (7)	1419	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (8)	1420	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (9)	1421	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (10)	1422	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (11)	1423	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (sơ) (12)	1424	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu (sơ) (1)	1425	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (2)	1426	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (3)	1427	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (4)	1428	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (5)	1429	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (6)	1430	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (7)	1431	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (8)	1432	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (9)	1433	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (10)	1434	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (11)	1435	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (12)	1436	liansaijingjichang	liansaijingjichang	liansai													
+Hội trường liên đấu (cao) (1)	1437	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (2)	1438	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (3)	1439	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (4)	1440	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (5)	1441	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (6)	1442	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (7)	1443	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (8)	1444	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (9)	1445	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (10)	1446	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (11)	1447	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu (cao) (12)	1448	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu (cao) (1)	1449	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (2)	1450	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (3)	1451	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (4)	1452	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (5)	1453	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (6)	1454	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (7)	1455	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (8)	1456	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (9)	1457	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (10)	1458	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (11)	1459	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu (cao) (12)	1460	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu (cao) (1)	1461	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (2)	1462	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (3)	1463	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (4)	1464	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (5)	1465	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (6)	1466	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (7)	1467	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (8)	1468	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (9)	1469	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (10)	1470	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (11)	1471	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (12)	1472	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường nhiều người (sơ) (1)	1473	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (2)	1474	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (3)	1475	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (4)	1476	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (5)	1477	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (6)	1478	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (7)	1479	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (8)	1480	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (9)	1481	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (10)	1482	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (11)	1483	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (sơ) (12)	1484	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (1)	1485	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (2)	1486	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (3)	1487	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (4)	1488	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (5)	1489	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (6)	1490	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (7)	1491	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (8)	1492	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (9)	1493	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (10)	1494	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (11)	1495	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (12)	1496	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đào Nguyên 1	1497	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 2	1498	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 3	1499	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 4	1500	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 5	1501	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 6	1502	feilonggu	taoyuanrukou	taoyuanrukou													
+Đào Nguyên 7	1503	feilonggu	taoyuanrukou	taoyuanrukou													
+Sân nhà Án Nhược Tuyết (1)	1504	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Sân nhà Án Nhược Tuyết (2)	1505	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Sân nhà Án Nhược Tuyết (3)	1506	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Phi Tự Nhai	1507	xuezhang	xuezhang	esport													
+Đấu trường liên đấu (sơ) (1)	1508	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (2)	1509	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (3)	1510	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (4)	1511	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (5)	1512	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (6)	1513	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (7)	1514	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (8)	1515	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (9)	1516	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (10)	1517	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (11)	1518	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (sơ) (12)	1519	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (1)	1520	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (2)	1521	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (3)	1522	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (4)	1523	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (5)	1524	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (6)	1525	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (7)	1526	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (8)	1527	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (9)	1528	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (10)	1529	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (11)	1530	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (12)	1531	liansaijingjichang	liansaijingjichang	liansai													
+Tịch Mịch Hoạch Thủy Trại (1)	1532	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Tịch Mịch Hoạch Thủy Trại (2)	1533	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Tịch Mịch Hoạch Thủy Trại (3)	1534	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Trường đua thuyền rồng	1535	longzhoubisaichang	longzhoubisaichang	dragonboat													
+Tần Lăng 1	1536	qinshihuangling_1	qinshihuangling_1	qinshihuangling													
+Tần Lăng 2	1537	qinshihuangling_2	qinshihuangling_2	qinshihuangling													
+Tần Lăng 3	1538	qinshihuangling_3	qinshihuangling_3	qinshihuangling													
+Tần Lăng 4	1539	qinshihuangling_4	qinshihuangling_4	qinshihuangling													
+Tần Lăng 5	1540	qinshihuangling_5	qinshihuangling_5	qinshihuangling													
+Triều Thánh Các	1541	huanggongdadian	chaoshengge	tasksafe													
+Tiêu Dao Cốc	1542	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1543	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1544	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1545	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1546	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1547	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Tiêu Dao Cốc	1548	xiaoyaogu_lv6	xiaoyaogu_lv6	xoyogame													
+Hội Trường Võ Lâm (1)	1549	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (2)	1550	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (3)	1551	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (4)	1552	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (5)	1553	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (6)	1554	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (7)	1555	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (8)	1556	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (9)	1557	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (10)	1558	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (11)	1559	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Hội Trường Võ Lâm (12)	1560	liansaihuichang	wulindahuihuichang	liansaihuichang													
+Khu Chuẩn Bị (1)	1561	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (2)	1562	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (3)	1563	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (4)	1564	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (5)	1565	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (6)	1566	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (7)	1567	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (8)	1568	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (9)	1569	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (10)	1570	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (11)	1571	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Chuẩn Bị (12)	1572	liansaizhunbeichang	wulindahuizhunbeichang	liansai													
+Khu Thi Đấu (1_1)	1573	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (2_1)	1574	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (3_1)	1575	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (4_1)	1576	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (5_1)	1577	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (6_1)	1578	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (7_1)	1579	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (8_1)	1580	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (9_1)	1581	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (10_1)	1582	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (11_1)	1583	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (12_1)	1584	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (1_2)	1585	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (2_2)	1586	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (3_2)	1587	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (4_2)	1588	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (5_2)	1589	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (6_2)	1590	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (7_2)	1591	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (8_2)	1592	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (9_2)	1593	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (10_2)	1594	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (11_2)	1595	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Thi Đấu (12_2)	1596	liansaijingjichang	wulindahuijingjichang	liansai													
+Khu Đấu Nhiều Người (1_1)	1597	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (2_1)	1598	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (3_1)	1599	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (4_1)	1600	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (5_1)	1601	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (6_1)	1602	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (7_1)	1603	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (8_1)	1604	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (9_1)	1605	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (10_1)	1606	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (11_1)	1607	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Khu Đấu Nhiều Người (12_1)	1608	liansaijingjichang_2	wulindahuijingjichang_2	liansai													
+Đảo Anh Hùng (1)	1609	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (2)	1610	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (3)	1611	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (4)	1612	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (5)	1613	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (6)	1614	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (7)	1615	tiefucheng_4	globalservermap	globalservermap													
+Thí Luyện Cốc (1)	1616	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (2)	1617	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (3)	1618	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (4)	1619	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (5)	1620	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (6)	1621	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Thí Luyện Cốc (7)	1622	xisuidaoshandong	globalservermapshandong	globalservermapshandong													
+Đoàn Thể (chuẩn bị) (1)	1623	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (chuẩn bị) (2)	1624	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (chuẩn bị) (3)	1625	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (chuẩn bị) (4)	1626	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (chuẩn bị) (5)	1627	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (chuẩn bị) (6)	1628	zhanchangbaomingdian	wulindahui_baomingdian														
+Đoàn Thể (thi đấu) (5)	1629	xibeizhanchang	wulindahui_zhanchang	battle													
+Đoàn Thể (thi đấu) (6)	1630	xibeizhanchang	wulindahui_zhanchang	battle													
+Đoàn Thể (thi đấu) (1)	1631	xibeizhanchang	wulindahui_zhanchang	battle													
+Đoàn Thể (thi đấu) (2)	1632	xibeizhanchang	wulindahui_zhanchang	battle													
+Đoàn Thể (thi đấu) (3)	1633	xibeizhanchang	wulindahui_zhanchang	battle													
+Đoàn Thể (thi đấu) (4)	1634	xibeizhanchang	wulindahui_zhanchang	battle													
+Gia Dụ Quan Chiến-Dương Châu 1	1635	pingyuanzhanchang	zhanchang_pingyuan_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Dương Châu 2	1636	pingyuanzhanchang	zhanchang_pingyuan_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Dương Châu 3	1637	pingyuanzhanchang	zhanchang_pingyuan_yangzhou	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Phượng Tường 1	1638	pingyuanzhanchang	zhanchang_pingyuan_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Phượng Tường 2	1639	pingyuanzhanchang	zhanchang_pingyuan_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Phượng Tường 3	1640	pingyuanzhanchang	zhanchang_pingyuan_fengxiang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Tương Dương 1	1641	pingyuanzhanchang	zhanchang_pingyuan_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Tương Dương 2	1642	pingyuanzhanchang	zhanchang_pingyuan_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Gia Dụ Quan Chiến-Tương Dương 3	1643	pingyuanzhanchang	zhanchang_pingyuan_xiangyang	battle								BattleMapInfoDir	\setting\battle\map\pingyuan\				
+Đảo Anh Hùng (8)	1644	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (9)	1645	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (10)	1646	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (11)	1647	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (12)	1648	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (13)	1649	tiefucheng_4	globalservermap	globalservermap													
+Đảo Anh Hùng (14)	1650	tiefucheng_4	globalservermap	globalservermap													
+Chuyển Server nơi ghi danh Mông Cổ Tây Hạ	1651	zhanchangbaomingdian	global_songjin_baomingdian														
+Băng Phong Bảo	1652	bingfengbao	bingfengbao	common_fb													
+Khu chuẩn bị Di Tích Hàn Vũ (1)	1653	xuezhangzhunbei	dataosha_zhunbei														
+Khu chuẩn bị Di Tích Hàn Vũ (2)	1654	xuezhangzhunbei	dataosha_zhunbei														
+Di Tích Hàn Vũ (1)	1655	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (2)	1656	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (3)	1657	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (4)	1658	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (5)	1659	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (6)	1660	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (7)	1661	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (8)	1662	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (9)	1663	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (10)	1664	dataosha_xmas	dataosha														
+Mật Thất Du Long (1)	1665	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (2)	1666	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (3)	1667	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (4)	1668	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (5)	1669	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (6)	1670	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (7)	1671	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (8)	1672	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (9)	1673	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (10)	1674	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (11)	1675	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (12)	1676	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (13)	1677	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (14)	1678	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (15)	1679	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (16)	1680	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (17)	1681	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (18)	1682	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (19)	1683	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (20)	1684	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (21)	1685	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (22)	1686	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (23)	1687	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (24)	1688	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (25)	1689	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (26)	1690	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (27)	1691	youlongzhiye	youlongzhiye	youlongmishi													
+Mật Thất Du Long (28)	1692	youlongzhiye	youlongzhiye	youlongmishi													
+Truyền thuyết Lạc Anh Tháp (phó bản)	1693	qianqionggongfuben	luoyingta	common_fb													
+Liên Đấu Liên Server-Cao (1) 	1694	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (2) 	1695	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (3) 	1696	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (4) 	1697	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (5) 	1698	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (6) 	1699	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (7) 	1700	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (8) 	1701	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (9) 	1702	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (10) 	1703	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (11) 	1704	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (12) 	1705	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (1) 	1706	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (2) 	1707	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (3) 	1708	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (4) 	1709	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (5) 	1710	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (6) 	1711	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (7) 	1712	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (8) 	1713	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (9) 	1714	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (10) 	1715	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (11) 	1716	liansaijingjichang3	liansaijingjichang3	liansai													
+Liên Đấu Liên Server-Cao (12) 	1717	liansaijingjichang3	liansaijingjichang3	liansai													
+Khoáng (ngoài) (1)	1718	tiefucheng_1	tiefucheng_1_1	battle													
+Khoáng (ngoài) (2)	1719	tiefucheng_1	tiefucheng_1_2	battle													
+Khoáng (ngoài) (3)	1720	tiefucheng_1	tiefucheng_1_3	battle													
+Thiết Phù Thành (trong)	1721	tiefucheng_2	tiefucheng_2	battle													
+Thiết Phù Thành (ngai vàng)	1722	tiefucheng_3	tiefucheng_3	battle													
+Đắc Duyệt Phường	1723	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1724	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1725	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1726	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1727	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1728	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1729	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1730	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1731	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1732	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1733	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1734	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1735	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Đắc Duyệt Phường	1736	duiyoupingjiaditu	duiyoupingjiaditu	pingjia													
+Bách Niên Thiên Lao (phó bản)	1737	bainiantianlao		cangbaotu_fb													
+Đào Chu Công (phó bản)	1738	taozhugongyizhong		cangbaotu_fb													
+Đại Mạc Cổ Thành (phó bản)	1739	damogucheng		cangbaotu_fb													
+Thiên Quỳnh Cung (phó bản)	1740	qianqionggongfuben		cangbaotu_fb													
+Vạn Hoa Cốc (phó bản)	1741	wanhuagu		cangbaotu_fb													
+Vạn Cốt Quật-Si	1742	dadao_boss	wangukuchi1	tongpkmap													
+Vạn Cốt Quật-Mị	1743	dadao_boss	wangukumei1	tongpkmap													
+Vạn Cốt Quật-Võng	1744	dadao_boss	wangukuwang1	tongpkmap													
+Vạn Cốt Quật-Lưỡng	1745	dadao_boss	wangukuliang1	tongpkmap													
+Bái Nguyệt Đàn-Sóc	1746	dadao_boss	baiyuetanshuo1	tongpkmap													
+Bái Nguyệt Đàn-Vọng	1747	dadao_boss	baiyuetanwang1	tongpkmap													
+Bái Nguyệt Đàn-Tàn	1748	dadao_boss	baiyuetancan1	tongpkmap													
+Bái Nguyệt Đàn-Mi	1749	dadao_boss	baiyuetanmei1	tongpkmap													
+Hỗn Dương Điện-Quang	1750	dadao_boss	hunyangdianguang1	tongpkmap													
+Hỗn Dương Điện-Ảnh	1751	dadao_boss	hunyangdianying1	tongpkmap													
+Hỗn Dương Điện-Minh	1752	dadao_boss	hunyangdianming1	tongpkmap													
+Hỗn Dương Điện-Ám	1753	dadao_boss	hunyangdianan1	tongpkmap													
+Phần Minh Đường-Tiêu	1754	dadao_boss	fenmingtangjiao1	tongpkmap													
+Phần Minh Đường-Viêm	1755	dadao_boss	fenmingtangyan1	tongpkmap													
+Phần Minh Đường-Trần	1756	dadao_boss	fenmingtangchen1	tongpkmap													
+Phần Minh Đường-Thệ	1757	dadao_boss	fenmingtangshi1	tongpkmap													
+Vẫn Đan Cung-Nhật	1758	dadao_boss	yundangongri1	tongpkmap													
+Vẫn Đan Cung-Nguyệt	1759	dadao_boss	yundangongyue1	tongpkmap													
+Vẫn Đan Cung-Tinh	1760	dadao_boss	yundangongxing1	tongpkmap													
+Vẫn Đan Cung-Thần	1761	dadao_boss	yundangongchen1	tongpkmap													
+Huyết La Môn-Sơn	1762	dadao_boss	xueluomenshan1	tongpkmap													
+Huyết La Môn-Hà	1763	dadao_boss	xueluomenhe1	tongpkmap													
+Huyết La Môn-Hồ	1764	dadao_boss	xueluomenhu1	tongpkmap													
+Huyết La Môn-Hải	1765	dadao_boss	xueluomenhai1	tongpkmap													
+Ma Long Điện-Vân	1766	dadao_boss	molongdianyun1	tongpkmap													
+Ma Long Điện-Điện	1767	dadao_boss	molongdiandian1	tongpkmap													
+Ma Long Điện-Nghê	1768	dadao_boss	molongdianni1	tongpkmap													
+Ma Long Điện-Phong	1769	dadao_boss	molongdianfeng1	tongpkmap													
+Thị Hồn Ốc-Linh	1770	dadao_boss	shihunwuling1	tongpkmap													
+Thị Hồn Ốc-Phách	1771	dadao_boss	shihunwupo1	tongpkmap													
+Thị Hồn Ốc-Minh	1772	dadao_boss	shihunwuming1	tongpkmap													
+Thị Hồn Ốc-Khu	1773	dadao_boss	shihunwushu1	tongpkmap													
+Vạn Cốt Quật-Si	1774	dadao_boss	wangukuchi2	tongpkmap													
+Vạn Cốt Quật-Mị	1775	dadao_boss	wangukumei2	tongpkmap													
+Vạn Cốt Quật-Võng	1776	dadao_boss	wangukuwang2	tongpkmap													
+Vạn Cốt Quật-Lưỡng	1777	dadao_boss	wangukuliang2	tongpkmap													
+Bái Nguyệt Đàn-Sóc	1778	dadao_boss	baiyuetanshuo2	tongpkmap													
+Bái Nguyệt Đàn-Vọng	1779	dadao_boss	baiyuetanwang2	tongpkmap													
+Bái Nguyệt Đàn-Tàn	1780	dadao_boss	baiyuetancan2	tongpkmap													
+Bái Nguyệt Đàn-Mi	1781	dadao_boss	baiyuetanmei2	tongpkmap													
+Hỗn Dương Điện-Quang	1782	dadao_boss	hunyangdianguang2	tongpkmap													
+Hỗn Dương Điện-Ảnh	1783	dadao_boss	hunyangdianying2	tongpkmap													
+Hỗn Dương Điện-Minh	1784	dadao_boss	hunyangdianming2	tongpkmap													
+Hỗn Dương Điện-Ám	1785	dadao_boss	hunyangdianan2	tongpkmap													
+Phần Minh Đường-Tiêu	1786	dadao_boss	fenmingtangjiao2	tongpkmap													
+Phần Minh Đường-Viêm	1787	dadao_boss	fenmingtangyan2	tongpkmap													
+Phần Minh Đường-Trần	1788	dadao_boss	fenmingtangchen2	tongpkmap													
+Phần Minh Đường-Thệ	1789	dadao_boss	fenmingtangshi2	tongpkmap													
+Vẫn Đan Cung-Nhật	1790	dadao_boss	yundangongri2	tongpkmap													
+Vẫn Đan Cung-Nguyệt	1791	dadao_boss	yundangongyue2	tongpkmap													
+Vẫn Đan Cung-Tinh	1792	dadao_boss	yundangongxing2	tongpkmap													
+Vẫn Đan Cung-Thần	1793	dadao_boss	yundangongchen2	tongpkmap													
+Huyết La Môn-Sơn	1794	dadao_boss	xueluomenshan2	tongpkmap													
+Huyết La Môn-Hà	1795	dadao_boss	xueluomenhe2	tongpkmap													
+Huyết La Môn-Hồ	1796	dadao_boss	xueluomenhu2	tongpkmap													
+Huyết La Môn-Hải	1797	dadao_boss	xueluomenhai2	tongpkmap													
+Ma Long Điện-Vân	1798	dadao_boss	molongdianyun2	tongpkmap													
+Ma Long Điện-Điện	1799	dadao_boss	molongdiandian2	tongpkmap													
+Ma Long Điện-Nghê	1800	dadao_boss	molongdianni2	tongpkmap													
+Ma Long Điện-Phong	1801	dadao_boss	molongdianfeng2	tongpkmap													
+Thị Hồn Ốc-Linh	1802	dadao_boss	shihunwuling2	tongpkmap													
+Thị Hồn Ốc-Phách	1803	dadao_boss	shihunwupo2	tongpkmap													
+Thị Hồn Ốc-Minh	1804	dadao_boss	shihunwuming2	tongpkmap													
+Thị Hồn Ốc-Khu	1805	dadao_boss	shihunwushu2	tongpkmap													
+Cuộc thi Nữ anh hùng [Kim]	1806	menpaijingjichang	beautyhero	liansai													
+Cuộc thi Nữ anh hùng [Mộc]	1807	menpaijingjichang	beautyhero	liansai													
+Cuộc thi Nữ anh hùng [Thủy]	1808	menpaijingjichang	beautyhero	liansai													
+Cuộc thi Nữ anh hùng [Hỏa]	1809	menpaijingjichang	beautyhero	liansai													
+Cuộc thi Nữ anh hùng [Thổ]	1810	menpaijingjichang	beautyhero	liansai													
+Cuộc thi Nữ anh hùng	1811	menpaijingjichang	beautyhero	liansai													
+Ngoài Thiết Phù Thành	1812	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1813	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1814	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1815	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1816	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1817	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1818	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1819	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1820	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1821	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1822	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1823	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1824	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1825	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Ngoài Thiết Phù Thành	1826	tiefucheng_new2_1	tiefucheng_new_1	battle													
+Trong Thiết Phù Thành	1827	tiefucheng_new2_2	tiefucheng_new_2	battle													
+Trong Thiết Phù Thành	1828	tiefucheng_new2_2	tiefucheng_new_2	battle													
+Trong Thiết Phù Thành	1829	tiefucheng_new2_2	tiefucheng_new_2	battle													
+Trong Thiết Phù Thành	1830	tiefucheng_new2_2	tiefucheng_new_2	battle													
+Trong Thiết Phù Thành	1831	tiefucheng_new2_2	tiefucheng_new_2	battle													
+Thiết Phù Thành (ngai vàng)	1832	tiefucheng_new3_3	tiefucheng_new_3	battle													
+Khu chuẩn bị Di Tích Hàn Vũ (3)	1833	xuezhangzhunbei	dataosha_zhunbei														
+Di Tích Hàn Vũ (11)	1834	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (12)	1835	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (13)	1836	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (14)	1837	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (15)	1838	dataosha_xmas	dataosha														
+Chiến trường gia tộc	1839	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1840	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1841	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1842	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1843	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1844	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Chiến trường gia tộc	1845	jiazuzhanchang1	jiazuzhanchang1	kinbattle													
+Khu chuẩn bị Gia tộc chiến	1846	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1847	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1848	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1849	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1850	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1851	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1852	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1853	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1854	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1855	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1856	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1857	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1858	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Khu chuẩn bị Gia tộc chiến	1859	zhanchangbaomingdian	jiazuzhanbaomingdian	kinbattlezhunbei													
+Hậu hoa viên Dạ Lam Quan	1860	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Hậu hoa viên Dạ Lam Quan	1861	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Hậu hoa viên Dạ Lam Quan	1862	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Dạ Lam Quan	1863	xiakedao	xiakedao	castlefight													
+Sảnh ngoài mật thất (1)	1864	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh ngoài mật thất (2)	1865	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh ngoài mật thất (3)	1866	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh trong mật thất (1)	1867	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (2)	1868	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (3)	1869	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (4)	1870	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (5)	1871	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (6)	1872	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Sảnh trong mật thất (7)	1873	baihutang_kf_zd	baihutang_kf_zd	kuafubaihu													
+Di Tích Hàn Vũ (16)	1874	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (17)	1875	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (18)	1876	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (19)	1877	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (20)	1878	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (21)	1879	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (22)	1880	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (23)	1881	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (24)	1882	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (25)	1883	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (26)	1884	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (27)	1885	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (28)	1886	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (29)	1887	dataosha_xmas	dataosha														
+Di Tích Hàn Vũ (30)	1888	dataosha_xmas	dataosha														
+Sảnh ngoài mật thất (4)	1889	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh ngoài mật thất (5)	1890	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh ngoài mật thất (6)	1891	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Sảnh ngoài mật thất (7)	1892	baihutang_kf_zb	baihutang_kf_zb	kuafubaihu													
+Hội trường liên đấu liên server (1)	1893	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (2)	1894	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (3)	1895	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (4)	1896	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (5)	1897	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (6)	1898	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (7)	1899	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (8)	1900	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (9)	1901	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (10)	1902	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (11)	1903	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (12)	1904	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu liên server (1)	1905	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (2)	1906	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (3)	1907	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (4)	1908	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (5)	1909	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (6)	1910	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (7)	1911	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (8)	1912	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (9)	1913	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (10)	1914	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (11)	1915	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (12)	1916	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu liên server (1)	1917	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (2)	1918	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (3)	1919	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (4)	1920	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (5)	1921	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (6)	1922	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (7)	1923	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (8)	1924	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (9)	1925	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (10)	1926	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (11)	1927	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (12)	1928	liansaijingjichang	liansaijingjichang	liansai													
+Hội trường liên đấu liên server (1)	1929	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (2)	1930	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (3)	1931	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (4)	1932	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (5)	1933	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (6)	1934	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (7)	1935	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (8)	1936	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (9)	1937	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (10)	1938	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (11)	1939	liansaihuichang	liansaihuichang	liansaihuichang													
+Hội trường liên đấu liên server (12)	1940	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu liên server (1)	1941	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (2)	1942	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (3)	1943	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (4)	1944	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (5)	1945	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (6)	1946	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (7)	1947	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (8)	1948	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (9)	1949	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (10)	1950	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (11)	1951	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Khu chuẩn bị liên đấu liên server (12)	1952	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu liên server (1)	1953	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (2)	1954	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (3)	1955	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (4)	1956	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (5)	1957	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (6)	1958	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (7)	1959	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (8)	1960	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (9)	1961	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (10)	1962	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (11)	1963	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (12)	1964	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường nhiều người liên server (1)	1965	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (2)	1966	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (3)	1967	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (4)	1968	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (5)	1969	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (6)	1970	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (7)	1971	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (8)	1972	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (9)	1973	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (10)	1974	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (11)	1975	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (12)	1976	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (1)	1977	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (2)	1978	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (3)	1979	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (4)	1980	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (5)	1981	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (6)	1982	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (7)	1983	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (8)	1984	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (9)	1985	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (10)	1986	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (11)	1987	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người liên server (12)	1988	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường liên đấu liên server (1)	1989	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (2)	1990	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (3)	1991	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (4)	1992	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (5)	1993	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (6)	1994	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (7)	1995	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (8)	1996	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (9)	1997	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (10)	1998	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (11)	1999	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (12)	2000	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (1)	2001	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (2)	2002	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (3)	2003	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (4)	2004	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (5)	2005	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (6)	2006	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (7)	2007	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (8)	2008	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (9)	2009	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (10)	2010	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (11)	2011	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu liên server (12)	2012	liansaijingjichang	liansaijingjichang	liansai													
+Lâu Lan Cổ Thành	2013	loulangucheng	loulangucheng	atlantis													
+Tiêu Dao Cốc (1)	2014	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (1)	2015	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (1)	2016	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (1)	2017	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (1)	2018	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (1)	2019	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2020	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2021	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2022	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2023	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2024	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2025	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (2)	2026	duoduo	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (3)	2027	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2028	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2029	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2030	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2031	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2032	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (3)	2033	chuguan	xiaoyaogu_lv7	xoyogame													
+Tiêu Dao Cốc (4)	2034	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2035	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2036	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2037	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2038	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2039	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2040	baicaoyuanding	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2041	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2042	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2043	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2044	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2045	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2046	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (5)	2047	handan	xiaoyaogu_lv6_yhpp	xoyogame													
+Tiêu Dao Cốc (4)	2048	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2049	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2050	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2051	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2052	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2053	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (4)	2054	sisanren	xiaoyaogu_lv7_shuangshu	xoyogame													
+Tiêu Dao Cốc (1)	2055	yinhuapopo	xiaoyaogu_lv6_yhpp	xoyogame													
+Báo danh Chiến Trường Liên Server (1)	2056	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (2)	2057	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (3)	2058	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (4)	2059	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (5)	2060	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (6)	2061	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (7)	2062	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (8)	2063	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (9)	2064	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (10)	2065	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (11)	2066	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (12)	2067	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (13)	2068	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (14)	2069	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Báo danh Chiến Trường Liên Server (15)	2070	zhuxianzhenzhunbeichang1	kuafuzhanchang_zhunbei	battle													
+Chiến Trường Liên Server (1)	2071	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (2)	2072	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (3)	2073	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (4)	2074	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (5)	2075	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (6)	2076	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (7)	2077	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (8)	2078	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (9)	2079	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (10)	2080	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (11)	2081	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (12)	2082	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (13)	2083	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (14)	2084	kf_caishiji	kuafuzhanchang_1	battle													
+Chiến Trường Liên Server (15)	2085	kf_caishiji	kuafuzhanchang_1	battle													
+Lãnh Địa Gia Tộc	2086	huaguoyuanxia	homeland_lv1	homeland													
+Thư Viện Thạch Cổ	2087	shigushuyuan	shigushuyuan	kingame_new													
+Ngọc Lộ Thôn (2)	2088	shanzhaimengjing	yulucun	yulucun													
+Ngọc Lộ Thôn (3)	2089	shanzhaimengjing	yulucun	yulucun													
+Linh Sơn Đỉnh	2090	yunling	roletransfer	roletransfer													
+Thời Quang Điện	2091	yinyangshiguangdian	yinyangshiguangdian	yinyangshiguangdian													
+Sân nhà Án Nhược Tuyết (1)	2092	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Sân nhà Án Nhược Tuyết (2)	2093	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Sân nhà Án Nhược Tuyết (3)	2094	xuezhangzhunbei	xuezhangzhunbei	esportwait													
+Hậu hoa viên Dạ Lam Quan	2095	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Hậu hoa viên Dạ Lam Quan	2096	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Hậu hoa viên Dạ Lam Quan	2097	xiakedao_yb	xiakedao_yb	dragonboatwait													
+Trạm Gác Tiền Tuyến 1 	2098	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Trạm Gác Tiền Tuyến 2 	2099	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Trạm Gác Tiền Tuyến 3 	2100	junying_zhong_zuo	paotazhunbei	dragonboatwait													
+Tịch Mịch Hoạch Thủy Trại (1)	2101	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Tịch Mịch Hoạch Thủy Trại (2)	2102	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Tịch Mịch Hoạch Thủy Trại (3)	2103	jimohuashuizhai	jimohuashuizhai	dragonboatwait													
+Phi Tự Nhai	2104	xuezhang	xuezhang	esport													
+Dạ Lam Quan	2105	xiakedao	xiakedao	castlefight													
+Thiền Cảnh Hoa Viên	2106	hd_qingming	paota	towerdefence													
+Trường đua thuyền rồng	2107	longzhoubisaichang	longzhoubisaichang	dragonboat													
+Hương Mật Nguyên (Kênh 1)	2108	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 2)	2109	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 3)	2110	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 4)	2111	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 5)	2112	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 6)	2113	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Hương Mật Nguyên (Kênh 7)	2114	xiangmiyuan	xiangmiyuan	fight_mini	5												
+Linh Tú Thôn (Kênh 1)	2115	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 2)	2116	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 3)	2117	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 4)	2118	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 5)	2119	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 6)	2120	lingxiucun	lingxiucun	village_mini													
+Linh Tú Thôn (Kênh 7)	2121	lingxiucun	lingxiucun	village_mini													
+Thục Nam Trúc Hải (Kênh 1)	2122	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 2)	2123	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 3)	2124	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 4)	2125	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 5)	2126	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 6)	2127	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Thục Nam Trúc Hải (Kênh 7)	2128	shunanzhuhai	shunanzhuhai_1	fight_mini	15												
+Bích Lạc Cốc	2129	biluogu	biluogu	biluogu													
+Thí Luyện Sơn Trang	2130	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2131	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2132	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2133	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2134	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2135	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2136	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Thí Luyện Sơn Trang	2137	shilianshanzhuang2	shilianshanzhuang	shilianshanzhuang													
+Bích Lạc Cốc	2138	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2139	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2140	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2141	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2142	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2143	biluogu	biluogu	biluogu													
+Bích Lạc Cốc	2144	biluogu	biluogu	biluogu													
+Quán Trọ Long Môn	2145	longmenfeijian	longmenfeijian	cangbaotu_fb													
+Ải Giáng Sinh	2146	handan	xmasgame	cangbaotu_fb													
+Cửa Ải Khắc Di Môn	2147	keyimenyaoai	keyimenyaoai	battle_wild			800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Đông Hạ Lan Sơn	2148	helanshandonglu-001	helanshandonglu	battle_wild			800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Diêm Châu	2149	yanzhou	yanzhou	battle_wild			800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Ngột Lạt Hải Thành	2150	wulahaicheng-001	wulahaicheng	battle_wild			800|1|\setting\npc\droprate\droprate011_jingying.txt	280|2|\setting\npc\droprate\droprate011_shouling.txt									
+Lộc Hợp Cốc	2151	luhegu-001	luhegu1	battle_wild													
+Ngạc Luân Hà Nguyên	2152	elunheyuan	elunheyuan	taskarmy_fb													
+Thần Trùng Trấn	2153	chenchongzhen	chenchongzhen	yinyangshiguangdian													
+Đào Khê Trấn (Kênh 1)	2154	taoxizhen2	taoxizhen	taoxizhen													
+Tiêu Dao Cốc Đơn Giản 12	2155	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2156	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2157	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2158	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2159	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2160	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2161	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2162	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2163	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2164	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2165	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2166	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 3	2167	dalao	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2168	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2169	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2170	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2171	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2172	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2173	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 56	2174	xiaoyaogu_lv3	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2175	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2176	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2177	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2178	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2179	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2180	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 7	2181	xoyo_108	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2182	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2183	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2184	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2185	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2186	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2187	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 8	2188	xoyo_109	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2189	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2190	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2191	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2192	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2193	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2194	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 9	2195	xoyo_110	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2196	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2197	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2198	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2199	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2200	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2201	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 10	2202	xoyo_111	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2203	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2204	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2205	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2206	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2207	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2208	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 11	2209	shandong_12	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2210	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2211	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2212	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2213	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2214	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2215	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2216	ganlugu_tongdao	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2217	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2218	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2219	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2220	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2221	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2222	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 13	2223	ganlugu_jintou	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2224	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2225	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2226	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2227	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2228	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2229	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 14	2230	waiyingxiongzhong	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2231	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2232	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2233	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2234	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2235	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2236	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 15	2237	xoyo_116	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2238	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2239	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2240	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2241	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2242	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2243	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 16	2244	jimohuashuizhai	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2245	xiakedao_yb	xiaoyaogu_lv15	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2246	xiakedao_yb	xiaoyaogu_lv16	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2247	xiakedao_yb	xiaoyaogu_lv17	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2248	xiakedao_yb	xiaoyaogu_lv18	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2249	xiakedao_yb	xiaoyaogu_lv19	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2250	xiakedao_yb	xiaoyaogu_lv20	xoyogame													
+Tiêu Dao Cốc Đơn Giản 4	2251	xiakedao_yb	xiaoyaogu_lv21	xoyogame													
+Tiêu Dao Cốc Đơn Giản 12	2252	xiaoyaogu_lv4	xiaoyaogu_lv15	xoyogame													
+Loạn Hoa Đăng	2253	huadengluan2	huadengluan1	huadengluan1													
+Đào Khê Trấn (Kênh 2)	2254	taoxizhen2	taoxizhen	taoxizhen													
+Đào Khê Trấn (Kênh 3)	2255	taoxizhen2	taoxizhen	taoxizhen													
+Đào Khê Trấn (Kênh 4)	2256	taoxizhen2	taoxizhen	taoxizhen													
+Đào Khê Trấn (Kênh 5)	2257	taoxizhen2	taoxizhen	taoxizhen													
+Đào Khê Trấn (Kênh 6)	2258	taoxizhen2	taoxizhen	taoxizhen													
+Đào Khê Trấn (Kênh 7)	2259	taoxizhen2	taoxizhen	taoxizhen													
+Băng Hỏa Liên Thành	2260	ganluochengzhanyi	newbattle_battle	battle													
+Cổ Mộ Phái	2261	gumu1	gumu	faction													
+Đấu trường môn phái (Cổ Mộ)	2262	menpaijingjichang	menpaijingjichang_gumu	factionbattle													
+Hội trường liên đấu (sơ) (13)	2263	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu (sơ) (13)	2264	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu (sơ) (13)	2265	liansaijingjichang	liansaijingjichang	liansai													
+Hội trường liên đấu (cao) (13)	2266	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu (cao) (13)	2267	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu (cao) (13)	2268	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường nhiều người (sơ) (13)	2269	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường nhiều người (cao) (13)	2270	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường liên đấu (sơ) (13)	2271	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường liên đấu (cao) (13)	2272	liansaijingjichang	liansaijingjichang	liansai													
+Hội trường liên đấu liên server (13)	2273	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu liên server (13)	2274	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu liên server (13)	2275	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường nhiều người liên server (13)	2276	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường liên đấu liên server (13)	2277	liansaijingjichang	liansaijingjichang	liansai													
+Hội trường liên đấu liên server (13)	2278	liansaihuichang	liansaihuichang	liansaihuichang													
+Khu chuẩn bị liên đấu liên server (13)	2279	liansaizhunbeichang	liansaizhunbeichang	liansai													
+Đấu trường liên đấu liên server (13)	2280	liansaijingjichang	liansaijingjichang	liansai													
+Đấu trường nhiều người liên server (13)	2281	liansaijingjichang_2	liansaijingjichang_2	liansai													
+Đấu trường liên đấu liên server (13)	2282	liansaijingjichang	liansaijingjichang	liansai													
+Bích Lạc Cốc	2283	biluogu1	biluogu1	cangbaotu_fb													
+Báo danh chiến trường mới	2284	zhanchangbaomingdian	newbattle_baomingdian_song_zhong	battle_signup													
+Báo danh chiến trường mới	2285	zhanchangbaomingdian	newbattle_baomingdian_jing_zhong	battle_signup													
+Thanh Loa Đảo (Kênh 2)	2286	qingluodao2	qingluodao	qingluodao	25	60	1000|1|\setting\npc\droprate\droprate003_jingying.txt	350|2|\setting\npc\droprate\droprate003_shouling.txt									
+Khoang Thuyền 2 (Kênh 2)	2287	ercengchuancang	qingluodao_cang2	qingluodao_cang2													
+Khoang Thuyền 3 (Kênh 2)	2288	sancengchuancang	qingluodao_cang3	qingluodao_cang3													
+Chiến Trường Phi Long Đạo	20088	shenglongcheng	vnshenglongcheng	battle																	

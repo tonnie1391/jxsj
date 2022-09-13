@@ -1,0 +1,35 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lộ Lộ Thông	0	9942	3	6	150	1	20	20	20	20	20	1		57152	110528		1		
+Truyền Tống Quân Doanh	0	9976	3	6	150	1	20	20	20	20	20	1		57504	110976		1		
+Trương Trảm Kinh	0	3564	3	6	150	1	20	20	20	20	20	1		56832	110976		1		0
+Liệp Quan	0	9948	3	6	150	1	20	20	20	20	20	1		57632	114144		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		53696	104768		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		53568	104896		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		54048	104128		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		53792	104640		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		54112	104992		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		54048	105152		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		53952	105312		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		54336	104384		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		57088	110432		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		56864	110688		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		57216	111552		1		
+Thủ vệ quân Mông	0	10117	3	6	150	1	20	20	20	20	20	1		57472	111264		1		
+biwuchang_exit	1															\setting\map\map_info\elunheyuan\trap\biwuchang_exit.txt			
+biwuchang2machang	1															\setting\map\map_info\elunheyuan\trap\biwuchang2machang.txt			
+biwuchang2saimachang	1															\setting\map\map_info\elunheyuan\trap\biwuchang2saimachang.txt			
+houying2biwuchang	1															\setting\map\map_info\elunheyuan\trap\houying2biwuchang.txt			
+shouliechang_enter	1															\setting\map\map_info\elunheyuan\trap\shouliechang_enter.txt			
+shouliechang2machang	1															\setting\map\map_info\elunheyuan\trap\shouliechang2machang.txt			
+houying_zhangai1	1															\setting\map\map_info\elunheyuan\trap\houying_zhangai1.txt			
+houying_zhangai2	1															\setting\map\map_info\elunheyuan\trap\houying_zhangai2.txt			
+shouliechang_exit	1															\setting\map\map_info\elunheyuan\trap\shouliechang_exit.txt			
+jisichang_enter	1															\setting\map\map_info\elunheyuan\trap\jisichang_enter.txt			
+jisichang_exit	1															\setting\map\map_info\elunheyuan\trap\jisichang_exit.txt			
+jisichang2jiaochang	1															\setting\map\map_info\elunheyuan\trap\jisichang2jiaochang.txt			
+jisichang2houying	1															\setting\map\map_info\elunheyuan\trap\jisichang2houying.txt			
+jiaochang_enter	1															\setting\map\map_info\elunheyuan\trap\jiaochang_enter.txt			
+jiaochang_exit	1															\setting\map\map_info\elunheyuan\trap\jiaochang_exit.txt			
+jiaochang2dazhang	1															\setting\map\map_info\elunheyuan\trap\jiaochang2dazhang.txt			
+kehandazhang_enter	1															\setting\map\map_info\elunheyuan\trap\kehandazhang_enter.txt			
+kehandazhang_exit	1															\setting\map\map_info\elunheyuan\trap\kehandazhang_exit.txt			

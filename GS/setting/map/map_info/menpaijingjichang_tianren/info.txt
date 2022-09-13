@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Khố	0	2599	3	5	20	1	20	20	20	20	20	1		48096	110816		1		
+Chủ Tiệm Thuốc	0	2578	3	5	20	1	20	20	20	20	20	1		47520	110208		1		
+Chủ Tiệm Tạp Hóa	0	2579	3	5	20	1	20	20	20	20	20	1		48672	111360		1		
+Quan Ghi Danh	0	2671	3	5	20	1	20	20	20	20	20	1		48224	112064		1		
+qiecuochangrukou_1	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangrukou_1.txt			
+qiecuochangrukou_2	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangrukou_2.txt			
+qiecuochangrukou_3	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangrukou_3.txt			
+qiecuochangchukou_1	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangchukou_1.txt			
+qiecuochangchukou_2	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangchukou_2.txt			
+qiecuochangchukou_3	1															\setting\map\map_info\menpaijingjichang\trap\qiecuochangchukou_3.txt			
+toguanjuntai_in	1															\setting\map\map_info\menpaijingjichang\trap\toguanjuntai_in.txt			
+toguanjuntai_out	1															\setting\map\map_info\menpaijingjichang\trap\toguanjuntai_out.txt			

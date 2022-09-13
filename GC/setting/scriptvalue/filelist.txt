@@ -1,0 +1,10 @@
+TableName	FilePath	Desc
+_G	\setting\scriptvalue\global.txt	全局表
+EventManager	\setting\scriptvalue\eventmanager.txt	活动系统表
+Item	\setting\scriptvalue\item.txt	物品表
+Mail	\setting\scriptvalue\mail.txt	邮件表
+Npc	\setting\scriptvalue\npc.txt	Npc表
+Task	\setting\scriptvalue\task.txt	任务表
+UiManager	\setting\scriptvalue\uimanager.txt	客户端Ui表
+DrangonBoat	\setting\scriptvalue\dragonboat.txt	龙舟表
+FightSkill	\setting\scriptvalue\fightskill.txt	技能表

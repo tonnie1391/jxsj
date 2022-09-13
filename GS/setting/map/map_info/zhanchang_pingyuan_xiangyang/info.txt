@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+houying1_daying1	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\houying1_daying1.txt			
+daying1_houying1	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\daying1_houying1.txt			
+daying1_yewai	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\daying1_yewai.txt			
+houying3_daying3	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\houying3_daying3.txt			
+daying3_houying3	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\daying3_houying3.txt			
+daying3_yewai	1															\setting\map\map_info\zhanchang_pingyuan_xiangyang\trap\daying3_yewai.txt			
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		64160	87936				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		51456	101280				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		63456	88992				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		52192	100224				
+Chiến thương của lão binh	0	1623	3	5	1	1	20	20	20	20	20	1		58688	95616		1		
+Thương Hội (chiến trường)	0	2962	3	5	1	1	20	20	20	20	20	1		57120	93952		1		

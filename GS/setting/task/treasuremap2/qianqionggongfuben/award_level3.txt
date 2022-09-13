@@ -1,0 +1,2 @@
+AwardLevel	PlayerLevel	ItemG	ItemD	ItemP	ItemL	LevelFile
+1	130	18	1	1018	9	\setting\task\treasuremap2\qianqionggongfuben\level_3\award_1.txt

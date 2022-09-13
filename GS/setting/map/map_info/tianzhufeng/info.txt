@@ -1,0 +1,11 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lam Diện Nhân	0	2036	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\tianzhufeng\npc\area1.txt	1		
+Hồng Cân Nhân	0	2035	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\tianzhufeng\npc\area2.txt	1		2
+Gián Điệp Kim Quốc	0	2207	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\tianzhufeng\npc\area3.txt	1		0
+Đệ Tử Bái Sư	0	2208	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\tianzhufeng\npc\area4.txt	1		
+Thống Lĩnh Bái Sư	0	411	3	5	60	1	20	20	20	20	20	1		51968	113152		1		
+Lộ Hiểu Nhiên	0	412	3	5	90	1	20	20	20	20	20	1		56768	118592		1		2
+to_wudangpai	1															\setting\map\map_info\tianzhufeng\trap\to_wudangpai.txt			
+to_longhuhuanjing_1	1															\setting\map\map_info\tianzhufeng\trap\to_longhuhuanjing_1.txt			
+Võ Đang Phái	0	2525	4	5	1	1	20	20	20	20	20	1		51104	126432		1		
+Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		58272	103296		1		

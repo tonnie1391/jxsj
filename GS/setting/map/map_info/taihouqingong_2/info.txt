@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit520	1															\setting\map\map_info\taihouqingong_2\trap\to_exit520.txt			
+Ngô Thị	0	1202	3	5	60	1	20	20	20	20	20	3		51136	102528		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50464	102976		1		
+Quách Tiết	0	1196	3	5	60	1	20	20	20	20	20	3		51040	102560		1		

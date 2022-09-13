@@ -1,0 +1,6 @@
+ID vật phẩm	Miêu tả vật phẩm
+1230	Hộp Quà Lan Lăng
+1231	Hộp Quà Lưu Vân
+1232	Hộp Quà Minh Nguyệt
+1233	Hộp Quà Chiêu Dương
+1234	Hộp Quà Thương Khung

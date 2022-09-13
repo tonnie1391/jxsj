@@ -1,0 +1,7 @@
+RankType1	RankType2	RankType3	RankType4	RankType5	RankType6	RankType7	RankType8	RankDesc
+排名类型1	排名类型2	排名类型3	排名类型4	排名类型5	排名类型6	排名类型7	排名类型8	奖励描述
+expbase=30	expbase=30	expbase=30	expbase=30	expbase=30	expbase=30	expbase=30	expbase=30	经验
+honor=8	honor=6	honor=4	honor=3	honor=2	honor=2	honor=1	honor=1	荣誉
+binditem=18,1,472,1	binditem=18,1,473,1	binditem=18,1,473,1	binditem=18,1,474,1	binditem=18,1,474,1				箱子
+					binditem=18,1,1,5,43200	binditem=18,1,1,5,43200	binditem=18,1,1,5,43200	玄晶
+binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	binditem=18,1,80,1,0,2	福袋

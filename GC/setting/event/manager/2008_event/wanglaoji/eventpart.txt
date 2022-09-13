@@ -1,0 +1,3 @@
+PartId	Name	ExClass	Kind	SubKind	StartDate	EndDate	ExParam1	ExParam2	ExParam3	ExParam4	ExParam5	ExParam6	ExParam7	ExParam8	ExParam9	ExParam10	ExParam11	ExParam12	ExParam13	ExParam14	ExParam15	ExParam16	ExParam17	ExParam18	ExParam19	ExParam20
+1	µôÂä½µ»ð¿¨		Npc	DropItem	0	0	"DropNpc:2661,2663"	DropPath:\setting\event\manager\2008_event\wanglaoji\dropitem.txt																		
+2	ËÎ½ð»ñµÃ½µ»ð¿¨	wanglaoji	ExAward	Battle	0	0	TimerStart:-1																			

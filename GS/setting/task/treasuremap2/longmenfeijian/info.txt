@@ -1,0 +1,4 @@
+InstanceLevel	Desc	RequirePlayerLevel	Favor	NpcFile	AwardFile
+1	Cấp 50 trở lên	50	30	\setting\task\treasuremap2\longmenfeijian\npc_level1.txt	\setting\task\treasuremap2\longmenfeijian\award_level1.txt
+2	Cấp 100 trở lên	100	60	\setting\task\treasuremap2\longmenfeijian\npc_level2.txt	\setting\task\treasuremap2\longmenfeijian\award_level2.txt
+3	Cấp 130 trở lên	130	65	\setting\task\treasuremap2\longmenfeijian\npc_level3.txt	\setting\task\treasuremap2\longmenfeijian\award_level3.txt

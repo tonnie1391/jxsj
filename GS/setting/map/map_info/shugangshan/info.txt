@@ -1,0 +1,50 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Tống Khinh Kỵ Binh	0	2168	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shugangshan\npc\area1.txt			
+Tống Thương Sĩ	0	2169	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shugangshan\npc\area2.txt			
+Tống Nõ Thủ	0	2170	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shugangshan\npc\area3.txt			
+Tống Thương Sĩ	0	2169	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shugangshan\npc\area4.txt			
+to_hanshangucha	1															\setting\map\map_info\shugangshan\trap\to_hanshangucha.txt			
+to_yangzhoufu	1															\setting\map\map_info\shugangshan\trap\to_yangzhoufu.txt			
+to_jianjudong	1															\setting\map\map_info\shugangshan\trap\to_jianjudong.txt			
+Hàn Sơn Cổ Sát	0	2525	4	5	75	1	20	20	20	20	20	1		63488	122784				
+Dương Châu Phủ	0	2525	4	5	75	1	20	20	20	20	20	1		57760	125792				
+Tiến Cúc Động	0	2525	4	5	75	1	20	20	20	20	20	1		51776	102624				
+Tất Toàn	0	1052	3	5	75	1	20	20	20	20	20	1		59136	107456				
+Đỗ Tân	0	1053	3	5	75	1	20	20	20	20	20	1		60480	106784				
+Giếng nước	0	1580	3	5	75	1	20	20	20	20	20	1		59168	108704				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		57792	108896				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		58144	105984				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		58336	105792				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		58016	109120				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		60224	105856				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		60384	105984				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1		60128	108416				
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	59936	108608				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	62272	117632				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	62304	116736				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	62432	118016				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	62912	117120				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	63008	118528				
+Thất Bộ Xà	0	1056	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	63456	118272				
+Khán Thủ	0	1055	0	0	75	1	20	20	20	20	20	1		58272	107424				
+Khán Thủ	0	1055	0	0	75	1	20	20	20	20	20	1		59296	106144				
+Khán Thủ	0	1055	0	0	75	1	20	20	20	20	20	1		58880	108224				
+Khán Thủ	0	1055	0	0	75	1	20	20	20	20	20	1		59936	106944				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	51904	105216				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	52416	104704				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	53728	103072				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	53344	103680				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54112	102336				
+Diêm Thương	0	1000	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54240	103328				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		57664	107968				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		58144	106784				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		58496	108704				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		59264	105600				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		58944	108608				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		59680	105952				
+Quan Lâm Bệnh	0	1054	0	0	75	1	20	20	20	20	20	1		60512	107200				
+Diệp Hoa Dung	0	3063	0	5	75	1	20	20	20	20	20	16		57408	102912				0
+Trác Thất Lang	0	3064	0	5	75	1	20	20	20	20	20	16		63200	109152				1
+Tả Khí Danh	0	3065	0	5	75	1	20	20	20	20	20	16		55008	125056				2
+Bạch Thương Nham	0	3066	0	5	75	1	20	20	20	20	20	16		52096	112384				3
+Thẩm Tất Quy	0	5059	0	5	120	1	20	20	20	20	20	1		57792	113888				

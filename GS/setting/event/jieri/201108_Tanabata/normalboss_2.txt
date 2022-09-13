@@ -1,0 +1,4 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1356	8	333333		É¢ÂäµÄÊéÒ³¡¤¾í°Ë
+		18	1	1356	9	333333		É¢ÂäµÄÊéÒ³¡¤¾í¾Å
+		18	1	1356	10	333333		É¢ÂäµÄÊéÒ³¡¤¾íÊ®

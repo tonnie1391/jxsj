@@ -1,0 +1,6 @@
+EventType	ClassName	FileName	FileNameTrap	MissionType	Desc
+活动类型Id	类型名	类型配置	比赛场Trap点	类型对应的Mission	描述
+1	DragonBoat	dragonboat.txt	dragonboat_trap.txt	NewEPlatForm.BoatFight:GetNewMission	赛龙舟
+2	SnowBattle	snowbattle.txt	snowbattle_trap.txt	NewEPlatForm.SnowFight:GetNewMission	打雪仗
+3	TowerDefence	towerdefence.txt	towerdefence_trap.txt	NewEPlatForm.TowerDefence:GetNewMission	守护先祖之魂
+4	CastleFight	castlefight.txt	castlefight_trap.txt	NewEPlatForm.CastleFight:GetNewMission	夜岚关

@@ -1,0 +1,18 @@
+Name	Value	Desc
+IVER_g_nPayLevel1	15	Mức nạp thẻ
+IVER_g_nPayLevel2	50	Mức nạp thẻ
+IVER_g_nPayDouble	1	Bội số đổi (Phiên bản Thịnh Đại đổi 100 lần thành điểm khoán)
+IVER_g_szPayLevel1	"3000 đồng"	Miêu tả nạp thẻ
+IVER_g_szPayLevel2	"10000 đồng"	Miêu tả nạp thẻ
+IVER_g_szPayLevel3	"500 đồng"	Miêu tả nạp thẻ
+IVER_g_szCoinName	"Đồng"	Miêu tả tiền tệ
+IVER_g_szPayName	"Nạp"	Miêu tả
+IVER_g_szPayUnit	"đồng"	Đơn vị tiền tệ 
+IVER_g_szPayMonth	"Mỗi tháng"	Miêu tả phương thức
+IVER_g_nSdoVersion	0	Ký hiệu phiên bản Thịnh Đại
+IVER_g_szBindCoinName	Đồng khóa	Miêu tả Đồng khóa
+IVER_g_nLockAccount	1	Có mở Thẻ mật mã không (1 Mở, 0 Đóng)
+IVER_g_nTwVersion	0	Ký hiệu phiên bản Đài Loan
+IVER_g_bHasPhoneLock	0	Có chức năng khóa qua điện thoại không (1 Có, 0 Không)
+IVER_g_szBindCoinName_ST	Đồng khóa	Giới thiệu về Đồng khóa
+IVER_g_nMyVersion	0	Ký hiệu bản Mã Lai

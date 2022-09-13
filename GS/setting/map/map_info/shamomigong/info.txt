@@ -1,0 +1,64 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hành Cước Thương	0	1094	3	5	75	1	20	20	20	20	20	1		60608	105344		1		
+Chu Hoàn	0	907	3	5	75	1	20	20	20	20	20	1		56480	103680		1		
+Long Ngâm	0	905	3	5	75	1	20	20	20	20	20	1		58016	109472		1		
+Cây Có Ký Hiệu	0	899	3	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	54336	121152		1		
+Sĩ Binh	0	902	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shamomigong\npc\guanbing.txt	1		
+to_lvdian	1															\setting\map\map_info\shamomigong\trap\to_lvdian.txt			
+to_chalahan	1															\setting\map\map_info\shamomigong\trap\to_chalahan.txt			
+Thần Tí Cung	0	2174	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shamomigong\npc\area1.txt			
+Thần Tí Cung	0	2174	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shamomigong\npc\area2.txt			
+Hắc Thủy Khoái Kỵ Binh	0	2176	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shamomigong\npc\area3.txt			
+Mã Tặc Khinh Phủ Thủ	0	2175	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\shamomigong\npc\area4.txt			
+to_juyanze	1															\setting\map\map_info\shamomigong\trap\to_juyanze.txt			
+to_fengxiangfu	1															\setting\map\map_info\shamomigong\trap\to_fengxiangfu.txt			
+to_fenglingdu	1															\setting\map\map_info\shamomigong\trap\to_fenglingdu.txt			
+to_xixiahuangling	1															\setting\map\map_info\shamomigong\trap\to_xixiahuangling.txt			
+Cư Diên Trạch	0	2525	4	5	75	1	20	20	20	20	20	1		51136	114048				
+Phượng Tường Phủ	0	2525	4	5	75	1	20	20	20	20	20	1		51424	124928				
+Phong Lăng Độ	0	2525	4	5	75	1	20	20	20	20	20	1		61024	122464				
+Hoàng Lăng Tây Hạ	0	2525	4	5	75	1	20	20	20	20	20	1		61216	111552				
+Doanh Trướng	0	2525	4	5	75	1	20	20	20	20	20	1		56416	104416				
+Quán trọ	0	2525	4	5	75	1	20	20	20	20	20	1		57856	117632				
+Thương Phan	0	906	3	5	75	1	20	20	20	20	20	1		55392	117344		1		
+Thi Thể	0	893	3	5	75	1	20	20	20	20	20	1		54304	121312		1		
+Huyết Ảnh	0	1004	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	53792	112224				
+Huyết Ảnh	0	1004	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54240	112288				
+Huyết Ảnh	0	1004	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54048	112512				
+Huyết Ảnh	0	1004	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54272	112032				
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		51584	117152		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		51968	114656		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		51936	115904		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		52320	117472		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		52928	114208		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		52928	115616		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		52800	116640		1		
+Sài Cẩu	0	622	0	5	75	1	20	20	20	20	20	1		53568	114944		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		51680	117504		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		51840	115520		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52192	115648		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52096	116256		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		51904	116768		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52704	114272		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52544	115072		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52448	116448		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52704	115808		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52672	117376		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52384	116864		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52384	117920		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52800	114784		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		52992	116736		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		53280	114560		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		53312	115072		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		53536	115424		1		
+Thi thể khô	0	1585	3	5	75	1	20	20	20	20	20	1		53248	116064		1		
+Nguy Danh Kỳ	0	3055	0	5	75	1	20	20	20	20	20	16		54816	122368				4
+Vệ Biên Thành	0	3056	0	5	75	1	20	20	20	20	20	16		54464	105952				3
+Vu Hiền Long	0	3057	0	5	75	1	20	20	20	20	20	16		58784	107040				2
+Viên Niệm Tịch	0	3058	0	5	75	1	20	20	20	20	20	16		50944	120736				1
+to_mengguwangting	1															\setting\map\map_info\shamomigong\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	75	1	20	20	20	20	20	1		61344	105024				
+to_yanzhou	1															\setting\map\map_info\shamomigong\trap\to_yanzhou.txt			
+Diêm Châu	0	2525	4	5	75	1	20	20	20	20	20	1		56736	125024				
+to_wulahaicheng	1															\setting\map\map_info\shamomigong\trap\to_wulahaicheng.txt			
+Ngột Lạt Hải Thành	0	2525	4	5	75	1	20	20	20	20	20	1		59296	124864				

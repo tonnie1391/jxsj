@@ -1,0 +1,15 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit554	1															\setting\map\map_info\dariluojusuo\trap\to_exit554.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51456	102176		1		
+Đại Nhật La	0	664	3	5	75	1	20	20	20	20	20	1		52320	100992		1		2
+Yêu Yêu	0	636	0	5	75	1	20	20	20	20	20	1		50048	100992		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		50144	101536		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		50464	100896		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		50624	101728		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		50688	101184		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		51008	101536		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		50880	102176		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		51456	101088		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		52000	100704		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		51744	101440		1		2
+Tiêu Dao Sứ	0	634	0	5	75	1	20	20	20	20	20	1		52320	101408		1		2

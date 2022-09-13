@@ -1,0 +1,21 @@
+STAR_LEVEL	NAME_COLOR	TRANSPARENCY_ICON	EMPTY_STAR	FILL_STAR
+1	white		145	146
+2	green		145	146
+3	green		145	146
+4	green		145	146
+5	blue		145	146
+6	blue		145	146
+7	blue		145	146
+8	blue		145	146
+9	purple		147	148
+10	purple		147	148
+11	purple		149	150
+12	purple		149	150
+13	orange		151	152
+14	orange		151	152
+15	orange	\image\effect\other\new_cheng1.spr	153	154
+16	orange	\image\effect\other\new_cheng2.spr	153	154
+17	yellow	\image\effect\other\new_jin1.spr	155	156
+18	yellow	\image\effect\other\new_jin1.spr	155	156
+19	yellow	\image\effect\other\new_jin2.spr	155	156
+20	yellow	\image\effect\other\new_jin3.spr	155	156

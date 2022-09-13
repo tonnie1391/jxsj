@@ -1,0 +1,1 @@
+Explaint	RefineId	Require1Genre	Require1Detail	Require1Particular	Require1Level	Require1Count	Require2Genre	Require2Detail	Require2Particular	Require2Level	Require2Count

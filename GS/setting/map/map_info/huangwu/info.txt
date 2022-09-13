@@ -1,0 +1,21 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Rời khỏi	0	2525	4	5	90	1	20	20	20	20	20	1		51232	102848		1		
+to_exit562	1															\setting\map\map_info\huangwu\trap\to_exit562.txt			
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		51904	101312		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52000	101216		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52096	101120		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		51840	101408		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52128	101600		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52320	100960		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52384	100864		1		
+Bịt Mặt Hắc Y	0	4498	0	5	110	1	20	20	20	20	20	1		52608	100832		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		51616	102016		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		51712	102336		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52000	102560		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52672	101952		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52544	102080		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		53024	101376		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52992	101600		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52864	101760		1		
+Đao phủ Hắc Y	0	4499	0	5	110	1	20	20	20	20	20	1		52768	101856		1		
+Lưu Vinh	0	4500	0	5	110	1	20	20	20	20	20	1		52768	101152		1		

@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Liễu Khoát	0	3232	3	5	75	1	20	20	20	20	20			65856	91968				
+57_trap_1	1															\setting\map\map_info\xiaoyaogu_lv5\trap\57_trap_1.txt			
+57_trap_2	1															\setting\map\map_info\xiaoyaogu_lv5\trap\57_trap_2.txt			
+57_trap_3	1															\setting\map\map_info\xiaoyaogu_lv5\trap\57_trap_3.txt			
+67_trap	1															\setting\map\map_info\xiaoyaogu_lv5\trap\67_trap.txt			

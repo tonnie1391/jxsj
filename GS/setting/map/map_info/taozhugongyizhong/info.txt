@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cơ Quan Nhân cũ nát	0	2695	0	5	65	1	20	20	20	20	20	1				\setting\map\map_info\taozhugongyizhong\npc\yicengxiaoguai.txt	1		
+Cơ Quan Thú xa xưa	0	2696	0	5	75	1	20	20	20	20	20	1				\setting\map\map_info\taozhugongyizhong\npc\ercengxiaoguai.txt	1		
+Thủ Mộ Đồng Nhân	0	2709	0	5	75	1	20	20	20	20	20	1				\setting\map\map_info\taozhugongyizhong\npc\sancengxiaoguai.txt	1		
+Đạo Mộ Tặc Lý Thanh	0	2697	0	5	80	1	20	20	20	20	20	1		50944	97248		1		
+Chiêu Hồn Sư Bàng Chiếu Ngọc	0	2698	0	5	80	1	20	20	20	20	20	1		53856	100608		1		
+Trịnh Thị	0	2710	0	5	85	1	20	20	20	20	20	1		54016	96768		1		
+Bảo rương	0	2704	3	5	70	1	20	20	20	20	20	1				\setting\map\map_info\taozhugongyizhong\npc\baoxiang.txt	1		
+Cột bắc	0	2706	3	5	70	1	20	20	20	20	20	1		51168	100640		1		
+Cột nam	0	2706	3	5	70	1	20	20	20	20	20	1		49472	102272				
+Cột tây	0	2706	3	5	70	1	20	20	20	20	20	1		49504	100640				
+Cột đông	0	2706	3	5	70	1	20	20	20	20	20	1		51200	102368				
+to_level2	1															\setting\map\map_info\taozhugongyizhong\trap\to_level2.txt			
+to_level3	1															\setting\map\map_info\taozhugongyizhong\trap\to_level3.txt			

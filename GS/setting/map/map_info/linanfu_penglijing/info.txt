@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đại sảnh Triệu Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		50432	121856		1		
+Gia Đinh Bành Phủ	0	1889	3	5	60	1	20	20	20	20	20	3				\setting\map\map_info\linanfu_penglijing\npc\pengfujiading.txt	1		
+to_zhaoruyu	1															\setting\map\map_info\linanfu_penglijing\trap\to_zhaoruyu.txt			

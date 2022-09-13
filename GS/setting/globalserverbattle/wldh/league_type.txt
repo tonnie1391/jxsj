@@ -1,0 +1,6 @@
+LeagueType	ClassName	LGType	FileName	FileNameTrap	Desc
+联赛类型Id	类型名	战队类型	类型配置	比赛场Trap点	描述
+1	Single_Faction	8	singlefaction.txt	minimap_trap.txt	门派单人赛
+2	Double	9	double.txt	minimap_trap.txt	双人赛
+3	Triangle	11	triangle.txt	medimap_trap.txt	三人赛
+4	Fifth_Series_Restraint	12	fifthseriesres.txt	medimap_trap.txt	五行五人赛

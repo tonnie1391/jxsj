@@ -1,0 +1,12 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quải Tử	0	2209	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\baihuagu\npc\area1.txt	1		1
+Đại Phu Mông Cổ	0	2210	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\baihuagu\npc\area2.txt	1		0
+Đao Khách Giang Hồ	0	2037	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\baihuagu\npc\area3.txt	1		4
+Kiếm Khách Giang Hồ	0	2038	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\baihuagu\npc\area4.txt	1		0
+Doãn Tiêu Vũ	0	507	3	5	150	1	20	20	20	20	20	1		53504	118272		1		0
+to_cuiyanmen	1															\setting\map\map_info\baihuagu\trap\to_cuiyanmen.txt			
+to_baihuazhen_1	1															\setting\map\map_info\baihuagu\trap\to_baihuazhen_1.txt			
+to_daliduanshi	1															\setting\map\map_info\baihuagu\trap\to_daliduanshi.txt			
+Thúy Yên Môn	0	2525	4	5	1	1	20	20	20	20	20	1		63104	120160		1		
+Ngoài Bách Hoa Trận	0	2525	4	5	1	1	20	20	20	20	20	1		51072	103104		1		
+Đại Lý Đoàn Thị	0	2525	4	5	1	1	20	20	20	20	20	1		63072	101984		1		

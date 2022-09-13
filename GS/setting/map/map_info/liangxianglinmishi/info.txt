@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lỗ Binh	0	1230	0	5	65	1	20	20	20	20	20	1		51488	102848		1		0
+to_exit528	1															\setting\map\map_info\liangxianglinmishi\trap\to_exit528.txt	1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		52320	103744		1		
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51136	102976		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51424	103232		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51680	102432		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51200	103488		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51552	103872		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51872	102720		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		52064	102528		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		51808	103456		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		52320	103072		1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1		52224	102720		1		0

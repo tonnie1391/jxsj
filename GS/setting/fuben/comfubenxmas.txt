@@ -1,0 +1,2 @@
+nId	MapId	Name	MinNumber	MaxNumber	Grade	Time	ItemId	GroupModel	Count	AutoOpen	FubenId	ConditionItem	ConditionMapType	TotalTime
+1	2146	脢楼碌庐鹿脴驴篓	6	6	50	0		1	40	1	2			30

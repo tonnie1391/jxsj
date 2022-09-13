@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_enter	1															\setting\map\map_info\shigushuyuan\trap\trap_enter.txt			
+trap_4th_left	1															\setting\map\map_info\shigushuyuan\trap\trap_4th_left.txt			
+trap_4th_right	1															\setting\map\map_info\shigushuyuan\trap\trap_4th_right.txt			
+trap_5th_left	1															\setting\map\map_info\shigushuyuan\trap\trap_5th_left.txt			
+trap_5th_right	1															\setting\map\map_info\shigushuyuan\trap\trap_5th_right.txt			
+trap_6th_left	1															\setting\map\map_info\shigushuyuan\trap\trap_6th_left.txt			
+trap_6th_right	1															\setting\map\map_info\shigushuyuan\trap\trap_6th_right.txt			
+trap_7th	1															\setting\map\map_info\shigushuyuan\trap\trap_7th.txt			
+Triệu Xuân Lai	0	9592	3	5	100	1	20	20	20	20	20	1		52736	117696		1		
+Tiểu Bảo	0	9593	3	5	100	1	20	20	20	20	20	1		52416	117312		1		
+Lộ Trình Phi	0	9595	3	5	100	1	20	20	20	20	20	1		52576	116704		1		
+Trâu Đức Khoái	0	2599	3	5	100	1	20	20	20	20	20	1		52224	117504				

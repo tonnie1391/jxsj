@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Gấu Con	0	2010	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\baizushiji\npc\area1.txt			
+Hươu Thuần Dưỡng	0	2201	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\baizushiji\npc\area2.txt			
+Khỉ Hoang Con	0	2202	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\baizushiji\npc\area3.txt			
+Hổ Vàng	0	2009	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\baizushiji\npc\area4.txt			
+to_shiguzhen	1															\setting\map\map_info\baizushiji\trap\to_shiguzhen.txt			
+Thạch Cổ Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		64736	128416				
+Thẩm Thiết Thạch	0	3582	3	5	60	1	20	20	20	20	20	1		61216	119936		1		
+Hứa Sĩ Vĩ	0	3583	3	5	60	1	20	20	20	20	20	1		61088	120096		1		
+Điểm tìm đường Hươu Thuần Dưỡng	0	3597	5	5	1	1	20	20	20	20	20	1		61984	122880		1		
+Điểm tìm đường Khỉ Hoang Con	0	3598	5	5	1	1	20	20	20	20	20	1		58816	119584		1		
+Điểm tìm đường Hổ Vàng	0	3599	5	5	1	1	20	20	20	20	20	1		57152	113216		1		
+Điểm tìm đường Gấu Con	0	3600	5	5	1	1	20	20	20	20	20	1		59808	107200		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 1	0	4675	5	5	1	1	20	20	20	20	20	1		61664	127776		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 2	0	4676	5	5	1	1	20	20	20	20	20	1		63424	127232		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 3	0	4677	5	5	1	1	20	20	20	20	20	1		64096	116544		1		

@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lý Cảnh Vũ	0	161	3	5	60	1	20	20	20	20	20	1		49376	99328		1		
+Thu Thạch Tiên Sinh	0	162	3	5	60	1	20	20	20	20	20	1		49184	99264		1		
+Đến Biệt Viện Âm Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		49856	99936		1		
+yinshan2jianxingfeng	1															\setting\map\map_info\jianxingfeng_ys2\trap\to_yinshan.txt			

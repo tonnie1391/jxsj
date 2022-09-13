@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Dương Thiết Tâm	0	850	3	5	60	1	20	20	20	20	20	1		50976	101600		1		
+Thạch Hiên Viên	0	853	3	5	60	1	20	20	20	20	20	1		51072	101504		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51456	102176		1		
+to_exit532	1															\setting\map\map_info\diancangshanzhai_2\trap\to_exit532.txt			
+Đệ Tử Thiên Vương	0	923	3	5	60	1	20	20	20	20	20	1		50496	100960		1		
+Đệ Tử Thiên Vương	0	923	3	5	60	1	20	20	20	20	20	1		50592	101856		1		
+Đệ Tử Thiên Vương	0	923	3	5	60	1	20	20	20	20	20	1		50880	101792		1		
+Đệ Tử Thiên Vương	0	923	3	5	60	1	20	20	20	20	20	1		51008	101952		1		
+Đệ Tử Cái Bang	0	924	3	5	60	1	20	20	20	20	20	1		51616	101184		1		
+Đệ Tử Cái Bang	0	924	3	5	60	1	20	20	20	20	20	1		51200	101504		1		
+Đệ Tử Cái Bang	0	924	3	5	60	1	20	20	20	20	20	1		51328	101664		1		
+Đệ Tử Cái Bang	0	924	3	5	60	1	20	20	20	20	20	1		51968	100576		1		

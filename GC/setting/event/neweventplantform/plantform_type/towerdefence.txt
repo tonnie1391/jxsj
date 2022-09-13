@@ -1,0 +1,7 @@
+Id	Name	JoinItem	ItemEffect	EnterItemMaxCount	BagNeedFree	PlayerCount	MinTeamCount	MeleeMaxReadyCount	MeleeMinCount	MeleeMaxCount	MinLevel	PlayCount_Player	Time_Common_Start	Time_Common_End	Time_Common_Long	ReadyTime_Common	PKTime_Common	ReadyMap	MacthMap	Desc
+1	类型名	参加活动需要的道具	道具特殊效果	道具的使用次数	需要空闲格子数	比赛人数	活动最小开启人数	混战准备场最大队伍数	混战最少开启人数	混战最大人数	活动最低等级限制	每天累计的混战次数	第一阶段比赛日程开始时间	第一阶段比赛日程结束时间	比赛时长比赛日程结束时间（分钟）	准备时间（秒）	比赛时间（秒）	准备场地图	活动比赛场地图模板	描述
+2	Bảo vệ Hồn Tổ Tiên	18,1,638,3		10	0	1	2	120	2	8	30	2	1815	2330	30	300	600	2098	2106	Hoạt động năm nay là <color=yellow>Bảo vệ Hồn Tổ Tiên<color>.
+3		18,1,638,4																		
+4																				
+5																				
+6																				

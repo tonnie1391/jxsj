@@ -1,0 +1,83 @@
+Name	kind	Id	Special	Style	Rate	MagicClass	Color	Helm	Armor	Belt	Cuff	Boots	Weapon	Necklace	Ring	Pendant	Amulet
+Hoàng Quang Thạch	Điểm Hp, Mp	1	0	0	1908120	lifeandmana_v	gold	1	1	1	1	1					
+Diên Dương Thạch	Tỷ lệ Hp, Mp	2	0	0	1908120	lifeandmana_p	gold	1	1	1	1	1					
+Dạ Mạc Thạch	Kháng độc	3	1	0	19336	resist2	gold						1				
+Hạ Dương Thạch	Kháng phổ	4	1	0	12700	resist1	gold							1			
+Kiêu Dương Thạch	Kháng băng	5	1	0	16328	resist3	gold								1		
+Lôi Đình Ngọc	Kháng lôi	6	1	0	6460	resist5	gold									1	
+Băng Phong Thạch	Kháng hỏa	7	1	0	268564	resist4	gold										1
+Cực Linh Ngọc	Giảm thời gian suy yếu	8	1	0	80672	resist_time2	orange	1									
+Tuyệt Linh Ngọc	Giảm thời gian thọ thương	9	1	0	112308	resist_time1	orange		1								
+Chấn Linh Ngọc	Giảm thời gian làm chậm	10	1	0	139520	resist_time3	orange			1							
+Minh Linh Ngọc	Giảm thời gian choáng	11	1	0	9584	resist_time5	orange				1						
+Hàn Linh Ngọc	Giảm thời gian bỏng	12	1	0	39540	resist_time4	orange					1					
+Chu Thiềm Thạch	Giảm tỷ lệ suy yếu	13	1	0	19336	resist_rate2	orange						1				
+Chấn Lộ Thạch	Giảm tỷ lệ thọ thương	14	1	0	12700	resist_rate1	orange							1			
+Thái Hư Thạch	Giảm tỷ lệ làm chậm	15	1	0	16328	resist_rate3	orange								1		
+Thu Huy Thạch	Giảm tỷ lệ choáng	16	1	0	6460	resist_rate5	orange									1	
+Nguyệt Quang Thạch	Giảm tỷ lệ bỏng	17	1	0	268564	resist_rate4	orange										1
+Tham Lang Thạch	Giảm thời gian trạng thái bất lợi	18	1	0	381624	resist_time0_sp	orange	1	1	1	1	1					
+Ngạo Sương Thạch	Giảm tỷ lệ trạng thái bất lợi	19	1	0	323388	resist_rate0_sp	orange						1	1	1	1	1
+Mị Ảnh Thạch	Tăng thời gian trạng thái bất lợi	20	1	0	381624	attack_time0_sp	orange	1	1	1	1	1					
+Linh Phong Thạch	Tăng tỷ lệ trạng thái bất lợi	21	1	0	323388	attack_rate0_sp	orange						1	1	1	1	1
+Lăng Thiên Ngọc	Kháng tất cả	22	0	0	2155920	resist0	gold						1	1	1	1	1
+Ô Sương Ngọc	Tỷ lệ  độc ngoại	23	0	0	107796	phy_atk_p2	red						1	1	1	1	1
+Thương Lang Ngọc	Tỷ lệ phổ ngoại 	24	0	0	107796	phy_atk_p1	red						1	1	1	1	1
+Nhã Hàn Ngọc	Tỷ lệ băng ngoại 	25	0	0	107796	phy_atk_p3	red						1	1	1	1	1
+Lạc Lôi Ngọc	Tỷ lệ lôi ngoại 	26	0	0	107796	phy_atk_p5	red						1	1	1	1	1
+Chích Viêm Ngọc	Tỷ lệ hỏa ngoại 	27	0	0	107796	phy_atk_p4	red						1	1	1	1	1
+Thực Cốt Ngọc	Tỷ lệ độc nội	28	0	0	107796	mag_atk_p2	red						1	1	1	1	1
+Đoạn Hải Ngọc	Tỷ lệ phổ nội	29	0	0	107796	mag_atk_p1	red						1	1	1	1	1
+Triệt Cốt Ngọc	Tỷ lệ băng nội	30	0	0	107796	mag_atk_p3	red						1	1	1	1	1
+Vân Phách Ngọc	Tỷ lệ lôi nội	31	0	0	107796	mag_atk_p5	red						1	1	1	1	1
+Sí Phần Ngọc	Tỷ lệ hỏa nội	32	0	0	107796	mag_atk_p4	red						1	1	1	1	1
+Hổ Côn Ngọc	Giảm thời gian ngũ hành	33	1	0	381624	attack_time0	orange	1	1	1	1	1					
+Doãn Tuyết Ngọc	Giảm tỷ lệ ngũ hành	34	1	0	323388	attack_rate0	orange						1	1	1	1	1
+Ly Tâm Thạch	Thêm điểm chí mạng	35	0	0	1616940	add_cri	red						1	1	1	1	1
+Thiên Cơ Thạch	Giảm điểm chí mạng	36	0	0	1908120	reduce_cri	gold	1	1	1	1	1					
+Điểm Dật Thạch	Điểm kinh nghiệm đánh quái	37	1	4	0	addexp_p	blue	1	1	1	1	1					
+Tụ Văn Thạch	Kỹ năng môn phái cấp 10 +1	38	1	1	1	level10_added	purple						1				
+Mộ Quang Thạch	Kỹ năng môn phái cấp 30 +1	39	1	1	1	level30_added	purple						1				
+Trai Tâm Thạch	Kỹ năng môn phái cấp 40 +1	40	1	1	1	level40_added	purple						1				
+Chất Cốc Thạch	Kỹ năng môn phái cấp 50 +1	41	1	1	1	level50_added	purple						1				
+Quang Chú Thạch	Kỹ năng môn phái cấp 60 +1	42	1	1	1	level60_added	purple						1				
+Trục Nhật Thạch	Kỹ năng môn phái cấp 70 +1	43	1	1	1	level70_added	purple						1				
+Đa Thái Thạch	Kỹ năng môn phái cấp 90 +1	44	1	1	1	level90_added	purple						1				
+Huyền Ảnh Thạch	Kỹ năng môn phái cấp 100 +1	45	1	1	1	level100_added	purple						1				
+Xích Ngưng Thạch	Kỹ năng môn phái cấp 110 +1	46	1	1	1	level110_added	purple						1				
+Phong Vũ Thạch	Kỹ năng môn phái cấp 120 +1	47	1	1	1	level120_added	purple						1				
+Phá Thiên Thạch	Kỹ năng bí kíp-sơ +1	48	1	1	1	jumplevel_added	purple					1					
+Thúy Ngự Thạch	Kỹ năng bí kíp-trung +1	49	1	1	1	midbooklevel_added	purple							1			
+Tinh Trần Thạch	Kỹ năng bí kíp-cao +1	50	1	1	1	adbooklevel_added	purple								1		
+Băng Nguyệt Tinh Thạch	Trời ban ngẫu nhiên	51	1	2	0		purple						1				
+Huyền Ảnh Phỉ Thúy	Biến thân ngẫu nhiên	52	1	3	0		purple										1
+Đá Lạc Thần	Thưởng hoạt động Mỹ Nữ a	53	1	5	0	beauty_a	red									1	1
+Đá Mị Vũ	Thưởng hoạt động Mỹ Nữ b	54	1	5	0	beauty_b	gold		1	1							
+Đá Thiên Hương	Thưởng hoạt động Mỹ Nữ c	55	1	5	0	beauty_c	purple	1			1						
+Hỏa Phượng Liêu Nguyên	Phần thưởng Hỏa Phượng Nguyên Chiến	2000	1	5	0	beauty_d	red									1	
+Thanh Cổ Ngọc	Tăng độc ngoại giảm kháng tất cả	56	1	0	63604	phy_atk_p2_db	red						1	1	1	1	1
+Tước Kim Ngọc	Tăng phổ ngoại giảm kháng tất cả	57	1	0	31648	phy_atk_p1_db	red						1	1	1	1	1
+Băng Tàm Ngọc	Tăng băng ngoại giảm kháng tất cả	58	1	0	63604	phy_atk_p3_db	red						1	1	1	1	1
+Cuồng Lôi Ngọc	Tăng lôi ngoại giảm kháng tất cả	59	1	0	63604	phy_atk_p5_db	red						1	1	1	1	1
+Chúc Dung Ngọc	Tăng hỏa ngoại giảm kháng tất cả	60	1	0	63604	phy_atk_p4_db	red						1	1	1	1	1
+U Minh Ngọc	Tăng độc nội giảm kháng tất cả	61	1	0	63604	mag_atk_p2_db	red						1	1	1	1	1
+Phá Thiên Ngọc	Tăng phổ nội giảm kháng tất cả	62	1	0	31648	mag_atk_p1_db	red						1	1	1	1	1
+Thương Hải Ngọc	Tăng băng nội giảm kháng tất cả	63	1	0	63604	mag_atk_p3_db	red						1	1	1	1	1
+Tử Điện Ngọc	Tăng lôi nội giảm kháng tất cả	64	1	0	63604	mag_atk_p5_db	red						1	1	1	1	1
+Xích Diễm Ngọc	Tăng hỏa nội giảm kháng tất cả	65	1	0	63604	mag_atk_p4_db	red						1	1	1	1	1
+Truy Nguyệt Thạch	Tăng kháng tất cả giảm chí mạng	66	1	0	148148	damage_all_resist_db	gold						1	1	1	1	1
+Huyền Dương Thạch	Tăng tỉ lệ SL và NL giảm thời gian kháng trạng thái bất lợi	67	1	0	133333	lifemax_permillage_db	gold	1	1	1	1	1					
+Phá Lang Thạch	Tăng thời gian kháng trạng thái bất lợi giảm tỉ lệ SL và NL	68	1	0	166667	resist_time0_sp_db	gold	1	1	1	1	1					
+Ngự Thiên Thạch	Tăng tránh đòn	69	1	1	1	ignoredefenseenhance_sp	purple										1
+Lăng Ba Thạch	Tăng né tránh	70	1	1	1	adddefense_sp	purple										1
+Bổ Nguyên Thạch	Tăng hiệu quả hồi sinh lực và nội lực	71	1	1	1	lifereplenish_sp	purple								1		
+Huyền Thiên Thạch	Tăng ngũ hành tương khắc	72	1	1	1	seriesenhance_sp	purple							1			
+Hạo Thiên Thạch	Giảm ngũ hành tương khắc	73	1	1	1	seriesabate_sp	purple							1			
+Kinh Hồng Ngọc	Hoạt động Đỉnh Phong Chiến	74	1	5	0	beauty_a	blue									1	1
+Linh Tê Ngọc	Hoạt động Đỉnh Phong Chiến	75	1	5	0	beauty_b	white		1	1							
+Mộng Hoa Niên	Hoạt động kinh điển	76	1	5	0	magictime_a	red									1	1
+Mộng Hoa Niên	Hoạt động kinh điển	77	1	5	0	magictime_b	red									1	1
+Thủy Lưu Niên	Hoạt động kinh điển	78	1	5	0	magictime_c	gold		1	1							
+Nhược Khúc	Hoạt động kinh điển	79	1	5	0	magictime_d	purple	1			1						
+Đá Lạc Thần	Thưởng hoạt động Mỹ Nữ a	80	1	1	0	beauty_a	red									1	1
+Đá Mị Vũ	Thưởng hoạt động Mỹ Nữ b	81	1	1	0	beauty_b	gold		1	1							

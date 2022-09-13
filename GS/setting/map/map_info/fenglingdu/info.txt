@@ -1,0 +1,42 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Mãnh An Mưu Khắc Quân	0	2159	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\fenglingdu\npc\area1.txt			
+Mãnh An Mưu Khắc Quân	0	2159	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\fenglingdu\npc\area2.txt			
+Thôi Thủ Mã Bang	0	2161	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\fenglingdu\npc\area3.txt			
+Đà Thủ Tào Bang	0	2160	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\fenglingdu\npc\area4.txt			
+to_huashan	1															\setting\map\map_info\fenglingdu\trap\to_huashan.txt			
+to_longmenshiku	1															\setting\map\map_info\fenglingdu\trap\to_longmenshiku.txt			
+to_shamomigong	1															\setting\map\map_info\fenglingdu\trap\to_shamomigong.txt			
+to_taihanggujing	1															\setting\map\map_info\fenglingdu\trap\to_taihanggujing.txt			
+to_dukou1	1															\setting\map\map_info\fenglingdu\trap\to_dukou1.txt			
+to_dukou2	1															\setting\map\map_info\fenglingdu\trap\to_dukou2.txt			
+to_dukou3	1															\setting\map\map_info\fenglingdu\trap\to_dukou3.txt			
+to_dukou4	1															\setting\map\map_info\fenglingdu\trap\to_dukou4.txt			
+Long Môn Thạch Quật	0	2525	4	5	75	1	20	20	20	20	20	1		63424	119584				
+Mê Cung Sa Mạc	0	2525	4	5	75	1	20	20	20	20	20	1		50688	107648				
+Thái Hành Cổ Kính	0	2525	4	5	75	1	20	20	20	20	20	1		63552	104000				
+Bến đò	0	2525	4	5	75	1	20	20	20	20	20	1		53120	106016				
+Bến đò	0	2525	4	5	75	1	20	20	20	20	20	1		52160	106944				
+Bến đò	0	2525	4	5	75	1	20	20	20	20	20	1		53312	115968				
+Bến đò	0	2525	4	5	75	1	20	20	20	20	20	1		52736	113888				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54272	108224				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54624	108416				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55008	108480				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55200	108128				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55520	108032				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55872	107904				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55904	107328				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55680	106976				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55232	107392				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54528	107808				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55040	107936				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55040	107936				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54496	107168				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	54144	107168				
+Như Ảnh	0	1032	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55488	107648				
+Lạt Lị Đầu	0	1039	3	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	55456	109184				
+Mã Thiết Tượng	0	1040	3	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	60576	109056				
+Trần Thủ Thu	0	3051	0	5	75	1	20	20	20	20	20	16		60416	102272				0
+Trình Đạp Ba	0	3052	0	5	75	1	20	20	20	20	20	16		54368	100160				1
+Chử Thiên Mẫn	0	3053	0	5	75	1	20	20	20	20	20	16		54240	119808				2
+Hoàn Nhan Sửu Nô	0	3054	0	5	75	1	20	20	20	20	20	16		61088	105248				3
+Hoa Sơn	0	2525	4	5	75	1	20	20	20	20	20	1		50816	116128				

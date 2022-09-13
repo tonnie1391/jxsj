@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	备注
+1	2954	61344	102112	开启密码间用石碑

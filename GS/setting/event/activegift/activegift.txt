@@ -1,0 +1,50 @@
+nActiveId	nSubId	szName	szInfo	nMaxCount	nGrade	nWeek	nDownLevel	nUpLevel	nTimerFrame	bOneOff	unable
+1	2501	Đăng nhập	Đăng nhập nhận 1 điểm năng động	1	1						
+2	2502	Đăng tải lên mini blog	Đăng tải lên mini blog nhận 5 điểm năng động	1	5						1
+3	2503	Hoàn thành chúc phúc 1 lần	Hoàn thành 1 lần chúc phúc, nhận 5 điểm năng động	1	5			50			
+4	2504	Mở 10 túi phúc	Mở 10 túi phúc, nhận 6 điểm năng động	10	6						
+5	2505	Tiêu diệt 5 Tinh anh hoặc Thủ lĩnh	Nhóm tiêu diệt 5 tinh anh hay thủ lĩnh, nhận 10 điểm năng động	5	10						
+6	2506	Dùng 1 Trứng Thịnh Hạ	Dùng 1 Trứng Thịnh Hạ được 10 điểm năng động	1	10						
+7	2507	Vượt ải Tàng Bảo Đồ 1 lần	Vượt ải Tàng Bảo Đồ 1 lần, nhận 8 điểm năng động	1	8						
+8	2508	Hoàn thành nhiệm vụ nghĩa quân 10 lần	Hoàn thành 10 nhiệm vụ nghĩa quân, nhận 8 điểm năng động	10	8						
+9	2509	Đối thoại với Bạch Thu Lâm	Đối thoại với Bạch Thu Lâm, nhận 6 điểm năng động	1	6		20			1	1
+10	2510	Thăng lên cấp 10	Thăng lên cấp 10. nhận 8 điểm năng động	1	8		10			1	1
+11	2511	Vượt ải Thí Luyện Sơn Trang	Vượt ải Thí Luyện Sơn Trang, nhận 8 điểm năng động	1	8		20			1	1
+12	2512	Thăng lên cấp 20	Thăng lên cấp 20, nhận 8 điểm năng động	1	8		20			1	1
+13	2513	Vượt ải Bích Lạc Cốc	Vượt ải Bích Lạc Cốc, nhận 8 điểm năng động	1	8		30			1	1
+14	2514	Hoàn thành thi đấu thú vị 2 lần	Hoàn thành thi đấu thú vị 2 lần, nhận 8 điểm năng động	2	8						
+15	2515	Hoàn thành 2 lần Thi đấu Gia Tộc	Hoàn thành 1 lần Thi đấu Gia Tộc, nhận 8 điểm năng động	2	8						1
+16	2516	Hoàn thành đoán hoa đăng 1 lần	Hoàn thành 1 lần Đoán hoa đăng, nhận 8 điểm năng động	1	8						
+17	2517	Hoàn thành nhiệm vụ Câu cá 1 lần	Hoàn thành 1 lần nhiệm vụ Câu Cá, nhận 8 điểm năng động	1	8	6,7		30			
+18	2518	Mở Tu luyện bí cảnh 1 lần	Tu luyện bí cảnh 1 lần được 12 điểm năng động	1	12			50			
+19	2519	Vượt ải Tiêu Dao Cốc 1 lần	Vượt 1 lần Tiêu Dao Cốc, nhận 6 điểm năng động	1	6			30			
+20	2520	Thu thập 1 Thẻ Tiêu Dao Lục	Thu thập 1 tấm thẻ bài Tiêu Dao Lục nhận 6 điểm năng động	1	6			100			
+21	2521	Vượt ải gia tộc 1 lần	Vượt ải gia tộc 1 lần được 8 điểm năng động	1	8			50			
+22	2522	Hoàn thành nhiệm vụ truy nã 6 lần	Hoàn thành nhiệm vụ truy nã 6 lần, nhận 10 điểm năng động	6	10			50			
+23	2523	Tham gia thi đấu môn phái 1 lần	Tham gia 1 lần Thi đấu môn phái, nhận 5 điểm năng động	1	5	2,4		50			
+24	2524	Nhóm tiêu diệt 1 boss thế giới	Tổ đội diệt 1 Boss thế giới cấp 55, 75, 95 đều được 7 điểm năng động	1	7			55			
+25	2525	Tham gia Lãnh thổ tranh đoạt chiến	Tham gia lãnh thổ tranh đoạt chiến, nhận 5 điểm năng động	1	5	5,7		80			
+26	2526	Hoàn thành nhiệm vụ quân doanh 1 lần	Hoàn thành 1 lần phó bản quân doanh hoặc nhiệm vụ ngày được 7 điểm năng động	1	7			80			
+27	2527	Dùng 20 Du Long Chiến Thư	Vào Mật Thất Du Long, dùng Du Long Chiến Thư khiêu chiến Thiên Thiên 20 lần được 15 điểm năng động	20	15			100			
+28	2528	Tăng độ thân mật đồng hành	Tăng độ thân mật đồng hành lớn hơn 1 điểm, nhận 10 điểm năng động	1	10			100			
+29	2529	Hoàn thành nhiệm vụ Hiệp khách	Hoàn thành nhiệm vụ hiệp khách trong ngày được 6 điểm năng động	1	6			100			
+30	2530	Vượt ải Thời Quang Điện 1 lần	Tiêu diệt Đại Tư Mệnh trong Thời Quang Điện được 8 điểm năng động	1	8			100			
+31	2531	Hoàn thành 1 trận Mông Cổ Tây Hạ	Hoàn thành (Nhận thưởng) 1 trận Mông Cổ Tây Hạ, nhận 12 điểm năng động	1	12			60			
+32	2532	Hoàn thành 2 trận Võ Lâm Liên Đấu	Hoàn thành (nhận thưởng) 1 trận Võ Lâm Liên Đấu (sơ, cao cấp) được 10 điểm năng động	2	10			100			
+33	2533	Hoàn thành 1 trận Liên Đấu liên server	Hoàn thành (nhận thưởng) 1 trận Liên Đấu liên server, nhận 10 điểm năng động	1	10			100			1
+34	2534	Tham gia 1 trận vượt Bạch Hổ Đường	Tham gia vượt ải Bạch Hổ Đường 1 lần được 12 điểm năng động	1	12			50			
+35	2535	Nhận thưởng 1 trận Bạch Hổ Đường liên server	Hoàn thành (nhận thưởng) 1 trận Bạch Hổ Đường liên server được 16 điểm năng động	1	16			100			1
+36	2536	Hoàn thành Thành chiến liên server	Hoàn thành (nhận thưởng) Thành chiến liên server, nhận 8 điểm năng động	1	8	6		100			1
+37	2537	Dùng Tàng Bảo Đồ đào kho báu	Dùng Tàng Bảo Đồ nhận được từ nhiệm vụ Nghĩa Quân để đào kho báu, nhận 8 điểm năng động	1	8						
+38	2538	Nhận Tinh Hoạt	Tăng tinh hoạt lực bản thân (không tính điểm nhận được khi làm nhiệm vụ) được 10 điểm năng động	1	10						
+39	2539	Thăng lên cấp 30	Thăng lên cấp 30, nhận 10 điểm năng động	1	10		30			1	1
+40	2540	Thăng lên cấp 40	Thăng lên cấp 40, nhận 10 điểm năng động	1	10		40			1	1
+41	2541	Thăng lên cấp 50	Thăng lên cấp 50, nhận 10 điểm năng động	1	10		50			1	1
+42	2542	Sửa trang bị	Sửa trang bị, nhận 8 điểm năng động	1	8		50			1	1
+43	2543	Sử dụng thực phẩm	Sử dụng thực phẩm mua ở chỗ Đại Lão Bạch tại các Tân Thủ Thôn và các thành, nhận 7 điểm năng động	1	7		50			1	1
+44	2544	Đối thoại với Long Ngũ Thái Gia	Đối thoại với Long Ngũ Thái Gia, nhận 8 điểm năng động	1	8		50	20		1	1
+45	2545	Cường hóa trang bị	Cường hóa trang bị ở chỗ Dã Luyện Đại Sư, nhận 10 điểm năng động	1	10		50			1	1
+46	2546	Chế tạo vật phẩm	Dùng kỹ năng sống chế tạo 1 thành phẩm cấp 5 trở lên, nhận 10 điểm năng động	1	10		50			1	1
+47	2547	Thu hoạch cây trồng	Mỗi ngày thu hoạch cây trồng thành công 3 lần, nhận 10 điểm năng động	3	10						1
+48	2548	Vượt ải Thần Trùng Trấn 1 lần	Chiến thắng Thác Bạt Phù Anh, xông vào biển lửa, được 8 điểm năng động	1	8			100			
+49	2549	Nhiệm vụ Khắc Di Môn mở bảo rương	Mở 3 bảo rương trong nhiệm vụ Khắc Di Môn, được 10 điểm năng động	3	10						

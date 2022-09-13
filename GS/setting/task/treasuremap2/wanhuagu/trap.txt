@@ -1,0 +1,3 @@
+TrapName	TrapPosFile
+trap_1	\setting\task\treasuremap2\wanhuagu\trap\trap_1.txt
+trap_2	\setting\task\treasuremap2\wanhuagu\trap\trap_2.txt

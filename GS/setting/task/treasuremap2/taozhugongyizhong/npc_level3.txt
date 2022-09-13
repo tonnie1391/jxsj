@@ -1,0 +1,14 @@
+NpcName	TemplateId	NpcLevel	NpcScore	NpcCount	XPos	YPos	NpcPosFile
+Cơ Quan Nhân cũ nát	6925	100	4				\setting\task\treasuremap2\taozhugongyizhong\npc\yicengxiaoguai.txt
+Cơ Quan Thú cổ xưa	6926	100	4				\setting\task\treasuremap2\taozhugongyizhong\npc\ercengxiaoguai.txt
+Thủ Mộ Đồng Nhân	6935	100	6				\setting\task\treasuremap2\taozhugongyizhong\npc\sancengxiaoguai.txt
+Lý Thanh	6927	100	80		50944	97248	
+Bàng Chiếu Ngọc	6928	100	80		53856	100608	
+Trịnh Thị	6936	100	114		54016	96768	
+Nữ Vô Danh	2705	1			52448	98720	
+Rương thường	6930	100	8				\setting\task\treasuremap2\taozhugongyizhong\npc\baoxiang.txt
+Phù Văn Trụ - Bắc	6932	100			51168	100640	
+Phù Văn Trụ - Nam	6932	100			49472	102272	
+Phù Văn Trụ - Tây	6932	100			49504	100640	
+Phù Văn Trụ - Đông	6932	100			51200	102368	
+Quan Tiểu Đao	7016	100			50240	101600	

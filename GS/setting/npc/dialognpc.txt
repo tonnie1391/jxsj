@@ -1,0 +1,709 @@
+Id	Map	ClassName	MapId	Msg	Option1	Option2	Option3	Option4	Option5	Option6	Option7	Option8	Option9	Option10	Option11	Option12
+1	Vân Trung Trấn	bingqipulaoban	1	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""					
+2	Long Môn Trấn	bingqipulaoban	2	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+3	Vĩnh Lạc Trấn	bingqipulaoban	3	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""				
+4	Đạo Hương Thôn	bingqipulaoban	4	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+5	Giang Tân Thôn	bingqipulaoban	5	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Phi đao"",""Dialog:OpenShop"",8,1"	"""Tụ tiễn"",""Dialog:OpenShop"",9,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""				
+6	Thạch Cổ Trấn	bingqipulaoban	6	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+7	Long Tuyền Thôn	bingqipulaoban	7	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+8	Ba Lăng Huyện	bingqipulaoban	8	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Chùy"",""Dialog:OpenShop"",6,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""					
+9	Thiếu Lâm Phái	bingqipulaoban	9	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+10	Thiên Nhẫn Giáo	bingqipulaoban	10	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+11	Côn Lôn Phái	bingqipulaoban	12	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+12	Võ Đang Phái	bingqipulaoban	14	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""							
+13	Cái Bang	bingqipulaoban	15	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+14	Nga My Phái	bingqipulaoban	16	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+15	Thúy Yên Môn	bingqipulaoban	17	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+16	Đường Môn	bingqipulaoban	18	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Phi đao"",""Dialog:OpenShop"",8,1"	"""Tụ tiễn"",""Dialog:OpenShop"",9,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+17	Ngũ Độc Giáo	bingqipulaoban	20	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+18	Thiên Vương Bang	bingqipulaoban	22	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Thương"",""Dialog:OpenShop"",5,1"	"""Chùy"",""Dialog:OpenShop"",6,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+19	Biện Kinh	bingqipulaoban	23	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""					
+20	Phượng Tường	bingqipulaoban	24	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+21	Tương Dương	bingqipulaoban	25	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Thương"",""Dialog:OpenShop"",5,1"	"""Chùy"",""Dialog:OpenShop"",6,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""					
+22	Dương Châu	bingqipulaoban	26	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+23	Thành Đô	bingqipulaoban	27	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Phi đao"",""Dialog:OpenShop"",8,1"	"""Tụ tiễn"",""Dialog:OpenShop"",9,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""				
+24	Đại Lý	bingqipulaoban	28	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+25	Lâm An	bingqipulaoban	29	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Đao"",""Dialog:OpenShop"",3,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+26		fangjupulaoban		Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""<color=yellow>Khoác<color>"",""Shop:OpenWaiZhuangShop"",175,3"	"""<color=yellow>Nón<color>"",""Shop:OpenWaiZhuangShop"",176,3"	"""Y phục"",""Dialog:OpenShop"",10,1"	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Nón"",""Dialog:OpenShop"",12,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""		
+27		zahuopulaoban		Tạp hóa Nam Bắc gì cũng có! Khách quan muốn mua gì?	"""<color=gold>[Bạc khóa]<color> Tạp hóa"",""Dialog:OpenShop"",15,7"	"""Tạp hóa"",""Dialog:OpenShop"",15,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Thuốc"",""Dialog:OpenShop"",18,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Không mua nữa"""				
+28		yaopulaoban		Những năm gần đây cục thế biến loạn nhưng tiệm thuốc của ta lại làm ăn ngày càng phát đạt, ta nên vui hay nên buồn đây…Thật mong sao phi phong của Tạ Hiền có thể thay đổi thời cuộc này. 	"""<color=gold>[Bạc khóa]<color> Dược phẩm"",""Dialog:OpenShop"",14,7"	"""Dược phẩm"",""Dialog:OpenShop"",14,1"	"""Thuốc"",""Dialog:OpenShop"",18,1"	"""Đổi rương thuốc cao cấp"", ""Npc:ExchangeYaoXiang"""	"""Không mua nữa"""							
+29		shoushipulaoban		Nam đeo ngọc bội, nữ đeo hương nang. Ta vừa nhập về một lô hàng thủ công tinh xảo, khách quan chớ bỏ qua! Lại là người muốn mua phi phong, khách quan đi tìm Tạ Hiền thì hơn! 	"""Hạng liên"",""Dialog:OpenShop"",73,1"	"""Nhẫn"",""Dialog:OpenShop"",74,1"	"""Ngọc bội, hương nang"",""Dialog:OpenShop"",75,1"	"""Hộ thân phù"",""Dialog:OpenShop"",76,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Không mua nữa"""				
+30		jiuloulaoban		Nghe Tiểu Nhị nói gần đây Tạ Hiền vừa tìm được một số tuyệt thế phi phong, chỉ những anh hùng có tên trên Xếp hạng vinh dự mới xứng sở hữu chúng, nếu không vì phải nuôi gia đình, ta cũng quyết xông pha giang hồ một phen! 	"""<color=gold>[Bạc khóa]<color> Thực phẩm"",""Dialog:OpenShop"",21,7"	"""Thực phẩm"",""Dialog:OpenShop"",21,1"	"""Không mua nữa"""									
+31		liehuxiaowulaoban		Từ ngày ta mặc chiếc phi phong do Tạ Hiền tặng, đi săn không còn bị đau lưng, tay cũng không đau nữa, một mũi tên bắn ra có thể hạ được bốn, năm con mồi!	"""Da"",""Dialog:OpenShop"",20,1"											
+32		famuxiaowulaoban		Tuyển người đây! Bao ăn ở, 1 tháng 10 lượng bạc. Yêu cầu biết đốn gỗ, trẻ tuổi cường tráng, dung mạo không được tuấn tú hơn ta! Còn một điều nữa, không thuê người mặc phi phong của Tạ Hiền, ta đánh không lại!	"""Gỗ"",""Dialog:OpenShop"",19,1"											
+33		mafan		Ngựa quý ngựa hiếm, muốn gì có nấy! Muốn mua phi phong xin đi tìm Tạ Hiền, ta không bán thứ đó.	"""Ta muốn mua ngựa"",""Dialog:OpenShop"",22,1"											
+34	Đại Lý Đoàn Thị	bingqipulaoban	19	Bổn tiệm có bán các loại trang bị ngũ hành, khi khách quan không tìm được trang bị ngũ hành thích hợp để kích hoạt thuộc tính ẩn thì mời ghé vào bổn tiệm để chọn mua những món trang bị phù hợp với mình. 	"""Triền thủ"",""Dialog:OpenShop"",1,1"	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+35	Minh Giáo	bingqipulaoban	224	Bổn tiệm có bán các loại trang bị ngũ hành, khi khách quan không tìm được trang bị ngũ hành thích hợp để kích hoạt thuộc tính ẩn thì mời ghé vào bổn tiệm để chọn mua những món trang bị phù hợp với mình. 	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Chùy"",""Dialog:OpenShop"",6,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+36		pvpwuqi		Binh khí tốt chỗ ta không thiếu, nhưng chúng đều tự chọn chủ cho mình, nếu bản lĩnh khách quan không bao nhiêu thì có mua cũng vô ích. Nhưng chỉ cần cầm vũ khí của ta, rồi mặc thêm phi phong của Tạ Hiền thì khách quan có thể xưng hùng võ lâm. 	"""Ta muốn mua vũ khí hệ kim"",""Dialog:OpenShop"",135,1"	"""Ta muốn mua vũ khí hệ mộc"",""Dialog:OpenShop"",136,1"	"""Ta muốn mua vũ khí hệ thủy"",""Dialog:OpenShop"",137,1"	"""Ta muốn mua vũ khí hệ hỏa"",""Dialog:OpenShop"",138,1"	"""Ta muốn mua vũ khí hệ thổ"",""Dialog:OpenShop"",139,1"	"""Đống sắt vụn này ta không thèm."""						
+37	Vân Trung Trấn	techanshangren	1	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",109,1"	"""Không mua nữa"""										
+38	Long Môn Trấn	techanshangren	2	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",108,1"	"""Không mua nữa"""										
+39	Vĩnh Lạc Trấn	techanshangren	3	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",110,1"	"""Không mua nữa"""										
+40	Đạo Hương Thôn	techanshangren	4	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",111,1"	"""Không mua nữa"""										
+41	Giang Tân Thôn	techanshangren	5	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",112,1"	"""Không mua nữa"""										
+42	Thạch Cổ Trấn	techanshangren	6	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",115,1"	"""Không mua nữa"""										
+43	Long Tuyền Thôn	techanshangren	7	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",114,1"	"""Không mua nữa"""										
+44	Ba Lăng Huyện	techanshangren	8	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",113,1"	"""Không mua nữa"""										
+45	Thiếu Lâm Phái	shenmishangren	9	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",116,1"	"""Không mua nữa"""										
+46	Thiên Nhẫn Giáo	shenmishangren	10	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",125,1"	"""Không mua nữa"""										
+47	Côn Lôn Phái	shenmishangren	12	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",127,1"	"""Không mua nữa"""										
+48	Võ Đang Phái	shenmishangren	14	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",126,1"	"""Không mua nữa"""										
+49	Cái Bang	shenmishangren	15	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",124,1"	"""Không mua nữa"""										
+50	Nga My Phái	shenmishangren	16	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",121,1"	"""Không mua nữa"""										
+51	Thúy Yên Môn	shenmishangren	17	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",122,1"	"""Không mua nữa"""										
+52	Đường Môn	shenmishangren	18	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",118,1"	"""Không mua nữa"""										
+53	Ngũ Độc Giáo	shenmishangren	20	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",119,1"	"""Không mua nữa"""										
+54	Thiên Vương Bang	shenmishangren	22	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",117,1"	"""Không mua nữa"""										
+55	Đại Lý Đoàn Thị	shenmishangren	19	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",123,1"	"""Không mua nữa"""										
+56	Minh Giáo	shenmishangren	224	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",120,1"	"""Không mua nữa"""										
+57	Biện Kinh	techanshangren	23	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",101,1"	"""Không mua nữa"""										
+58	Phượng Tường	techanshangren	24	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",102,1"	"""Không mua nữa"""										
+59	Tương Dương	techanshangren	25	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",103,1"	"""Không mua nữa"""										
+60	Dương Châu	techanshangren	26	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",106,1"	"""Không mua nữa"""										
+61	Thành Đô	techanshangren	27	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",104,1"	"""Không mua nữa"""										
+62	Đại Lý	techanshangren	28	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",105,1"	"""Không mua nữa"""										
+63	Lâm An	techanshangren	29	Những thứ ta bán đều là đặc sản của vùng này, ngươi có muốn xem thử không?	"""Đặc sản"",""Dialog:OpenShop"",107,1"	"""Không mua nữa"""										
+64		jipinshangren		Nhắc đến Tiêu Dao Cốc, đó quả là tiên cảnh giữa cõi người! Không biết thiếu hiệp có từng đến đó chưa? Ai da, lạc đề rồi, lạc đề rồi….. Thiếu hiệp có muốn xem thử trang bị cực phẩm thế gian hiếm có không?	"""Mua trang bị Danh vọng hoạt động Thịnh Hạ"",""Dialog:OpenShop"",128,1"	"""Mua đạo cụ danh vọng chúc phúc"",""Dialog:OpenShop"",133,1"	"""Mua giày hoạt động Đoàn Viên"",""Dialog:OpenShop"",161,1"	"""Mua Hộ uyển Di Tích Hàn Vũ"",""Dialog:OpenShop"",185,1"	"""Không mua nữa"""								
+65	Phục Ngưu Sơn Quân Doanh	bingqipulaoban	556	Công dục thiện kỳ sự, tất tiên lợi kỳ khí. Ta không thể thay ngươi lên sa trường, nhưng có thể mài sắc đao thương của ngươi, hãy xem thử coi có món gì cần không!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Không mua nữa"""						
+66	Phục Ngưu Sơn Quân Doanh	bingqipulaoban	558	Công dục thiện kỳ sự, tất tiên lợi kỳ khí. Ta không thể thay ngươi lên sa trường, nhưng có thể mài sắc đao thương của ngươi, hãy xem thử coi có món gì cần không!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Không mua nữa"""						
+67	Phục Ngưu Sơn Quân Doanh	bingqipulaoban	559	Công dục thiện kỳ sự, tất tiên lợi kỳ khí. Ta không thể thay ngươi lên sa trường, nhưng có thể mài sắc đao thương của ngươi, hãy xem thử coi có món gì cần không!	"""Đao"",""Dialog:OpenShop"",3,1"	"""Côn"",""Dialog:OpenShop"",4,1"	"""Thương"",""Dialog:OpenShop"",5,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Gỗ"",""Dialog:OpenShop"",19,1"	"""Không mua nữa"""						
+68		heixinshangren_lv1		Quên đem thuốc và thực phẩm à? Đừng lo, đừng lo…...Bổn đại gia có đủ cả! 	"""<color=gold>[Bạc khóa]<color> Dược phẩm"",""Dialog:OpenShop"",14,7"	"""Dược phẩm"",""Dialog:OpenShop"",14,1"	"""Thực phẩm"",""Dialog:OpenShop"",21,1"	"""Không mua nữa"""								
+69		heixinshangren_lv4		Chào các vị thiếu hiệp, lại gặp nhau nữa rồi, quả có duyên thật! Ta có công thức chế tạo vài món bảo vật, thiếu hiệp thích thì cứ lấy đi.	"""Để ta xem có món gì tốt"",""Dialog:OpenShop"",130,1"	"""Đổi ngân phiếu"",""LinkTask:ShowBillGiftDialog"""	"""Đến sai nơi rồi"""									
+70		heixinshangren_lv5		Lại gặp nhau rồi, xem ra hai ta quả có duyên thật! Công thức chế tạo mấy món bảo vật này ta bán rẻ cho thiếu hiệp vậy.	"""Để ta xem có món gì tốt"",""Dialog:OpenShop"",131,1"	"""Đổi ngân phiếu"",""LinkTask:ShowBillGiftDialog"""	"""Đến sai nơi rồi"""									
+71		yangying		Lỗi lầm và sự kỳ vọng của người cha, tương lai của Thiên Vương Bang, gánh nặng trên vai Thiết Tâm là quá nhiều. Chẳng lẽ đây là ý trời sao?												
+72		yangtiexin		Hận thù mãi không thể hóa giải, ta đã là bang chủ thì phải dốc toàn lực đưa Thiên Vương Bang lên đỉnh cao.												
+73		jishuban		Đệ tử trong bang nể mặt nên gọi ta là tổng quản. Mọi việc trong bang đều nằm trong tay ta!												
+74		peiyifei1		Con người ta thích nhất là kết giao bằng hữu thiên hạ.												
+75		qiuzhishui		Hiện nay còn rất nhiều người nghèo khổ thiếu thốn, chút chia sẻ của bạn sẽ giúp được rất nhiều người.												
+76		chengdufenduodizi		Lúc trước thương xuyên ăn ớt cảm thấy đầu óc sảng khoái thậm chí ngứa ngáy, bây giờ có muốn ăn cũng không dễ!												
+77		huaziliquan		Ngươi tưởng ta đang đùa sao? Chẳng lẽ trông ta không giống mệnh quan triều đình?												
+78		hantuozhou		Chúng ta lại gặp nhau rồi! Ngươi đã nhiều lần giúp ta thóat nạn, đúng là đại ân nhân của ta. Mà ta lại chưa từng chính thức cảm ơn ngươi, hôm khác chúng ta sẽ uống một bữa cho đã.												
+79		luxiaopin		"Ngũ độc" trong truyền thuyết gồm 5 loại động vật: rắn, rết, bọ cạp, thằn lằn và cóc, cách dùng độc đa dạng												
+80		jinzhuangbangzhong		Ta luôn canh giữ nơi đây cũng xem như là thuyền phu rồi!												
+81		hantuozhouhuwei		Hàn Đại nhân là một người rất nhân từ, một lòng vì sơn hà xã tắc!												
+82		yufu		Nếu bố thí cá cho người khác thì chi bằng chỉ họ cách đánh cá. Câu nói này thật có ý nghĩa.												
+83		shixuanyuan1		30 năm trước, bang chủ Cái Bang lấy đại nghĩa dân tộc làm đầu trong lúc khó khăn phất cờ khởi nghĩa. Cái Bang ta tổn thất nghiêm trọng nên nhận được sự tôn trọng của rất nhiều võ lâm hào kiệt.												
+84		luofeng		Ta chính là đệ tử đời thứ 8 của Cái Bang, ngươi còn trẻ như thế đã gánh vác trọng trách, thật tốt nếu ngươi gia nhập Cái Bang.												
+85		kongtongpaimenren		Vài năm gần đây thực lực Cái Bang có sự tiến bộ ta cần phải học tập.												
+86		qingchengpaimenren		Vốn dĩ gia sư muốn đích thân đến đây nhưng vì có việc bận trong giáo nên phái ta đem lễ vật đến Cái Bang.												
+87		pilihuoleijiamenren		E rằng thực lực Cái Bang kém xa lúc xưa.												
+88		gaibangzhishidizi		Người đông phức tạp, phiền ngươi trông coi nơi này giúp ta.												
+89		luchenzhou		Hiệp khách hành tẩu giang hồ dựa vào chữ nghĩa. Giờ đây anh em Cái Bang đối xử với ta rất tốt, ta có gia nhập bang cũng không thẹn với lòng.												
+90		zhifadizi		Đảm bảo lễ cúng tế cử hành một cách thuận lợi là trách nhiệm của ta.												
+91		shoushandizi		Ám hiệu. Xin lỗi, ám hiệu hôm nay không phải là dưa hấu mở cửa!												
+92		gongshaozhen		Trưởng lão Thu Vân có ơn với ta, ơn nghĩa này ta có báo đáp cả đời cũng không hết.												
+93		lindongshan		Chuyện vui thì lấy ra chia sẻ với anh em nhưng khi phạm sai lầm phải chịu sự trừng phạt thì không ai gánh vác giúp ngươi đâu. Cho nên đừng đi lầm đường.												
+94		lieren		Biết chỗ nào có chuồng chó không? Người thợ săn mà không có một con chó săn thì coi sao được? Ta đã đã mất Vượng Tài rồi…..hu hu hu												
+95		jinguojiangling		Đại Kim Quốc đã giúp chúng ta thu xếp chuyện nhà ổn thỏa, giờ đã không còn chuyện vướng bận, chúng ta phải hết lòng vì gia tộc Hoàn Nhan đợi ngày đoạt lấy Nam Tống thì có thể về nhà đoàn tụ.												
+96		cailaotou		Lễ vật của các phái này tặng Cái Bang hình như không hậu hĩnh lắm!												
+97		shensuanliugui		Thiên hạ sắp có biến, muôn dân chịu khổ.												
+98		busheren		Nơi này khí hậu ẩm ướt, sinh vật rất nhiều. Ta suýt lỡ hẹn với các loại rắn rết nơi đây rồi! Rắn rết ta không sợ chỉ sợ lòng người nham hiểm khó đoán.												
+99		jizhu1		Ở ngoài đây nói chuyện ta luôn cảm giác như có ai đó nghe lén, chẳng lẽ là ma sao?												
+100		yinfang		Đã lâu không gặp, ta lại hái được một số kỳ dược có thể tăng công lực. Ở đây có 2 cây ta chỉ đưa giáo chủ 1 cây thôi!												
+101		yintong		Gần đây ngươi đi du ngoạn? Có phải là quên em gái ta rồi. Đến đây thử Xà Hạt Nhuyễn Cốt Cao do ta làm, thứ này bổ tim phổi, anh của ta cũng ít khi được uống.												
+102		diepiaopiao		Mấy năm trước ta vì nóng lòng lên Võ Đang đấu võ mà quen được Chung Chí Minh người quan trọng nhất đời ta. Chuyện nhân quả ai có thể nói trước?												
+103		guanwanshan		Rừng núi hoang vu này muốn bắt vài con gà rừng cũng mất nửa ngày, tội gì chúng ta lại đến đây!												
+104		shoumentongzi1		Đã lâu không gặp. Hôm nay đến thăm anh em họ Ân à, thăm hỏi cần gì mang quà cáp.												
+105		yucangfeng1		Làm người, có những chuyện phải chôn kín trong lòng không biết thổ lộ cùng ai...												
+106		baiqidizi		Lúc vừa gia nhập giáo ta có quen một người tên A Ngai. Ta rất nhớ nụ cười ngây thơ của hắn, không biết giờ hắn ở đâu.												
+107		guyanran		Ngươi có nghe qua câu nghe nhầm đồn bậy không? Trong mắt thiên hạ Ngũ Độc Giáo là tà giáo, nhưng đệ tử trong giáo đều là người có nhiệt huyết muốn tạo phúc muôn dân.												
+108		lansonglin		Mọi người đều tránh xa rắn rết, ta lại thấy chúng đáng yêu đấy chứ!												
+109		hongqidizi		Hồng Kỳ Kỳ Chủ trong Ngũ Độc Giáo có cống hiến lớn nhất và địa vị cao nhất, phần thưởng hạng tiểu tốt như ta nhận được thì sao sánh bằng.												
+110		gaibangwushi		Đại lễ cúng tế của Cái Bang sắp cử hành, người đến dự phải báo tên môn phái và sư phụ. Có mang lễ vật thì đăng ký tại Cái Bang nghi trượng.												
+111		tianwangwushi		Hãy trả lời ám hiệu của hôm nay! Không biết ám hiệu sao? Còn không mau rời khỏi!												
+112		shoutaidizi		Tuy ta chỉ là người học võ nhưng cũng hiểu được đạo lý nước nhà, cho dù một tên tiểu tốt cũng có tác dụng của nó.												
+113		xieyutian		Mọi người bảo ta trầm tư ít nói thực ra cũng tại thời thế loạn lạc. Chưởng môn Thu Thạch có ơn với ta, ta nhất định phải giúp ông ta lấy lại thanh thế.												
+114		huanghengzi		Con người luôn nghĩ đến việc phải đạt được gì đó mà không nghĩ đến chuyện phải trả giá.												
+115		yuxuzi		Đường đời phóng khoáng là khát vọng vươn tới cũng là nỗi sợ hãi của ta.												
+116		feiguangzi		Mẹ muốn tôi về nhà tiếp quản công việc tiệm rèn nhưng nơi này đang cần tôi. Sao có thể bỏ đi được?												
+117		longjiaotian		Đại trượng phu hành sự theo lẽ công bằng, đừng câu nệ tiểu tiết												
+118		juechenzi		Người đời cho rằng ta phi thường, hiện giờ ta chỉ quan tâm 2 việc là quốc gia lâm nguy và trình độ kiếm pháp của ta.												
+119		bashanzi		Dù ta có mạnh thế nào cũng không thể chi phối sự thay đổi triều đại.												
+120		piaopingjianke		Hôm nay có ai muốn bày tỏ chuyện bất Bình rỗng?												
+121		qiushixiansheng		Trong giang hồ có nhiều lời đồn đại về ta, nhưng Thán Tức Lão Nhân đã nhờ ta nắm đại cuộc Côn Lôn, ta nhất định sẽ chẩn chỉnh lại Côn Lôn.												
+122		gongyangtai		Trông vị thiếu hiệp này thân nhẹ như chim, bước chân chắc chắn nhất định võ công rất tài giỏi, e rằng ta cũng không phải đối thủ của ngươi.												
+123		lijingwu		Trông mặt thiếu hiệp này có vẻ mệt mỏi để ta kể chuyện cười giúp ngươi giải khuây.												
+124		xunshandizi		Đi tuần ở nơi núi rừng hoang vu này luôn phải lẩm bẩm một mình, nếu không sau này muốn nói chuyện cũng khó.												
+125		shouguanwushi		Địa hình hiểm trở chỉ cần một người gác cổng thôi.												
+126		lishengyang		Những kẻ nịnh hót bên cạnh ta đều có mục đích riêng, còn những người đề xuất ý kiến và phê bình ta thì rất ít.												
+127		weichangfeng		Hàn phong trường mạc mac, ngọ hậu chinh tứ phương. Quý quý giai li thương, ngạo tuyết độc phi dương.												
+128		yipintangtiewei		Ngươi đến đây có việc gì? Mau cho biết tên để ta vào trình báo.												
+129		yipintangwushi		Ngươi chả phải vị thiếu hiệp danh tiếng lẫy lừng đây sao? Ta có thể giúp được gì?												
+130		youletian		Mỗi làng mạc và thành thị ngươi đi qua đôi khi phải trả giá bằng thời gian và mạng sống cho nên phải học cách bảo vệ bản thân.												
+131		taoyongchang		Có chuyện gì cần nhờ thì cứ nói thẳng.												
+132		yiyezhenren		Người trên thế gian ai cũng có tình cảm và lý trí.												
+133		tianlongmenchuanren		Ta vốn là một nông dân tình cờ được trưởng lão Thiên Long Môn thu nhận và cho tiền ta thu xếp cho bố mẹ. Đây là phước của ta.												
+134		ditangdaotouling		Có lẽ các ngươi chỉ thấy nét đẹp của sự tấn công mà không thấu hiểu nỗi đau ẩn sau nó.												
+135		shenmilaozhe		Ngươi có tìm nhầm người không? Ta chỉ là ông lão hái rau trong núi, tìm ta có việc gì? 												
+136		kongwudashi		Chúng ta luôn cho rằng những thứ chưa có được là tốt đẹp, đó là vì ta có quá ít thời gian để hiểu nó. Nếu có ngày ta tìm hiểu kỹ sẽ phát hiện nó không tốt đẹp như ta nghĩ đâu.												
+137		wangchongyang1		Công phu kiếm học Võ Đang là trong hữu hình theo đuổi vô hình.												
+138		zhikeseng		Ngôi chùa cổ này rất kỳ lạ, nếu thí chủ đến thắp hương thì hôm khác hãy quay lại, chỉ cần có lòng thành thì Phật tổ sẽ phù hộ.												
+139		xuanci		Người sống trên đời như thân trong bụi gai, không động đậy sẽ không bị thương nếu động đậy sẽ phải hứng chịu nỗi đau của thế gian.												
+140		xuanku		Đại bi vô lệ, đại ngộ vô ngôn, đại tiếu vô thanh.												
+141		chenghui1		Vốn dĩ hư vô sao có thể vướng bụi trần.												
+142		chengguang		Bồi dưỡng một người cần rất nhiều thời gian, hủy hoại thanh danh một người chỉ trong phút chốc, mong thí chủ ăn nói cẩn thận khi hành tẩu giang hồ.												
+143		huchedizi		Trên xe này chứa toàn trái cà ngươi muốn mở ra xem không?												
+144		jimin		Con gà nướng hồi tháng trước mốc rồi, ta đã quăng cho chó ăn. Bây giờ nghĩ lại thật là tiếc!												
+145		zhenghao		Tên tốt chưa chắc là người tốt nhưng ta lại là người tốt đó!												
+146		zhuzili		Gia đình đông anh em mà ta lại là con thứ nên cha mẹ thường không chú ý đến ta, ngay cả việc đặt tên cũng nhắc nhở ta phải tự lực cánh sinh.												
+147		haoweisuo		Là người nổi tiếng không nên tỏ ra giả tạo.												
+148		wanyanzongqin		Sự cống hiến của gia tộc Hoàn Nhan đối với Đại Kim Quốc là không cần bàn cãi, ngươi từng nghe gia tộc đó chưa?												
+149		wanyanshi		Lúc nhỏ ta bị phụ hoàng phạt kéo cung 1000 lần. Nhưng giờ nghĩ lại ta phải cảm ơn ông ấy.												
+150		lishier		Đã quên rồi, hoa bèn nở rộ, nước sông yên ả.												
+151		wusa		Sự đấu tranh trong giang hồ cũng vì danh lợi, cuối cùng chỉ là uổng công! Cuộc sống bình dị mới thiết thực.												
+152		xuanzilaoyuzu		Người ta canh giữ đều là trọng phạm, đừng hòng hối lộ ta.												
+153		ninglizhou		Chúng ta có thể bị đánh bại chứ không thể đánh đổ, ngươi có hiểu không? Bỏ đi, ít ai có thể hiểu ta.												
+154		yelvchou1		Dưới Hoàng Lăng Kim Quốc có nhiều cấm địa, ngươi không nên đến đó.												
+155		yuyi		Tù nhân phạm tội thì phải trả giá, còn trị bệnh là trách nhiệm của ta.												
+156		tianzilaoyuzu		Lúc nhỏ ta có tật hay dùng nhánh cây viết trên đất mà không dùng bút lông viết trên giấy. Chính vì chuyện học hành không tốt nên đến giờ vẫn còn là tên cai ngục.												
+157		dizilaoyuzu		Ta canh giữ ở đây đã mười mấy năm, vài năm trước đây đa số là phạm nhân cướp của giết người nhưng giờ lại có thêm một số phạm nhân mặt thư sinh nho nhã, thật khó hiểu.												
+158		wanyanxiang		Hoàn Nhan Tương ta chinh chiến cả đời, có được địa vị hôm nay là dựa vào bản lĩnh thật sự.												
+159		tiefutugaoshou		Võ sĩ thi nhau giết người là những tên khốn không biết đạo lý võ học, võ sĩ chân chính không làm thế.												
+160		tianmudaozhang		Đạo là phép thuật vô biên. Ta nghe nói trên Võ Đang có một đạo nhân cốt cách phi phàm có thể lấy vật trên không, ta rất muốn xem thử.												
+161		zhishishitai		Trong lòng thí chủ có chuyện buồn phiền sao. Hãy quên nó đi để lòng thanh thản.												
+162		lingruoxu		Này con trai, thời gian là vàng lúc còn trẻ thì phải cố gắng, đừng để đến già phải hối hận.												
+163		menfangdabo		Ở Cửu Lão Phong có môn phái tên là Nga My. Đệ tử trên đó đều là những con nương xing đẹp, tính tình hiền lành.												
+164		huofangdaniang		Chồng ta là Môn Phòng Đại Bá, mỗi ngày đều thích ngắm nhìn các cô gái xinh đẹp, nhưng đừng nói ông ấy, ta cũng thích các cô gái đó.												
+165		peidununi		Nhân chi sơ, tính bổn thiện… mỗi ngày nghe tiểu thư học bài ta có thể học được vài câu.												
+166		ruyi		Của hồi môn của ta đều do tiểu thư tặng cho, bọn Cường Đạo đáng chết đúng là không bằng loài cầm thú. Hu hu…												
+167		shiweitongling		Ta đang mang trọng trách không rãnh nói giỡn với ngươi.												
+168		wuxi1		Đời người ngắn ngủi…Cừu Tuyết cô nương tính tình thẳng thắn, dám yêu dám hận ta rất thích, ta nhất định sẽ giết mấy tên Kim cẩu báo thù cho cô ấy.												
+169		chouxue		Mấy con cá dưới thác Cửu Lão Phong rất đẹp lúc ngủ cũng mở mắt, không cần tình yêu cũng không bao giờ khóc, từ nay chúng sẽ là tấm gương để ta noi theo.												
+170		jiminliupin		Con gà nướng hồi tháng trước mốc rồi, ta đã quăng cho chó ăn. Bây giờ nghĩ lại thật là tiếc!												
+171		dongfangxunwei		Khi xưa giờ này là ta đã ngủ rất say, nhưng giờ không như xưa chỉ một chút sơ hở thì nguy hiểm sẽ ập đến.												
+172		nanfangxunwei		Phía bắc là hướng quê nhà ta!												
+173		xifangxunwei		Ta mỗi ngày đều đón bình minh!												
+174		xunwei		Gần đây không có gì khác thường nhưng số lần tuần tra tăng rõ rệt.												
+175		louyiguan		Ngươi sẽ tiếp xúc với đủ loại người khi hành tẩu giang hồ, hãy học cách tiếp nhận và khoan dung, đó chính là giang hồ.												
+176		yalaotou		Á…												
+177		qingbaofangdizi		Gần đây nhiều việc hét đến giọng khan cả rồi. Ta phải đi làm ít nước lười ươi uống mới được.												
+178		chujie		Nhiệm vụ mà Bang Chủ Dương Thiết Tâm tiếp nhận rất quan trọng, ta nhất định sẽ giúp hết sức mình, nếu ai làm dao động lòng quân thì ta sẽ không bỏ qua.												
+179		baipu		Hôm nay nếu chúng ta có tử trận thì cũng vì bảo vệ cha mẹ, con cái, người yêu của chúng ta.												
+180		jishubanmenxiadizi		Quý tổng quản đã nhiều năm dốc sức cho bang, đối xử với ta như cha đẻ.												
+181		jihou		Con ta bản tính ham chơi có dạy thế nào cũng không sửa được tính xấu đó, ta lo rằng sau này nó sẽ gây nên tai họa.												
+182		xiongting		Ta xem Cầu Chỉ Thủy như là đại ca của mình! Kẻ nào bất nghĩa với huynh ấy thì ta sẽ không bỏ qua!												
+183		luxiaolan		Cha mẹ đặt tên ta như tên con gái dù ta rất hiếu động. Sở thích lớn nhất của ta là cùng người khác đấu võ, quanh đây 10 dặm không ai đánh thắng được ta.												
+184		huosi		Trận chiến Thái Thạch Cơ năm xưa Cái Bang tổn thất rất nghiệm trọng, những người lấy thân báo quốc có kể cũng không hết.												
+185		yingjiuwen		Ngươi thuộc phái nào, đến đây có chuyện gì? Không phải đến vì đại lễ cúng tế của Cái Bang sao?												
+186		huashi		Giang sơn như tranh! Chẳng lẽ 10 năm sau chỉ tìm thấy được trên tranh vẽ! Không biết bức tranh của ta có thức tỉnh được mọi người hay không?												
+187		hanposhan		Mọi người đều gọi ta là Quỷ Diện Thánh Quân, bởi vì ta rất lạnh lùng và rất phóng khoáng.												
+188		murongxiangjun		Mộ Dung gia của ta là một gia tộc lớn, tiếc rằng ta là phận nữ nhi không được học nhiều võ công.												
+189		wangerchu		Giang sơn Đại Tống tươi đẹp, người dân phương Bắc đang chờ chúng ta, vợ ta vẫn đang ở phương Bắc, bây giờ dưới sự thống trị của Kim Quốc không biết họ sống thế nào?												
+190		mengkecunzhang		Hôm nay ta nghe có tiếng phụ nữ hát văng vẳng trong đêm, chẳng lẽ tai ta già rồi không còn dùng được nữa?												
+191		mengkecunmin		Từ khi bọn người của Ngũ Độc Giáo ẩn trong thôn của ta, thì thôn xảy ra tai họa liên tục, nếu không phải do bọn họ gây ra thì phong thủy ở đây có vấn đề!												
+192		qisi		Lần trước tế tổ trong thôn ta không đi, mấy vị ca ca trong nhà nhất định mắng ta rất dữ dội! Năm nay nói thế nào cũng phải đi, bằng không sau khi xuống mồ không được vào từ đường!												
+193		muronglaoba		Tên ta là Mộ Dung Từ Minh, không biết từ lúc nào mọi người gọi ta là Lão Bát. Đừng có xem thường ta, Lão Bát ta thay bằng hữu hành hiệp trượng nghĩa!												
+194		xuebaice		Người ta sau khi chết đi còn lưu lại gì đó cho người đời đúng không, ta đang suy nghĩ phải làm gì đó để đời?												
+195		yinpopo		Người già rồi, trong đầu toàn lưu giữ những hồi ức và kỷ niệm, cảnh tượng lần đầu gặp hắn đến nay ta còn nhớ rất rõ!												
+196		youqingsu		Ngươi hành hiệp trượng nghĩa trong giang hồ ta đã nghe từ lâu, ngươi biết Lư Tiếu Bần của Ngũ Độc Giáo không?												
+197		fangduo		Ta vốn dĩ chỉ muốn làm một tên vô danh tiểu tốt, kiếm tý tiền, thành gia lập…không ngờ lại trở thành đại hiệp!												
+198		xunyeren		Ngươi có thấy ta sẽ bị chìm trong bóng đêm không? Không! Ta là một người rất xuất sắc, như con đom đóm trong đêm, cũng có lúc ta ghét ánh hào quang của ta!												
+199		tanxilaoren		Chẳng lẽ chính nghĩa lại thua cường bạo, công lý có thua cường quyền không?												
+200		susu		Hôm qua học được bài hát của người Hán, giai điệu rất hay, tiếc là không thể hát trước mặt người khác!												
+201		yerenxiaoyuanyou		Đừng sợ! Ta có hại ngươi đâu…đã từ lâu ta không tiếp xúc với bên ngoài, không biết Tần Hán Ngụy Tấn, nghe nói kinh thành Tống Triều sắp dời đến Lâm An?												
+202		yerenyingzixiu		A! Có người! Đại ca! Ở đây có một người rất ngốc!												
+203		xuanbei		Không ai muốn vì tranh chấp nhỏ mà xa cách bằng hữu, cũng không muốn vì oán hận nhỏ mà quên đại ân.												
+204		chengqian		Có lúc con người vì ý nghĩ nực cười mà bất chấp tất cả, cuối cùng lại về không!												
+205		liaofan		Ta không tin thề thốt, nhưng ta chấp nhận. Ta không tin có tình yêu vĩnh hằng, nhưng vẫn chấp nhận!												
+206		baishizhetongling		Nơi này ngươi không muốn đến, nhưng lại đến được đây. Đó là sứ mệnh của thầy, nhưng là đệ tử phải từ bỏ tất cả, làm lại từ đầu!												
+207		luxiaoran		Ta từng gặp qua nhiều người trẻ hám danh lợi, nhưng ngươi thì khác.												
+208		zhongzhiming		Từ xưa đến nay, người hành hiệp luôn có kiếm bên mình. Kiếm là binh khí có phong thái uy nghiêm quân tử!												
+209		linghezhenren		Kiếm thắng người, người dựa vào kiếm; Người thắng kiếm, kiếm dựa vào người.												
+210		shenmijinren		Ngươi thấy ta là người ở đâu, nghe giọng của ta giống ở vùng nào không? Ta không nói cho ngươi biết đâu!												
+211		dongxuzhenren		Ta là đệ tử của Lữ Động Tân. Danh lợi chỉ là vật ngoài thân, không làm chuyện xấu hổ với lương tâm!												
+212		longxiaoxiao		Người có mưu đồ bất chính, hậu hoạn không lường. Người quá nhúng nhường hoặc tự phụ không thể thành tài được!												
+213		xizuotongling		Mỗi ngày ngươi đều có cơ hội gặp nhiều người, ta hy vọng ngươi sẽ quên ta. Không vì sao cả...												
+214		luoyixia		Mỗi ngày ngươi đều có cơ hội gặp nhiều người, ngươi không biết gì về họ, nhưng rồi họ sẽ là tri kỷ là bạn của ngươi. Biệt danh của ta là "vui một tý", ta tên Lạc Nhất Hạ.												
+215		yingjiuwendetudi		Khi ta bái sư học võ đã qua 9 cửa ải thử thách, mỗi ngày tiếp nhận 9 vấn đề của sư phụ, không biết sau này có phúc cưới 9 thê tử không?												
+216		shouwei		Là người của ta phải không? Lần trước để gian tế lọt vào, ta bị quản gia trừ hết nửa năm tiền công, làm tên tiểu tốt sao mà khó thế!												
+217		yueyingshaqiu		Nghe giọng biết ngươi là người xứ khác, ngươi ăn uống ở đây có quen không? Ở đây vốn là chốn bồng lai tiên cảnh, bây giờ bị bọn xâm lược phá tan tành, cảnh đẹp đã hóa thành mây khói.												
+218		wangfujiang		Tình huynh đệ: sống chết có nhau; hoạn nạn cùng chia.												
+219		yelvchucai		Trong lòng thanh tịnh, không còn ham muốn thế tục.												
+220		puchafengnu		Ta gia nhập Thiên Nhẫn còn sớm hơn giáo chủ, lập được nhiều chiến công hiển hách, bây giờ không còn thực quyền, nếu không còn việc gì mời ngươi đi cho.												
+221		jingluanshi		Chiến tranh liên miên đã để lại ký ức không thể xóa mờ trong đầu những đứa trẻ vô tội, Kim Quốc luôn là phái chủ chiến, mỗi tối ta đều đọc kinh văn, hy vọng người dân của ta bớt được khổ nạn.												
+222		rongtu		Ta vốn là người Tống Quốc, vì Thiên Nhẫn Giáo có ơn với ta nên ở lại đây cống hiến cho bổn giáo.												
+223		wuxinshitai		Không nên chấp trước, ngươi có chắc vài năm sau vẫn như vậy không?												
+224		liyuankai		Hôm nay nếu có chết trên chiến trường thì cũng chết thật vinh quang.												
+225		fucong		Ai cũng nói ta thông minh giống cái tên của ta. Ta cảm thấy có vài chuyện hơi mơ hồ.												
+226		wunianshitai		Một cây ra 5 hoa, 5 hoa có 8 lá, Nga My trăng sáng chói, chiếu rọi khắp mọi nơi.												
+227		qianchongguang		Hãy giấu tình cảm vào tận đáy lòng, làm cho mình bận rộn!												
+228		lingfengyan		Đệ tử Nga My đều là nữ nhưng không hề thua kém nam nhi! Nước nhà hưng vong, Nga My không thể khoanh tay làm ngơ!												
+229		shinvchuping		6 tuổi nô gia đã đi theo tiểu thơ, tiểu thơ xem tôi như chị em, hơn 10 năm nay chưa từng trách mắng nô gia, tôi muốn suốt đời theo hầu.												
+230		tangque		10 năm nay, võ lâm chánh đạo, dân tộc đại nghĩa, không quan tâm người của Đường Môn, bọn họ chỉ sống trong thế giới riêng. Không muốn kết giao với danh môn chính phái và cũng xem thường bọn tà ma yêu đạo. Nhưng bây giờ tình thế cấp bách, không thể không dung nạp hiền tài của môn phái ta!												
+231		tangxiao		Thiên hạ có 10, riêng ta chiếm 8 phần, Đường Ngộ 1 phần, còn lại 1 phần!												
+232		yinyie		Những năm tháng loạn lạc làm mất tính tự cao, hổ thẹn quá...giang sơn xã tắc chỉ còn biết trông cậy người trẻ tuổi!												
+233		xiabingchen		Ta đã yêu một người, làm sao đây? Rất đau khổ! Nhưng ta lại muốn nếm nỗi đau này!												
+234		tangyu		Dường như ta là người thừa! Dù ta biến mất cũng không ai để ý? Nhưng ta rất muốn sống, vì Đường Gia Bảo vì bản thân ta!												
+235		tangfei		Đường Gia Bảo sừng sững 100 năm không đổ ắt có cái phi phàm của nó, ta thấy ngươi bản lĩnh không phải loại tầm thường, nói không chừng có thể tiếp 3 chiêu của ta.												
+236		tangwu		Tuy tên của ta có chữ Võ, nhưng võ công của ta kém nhất trong các sư huynh đệ đồng môn, ta chỉ thích nấu ăn, được nấu những món ngon cho sư huynh đệ là việc ta tâm đắc nhất, môn chủ cũng khen tài nghệ của ta!												
+237		tangchonglou		Võ học Đường Môn chia làm 2 loại tụ tiễn và cạm bẫy, chú trọng linh hoạt nhanh nhẹn nhưng cần phải có nội công vững mạnh, sức mạnh của 2 loại võ công này ngang nhau.												
+238		tangchonglan		Trong mấy người quản gia của Đường Môn ta thích nhất là Đường Ngộ, tuy không phải là đứa con được môn chủ tin tưởng nhất nhưng là người làm việc cẩn trọng nhất, nhưng mọi người đều xem nhẹ những ưu điểm của hắn.												
+239		tangru		Ta là tổng quản võ thuật Đường Môn! Nếu là đến khiêu chiến thì xin về cho, gần đây ta rất bận!												
+240		tanghe		Ta là Đường Hạc một trong tứ lão của Đường gia. Hậu sinh đều là nhân tài. Riêng người trẻ tuổi ta không chắc chắn có chiến thắng không, nhưng ta khuyên người trẻ tuổi một câu: Làm người không nên quá hung hăng.												
+241		tangjunrong		Ngươi đến Đường Gia Bảo rồi hả, rất lâu rồi ta không đi đến đó, nơi đó luôn ở mãi trong tim ta.												
+242		yinyouyu		Nhiều năm trước, Thúy Yên Môn gặp đại nạn. Ta đảm đương trọng trách tập hợp Thúy Yên Môn, ngươi sẽ giúp ta chứ?												
+243		rourou		Thử hỏi cánh hoa bay về đâu, nhưng nhìn thấy cánh hoa trôi theo dòng chảy. Tình yêu đẹp và hạnh phúc cũng giống như cánh hoa mỏng manh này……												
+244		yanqiaoyun		Mọi người đều gọi ta là Toàn Thiên Yến Tử! Phụ thân ta từng là ngự y của đại Tống, bây giờ ông không còn nữa, ta đã học được y thuật cơ bản, sau này nếu có việc cần đến ta thì cứ nói.												
+245		danbixiu		Thúy Yên Môn khao khát anh hùng hiệp nghĩa, gần đây không ít đệ tử nam gia nhập, thực lực của chúng ta tăng lên, tin rằng sẽ không phạm sai lầm như trước đây!												
+246		cuiyanmendizi		Võ công Thúy Yên Môn kỳ diệu vô cùng, chia làm hai loại đao và kiếm! Ta muốn học đao; Mà cũng muốn học kiếm. Làm thế nào đây?												
+247		yanbeitian		Ta là người Hán, đem văn hóa dân tộc Hán đến đây và học hỏi sự dũng mãnh của người theo đạo Tát Mãn Giáo, Tát Mãn Giáo là thánh địa không cho phép kẻ tâm địa bất chính xâm phạm!												
+248		rongjiaojiao		Nhìn thấy các tỷ muội đều quay về, ta thật vui mừng! Thực lực của Thúy Yên ta không thể coi thường!												
+249		zhugezhuoyun		Mỗi ngày ta đều cố gắng kiềm chế tài năng và tinh hoa, nhưng đã là vàng thì luôn tỏa sáng!												
+250		guyuehua		Ta lớn lên ở Miêu Cương, lúc nhỏ một trận hỏa lớn đã thiêu hủy cả gia tộc ta, may mà Vô Niệm Sư Thái liều mình cứu ta, ta mới có ngày hôm nay.												
+251		xieren		Ta liều mạng một phen đưa không biết bao nhiêu kẻ thù xuống suối vàng? Không biết đã bao nhiêu lần suýt chết?												
+252		linghua		Ta ăn bánh trôi nước, còn tiền ta trồng xuống!												
+253		linghuayeye		Cả đời sống tự do tự tại, chưa từng nghĩ đến chuyện lúc già sẽ gặp loạn lạc, ta còn duy nhất đứa cháu gái không nỡ rời xa.												
+254		jingsiziren		Ai cũng nói ta đẹp trai. Nhưng đẹp trai thì có ích gì? Nào là văn, nào là võ!												
+255		guningshan		Việc một người cần làm là không chỉ vì lý tưởng hào hùng mà còn phải nghĩ cho muôn dân trăm họ!												
+256		yanmulin		Kỳ thực, ta muốn làm 1 Xa Phu, được kéo rất nhiều người đi khắp lãnh thổ đại Tống!												
+257		dariachi		Lão nạp còn một ý nguyện truyền dạy võ học, nhưng lớp trẻ ngày nay không chịu được vất vả, luyện công là một việc rất cực nhọc, ngươi có người nào thích hợp thì tiến cử cho ta!												
+258		zhangshande		Lúc nhỏ ta muốn trở thành đại hiệp trừ bạo giúp kẻ yếu, trở thành đại hiệp có dễ không?												
+259		xuzhongliu		Phụ mẫu đặt tên ta là Trung Lưu, ngụ ý muốn ta trở thành trụ đá giữa dòng của nước nhà. Nhưng bây giờ ta chỉ là con kiến nhỏ, con kiến cũng biết hỷ nộ chứ!												
+260		wangyuanfeng		Chúng ta có thể phạm sai lầm, có thể mù quáng, có thể u mê, nhưng không thể tuyệt vọng.												
+261		nangongwaner		Thiên bất lão, tình khó tuyệt. Ai mượn ta một ly nước vong tình?												
+262		xinuoluo		Dứa ngọt bán đứng tôi!! Đúng rồi, đây là biệt hiệu của ta, ta không nói cho người thường biết.												
+263		sumoyang		Đại Tán Quan là trọng địa nối liền Mông Cổ Tây Hạ, không biết đã có bao nhiêu cuộc chiến lớn nhỏ ở đây? Đại Tán Quan là dãy cát vàng dày đặc lại thêm chiến tranh liên miên làm vùng đất này thêm thê lương.												
+264		liuquanbao		Lâm An Thành trông náo nhiệt nhưng nguy hiểm đang cận kề! Tình thế trong triều bất ổn, giang sơn đại Tống ta đều dựa cả vào lớp trai tráng tài trí song toàn như các ngươi đây!												
+265		liuzhonglin		30 năm trước, trận chiến Thái Thạch Cơ làm ta bị tâm bệnh. Mấy năm nay ta đã chôn những ký ức về nó, không còn nhớ nữa. Triều đình lại phái ta đến đây trấn thủ, đúng là tạo hóa trêu người!												
+266		qiankanshou		Trông coi việc vô tích sự này thật chán ngấy. Hôm qua có người kể ta nghe truyện cười về con quạ…thế mà đã quên mất rồi, xem trí nhớ của ta đấy, tệ quá!												
+267		zhanghan		Rất nhiều người không cần nói lời từ biệt là vì chỉ tạt qua mà thôi, quên hết những kỷ niệm đẹp của nhau.												
+268		longyixian		10 năm trước cùng cô ấy tương phùng ở Nhạc Dương Lâu, lúc ấy thời gian như trôi chậm lại.												
+269		shenruonian		Thái Thạch Cơ có ý nghĩa đặc biệt đối với Cái Bang và đại Tống. Mỗi năm Cái Bang đều tổ chức tế lễ, để cúng tế những anh hùng đã hy sinh trong trận chiến.												
+270		xuxueyuan		Ta đang nghiên cứu Chu Dịch, này người trẻ tuổi, trên ấn đường của ngươi xuất hiện một luồng khí đen, chẳng hay gần đây có chuyện không hài lòng chăng?												
+271		yanghongzhong		Phiền ngươi tránh ra một tý? Mặt ngươi to quá, che hết ánh sáng…												
+272		suntingluo		Tôn Đình Lạc ta muốn ra giúp đương kim Hoàng Thượng bảo vệ giang sơn đại Tống! 												
+273		gaonan		Ngươi đoán thử xem, một bữa ta có thể ăn được bao nhiêu chén?												
+274		laozuitou		Mọi người đều tỉnh riêng chỉ mình ta là say sưa. Uống rượu để được say, để được có cảm giác lâng lâng phiêu bồng, ta thích rắn lục hơn nữ nhi hồng, còn ngươi?												
+275		qianduoduo		Khổ thì 1 người chịu khổ; Phúc thì mọi người cùng hưởng!												
+276		yaxian		Mẫu thân không cho ta thành thân với con trai ở Phục Ngưu Sơn, bà muốn gả ta đi xa, còn chuyện ta và A Ngưu ca biết tính làm sao đây?												
+277		anuo		Đại bộ phận Ô Man tộc ta ẩn cư ở Đại Lý. Khổ Thần là vị thần Ô Man tộc thờ, truyền thuyết về Khổ Thần ta đã kể 1700 lần, ngươi có muốn làm người thứ 1701 nghe câu chuyện này không?												
+278		haga		Ta nhất định đuổi bọn cẩu tặc ra khỏi núi, không để chúng quấy nhiễu dân lành.												
+279		yinyunasi		Trên con đường nhỏ trong thôn, ngươi gặp người ăn xin, ngươi không được ngẩng cao đầu, lấy một ít thức ăn trong hành trang phân phát cho họ! Có thể ngươi đã cứu được một dũng sĩ trong tương lai!												
+280		dingwu		Ngươi đến thăm ta phải không? Đa tạ! Đừng lo cho ta, ta có là gì đâu? Ta còn lợi hại hơn cây xương rồng, đặt ở đâu cũng sống được!												
+281		zichu		Còn nhớ gia phụ đã dạy: Nam nhi phải đội trời đạp đất, chim ưng thích bay trên trời cao, quạ thì đậu trên cây. Tiếc là giờ đây, con muốn báo hiếu mà phụ thân không còn...												
+282		nuhounasi		Ta từng gặp qua đệ tử Minh Giáo vĩ đại nhất và cũng thấy qua đệ tử đê tiện nhất của Thiên Vương Bang, ngươi không nên lấy môn phái của họ để so sánh nhân cách.												
+283		xiaomoer		Tiểu Sấu tử ở Đông thôn có thể nhấc bổng một con nghé, sau này không được cười nhạo hắn!												
+284		damoer		Thế đạo thay đổi, ngay sau đó gặp phải người xấu, có một số chuyện không tốt không biết làm sao giải thích với bọn trẻ.												
+285		dufukang		Ta chờ đợi mỏi mòn, oán giận triền miên, lặng lẽ tương tư, lưu luyến không dứt, thời khắc nào cũng nhớ mong, luôn muốn hỏi một câu: Khi nào mới mời ta đi ăn?												
+286		qinkui		Triều đình chiếu công văn triệu tập ta trừng trị phản quân Bắc Doanh và Nam Doanh. Trước đây ta có lén qua lại với thủ lĩnh bên đó, trong lời lẽ đầy khí khái lo cho nước lo cho dân, bây giờ nói họ làm phản, ta thật sự không muốn tin!												
+287		guhaichao		Không có việc gì sao cứ làm phiền ta? Xin lỗi đã thất lễ!												
+288		renyuying		Chúng sinh đều bình đẳng, như câu nói của Phật tổ, hàng ngày mọi người đều cầu nguyện, Phật tổ đều lắng nghe, không thiên vị ai…												
+289		dagu		Phục Ngưu Sơn hình thù giống con trâu đực đang nằm, bá tánh nơi đây hiền lành chất phác, mấy năm gần đây bị nhân sĩ giang hồ không rõ lai lịch quấy rối!												
+290		wensubai		Lúc nhỏ người ta gọi ta là tiểu Bạch, bây giờ lớn lên có chút uy tín và địa vị, không còn ai gọi ta như vậy nữa! Tên tiểu Bạch làm ta hồi tưởng lại! Ngươi có thể gọi ta một tiếng tiểu Bạch không?												
+291		longzuochanshi		Phật Thích Ca còn không miễn cưỡng người khác làm những chuyện không thích, phật chỉ dạy chúng sinh, người nào là thiện? Người nào là ác? Thiện ác phải tự mình đi chọn lựa, mạng sống phải tự mình nắm lấy.												
+292		zhangyun		Tung hoành chiến trường, phóng túng ngỗ ngược là những lý tưởng ta muốn đeo đuổi, giống chữ "Vân" trong tên của ta, bay theo gió, không phiền não!												
+293		atong		Gạo nếp bánh ngọt hôm qua rất là ngon! Nhưng mà hình như trong nhà không còn đường!												
+294		xiwumanmishi		Ta muốn giúp đỡ quân vương hoàn thành đại sự, nhưng chẳng có ai tán thưởng ta. Mà thôi, những quan lại không biết coi trọng người tài!												
+295		jiru		Tay phải đau quá! Ngươi xem tay trái của ta to hơn tay phải đúng không…												
+296		huimingchanshi		Biết mình, thay đổi chính mình mới có thể thay đổi người khác, thay đổi muôn dân.												
+297		luomusi		Ta nghe nói có một người có một cây quạt, mỗi ngày có thể ước 3 điều ước thành sự thật, được như vậy tốt quá!												
+298		tongjiayu		Thành Nam 30 dặm có một người mặt rỗ, nghe nói ông ta biết bói quẻ, giúp người ta đặt tên đoán chữ. Gần đây có nhiều chuyện phiền muộn, chẳng lẽ năm nay là năm hạn? Hôm khác ta đi xem một quẻ!												
+299		dongwumanmishi		3 năm trước từ sơn trại ta dọn đến thành thị, trong lòng chí khí mạnh mẽ muốn mở một tiệm thú rừng nướng, thật không ngờ người trong thành không ăn lấy một lần, còn chê tiệm ta điều kiện kém.												
+300		qiliangxiurong		Không ít tên giặc đại Tống trà trộn vào Tây Hạ ta, mấy tên do thám này bắt một người giết một người!												
+301		feishixiang		Là trượng phu, là phụ thân không thể rơi lệ trước mặt người thân, cho dù là chết cũng phải mỉm cười, vì ta là nam tử hán!												
+302		chaiting		Bất kỳ việc gì chỉ cần muốn làm thì cũng có thể trở nên đơn giản, trong những dải tơ lụa này bạn thích màu nào nhất?												
+303		limu		Sau này ta và Đại Tráng thành thân nhất định phải đến uống rượu mừng đó!												
+304		laomoer		Tại sao những món ăn của Đại Mặc Nhĩ và Tiểu Mặc Nhĩ làm đều ngon hơn của mình làm? Chẳng lẽ là do mình nấu quá dở?												
+305		sunfujiang		Không biết trận chiến này bao giờ mới kết thúc, không biết cảnh tượng khi trở về quê nhà, gặp lại mẹ già 80 tuổi và đứa con 8 tuổi sẽ như thế nào đây!												
+306		tuzidan		Người khác nói rằng nghe đến tên của ta nhất định là một bật Võ lâm cao thủ ẩn danh, ha ha…Sao ta lại không biết vậy kìa? 												
+307		dazhuang		Người ngoài đến trong thành này muốn kiếm ăn cũng không phải đơn giản, may mà ngón đàn của ta khá tốt nên mỗi ngày đều có thể ăn no! Người yêu của ta ơi, đến lúc nào người mới có thể quay trở lại…..												
+308		tuya		Các chàng trai đến đây xin được kết hôn cùng ta đều rất tốt, chỉ có điều ta không thích. Một mình ta nuôi nấng A Bố mặc dù không dễ dàng gì nhưng rất vui vẻ.												
+309		momoer		Lá cây thuốc lá của ta đều là thu hoạch vào thời điểm tốt nhất, một phần phải đem dâng cho Hoàng Đế! Haha ngươi có muốn thử thứ thuốc của Hoàng Đế hút không?												
+310		xiangyuxian		Cho dù người khác đánh giá chàng ta như thế nào đi nữa, thì trong lòng ta chàng vẫn giữ vị trí độc tôn, một hiệp khách phong độ thanh thóat.												
+311		xingbutou		Chỉ cần thiên hạ được yên bình thì có cực khổ hơn nữa ta vẫn không màng, có mệt mỏi hơn nữa ta vẫn có thể đương đầu!												
+312		moji		Ngươi cũng đến đây để xin tranh chữ của ta à? Bổn cô nương chỉ bán nghề chứ không bán thân!												
+313		xubinjian		Cách đây mấy hôm ta có có gặp một thư sinh nghèo trói gà không chặt, y nhất quyết bảo ta phải dạy cho y kiếm pháp và nói là để bảo gia vệ quốc! Mặc dù cảm thấy rất nực cười nhưng cũng cảm nhận được sự giác ngộ của bá tánh!												
+314		abu		Mẫu thân từng nói tuyệt đối không được đến gần những kẻ có tướng mạo hung hãn, râu dài, y phục xuềnh xoàng, Đó đa số đều là Man tộc! Ê, ta không có nói nhà ngươi đâu đó!												
+315		dariluo		Có nhìn thấy Thần La sau lưng ta không? Haha kẻ nào dám bất kính sẽ biết tay ta!												
+316		dasao		Nói dối như thế nào ư? Ta chỉ cho ngươi một cách hay: cay cũng không nói cay...đau cũng không nói đau...thích cũng không nói thích…...như vậy không tuyệt vời sao? Nhưng tuyệt đối đừng cho người khác biết ta đã chỉ ngươi chiêu này!												
+317		maitanweng		Tiền vào nhà khó như gió vào nhà trống. Chỉ mong mùa đông đến nhanh hơn…												
+318		songdongcai		Sao ta cứ cảm thấy thiếu hiệp quen quen, chẳng lẽ…chẳng lẽ…À! Xin lỗi, ta lầm rồi!												
+319		conghai		Người ta……khi muốn bảo vệ cho người mình yêu, thực sự có thể trở nên rất kiên cường.												
+320		yinhanyan		Từ khi ta và Nhất Trần trở về từ Hải Ngoại Tiên Sơn, Thúy Yên Môn này chưa từng một ngày thái bình, may mà có một nhóm võ lâm hiệp nghĩa ra tay tương trợ! Ngươi chính là một trong số đó.												
+321		tangyichen		Ngươi hiểu biết về quá khứ của ta bao nhiêu? Đừng cố gắng đoán ý ta, ta hối hận những sai lầm mình đã phạm phải, nhưng giữa đúng và sai ai có thể phân định rõ ràng được không?												
+322		tangyang		Vấn đề cấp bách hiện nay là giải quyết tất cả những rắc rối trong Đường Gia Bảo, ta không có thời gian tranh cãi với nhà ngươi đâu!												
+323		tangwan		Mỗi lần trải qua một thử thách ngươi sẽ trở nên trưởng thành hơn! Đây là những điều sư phụ thường nói với ta, bây giờ mới thấy rất có lý!												
+324		tangkaijing		Nhi nữ tình trường, nghĩa khí giang hồ, gặp lúc quốc gia hưng vong thì đều có thể bỏ mặc!												
+325		tangjishi		Mặc dù võ công của ngươi không tệ nhưng lại không có kinh nghiệm, những tin đồn vô căn cứ trên giang hồ thì không cân để ý đến, hãy đi theo con đường của chính ngươi!												
+326		tangya		Ta có một nhiệm vụ nặng nề phải đảm đương, vì vậy tất cả những tình cảm sẽ dần dần lặng xuống và lãng quên.												
+327		tangrou		Đường Phong ca ca thận trọng và giỏi giang, Đường Viễn ca ca phong độ thanh thóat. Trong khoảnh khắc ta cảm thấy thực là khó xử, ngươi hãy quyết định thay ta đi!												
+328		xiaorou		Người khác gọi ta là phận a hoàn bên cạnh tiểu thư, ta không lo nghĩ nhiều như vậy, có thể chăm sóc cho tiểu thư là hạnh phúc của ta, rất khó để gặp được một người chủ tốt!												
+329		tangfeng		Vận mệnh con người như phù vân, có thể nào đi theo ý nguyện của chính mình không? Cho dù thế nào đi nữa thì lần này là lỗi của ta, đến nay ta vẫn chưa thể xua đi!												
+330		tangyuanjiaren		Tính cách của Đường Viễn tuy có bướng bỉnh nhưng ra đi không nói một lời như vậy quả thực không thể chấp nhận được, chẳng lẽ đây chính là sự an bài của số mệnh chăng?												
+331		liehu		Những kẻ nói ta tàn nhẫn mới chính là là giả tạo, khi ta lột da thì thì răng của bọn chúng còn dính lại miếng thịt của bữa cơm trước đó!												
+332		zhulinfeishou		Nước mắt không ngừng rơi…không cầm được nước mắt…trong tay cầm bánh ngô… trong món ăn không có một giọt dầu…đó là tình thế khó khăn của ta lúc đó, ta cũng đâu muốn làm cướp chứ!												
+333		chiyiweishouling		Các huynh đệ cười nhạo ta ít học! Điều này là đúng! Thực tế ta chưa từng đi học!												
+334		liqiushui		Có người nói khí số chúng ta đã tận, ta lại không tin rằng đệ tử của chúng ta lại không thể vượt qua thời khắc nguy nan này!												
+335		mayishenxiang		Thiên biến hữu dị hướng, nhân biến hữu dị tướng. Những ngày gần đây ta xem bói cho một số bang hội, quẻ bói thay đổi phân ly, ngay cả ta cũng không hiểu được biến số!												
+336		zhonglingxiu1		Các trưởng bối thường nói ta phải ra dáng của một cô nương, ít nhất cũng phải biết thêu thùa, nhưng mỗi khi ta cầm cây kim thì bàn tay lại không chịu nghe lời! Thật là không xứng với cái tên của ta!												
+337		sanmei		Tam muội? Sao muội lại biết được nhũ danh của ta? Muội đã từng gặp ta chăng? Phải chăng dạo này ta béo lên rất nhiều? Vì ta vẫn thường ăn vụng chè khoai lang của mẫu thân nấu!												
+338		luoxue		Ta không tin trên đời này có tình yêu vĩnh cửu nhưng ta lại tin rằng ở một nơi nào đó trên thế gian, nơi đó có một người vẫn luôn chờ đợi, chỉ là không biết sẽ xuất hiện khi nào và ở đâu, vẫn một mình vui vẻ đợi chờ chàng ta, có lẽ như thế đã đủ sống một đời. 												
+339		fushang		Tiền vốn hiện nay của ta là do ta liều mạng kiếm được, đừng dùng hai chữ "thiên tài" để chối bỏ nỗ lực của ta!												
+340		duanzhixing		Băng tuyết của Bắc Quốc có lẽ mới bắt đầu tan, còn Nam Quốc Đại Lý thì đang gió xuân phơi phới, trăm hoa đua sắc, chính là thời tiết nắng đẹp tháng ba.												
+341		suicong		Trăm hoa trong Bách Hoa trận nở rộ, trăm hoa đều có ích!												
+342		wudangzhishidizi		Sư phụ của ta chính là Động Hư Chân Nhân đỉnh đỉnh đại danh, quả thực là thần thánh!												
+343		yinbuyuan		Đại sư Dã Luyện trong thành là bạn lâu năm với ta! Nhưng ta đi hợp thành Huyền Tinh lại thu của ta không thiếu một đồng, ngươi nói xem đó là hạng bằng hữu gì hả?												
+344		bishuyang		Ngươi không chiến đấu đơn độc đâu! Hàng nghìn hàng vạn hiệp khách đang nỗ lực cùng ngươi, không phải vì cái gì khác mà chính là vì giang sơn tươi đẹp của chúng ta.												
+345		guchongyan		Trong giang hồ có rất nhiều điều chúng ta chỉ có thể chấp nhận nó mà không thể thay đổi được, và cũng không có đủ sức để thay đổi nó, càng tệ hơn khi chúng ta đã mất đi suy nghĩ phải thay đổi…												
+346		feilongxiansheng		Thôi ngôi ở Kích Thần Nhạc, Thương Thương ở Lãm Thương Hải. Chẳng phải Phi Long ta không muốn xoay chuyển càng khôn, thiên lý có còn công bằng không?												
+347		lengyun		Đời người chưa hết thì vẫn còn cô đơn…												
+348		zhaokuo		Tự tôn có là gì, nhi nữ tình trường có là gì? Sự hưng vong của quốc gia chính là sức mạnh của ta, có được sức mạnh này thì cho dù hai chân ta có đứng trong lăng mộ, ta cũng sẽ bay ra!												
+349		yuejishan		Trên sa trường, làm gì còn thời gian để suy nghĩ chuyện mệt hay không mệt! Trên sa trường ngươi không thể yếu đuối cho dù chỉ là một chút ít! Chàng trai trẻ hãy chăm chỉ luyện tập thân thể đi!												
+350		zhaoruyu		Sự huy hoàng của Đại Tống sớm đã lụi tàn. Còn lại những gì? Còn lại chính là sự phung phí của triều đình, còn lại tiếng cười đối với hậu cung vô liêm sĩ. Chỉ cần Triệu Nhữ Nhu ta còn một hơi thở thì cũng sẽ cường binh phú quốc, cứu lê dân bách tính khỏi cảnh dầu sôi lửa bỏng!												
+351		shiyilang		Ngươi là người từng trải! Ta có thể cảm nhận được nỗi đau của nhà ngươi, ngươi có nỗi khổ của nhà ngươi…nhưng ngươi làm ra vẻ không quan tâm, vì sao nhà ngươi không lên tiếng, bị ta nói trúng tim đen rồi chứ gì?												
+352		luzhanyuan		Nhiều lúc nhớ lại chuyện buồn năm xưa, muốn quên mà không sao quên được!												
+353		guojie		Những người không tắm thì có đeo bao nhiêu cái hương nang cũng không thơm được. Uy danh và tôn kính là đến từ anh hùng hào kiệt thực sự, người thực lòng đi đến đâu cũng được yêu mến!												
+354		bailu		Nam nhân không yêu nữ nhân mà họ chỉ cần nữ nhân.												
+355		zhaosheng		Không lên núi không biết trời cao, không xuống khe sâu không biết đất rộng. Trên giang hồ không trải qua hiểm cảnh thì không biết giá trị của thái bình thịnh thế!												
+356		danqingsheng		Vương quốc phú dân, bá quốc phú sĩ, tiểu quốc quan lại phú, vong quốc quốc khố mãn.												
+357		xinrudashi		Trong những ngày hè nóng bức người ta nhớ đến những ngày đông tuyết trắng, nhưng khi mùa đông đến, người ta lại trách sao mùa hè không đến nhanh hơn.												
+358		luohao		Thiên hạ phong vân xuất ngã bối, nhất nhập giang hồ tuế nguyệt thôi! 												
+359		gaibangdizi		Trong bang của ta dường như gần đây mới xảy ra chuyện gì, Cái Bang trước nay nổi tiếng chính nghĩa sao lại có thể đắc tội với những kẻ lai lịch bất minh trong giang hồ được kia chứ?												
+360		aya		Hôm qua mẫu thân lấy ra một mảnh vải hoa nói là để may cho ta một chiếc áo mới! Thật là háo hức!												
+361		xiaoying		Vẻ ngoài có khôi ngô hơn thì cũng không bằng một người thành thực, đây là điều phụ thân đã nói với ta. Những lời phụ thân nói luôn luôn đúng.												
+362		liangxianglin		Gần đây ta và phu nhân định vào thành mở rộng tầm mắt, còn mang theo cả đứa con nghịch ngợm của ta theo!												
+363		yundadao1		Vân Đại Đao ta kiếm pháp điêu luyện, trước đây làm nghề mãi nghệ kiếm sống qua ngày tại trong Lâm An Thành của Đại Tống. Ngày nay gia nhập Khoái Đao Môn chuyên giết những kẻ cướp gà cướp chó, haha!												
+364		atubo		Hy vọng là giết không chết, cuộc sống ngày nay ngày càng khó khăn, ta càng hy vọng tin tưởng vào tương lai.												
+365		langhai		Oa...oa...oa ta đang nói chuyện cùng các con vật! Ta có thể giúp gì cho ngươi?												
+366		xuchang		Có lẽ do ta quá nhạy cảm chăng? Gần đây, những lúc cùng bàn việc với người trong tộc ta cứ luôn có cảm giác bị nghe lén! Mẻ lưới này lớn quá, bắt nạt ngay cả gia gia rồi!												
+367		hongniangzi		Sinh ra trên đời là việc dễ dàng, sống trên đời cũng là việc dễ dàng, nhưng cuộc sống hoàn toàn không dễ dàng.												
+368		mabole		Có người tài nhưng chưa chắc đã có người phát hiện ra người có tài, nhưng xem ra hiện nay, phát hiện ra một con tuấn mã còn có ích hơn phát hiện ra người tài, haha!												
+369		wangshouyi		Hôm qua ăn mì tại quán rượu đã ăn nhầm phải một con rết rất to! Bà chủ còn nói với ta đó là để đuổi tà! Thật không hiểu nổi!												
+370		hanzhong		Trong thiên hạ có biết bao nhiêu người họ Hàn tên Trung! Đừng cố tình đoán đó là ta, ngươi không phải là ta, làm sao có thể hiểu được ta chứ?												
+371		xuguanran		Phân đà Cái Bang ta tại Cửu Nghi Khê vốn chỉ có vài đệ tử, trong bang lại bất hòa may thay được bá tánh xung quanh giúp đỡ, giải quyết được khó khăn trong bang.												
+372		qianyuanshouwei		Các thủ vệ tiền viện đều khôi ngô hơn các thủ vệ của hậu viện! 												
+373		houyuanshouwei		Hiện nay binh lực chưa đủ, ta đã hơn một tháng không bước ra khỏi hậu viện rồi! Không biết cái cây nhỏ trồng tháng trước bây giờ như thế nào rồi!												
+374		xunyuanduizhang		Vùng núi của Tứ Xuyên là hiểm trở nhất thiên hạ, lúc đầu đầu quân là để được no bụng, giờ đây trên vai lại là trách nhiệm và sứ mệnh nặng nề!												
+375		beiqindemazei		Đầu có thể rơi, máu có thể chảy, tinh thần lại không bao giờ có thể khuất phục!												
+376		sikongdu		Mặt trời còn xa nhưng sẽ có mặt trời. Sau ngày tận thế vẫn sẽ có ngày tận thế.												
+377		jietoutongzi		Phụ thân nói cái gì to thì tốt, mua gà, mua thịt, mua bánh màn thầu đều phải chọn cái to cả!												
+378		xiaowanqian		Ta chính là đệ tử của Cái Bang, trong số các huynh đệ tiểu bối, côn pháp của ta là khá nhất, không ít người trong giang hồ đến để khiêu chiến với ta, ta tặng họ một câu nói rằng: thay vì phí sức đến tìm ta khiêu chiến chi bằng giết mấy bọn cẩu tặc nước Kim.												
+379		duomo		Ta không hiểu Hán ngữ nhưng lại rất thích tên của mình! Hình như có một câu nói như thế này việc tốt thường hay gặp rắc rối? Hahaha!												
+380		qianhai		Ta phát hiện rằng đã là võ lâm cao thủ thì hoặc là học võ từ nhỏ, hoặc là người chưa từng học võ nhưng gặp được cao nhân giúp đỡ hoặc là phát hiện được bí kíp võ công cái thế, tại sao ta lại không được may mắn như vậy chứ?												
+381		longyin		Hoàng kỳ kỳ chủ Ngũ Độc Giáo Hồ Hiến Cơ trước đây có ơn với ta, trong mắt ta nàng không phải là yêu nữ của tà giáo mà là một đại thiện nhân.												
+382		zhouhuan		Nhà ta từ nhỏ đã nghèo, đến nay cũng không biết được mấy chữ, ta muốn xem, ta cũng muốn xem văn thơ, binh thư, những thứ trong đầu của những nhà thơ đó chắc chắn là nhiều hơn ông già thô lỗ này!												
+383		simazhongheng		Gia tộc Tư Mã đời đời dốc sức cho triều đình, thế mà triều chính hiện nay thế cục không tươi sáng, rốt cục là ta đang đợi chờ điều gì?												
+384		liangtian		Có việc gì thì mau nói đi, ta đang bận!												
+385		heifeng		Vũ khí chính là người bạn thân nhất của ta! Ta có thể giúp gỉ được cho ngài?												
+386		piriluo		Có một người tên là Đại Nhật La, bản lĩnh của y không bằng ta! Có cần ta chứng minh cho nhà ngươi xem không?												
+387		shenmixinshi		Ta nghe nói bồ câu ngày nay không thông minh như bồ câu ngày trước, việc gửi thư không còn an toàn như ngày trước nữa rồi, ngươi có từng nghe không?												
+388		tianwangdizi		Cái uy của Dương Thiên Vương.												
+389		tangmendizi		Đến ghé thăm xin trình giấy giới thiệu, những ai không liên quan mau chóng rời khỏi!												
+390		luotaihou		Thế nhân đều nói ta lòng dạ rắn độc nhưng lại không biết được sự đau khổ của ta!												
+391		gongnvxiaohong		Dạo gần đây tiền phấn son của cung nữ phi tần trong cung đã bị cắt giảm hơn một nửa, ngay cả tiền tháng của ta cũng bị giảm đi, nghe đồn số tiền này được dùng vào việc tăng cường quân bị!												
+392		miaozhu		Hại nhân chi tâm bất khả hữu, phòng nhân chi tâm bất khả vô. Lòng tham của con người là vô cùng vô tận, ngươi làm sao có thể nhìn xuyên thấu được?												
+393		huxianji		Cùng một cái bình sao ngươi lại bỏ thuốc độc vào? Cùng một tâm trạng sao ngươi lại tỏ ra phiền não?												
+394		qianbingcheng		Phú quý bất năng dâm, bần tiện bất năng di, uy vũ bất năng khuất, đây mới chính là đại trượng phu!												
+395		lifengniang		Bệnh của thân phụ kéo dài đến nay cũng là do lỗi của ta, nếu lúc trước ta khuyên ông mời đại phu đến chẩn bệnh thì đã không ra nông nỗi này rồi!												
+396		yanrui		Một bông hoa khô héo vẫn còn có thể nở được, còn ta và người chỉ có thể tất bật với cuộc sống, sống một cuộc đời bình thường hay là làm một điều gì đó cho muôn dân trăm họ?												
+397		huangdi		Bồ Tát ban cho chúng ta giống nhau. Tâm hồn của ngươi cũng phong phú như ta, lòng dạ của ngươi cũng chân thật như ta! Ta và ngươi căn bản là giống nhau.												
+398		haolaodan		Cuộc đời là nơi mà con người ta phải chịu đựng những dày vò trong cuộc sống!												
+399		duke		Có Bạc không? Cho ta mượn một ít, ngày mai ta trả lại cho!												
+400		liyuanzhe		Có nhìn thấy chiếc rìu trên vai ta không? Nó được làm từ mảnh vụn Vẫn Thạch. Trên thế gian chỉ có hai cái, một cái của Hoàn Nhan Tương, và một cái của ta!												
+401		guozheng		Cư Diên Trạch là nơi sản xuất rất nhiều Phúc Long Thảo, đáng tiếc những năm gần đây bị người ta giẫm đạp quá nhiều không còn cả gốc rễ.												
+402		shaizimei		Một bên là thiên đàng một bên là địa ngục...mua tài hay mua xỉu, ta mở đây!												
+403		muxiaoyun		Ngươi cho ta một giấc mộng giang hồ, một giấc mộng đẹp, nhi nữ tình trường khoái ý ân thù! Còn ta chỉ muốn sống những ngày yên bình!												
+404		ligunasi		Tương truyền rằng, người Ô Man đã để lại cho cúng ta rất nhiều câu chuyện và truyền thuyết rất hay, cho dù là kể một nghìn ngày, mỗi ngày không kể trùng lập, thì cũng kể chưa hết được, dù sao thì đó cũng chỉ là truyền thuyết…												
+405		shenmunasi		Ẩn cư trăm năm là để bảo toàn những bí mật không cho người khác biết, đây rốt cuộc là lời hứa gì?												
+406		jinzuonasi		Những ngày tháng dễ chịu và thỏai mái. Ta muốn sống trong giang hồ náo nhiệt, đây có lẽ là tính cách trời sinh.												
+407		qiaonvnasi		Nữ nhi trung nguyên luôn coi chồng là điểm dựa, xem chồng là trời. Tại sao lại không sống vì mình. Rốt cuộc là họ nghĩ những gì?												
+408		xunjianshi		Đừng tưởng rằng ta không nhìn ra những mánh khóe tầm thường đó, múa hát trước mặt ta ư? Ha ha, các ngươi còn quá non nớt!												
+409		lianquan		Ta đã không làm Thánh Tặc nhiều năm rồi, hiện nay đang phụ trách an toàn cho bá tánh.												
+410		jinguorenshouling		Ta muốn hỏi thăm một người! Từ Ba Lăng Huyện đi 300 dặm về hướng Đông đến Bờ Hồ Động Đình thôn Ngưu Đề có một ông thợ sắt tốt bụng, ngươi có biết ông ta không? Khi ta đói lã sắp chết, người đó đã nấu một bát canh cho ta ăn, đó là món ngon nhất mà ta từng được nếm!												
+411		biguangchanshi		Ở đâu có người thì ở đó có giang hồ, đã là người trên đời thì ai cũng đều đau khổ, vì sao ngươi lại rút lui?												
+412		gesangpingcuo		Sự cố chấp của ngày nay có thể dẫn đến sự hối hận của ngày sau. Nhưng nếu không cố chấp thì làm sao có được thành công?												
+413		laosutou		Giang hồ luôn thâm sâu hơn nhà ngươi nghĩ! Ngươi thực sự đã quyết định rồi chứ?												
+414		kongqinghe		Người trong giang hồ đều gọi Ngũ Độc là tà giáo, gặp đệ tử của Ngũ Độc thì khiếp đảm như gặp phải hổ beo. Chúng ta có thực sự đáng sợ như thế không, chính và tà là do ai quyết định?												
+415		wanxiang		Nhà ngươi rất giống một người bằng hữu của ta, ngươi có huynh đệ hay tỉ muội gì không?												
+416		tangbuxian		Mỗi một thành thị đều có những nét riêng khiến người ta ghi nhớ, rất khó để có thể chọn ra cái mà ta thích nhất, nếu ngươi nhất định muốn ta phải nói thì đó chính là Lâm An Thành. Ta sẽ mãi mãi ghi nhớ những kí ức về nơi đó!												
+417		niewencheng		Kiếm Môn Quan là biên giới giữa Đại Tống và Tây Hạ, là mảnh đất mà binh gia phải tranh giành cho bằng được. Ta cố gắng hết sức, các binh sĩ Tây Hạ cũng đâu phải là ăn chay đâu!												
+418		xulaobo		Từ khi có món hoả dược này, ta mới tiếp xúc với nó, vật này giống như đứa trẻ vậy, phải chiều theo ý nó, nếu nó nổi giận thì nguy to!												
+419		xiaomage		Mẹ ta nói tết này phải dẫn về một cô gái, vậy là có ý gì?												
+420		zhongxiang		Lần trước bình rượu Tì Công mà ta đem về, chỉ mới nếm được vài ngụm đã phải đưa cho dân làng trị vết thương, nhớ mùi vị ngọt thanh của nó quá!												
+421		sanshugong		Gà con lớn lên sẽ thành ngỗng; ngỗng lớn lên thành dê; dê lớn lên thành trâu; đến khi trâu lớn lên sẽ trở thành đại hiệp người người phải kính trọng!												
+422		xuliang		Từ giờ chúng ta là bằng hữu, đây là sự thật bất biến, thời gian trôi qua, ta không biết ngươi có lưu giữ phút giây này không, những ta sẽ luôn ghi nhớ.												
+423		simaqianqian		Ý trung nhân của ta là anh hùng cái thế, sẽ có ngày chàng cưỡi trên bạch mã oai phong lẫm liệt đến hỏi cưới ta!												
+424		qingyilaoren		Đời người đáng tiếc nhất là dễ dàng vứt bỏ những thứ không nên vứt bỏ, cố chấp kiên trì những thứ không nên kiên trì…… 												
+425		erya		Lần trước vị hiệp khách Võ Đang giúp ta đánh đuổi bọn người xấu để quên chiếc túi ở chỗ ta, ta phải đến núi Võ Đang trả lại!												
+426		lailitou		Mái tóc dài bay trong gió là mơ ước của ta, sân sau nhà ta trồng đầy mè đen, đều dùng để gội đầu đấy!												
+427		matiejiang		Nghề rèn là chuyện nhỏ, nhưng ngươi đã nghe qua câu chuyện này chưa. 1 thợ rèn vì làm móng sắt không tốt, khi ra trận, ngựa đã bị ngã, làm mất đi vị tướng quân, mất tướng quân làm thua cả trận chiến và làm tiêu vong cả 1 quốc gia...ngươi còn xem nhẹ nghề rèn nữa chăng?												
+428		sanpangzi		Ngày trước tiêu diêu tự tại, nay cục diện ngày càng khẩn trương, ta thật mệt mỏi!												
+429		wusao		Con đi ngàn dặm mẹ lo âu, đứa con trai lớn của ta bị bắt đi tòng quân đã hơn nửa năm, không biết nó khoẻ không!												
+430		wulaosi		Uống với ta nhé bằng hữu? Rượu càng uống càng ấm, nước càng uống càng lạnh! Bỏ đi bỏ đi, vẻ mặt ưu phiền này!												
+431		mashi		Ta là thần quân Khiết Man tộc, tức là Tế Tự, sau tết đoan ngọ hằng năm, thần quân Khiết Man tộc ta đều cử hành lễ vạn nhân tế tổ. Nhưng hậu sinh bây giờ càng ngày càng không giữ gìn khuôn phép tổ tiên.												
+432		beiqindecike		Thân đã bị bắt, muốn chém muốn giết cứ việc! Tin tức các ngươi muốn ta đã khai, nếu có đánh chết ta, ta cũng không nói! 												
+433		xiemanting		Duyên phận khó lường, chàng và thiếp đều không biết 1 giây sau đó mình sẽ ở phương trời nào, nên hãy nắm bắt ngay bây giờ!												
+434		muluoshan		Không giết dù chỉ 1 con kiến, không bẻ dù chỉ 1 cành hoa, người như vậy thế gian quả thật không có, ít nhất cũng phạm sai lầm nhỏ nào chứ?												
+435		fangzhongsheng		Tân binh nhập doanh phải có thể phách cường tráng, sau đó phải học binh pháp "36 kế", những kẻ qua cuộc sát hạch sẽ được giao chức vụ.												
+436		biquan		Đây là những vật tư cung cấp lúc nguy cấp, ta và các bậc tướng quân khác phải cùng chung ăn ở, kẻ nào ích kỷ hưởng lạc một mình sẽ trị theo quân pháp!												
+437		dubin		Mấy ngày nay ôn luyện binh pháp cổ, nhận ra trong 36 binh pháp sổ trung hữu thuật, thuật trung hữu số. Âm dương điều lý, cơ tại kì trung. Cơ bất khả thiết, thiết tắc bất trung.												
+438		qiudashi		Khách đến đây hành hương thường xuyên, họ hoặc là người có ước nguyện tốt đẹp, hoặc là người có tội, nhưng dù sao đều là người có tình, ngươi cũng thắp nến nhang đi! 												
+439		leilaojiu		Trong đòn gánh ta có quả mật đào và dưa gang, hãy mang theo dùng trên đường đi!												
+440		qintianjian		Nếu làm thương hại quân địch đều tính là có tội, hãy tẩy trừ các tội ác trên thế gian rồi hãy chịu trừng phạt của Phật tổ!												
+441		lixueshi		Học mà không suy nghĩ sẽ bị kiến thức che mắt, suy nghĩ mà không học thì càng nguy hiểm.												
+442		xingjiaoshang		Chiếc giày êm ái là nhờ phu nhân ta may từng đường kim mũi chỉ, việc buôn bán của ta đều nhờ cả vào đôi bàn chân này.												
+443		luocheng		Tương phùng ắt là duyên phận, song vẫn phải biệt ly.												
+444		wuxin		Ta tên Ngô Tín, ta tuyệt không phải người phi ngôn, vô tín. Ngươi giao việc gì, ta sẽ dốc toàn lực.												
+445		wude		Nếu như ta là phú ông, ta ắt hẳn sẽ chia tiền tài cho dân nghèo, đáng tiếc ta không phải, ta chỉ có thể lo phần của ta mà thôi!												
+446		xueyue		Haha, hào kiệt tái sinh….Ta từ nhỏ có được chân truyền của Tàng Cung đại sư, muốn xem thử bách bộ xuyên trận là như thế nào không?												
+447		nangongzhixiang		Ta vốn là chức quan nhỏ, đến đây để hoàn thành 1 số nhiệm vụ đặc biệt, tất cả mọi sinh hoạt đều 1 tay ta lo liệu.												
+448		wucai		Huynh đệ ta - Ngô Tín cũng trong quân doanh, nếu gặp cho ta gửi lời hỏi thăm! Huynh đệ cùng trong quân trại nhưng chưa 1 lần thăm viếng, thật là áy náy!												
+449		liuzheng		Giang hồ nhi nữ, lấy nghĩa làm đầu, nhưng vì hay tính toán so đo ân oán cá nhân nên đánh mất những thứ còn quý báu hơn!												
+450		zhaochun		Thiên hạ thái bình, an cư lạc nghiệp, không phải ta, ngươi đứng đây nói mà thành!												
+451		wushi		Quả thật tri giả bất hoặc, nhân giả bất ưu, dũng giả bất cụ, người trẻ tuổi, ta đã thấy được hy vọng của Đại Tống trong mắt ngươi!												
+452		lishi		Hiện giờ tình hình trong triều loạn lạc, ta tuy ngày ngày áo gấm lụa là, cao lương mỹ vị nhưng tuyệt không ngon miệng! Phải chi tìm được thanh niên ưu tú như ngươi, giúp triều đình vượt qua khó khăn này! 												
+453		dachen		Nguyện thiên hựu ngã triều, tuế tuế hưng long, vạn thọ vô cương!												
+454		lihouxinfu		Là 1 cao thủ, ta đã quen cô độc….												
+455		xiangsao		Đột nhiên trong thôn có rất nhiều quân lính, đã xảy ra chuyện gì? Thêm 1 việc không bằng bớt đi 1 việc, làm không tốt sẽ chuốt họa vào thân!												
+456		quanshu		Nghe nói có mệnh quan triều đình bị truy sát chạy đến thôn ta, hy vọng không có tai vạ gì xảy ra!												
+457		xiaobai		Tuổi tác này, không dễ dàng gì, nhưng phải ra làm tí việc!												
+458		yunxiaodao1		Hắc Tử là người thân duy nhất của ta, lúc ta bận làm nhiệm vụ, nó còn giúp ta chăm sóc con Lạp Ưng! Nhiều lúc động vật còn có thể tin cậy hơn người nữa!												
+459		afu		Ngươi là ai? Sao lại đơn thương độc mã ra vào, rất nguy hiểm, thương sĩ và đao binh của Ngô gia đều rất thô bạo, tốt nhất đừng trêu chọc họ.												
+460		guzhiyuan		Quyền, sau đó và nặng nhẹ; Độ, sau đó biết ngắn dài. Lưu lạc giang hồ không chỉ dựa vào chữ "Dũng"!												
+461		chajiangjun		Đại Kim và Nam Tống đã chiến đấu bao nhiêu trận rồi? Mẫu thân ta là người Nam Tống. Thế hóa ra ta giết người của mình? Mẫu thân nơi chính suối sẽ thất vọng về ta….												
+462		lanteshi		Triều đình gần đây treo thông báo giải thưởng, nếu ai có thể vì triều đình cống hiến sức lực, nhất định sẽ có trọng thưởng.												
+463		huyingbing		Ta phụng mệnh bảo vệ đại quan, những người không phận sự hãy mau rời khỏi!												
+464		xiaohe		Lời thề son sắc vững chắc đến đâu? Những người từng nói không bao giờ phân ly, giờ đã tan tác chân trời nào…..												
+465		housan		Mùa hè khắc nghiệt, lúc nghèo thì cả đất cũng không có mà cạp ăn…..												
+466		lubing		Nghe nói các môn phái chỉ vì 1 mảnh bảo ngọc mà tranh đấu, có bảo ngọc sẽ có thể hô phong hóan vũ, điên đảo càng khôn, có đúng vậy không?												
+467		mabutou		Gần đây triều đình phái quân chi viện đến chỗ chúng ta để đàn áp dân lành và người thợ mỏ nhưng hiệu quả không lớn.												
+468		wuxiqinbing		Bảo vệ tướng quân là trách nhiệm của chúng ta, phải hoàn thành trọng trách!												
+469		qianshifeibing		Dân chúng mắng chúng ta là thổ phỉ cường đạo, chẳng phải là cũng do cuộc sống ép buột.												
+470		jiaojiao		Ta đã 17 tuổi, biết là mình xinh đẹp, chỉ sợ có bụng. 												
+471		wudangdizi		Nhiều năm qua, ta ngày ngày khổ luyện, mỗi một chiêu thức đều thuộc nằm lòng, nhưng sao vẫn chưa thành cao thủ? 												
+472		wudangdizixiaoyin		Kiếm pháp Võ Đang thật tinh thâm, ta đã luyện cả mấy năm ròng những võ công vẫn bình bình, xem ra chưa thật thấu hiểu. 												
+473		shaolindizichengzhi		Học Phật là học cho tâm hồn thanh thản, chứ không phải học cho người khác xem.												
+474		shaolindizichengye		Khuyết điểm của chúng ta còn nhiều, một ngày nào đó ngươi sẽ hiểu.												
+475		shaolindizi		Chuyện thế tục đệ tử Võ Lâm ta không màng đến, nhưng chuyện tồn vong của nước nhà, ta sẽ làm hết sức mình.												
+476		wududizi		Mỗi kỳ chủ của Ngũ Độc Giáo đều có trách nhiệm riêng của mình, chuyện hệ trọng mới được thông báo!												
+477		beifanglaike		Bách hoa trận rất huyền diệu, đấy là trận pháp linh khí.												
+478		tianrenjiaodizi		Thần tượng của ta là giáo chủ Hoàn Nhan Tương, đó mới là người đàn ông tuyệt vời!												
+479		tianwangzhenleidizi		Luyện tập cơ bắp, phòng khi bị đòn!												
+480		sixinyandegongjiang		Gần đây tâm trạng buồn bực, làm việc không thể tập trung, còn ngươi lại là chuyện chi?												
+481		cailaotoudetudi		Sư phụ lần này chủ yếu dẫn ta đi mở mang tầm mắt tiện thể làm quen với quản sự của các đại ban phái.												
+482		xiaotian		Nghe nói có môn phái tên Võ Đang, ta lên núi bái sư học đạo, ngươi có thể giúp chứ?												
+483		xiaotianfuqin		Có đứa bé không nghe dạy bảo, đòi đi học võ, đâu biết rằng giang hồ hiểm ác, ta chỉ mong nó bình yên.												
+484		jinguoxiaoweiqiming		Các tướng sĩ của Đại Kim ta, họ luôn miệng giành lại Bắc Tống đang dần hưng thịnh dưới sự thống trị của chúng ta.												
+485		heiqiguafu		Nam nhi, không ai ngoại lệ. Dù đối sử tốt với ngươi, nhưng đừng bao giờ bị mê hoặc, không chừng hắn đã yêu người khác rồi.												
+486		huashi		Giang sơn như tranh! Chẳng lẽ 10 năm sau chỉ tìm thấy được trên tranh vẽ! Không biết bức tranh của ta có thức tỉnh được mọi người hay không?												
+487		cuiyandiziyuzhu		Võ lâm cao thủ thiên hạ muốn giành các chị em trong Thúy Yên môn.												
+488		cuiyandizishazhi		Bất luận là ai, đều có thể tìm được tình yêu chân thật, chỉ cần ngươi không né tránh!												
+489		wugushanmin		Ta…...ta bị oan!												
+490		cuiyandizixiaoyun		Các chị em Thúy Yên môn đẹp như tiên, nhưng muốn cưới được họ phải trải qua nhiều thử thách.												
+491		tianwangdizijintao		Môn phái không là tất cả, đối với những bất đồng, chúng ta không thể phán xét.												
+492		gaibangdizihuofeng		Oanh oanh liệt liệt, cả đời cống hiến, đó là tâm nguyện của đệ tử Cái Bang ta.												
+493		kunlunpaidizi		Vị thiếu hiệp này, sắc mặt hơi vàng, là kết quả của cuộc hành trình gian nan, ta có 1 bình thuốc bôi làm từ nhuỵ hoa tuyết liên ở thiên sơn Côn Luân, nhưng ta chưa thể cho ngươi.												
+494		zhaoshan		Gần đây ta thường ngước mặt lên trời hỏi - Ai sẽ nuôi ta?												
+495		xiangshi		Đời người ngắn ngủi, năm tháng không nhiều, sinh ly tử biệt, là đạo thường tình!												
+496		xiangling		Tích đức không ai thấy, nhưng ắt trời sẽ biết.												
+497		ximo		Người tu hành: thấy như không thấy, nghe như không nghe, ăn không biết no, thế gọi là tu thân.												
+498		jiannu		20 năm nay, cuộc sống bình yên. Từ nay, thanh kiếm của ta sẽ nhuốm máu quân thù! 												
+499		tangjia		Mấy ngày rồi không gặp em gái Đường Nhã của ta, không biết sống ra sao, nếu ngươi gặp hãy chuyển lời bình yên cho cô ấy. 												
+500		saodilaodao		Quét đất, không dễ dàng như trong tưởng tượng của ngươi đâu!												
+501		huangfubin		Dân vi quý, xã tắc thứ chi, quân vi khinh, đạo lý này ai cũng hiểu, nhưng chỉ khi thất bại mới nhớ ra. 												
+502		shiweiliuwu		Tính ta nóng tính, nhưng không muốn thay đổi, nếu gặp chuyện không vui mà không thể trút ra thì thật uất ức!												
+503		wuyi		Ngủ cũng là 1 nghệ thuật, không ai có thể cản bước chân nghệ thuật của ta.												
+504		qintao		Khi ta còn nhỏ hay tự hỏi: ta tại sao là ta? Mà không phải là ngươi, tại sao ở đây mà không ở kia?												
+505		bizaiyu		Ta đã vứt bỏ quá nhiều thứ không thể vứt bỏ…..												
+506		meihuadaoshouling		Tuy ta là thổ phỉ bị người đời khinh bỉ, nhưng lương tâm ta không mất đi, bao năm nay ta cướp của người giàu chia cho người nghèo!												
+507		meihuadao		Lương tâm….là gì? Ta sớm đã không còn, ngươi còn à?												
+508		xinqiji		Tìm kiếm muôn dặm mà không thấy, không ngờ lại ở trong thành.												
+509		luyou		Kẻ sĩ nhàn cư dưới chân núi Tam Sơn, quần áo chỉnh tề. Ngủ trong men say, gió thổi cánh hoa bay.												
+510		zhuxi		Thắng nhật tàm phương tứ thủy binh, vô biên quang cảnh nhất thời tân. Đẳng nhàn thích đắc xuân phong diện, vạn tử thiên hồng tổng thị xuân.												
+511		douhao		Trong triều mê muội, các khoa thi hỗn loạn, khiến mọi người lo âu! 												
+512		shutong		Biết là biết, không biết là không biết, đó là khôn ngoan.												
+513		shangduishouling		Ngươi bây giờ là bằng hữu ta, nếu ai bắt nạt ngươi hãy nói tên ta là nha sai vô địch!												
+514		shangduifushouling		Huynh đệ ta buồn bực trong lòng, chừng nào có thể uống rượu ăn uống thỏai mái đây!												
+515		jinguoshijie		Không biết hoa lê tại quê nhà đã nở chưa.												
+516		wangxiaoqi		Đừng coi thường tên ta! Ta có chí lớn, hợp tác với 6 vị ca ca bên kia mở trà lầu! Nhưng trước mắt đang thiếu tiền…												
+517		dasongxizuo		Làm người phải giả câm giả điếc thì cuộc sống mới ung dung.												
+518		dadarenshizhe		Nghe nói ngươi là người hiệp sĩ nổi tiếng trong giang hồ, hóan giải được nhiều vụ xung đột, nếu muốn ta giới thiệu ngươi cho chủ ta!												
+519		jianghongling		Bây giờ ngươi là người của ta, nếu có ai đến bắt nạt, hãy nói tên ta là Giang Hồng Linh.												
+520		xixiajiangling		Ở chỗ này, bánh bao cũng không có mà ăn, làm bực cả mình, huynh đệ ta có thể tử trận trên chiến trường nhưng không thể chết vì đói.												
+521		huyanli		Ta họ Hô! Sao lại chưa nghe họ này, theo như ông tổ nói là họ của đế vương thời đại Vũ.												
+522		xixiaqiaofu		Ta làm tiều phu đã 30 năm, bả vai cứng như thép, chỗ nào đánh giặc, hãy báo ta 1 tiếng, không cần mặc áo giáp đâu!												
+523		xixiacungu		Tôi còn chút ít bánh ngô và cải muối, ngươi muốn mang theo lót dạ trên đường không? Không mắc, chỉ 10 lượng bạc 1 cái!												
+524		xixiamafan		Ngựa ta không giống như ngựa trung nguyên, chịu đói, chịu mệt, chịu khát, ta nói đúng không? Ngươi chọn 1 con thì biết!												
+525		jianchashi		Tai mắt quan sát mọi phía, đây là yêu cầu cơ bản của giám sát sứ. Ngươi cho rằng ta đứng thừng người ra, nhưng thật chất ta đang suy nghĩ!												
+526		cuixiazi		Chỉ cần nói chuyện vài câu ta có thể hiểu được phần nào tính cách của ngươi, ngươi là ngươi tốt!												
+527		daoshixuanhe		Quốc gia láng giềng rất gần, có thể nhìn thấy nhau, có thể nghe tiếng gà chó kêu của nhau, nhưng đến lúc chết, nhân dân cũng không thể gặp nhau.												
+528		caiyuanding		Thanh kiếm này đã theo ta 30 năm, chứng kiến cùng ta những chuyện nực cười của nhân gian, nhưng nay ta đã gác kiếm, cũng nên nghỉ ngơi thôi!												
+529		shenmishusheng		Văn hóa Đại Tống thật tinh thâm, ngươi đến đây mượn sách chăng?												
+530		yulinxiaowei		Hải nạp bách xuyên, hữu dung nãi đại. Bích lập Thiên Nhẫn, vô dục tắc cương!												
+531		pengguinian		Ta tuy làm chức cao, thật chất ta có rất nhiều truyện kể cho các cháu ta nghe, có phải ta rất hiền không?												
+532		pengfujiading		Gần đây bận đến không kịp thở, bởi lão gia sắp tổ chức lễ mừng thọ, tuy lão gia căn dặn 1 số việc, nhưng phu nhân ta hay thờ ơ!												
+533		weizhuangjiading		Thật thật giả giả, giả giả thật thật, nếu như ta là thật thì kết quả sẽ ra sao?												
+534		wulingshanqiaofu		Là một người tiều phu, ta phải cố làm tròn bổn phận để trở thành một người tiều phu tài năng.												
+535		shenfumitan		Ta thích màu đen vì màu đen có thể giúp người ta trốn tránh.												
+536		zhenzhengdemitan		Thời gian nghỉ ngơi của ta không giống người bình thường, đêm tối, trong đêm tối người ta mới bộc lộ mặt yếu đuối nhất.												
+537		shenfujiading		Số hiệu của ta là 008, chủ nhân trước đây của số hiệu này là một viên quan nhỏ trong Hoàng Cung, đây quả là một điềm báo tốt!												
+538		mishishouwei		Không ai biết đến ta, cả ngày ta phải làm bạn với bóng tối, thấy được một cái bóng nhỏ cũng là một điều lớn lao xa vời. Hy vọng những gì ta đã bỏ ra thật xứng đáng.												
+539		zhaofudementong		Hôm nay tâm trạng của ta không được tốt lắm, nhìn thấy người tuấn tú khôi ngô ta sẽ vui hơn, ngươi có thể cười với ta không?												
+540		liguan		Phi lễ vật thị, phi lễ vật thính, phi lễ vật ngôn, phi lễ vật động												
+541		yuelao		Hôm trước ta bị hoa mắt lỡ đạp lên mấy sợi dây đỏ, may mà đã phát hiện sớm.												
+542		menpaizongguan		được giáo chủ giao cho xử lý các việc lớn nhỏ trong giáo phái, ta hứa sẽ làm hết mình!												
+543		tao_tomb_xishi		Ta muốn ăn bánh hồng đậu.												
+544		shenmishangren		Người khác cứ nghĩ rằng ta đang buôn bán thứ đồ gì quí hiếm, bọn họ đã nghĩ quá nhiều rồi!												
+545		liuhetu		Lý nào là vậy, sao lại có tiếng pháo vang bên tai ta chứ! Chắc lại là đứa trẻ nào đang phá phách!												
+546		gaochunqiu		Cây không cần vỏ, chắc chắn không sống nổi, người mặt dày, vô địch thiên hạ.												
+547		shuilian		Ta đã lớn rồi và ngày càng già đi.												
+548		murongzhao		Chốn nhân gian này có biết bao nhiêu chuyện tình duyên, xem như đoán đúng khởi đầu, liệu có thể đoán được kết cục không?												
+549		gaiya		Hôm nay ta đã mệt rồi, có gì cần nói ngày khác hãy đến tìm ta.												
+550		xieshurong		Từ khi Na Tra rút gân của Tam Thái Tử Long Vương, thiên đình bị một phen hỗn lọan! …Xin lỗi ta lại đang nói mộng nữa rồi!												
+551		luxuan		Biển rộng cá bơi thỏa thích, trời cao chim bay mỏi cánh. Nhìn tướng mạo phi phàm của ngươi, nhất định cũng có nhiều thành tựu trong chốn giang hồ												
+552		zhuxun		Học vấn hai chữ này phải tách riêng ra, học là học, vấn là vấn. Người chỉ biết học mà không biết vấn, dù có đọc hàng vạn cuốn sách vẫn là một người dốt nát.												
+553		yeran		Những người làm nên việc lớn thời xưa, không chỉ có tài năng vượt trội mà phải có ý chí biết nhẫn nhịn. Muốn làm nên việc lớn phải có cả tài năng lẫn ý chí!												
+554		hetaizhamu		Đến đây nào Ba Đạt Dĩ Đức! (mời ăn cơm)												
+555		shalu		Nhiều năm nay, chỉ có chiếc bóng và những con vật đáng yêu làm bạn với ta!												
+556		sangjilie		Xin chào Trại Bái Nỗ!												
+557		bakexi		Mỗi năm một lần sẽ mở đại hội Đạt Mộ! Các thủ lãnh của các bộ lạc đều tập trung về đây để thể hiện tình bằng hữu và cầu chúc được mùa.												
+558		xuru		Người luyện võ công phải có chính khí, nếu như vẫn chất chứa những suy nghĩ đen tối trong tâm hồn thì sẽ không bao giờ đạt đến được cảnh giới chí cao.												
+559		xiaojiuchong		Tuy ta không giao du nhiều với người trong giang hồ, nhưng cũng đã được nghe danh thiếu hiệp đây. Được biết giao tình giữa thiếu hiệp và phái Nga My rất tốt, khi nào thiếu hiệp gặp Cừu Tuyết cô nương xin cho ta gửi lời hỏi thăm cô nương ấy!												
+560		liquantai		Cả thế gian đều đang say, chỉ có mình ta tỉnh.												
+561		luoriwang		Mắt phải của ta cứ nhấp nháy liên tục, lẽ nào có điềm không lành sắp xảy đến?												
+562		dajiechanshi		Bao giờ nhà ngươi từ bỏ, khi ấy sẽ hết phiền muộn.												
+563		gaoweibi		Ta không phải sợ gió lạnh rét buốt, trong ngày mùa đông tuyết rơi trắng mặt đất thì có bỏ giày ra cũng chẳng sao, điều sợ nhất chính là mất đi người ta yêu quý.												
+564		wuqingfeng		Các binh sĩ nói ta là một tướng quân tài ba, ta lại cho rằng bản thân mình lại không có lòng kiên nhẫn! Xem ra ta cần phải bồi dưỡng thêm về mặt này!												
+565		qiaosangzhi		Mấy ngày liền ta lo nghiên cứu binh pháp đánh trận, sáng nay tỉnh giấc cảm thấy mệt mỏi rã rời. Nhớ lại năm xưa đánh trận ba ngày ba đêm cũng không mệt mỏi như vậy, con người sớm muộn cũng phải khuất phục trước thời gian và năm tháng.												
+566		wuchenshitai		Tay như cành dương liễu Tam Xuân, bước đi như lá sen trong gió, ra tay nhanh như chớp, lực phát ra như lôi đình, quả không hổ danh là người của phái Nga My.												
+567		lengqiuyun		Những ngày tháng trước đây của Khất Nhi thật tiêu diêu tự tại! Yến tiệc linh đình, hát vài câu vè đã có thể nhận được rượu thịt và tiền thưởng của người khác, sống vui vẻ qua ngày. 												
+568		duanmurui		Từ nhỏ ta được Hoàn Nhan Hồng Liệt giáo chủ nhận nuôi, đến nay đã trở thành trưởng lão của Thiên Nhẫn Giáo, phò tá Hoàn Nhan Tương chấn hưng bổn giáo.												
+569		yijunshiwei		Ngươi phải biết rằng đây là thời điểm quan trọng, trong thành hoảng loạn, nhà ngươi kinh nghiệm còn non kém, hành sự phải cẩn trọng!												
+570		shilan		Không cần quá lo lắng cho ngày mai! Chẳng phải hôm nay đang rất thỏai mái đấy sao?												
+571		shentieshi		Đại trượng phu phải biết đạo lý làm người, ta đã nói với nhà ngươi nhiều lần rồi, nhất thời nhà ngươi cũng khó ngộ ra.												
+572		xushiwei		Không có hy vọng, cuộc sống sẽ mất đi ý nghĩa. Hy vọng chính là dù trong bất kỳ thời điểm nào cũng không bao giờ từ bỏ.												
+573		jieshanzong		Rời xa quê hương đã ba năm, không biết thê tử ở quê nhà có khỏe không?												
+574		baijiang		Mười năm trước ta đã từng bán cải trắng, từng rèn sắt. Ta đã gặp tướng sĩ dũng mãnh nhất triều Đại Tống, cũng cảm nhận được uy thế của Võ Sĩ Mông Cổ. Giữa người với người cũng chẳng có gì khác biệt 												
+575		gaosheng		Cha mẹ đặt tên cho ta, mong ta sau này sẽ được làm quan, thăng quan phát tài, nhưng nay quốc gia đang lâm nguy, ta nhất định sẽ giữ vững lập trường của mình.												
+576		cuijian		Nhiều năm trước ở nhà ăn không đủ no, vừa khéo được lệnh nhập ngũ, ngày có ba bữa ăn, đủ no! Ha ha ha….												
+577		chuanfu		Trên bờ có hai con hổ, hai bao cỏ, một con bò, ta muốn dời chúng qua bờ đối diện, nhưng khi ta đi hổ sẽ ăn thịt bò, bò sẽ ăn cỏ, mỗi lần dời chỉ được dời một thứ giống nhau. Ngươi nói xem ta phải làm sao chứ?												
+578		yangjian		Giữa biển người mênh mông, ta và ngươi tình cờ tương ngộ, đã quay lưng rồi sao gặp nhau lại được?												
+579		luoyin		Thái Sơn không lựa đất nên mới cao như thế, biển lớn không lựa dòng nên mới sâu như thế.												
+580		yunfeng		Đêm Nguyên Tiêu năm ngoái, đèn giăng khắp nơi. Đêm Nguyên Tiêu năm nay, trăng và đèn như xưa, nhưng không thấy người xưa, lệ tuôn ướt vai áo.												
+581		gongyuan		Lòng nghĩ như thế nào thì làm như vậy, đừng bao giờ bạc đãi bản thân!												
+582		pusan		Người sống trên đời phải biết cầu tiến! Hôm nay tốt hơn hôm qua, ngày mai phải tốt hơn hôm nay, mỗi ngày tốt hơn, ngươi mới trở nên tiến bộ!												
+583		zhouyunfeng		Thời gian cứ mãi trôi, ta ngày một già đi.												
+584		hujia		Tướng quân rút kiếm chỉ về Nam, ta nguyện làm cơn gió vòng quanh chiến kỳ.												
+585		yifan		Làm người ai mà không mắc phải sai lầm, biết sai mà sửa lỗi thì càng quí giá hơn.												
+586		yizhou		Việc gì mình đã không muốn thì cũng đừng bắt người khác làm.												
+587		zhongqi		Dù ta không có tài ăn nói nhưng tuyệt đối cũng không phải là người chỉ biết lắng nghe.												
+588		yuxiao		Thời gian không dạy ta bất kỳ điều gì, chỉ dạy ta đừng quá dễ tin vào kỳ tích!												
+589		shangjianchu		Chỉ có khoan hồng độ lượng mới có được thành công.												
+590		xuxiange		Giang hồ dường như đã im ắng quá lâu, hiện nay ta cảm nhận được một cơn bão táp đang ập đến.	"""Tiệm danh vọng quân doanh"",""Dialog:OpenShop"",154,1"											
+591		zhengbagu		Trên thế gian không ai là hoàn mỹ, do đó mỗi người đều cần được giúp đỡ, đừng bao giờ bỏ qua những việc nhỏ nhặt.												
+592		yangjing		Thức ăn dùng để ăn; đồ vật dùng để xài; ca khúc dùng để hát.												
+593		weiqifeng		Khi hành tẩu giang hồ đừng bao giờ kết oán với kẻ tiểu nhân.												
+594		nonghu		Năm nay mỗi mẫu ruộng lại thu họach thiếu 10 cân thóc. 												
+595		nongfu		Có những người ta gặp một lần sẽ không quên được, vì họ đều rất đặc biệt! Ngươi cũng là một người như vậy!												
+596		datongchanshi		Đời người không phải là một giấc mộng. Nếu là giấc mộng chỉ sợ khi tỉnh lại, người ta sẽ già đi.												
+597		jiekong		Con người có hàng ngàn hàng vạn loại bất hạnh, nhưng người hạnh phúc chỉ có một loại: người tâm cảnh thiền định, ái tâm vô nhiễm.												
+598		jiewang		Nhà ngươi có biết đạo lý "thủy chí thanh tắc vô ngư" không? Ngọc đẹp là ngọc phải còn tì vết! Biết bao dung độ lượng mới trở thành người tài đức, quân tử.												
+599		guiwu		Kết giao thêm bạn lưu linh, lợi bất cập hại.												
+600		xiugu		Ngày xuân mới thấy cành liễu xanh, gió thu mới gặp hoa cúc vàng….												
+601		achunsao		Vợ ta vừa nuôi được hai con gà, chuẩn bị đem ra để phục vụ các chiến sĩ.												
+602		bashugong		Một đời người chỉ có vài chục năm, thời gian để làm việc quá ít ỏi, người cần cù siêng năng lắm cũng chỉ sử dụng được 2/3 khoảng thời gian mà thôi.												
+603		fangshaolong		Chúng ta phải giống như những chú voi xông pha hứng chịu tên độc và không ngừng xông pha chiến đấu. 												
+604		jiguanqiaojiang		Lao động phải có kỹ xảo.												
+605		huyuan		Phụng dưỡng phụ mẫu, yêu thương thê tử, làm việc vô hại, mới gặp được điều lành.												
+606		xinbing		Tân binh như tôi đây phải biết chịu đựng khổ cực và hiểu rõ thân phận của mình.												
+607		sunan		Khiếm khuyết về thể xác không gọi là khổ, khiếm khuyết về nhân tính mới thật sự là khổ. Mọi tai họa trên thế gian đều do những người tay chân lành lặn mà tâm hồn khiếm khuyết gây nên.												
+608		weijinde		Kẻ địch lớn nhất của chúng ta không phải là người khác, mà chính là bản thân chúng ta.												
+609		yuyingnan		Nghe nói Hải tặc quyên góp tiền cho Thiền Viện và xin tá túc nơi đó. Thật nực cười!												
+610		hongxi		Chúng ta phải biết chịu đựng sự xỉ vả, coi thường của người khác, và biết giữ cho tâm thái luôn ổn định.												
+611		ruanzheng		Tin đồn là thứ đáng sợ nhất.												
+612		zhouxuehui		Nêu lên cái tốt và giấu đi cái xấu của người khác, những cái đáng xấu hổ của mình không ai muốn nói cả.												
+613		wangrenhu		Người khác mới gặp ta lần đầu đều hãi hùng khiếp sợ, phải chăng khi họ nhìn thấy tên ta đều không dám tiến lại gần.												
+614		zhaolin		Người quân tử đường đường chính chính, kẻ tiểu nhân tính toán chi li! Ta đây là chính nhân quân tử.												
+615		zhutong		Di chuyển giữa bụi gai thì dễ, xoay người trong ánh trăng dịu dàng thật khó khăn. Những gì xinh đẹp thường dễ mê hoặc người khác!												
+616		dingshao		Cái quí giá nhất của thời gian chính là sự sở hữu.												
+617		linyu		Ta ngủ một chút, nhớ đánh thức ta dậy…												
+618		lvzunan		Đừng bao giờ tin vào nữ nhân, nữ nhân càng đẹp càng giỏi lừa người.												
+619		yunerdao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+620		yunsandao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+621		yunsidao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+622		yunwudao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+623		yunliudao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+624		yunqidao		Đại danh của Vân Thị Thất Đao chắc hẳn đã như sấm vang dội bên tai! Ta không dọa nhà ngươi nữa, này anh bạn trẻ hãy biết khiêm tốn hơn đi!												
+625		qianlai		Người ta thường gọi ta là Tiểu Thái, ta chính là Tiểu Thái. Lúc đầu ta không hiểu là ý gì, sau này hỏi thăm mới biết đây là một cách gọi thân mật, thích lắm!												
+626		zhuyoumu		Muốn được người khác kính trọng, hãy tự kính trọng mình trước.												
+627		linghun		Lớp hậu nhân sau này rất ít người lễ phép khiêm nhường như nhà ngươi.												
+628		zhuwen		Bước chân vào chốn giang hồ, đừng bao giờ bắt chuyện với người lạ mặt!												
+629		beiqiangdeminnv		Mau mau rời khỏi, nơi này quá nguy hiểm!												
+630		yunjiuniang		Thế gian phức tạp, giang hồ thâm sâu khó đoán, nếu sơ suất không cảnh giác, hậu quả sẽ khôn lường.												
+631		xusanguan		Tình cảm sẽ theo dòng thời gian mà trôi vào quên lãng.												
+632		renji		Ngươi có biết đạo lý một ngày làm thầy cả đời làm cha không? Là người đệ tử được thầy yêu mến tận tâm truyền nghề phải bíêt tôn sư trọng đạo.												
+633		peidunvni		Nhân chi sơ, tính bản thiện, tính tương cận, tập tương viễn....Mỗi ngày nghe tiểu thư đọc sách ta cũng thuộc lòng được một vài câu, ha ha...												
+634		wuxiangshitai		Tuyết trắng bay tựa bông, đời mộng nhạt như mây.												
+635		yinye		Khi làm không sợ hãi, làm xong không hối hận, quan trọng nhất là không hổ thẹn với lương tâm.												
+636		wuseng		Nhà ngươi cho rằng ta đến đây để chơi hay sao? Không! Ta thật sự muốn học võ công, ha ha ha!												
+637		xiaonu		Thân làm nô lệ, nhưng tâm hồn của ta không phải là nô lệ. Ta thật ngưỡng mộ nhà ngươi có thể tự do ngao du thiên hạ, hy vọng một ngày nào đó cũng được như nhà ngươi.												
+638		wudaozhenren		Báo thù, dã tâm, lẽ nào lòng dạ các ngươi lại hẹp hòi như vậy sao?												
+639		lubike		Chiến mã nhung xa phá Hạ Lan, tráng chí kiêu hùng Hung Nô khiếp, thu mối sơn hà dâng cửa khuyết. Thiếu hiệp, thấy ngươi trưởng thành ta rất vui, <color=yellow>sau này ta sẽ không giao nhiệm vụ cho ngươi nữa, những quân doanh kia muốn vào cứ vào, sẽ tự nhận được nhiệm vụ.<color>												
+640		yijunjingrui		Một lý tưởng hào hùng như vậy mà nhà ngươi chỉ hun đút trong vòng ba phút, thử hỏi trên đời này có thể nằm gai nếm mật hỏi được bao nhiêu người chứ?												
+641		yijunshaobing		Một lý tưởng hào hùng như vậy mà nhà ngươi chỉ hun đút trong vòng ba phút, thử hỏi trên đời này có thể nằm gai nếm mật hỏi được bao nhiêu người chứ?												
+642		huwei		Nhà ngươi đã từng bao giờ nếm mùi vị mắt nhìn thấy huynh đệ mình đang ngã xuống nhưng bất lực không làm gì được chưa? Nếu như sự hi sinh của chúng ta có thể đổi lấy sự bình yên của đất nước, thì cũng đáng để hy sinh.												
+643		fuqizhu		Nhà ngươi và ta đều giống nhau...ta nhìn ra được chí hướng của ngươi..ngươi muốn ngao du khắp nơi thiên hạ! Ta nói có đúng không?												
+644		liukoushouling		Thời đại này có quá nhiều tham quan ô lại, tiểu hiệp ngươi đây có thanh liêm đến thế nào cũng không thay đổi được đại cục, dù thanh danh của ta không tốt nhưng ta đây không hề hổ thẹn với lương tâm.												
+645		xueying		Trong mắt nhà ngươi, ta là một người xấu xa. Thật ra chưa đến phút cuối, có ai lại muốn từ bỏ ước mơ của mình chứ?												
+646		xisuidaoshangren		Bổn tiệm vừa nhập về một lô binh khí thượng đẳng, khách quan có muốn xem thử không?	"""<color=gold>[Bạc khóa]<color> Dược phẩm"",""Dialog:OpenShop"",14,7"	"""Dược phẩm"",""Dialog:OpenShop"",14,1"	"""Thực phẩm"",""Dialog:OpenShop"",21,1"	"""Vũ khí"",""Dialog:OpenShop"",146,1"	"""Không mua nữa"""							
+647		xinshoufuliguan		Chào mừng đến với Kiếm Thế.												
+648		shipotian		<color=yellow>Mỗi cá nhân đều có nghiệp chướng và nhân quả,…….<color><enter><color=red>Quyết Chiến Dạ Lam Quan<color><enter>    <color=yellow>[Thắng thua]<color><enter>    <color=green>Trong vòng 10 phút chiến đấu, đánh đổ được doanh trại đối phương sẽ nhận phần thắng. Trong vòng 10 phút doanh trại hai bên đều chưa bị đánh đổ thì dựa vào điểm tích lũy để phân thắng bại, điểm tích lũy bên nào cao hơn sẽ giành phần thắng.<color><enter><color=yellow>Mỗi trận đấu ít nhất phải có 8 người mới có thể mở.<color><enter><color=green>Sau khi vào Dạ Lam Quan không thể sử dụng kỹ năng và tấn công, thực hiện thao tác đều bắt buộc sử dụng các đạo cụ (đã đưa vào phím tắt). Phải tiêu hao quân hưởng để xây dựng và thăng cấp kiến trúc, có thể nhận được khả năng công phòng.<color><enter><color=yellow>Xây dựng và phá hủy kiến trúc với quân địch sẽ nhận được quân hưởng, điểm tích lũy.<color><enter><color=green>5 loại đạo cụ binh chủng đặc biệt, Tiêu Tháp có thể phát huy tác dụng phòng ngự nhưng không tạo ra sĩ binh.  Sau khi thăng cấp kiến trúc sẽ tạo ra sĩ binh tướng dũng mãnh.<color><enter><color=yellow>Khi ở trong tình hình nguy cấp có thể ở đại doanh phe mình thi triển kỹ năng Khuynh Thành Tất Sát thì có thể xoay chuyển tình thế.<color><enter><enter>Quyết Chiến Dạ Lam Quan là trí tuệ và ký kết ngầm của các hiệp sĩ, chúc bạn may mắn.												
+649		xialuoyao		Không gặp nhau sẽ không luyến nhớ.<enter>Không hiểu nhau sẽ khỏi tương tư.<enter>Không chung đường sẽ không lỗi hẹn.<enter>Không luyến nhớ sẽ không ân hận.<enter>Không yêu sẽ không phải đau khổ.<enter>Không hẹn hò sẽ không giận hờn.<enter>Không hiểu lầm sẽ không trách cứ.<enter>Không hứa hẹn sẽ không thất hứa.<enter>Không dựa dẫm sẽ không hụt hẫng.<enter>Không hợp thì không có tan.<enter>Không đồng sàng sẽ không cùng mộng.<enter>Tự do tự tại là hạnh phúc nhất cõi đời này.												
+650		bingqipulaoban	2115	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+651		bingqipulaoban	2116	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+652		bingqipulaoban	2117	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+653		bingqipulaoban	2118	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+654		bingqipulaoban	2119	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+655		bingqipulaoban	2120	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+656		bingqipulaoban	2121	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+657		fangjupulaoban	2115	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+658		fangjupulaoban	2116	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+659		fangjupulaoban	2117	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+660		fangjupulaoban	2118	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+661		fangjupulaoban	2119	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+662		fangjupulaoban	2120	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+663		fangjupulaoban	2121	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+664		weiminglinggong		Sống hay chết thì đã sao? Lão phu thống lĩnh năm vạn quân trấn thủ tại đây, đã không nghĩ đến chuyện quay về.												
+665		rendexiao		Thà bắn thương ưng không bắn thỏ, thà bắt mãnh hổ không bắt cáo!												
+666		renduosuoding		Quân Mông Cổ cướp gia súc, sát hại tộc ta, ta bắt chúng phải trả món nợ này.												
+667		renduobaozhong		Trời đất bao la, không gian rộng mở. Địa linh nhân kiệt, thánh tinh tề tựu.												
+668		sunuer		Nói nhỏ cho ngươi biết, ta vốn là người Kiến Khang Giang Nam, ngươi từng nghe Thập Lý Tần Hoài Yên Hoa Hạng chưa? Nếu lần này thắng trận, có muốn cùng ta đến đó không?												
+669		weizhongxian		Cái gì? Ngươi muốn hỏi thăm tin tức Long Hồn Giám? Ngươi biết quá nhiều rồi!												
+670		liyinfu		Từ khi đến đây, ta không khi nào chợp mắt được, đầu óc ta luôn hiển hiện ánh mắt đau khổ của thê tử lúc từ biệt.												
+671		beibangdefulu		Ư.. ư...												
+672		lidonghai		Khắc Di Môn tuy là bình phong che chắn Trung Đô, nhưng trấn thủ không phải kế lâu dài, tiếp theo phải làm thế nào?												
+673		taimeng		Nơi này gió cát mạnh, ngươi mới đến cũng được xem là khách quý, mời vào lều sưởi ấm.												
+674		zhuxingnian		Thuật chiến thắng cần quan sát kẻ địch, thừa cơ hành động tấn công địch.												
+675		shidimeng		Ta không thích đánh nhau, kỳ lạ lắm sao? Nhìn các huynh đệ lần lượt chiến tử sa trường thật không hề dễ chịu, đó chính là sự tàn khốc của chiến tranh.												
+676		kexiaoxu		Muốn ta kính trọng ngươi? Hãy thắng ta trước rồi hãy nói!												
+677		tiemuzhen		Nơi nào có cỏ xanh bao phủ, nơi đó chính là thảo nguyên chăn ngựa của đế quốc Mông Cổ ta.												
+678		beierjite		Tuy chúng ta bất đồng ngôn ngữ, nhưng ta có thể thấy được khát vọng tự do trong mắt ngươi, chúng ta là bằng hữu!												
+679		wokuotai		Tây Hạ không thể chống cự được lâu nữa, sớm muộn gì chúng ta cũng chiếm được Khắc Di Môn.												
+680		alatanzang		Ta thật không nhớ đã sát hại bao nhiêu người. Ta chỉ nhớ khoảnh khắc khi họ ngã xuống, ánh mắt đầy sợ hãi và tuyệt vọng, cảm giác đó ta chưa từng trải qua.												
+681		nisigebari		Ngựa tốt có nhiều chủ, người tốt có nhiều bạn. Ngươi muốn làm một con ngựa tốt hay một người tốt?												
+682		woqier		Còn nhớ đàn chim bên Hô Luân Hồ không? Chúng tự do bay lượn, thật khiến ta ngưỡng mộ!												
+683		xijinmanda		Đứng im! Nguyên soái có lệnh, người không phận sự miễn vào!												
+684		beiqindefulu		Muốn biết tình báo Tây Hạ? Không nói cho ngươi biết!												
+685		sanagari		Đại hội Đạt Mộ năm ngoái thật đáng nhớ, mong chúng ta nhanh chóng thắng lợi, có thể đến đồng cỏ thử sức!												
+686		hanggai		Chiến tranh cần thần tốc, không cần nhiều binh lực. Trước kẻ địch, kỵ binh chúng ta tấn công nhanh như chớp, có thể một chiêu khống chế địch!												
+687		boteqige		Tuấn mã chạy nhanh mới rong ruổi thảo nguyên, thương ưng vỗ cánh mới bay lượn trời cao.												
+688		muertiezhi		Tây Hạ trong mắt ta chỉ là một cừu con yếu đuối, bắt sống hay mổ thịt là theo ý nguyên soái.												
+689		ladebuxing		Ngươi đến rất đúng lúc, hôm nay quân doanh mở tiệc lớn, có ngửi thấy mùi thịt cừu nướng không? Đúng rồi, còn có rượu sữa ngựa, ngươi nhất định phải thử!												
+690	Cổ Mộ	bingqipulaoban	2261	Hi hi! Có vũ khí của ta trong tay, muốn trở thành đệ nhất võ lâm cao thủ dễ như trở bàn tay. Khách quan hãy mua 1 cái đi, sau đó đến chỗ Tạ Hiền mua chiếc phi phong, chắc chắn sẽ rất oai!	"""Kiếm"",""Dialog:OpenShop"",2,1"	"""Tụ tiễn"",""Dialog:OpenShop"",9,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"			"""Không mua nữa"""						
+691		bingqipulaoban	2154	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+692		fangjupulaoban	2154	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+693		bingqipulaoban	2254	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+694		fangjupulaoban	2254	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+695		bingqipulaoban	2255	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+696		fangjupulaoban	2255	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+697		bingqipulaoban	2256	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+698		fangjupulaoban	2256	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+699		bingqipulaoban	2257	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+700		fangjupulaoban	2257	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+701		bingqipulaoban	2258	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+702		fangjupulaoban	2258	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+703		bingqipulaoban	2259	Chiêu mộ đây! Bao ăn ở, 1 tháng 10 lượng bạc…Biết ủ rượu, tuổi trẻ, khỏe mạnh và không được đẹp trai hơn ta!												
+704		fangjupulaoban	2259	Mời ghé vào xem, trang bị của ta tuy không bằng phi phong của Tạ Hiền, nhưng cũng là tâm huyết do một tay ta làm ra!	"""Giày, thắt lưng"",""Dialog:OpenShop"",11,1"	"""Hộ uyển, thủ trạc"",""Dialog:OpenShop"",13,1"	"""Khoáng thạch"",""Dialog:OpenShop"",16,1"	"""Da"",""Dialog:OpenShop"",20,1"	"""Vải"",""Dialog:OpenShop"",17,1"	"""Không mua nữa"""						
+705		zishuqing		Thư Thanh không biết cái gì gọi là chí tại bốn phương. Việc cố chấp của Thư Thanh chỉ liên quan đến một người, nhưng không thể để người đó biết.												
+706		lvguanjia		Lão phu biết rất nhiều bí mật…mà người biết quá nhiều thường rất khó yên thân. Lão phu chỉ hy vọng lúc còn sống có thể làm chút việc cho Lã gia để báo ân.												
+707		xizi		Hắn quay đầu nhìn ta à, chuyện gì đây? Ta và hắn là 2 người khác nhau, không sống chung, không cùng trải qua khó khăn, càng không thể chết cùng.												
+708		luwangsheng		Ngươi nói tình thâm không thọ, trước giờ ta không tin, không ngờ lại đúng như vậy…con của ngươi rất khỏe khoắn, ta sẽ chăm sóc nó.												

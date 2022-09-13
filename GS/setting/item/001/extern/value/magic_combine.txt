@@ -1,0 +1,48 @@
+HEADER	MAGIC_DESC	Phần trăm sát thương ngoại	Phần trăm sát thương nội	Tăng điểm chính xác	Tăng tốc độ đánh ngoại	Tăng tốc độ đánh nội	Bỏ qua né tránh đối phương	Tăng tốc độ chạy	Phản đòn tấn công vật lý	Hút sinh	Hút nội	Tăng sinh lực tối đa	Tăng nội lực tối đa	Tăng thể lực tối đa	Tăng tốc độ hồi phục sinh lực	Tăng tốc độ hồi phục nội lực	Tăng tốc độ hồi phục thể lực	Tăng vật công ngoại	Tăng vật công nội	Chuyển sát thương thành nội lực	Tăng kháng độc	Làm đối thủ thọ thương	Tăng độc công ngoại	Tăng độc công nội	Tăng kháng lôi	Làm đối thủ suy yếu	Tăng băng công ngoại	Tăng băng công nội	Tăng kháng hỏa	Làm chậm đối thủ	Tăng hỏa công ngoại	Tăng hỏa công nội	Tăng kháng vật lý	Làm đối thủ bỏng	Tăng lôi công ngoại	Tăng lôi công nội	Tăng kháng băng	Làm đối thủ choáng	Giảm thời gian thọ thương	Giảm thời gian làm chậm	Giảm thời gian suy yếu	Giảm thời gian bỏng	Giảm thời gian choáng	Kháng tất cả	Tăng may mắn	Tăng tỷ lệ chí mạng	Tăng né tránh
+MAGIC_DESC	MAGIC_ID	addphysicsdamage_p	addphysicsmagic_p	attackratingenhance_v	attackspeed_v	castspeed_v	ignoredefenseenhance_v	fastwalkrun_p	meleedamagereturn_p	steallife_p	stealmana_p	lifemax_v	manamax_v	staminamax_v	lifereplenish_v	manareplenish_v	staminareplenish_v	addphysicsdamage_v	addphysicsmagic_v	damage2addmana_p	damage_poison_resist	state_hurt_attack	addpoisondamage_v	addpoisonmagic_v	damage_light_resist	state_weak_attack	addcolddamage_v	addcoldmagic_v	damage_fire_resist	state_slowall_attack	addfiredamage_v	addfiremagic_v	damage_physics_resist	state_burn_attack	addlightingdamage_v	addlightingmagic_v	damage_cold_resist	state_stun_attack	state_hurt_resisttime	state_slowall_resisttime	state_weak_resisttime	state_burn_resisttime	state_stun_resisttime	damage_all_resist	lucky_v	deadlystrikeenhance_r	adddefense_v
+Phần trăm sát thương ngoại	addphysicsdamage_p	100	100	120	200	100	100	100	100	140	140	130	115	105	100	100	100	300	100	100	130	200	300	100	130	150	300	100	130	150	300	100	130	150	300	100	130	150	100	100	100	100	100	100	100	100	100
+Phần trăm sát thương nội	addphysicsmagic_p		100	100	100	200	100	100	100	140	140	130	115	105	100	100	100	100	300	100	130	200	100	300	130	150	100	300	130	150	100	300	130	100	100	300	130	150	100	100	100	100	100	100	100	100	100
+Tăng điểm chính xác	attackratingenhance_v			100	120	100	100	100	100	120	120	110	110	105	100	100	100	150	100	100	110	120	150	100	110	120	150	100	110	120	150	100	110	120	150	100	110	120	100	100	100	100	100	100	100	100	100
+Tăng tốc độ đánh ngoại	attackspeed_v				100	100	100	100	100	120	120	120	110	105	100	100	100	200	100	100	120	150	200	100	120	150	200	100	120	150	200	100	120	150	200	100	120	150	100	100	100	100	100	100	100	100	100
+Tăng tốc độ đánh nội	castspeed_v					100	100	100	100	120	120	120	110	105	100	100	100	100	200	100	120	150	100	200	120	150	100	200	120	150	100	200	120	150	100	200	120	150	100	100	100	100	100	100	100	100	100
+Bỏ qua né tránh đối phương	ignoredefenseenhance_v						100	100	100	100	100	140	120	110	120	120	110	100	100	100	150	100	100	100	150	100	100	100	150	100	100	100	150	100	100	100	150	100	130	130	130	130	130	150	100	150	150
+Tăng tốc độ chạy	fastwalkrun_p							100	100	100	100	150	130	120	130	100	100	100	100	110	200	100	100	100	200	100	100	100	200	100	100	100	200	100	100	100	200	100	150	150	150	150	150	100	100	100	100
+Phản đòn tấn công vật lý	meleedamagereturn_p								100	100	100	140	120	110	120	100	100	100	100	110	130	100	100	100	130	100	100	100	130	100	100	100	130	100	100	100	130	100	120	120	120	120	120	100	100	100	100
+Hút sinh	steallife_p									100	120	120	110	105	100	100	100	150	150	100	110	120	150	150	110	120	150	150	110	120	150	150	110	120	150	150	110	120	100	100	100	100	100	100	100	100	100
+Hút nội	stealmana_p										100	120	110	105	100	100	100	150	150	100	110	120	150	150	110	120	150	150	110	120	150	150	110	120	150	150	110	120	100	100	100	100	100	100	100	100	100
+Tăng sinh lực tối đa	lifemax_v											100	150	120	130	120	120	130	130	110	150	120	130	130	200	120	130	130	200	120	130	130	200	120	130	130	200	120	130	130	130	130	130	140	120	150	150
+Tăng nội lực tối đa	manamax_v												100	110	120	110	110	120	120	105	130	110	120	120	150	110	120	120	150	110	120	120	150	110	120	120	150	110	110	110	110	110	110	120	110	130	130
+Tăng thể lực tối đa	staminamax_v													100	110	105	105	110	110	105	110	105	110	110	120	105	110	110	120	105	110	110	120	105	110	110	120	105	105	105	105	105	105	110	105	110	110
+Tăng tốc độ hồi phục sinh lực	lifereplenish_v														100	100	100	100	100	110	120	100	100	100	120	100	100	100	120	100	100	100	120	100	100	100	120	100	120	120	120	120	120	120	120	120	120
+Tăng tốc độ hồi phục nội lực	manareplenish_v															100	100	100	100	100	120	100	100	100	120	100	100	100	120	100	100	100	120	100	100	100	120	100	120	120	120	120	120	120	120	110	110
+Tăng tốc độ hồi phục thể lực	staminareplenish_v																100	100	100	100	110	100	100	100	110	100	100	100	110	100	100	100	110	100	100	100	110	100	110	110	110	110	110	110	100	110	110
+Tăng vật công ngoại	addphysicsdamage_v																	100	100	100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100	100
+Tăng vật công nội	addphysicsmagic_v																		100	100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100	100
+Chuyển sát thương thành nội lực	damage2addmana_p																			100	120	100	100	100	120	100	100	100	120	100	100	100	120	100	100	100	120	100	120	120	120	120	120	100	100	110	110
+Tăng kháng độc	damage_poison_resist																				100	150	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	150	100	160	130	160	160
+Làm đối thủ thọ thương	state_hurt_attack																					100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	120	100	100	100	100	100
+Tăng độc công ngoại	addpoisondamage_v																						100	100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100	100	100	100	100
+Tăng độc công nội	addpoisonmagic_v																							100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100	100	100	100	100
+Tăng kháng lôi	damage_light_resist																								100	150	100	100	100	100	100	100	100	100	100	100	100	100	150	100	100	100	100	160	130	160	160
+Làm đối thủ suy yếu	state_weak_attack																									100	100	100	100	100	100	100	100	100	100	100	100	100	120	100	100	100	100	100	100	100	100
+Tăng băng công ngoại	addcolddamage_v																										100	100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100
+Tăng băng công nội	addcoldmagic_v																											100	150	200	100	100	100	100	100	100	100	100	100	100	100	100	130	100	100	100	100
+Tăng kháng hỏa	damage_fire_resist																												100	150	100	100	100	100	100	100	100	100	100	100	100	100	150	160	130	160	160
+Làm chậm đối thủ	state_slowall_attack																													100	100	100	100	100	100	100	100	100	100	100	100	100	120	100	100	100	100
+Tăng hỏa công ngoại	addfiredamage_v																														100	100	150	200	100	100	100	100	100	130	100	100	100	100	100	100	100
+Tăng hỏa công nội	addfiremagic_v																															100	150	200	100	100	100	100	100	130	100	100	100	100	100	100	100
+Tăng kháng vật lý	damage_physics_resist																																100	150	100	100	100	100	100	150	100	100	100	160	130	160	160
+Làm đối thủ bỏng	state_burn_attack																																	100	100	100	100	100	100	120	100	100	100	100	100	100	100
+Tăng lôi công ngoại	addlightingdamage_v																																		100	100	150	200	100	100	130	100	100	100	100	100	100
+Tăng lôi công nội	addlightingmagic_v																																			100	150	200	100	100	130	100	100	100	100	100	100
+Tăng kháng băng	damage_cold_resist																																				100	150	100	100	120	100	100	160	130	160	160
+Làm đối thủ choáng	state_stun_attack																																					100	100	100	120	100	100	100	100	100	100
+Giảm thời gian thọ thương	state_hurt_resisttime																																						100	100	100	100	100	130	120	130	130
+Giảm thời gian làm chậm	state_slowall_resisttime																																							100	100	100	100	130	120	130	130
+Giảm thời gian suy yếu	state_weak_resisttime																																								100	100	100	130	120	130	130
+Giảm thời gian bỏng	state_burn_resisttime																																									100	100	130	120	130	130
+Giảm thời gian choáng	state_stun_resisttime																																										100	130	120	130	130
+Kháng tất cả	damage_all_resist																																											100	120	100	100
+Tăng may mắn	lucky_v																																												100	100	100
+Tăng tỷ lệ chí mạng	deadlystrikeenhance_r																																													100	150
+Tăng né tránh	adddefense_v																																														100

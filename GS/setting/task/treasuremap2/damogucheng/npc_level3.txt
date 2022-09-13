@@ -1,0 +1,13 @@
+NpcName	TemplateId	NpcLevel	NpcScore	NpcCount	XPos	YPos	NpcPosFile
+Đại Mạc Thiết Tặc	6937	119	4				\setting\task\treasuremap2\damogucheng\npc\npc_level_1.txt
+Hoang Nguyên Đao Khách	6938	119	4				\setting\task\treasuremap2\damogucheng\npc\npc_level_2.txt
+Sa Mạc Vu Sư	6939	119	4				\setting\task\treasuremap2\damogucheng\npc\npc_level_3.txt
+Diện Cụ Võ Sĩ	6941	119	80		55776	104928	
+Thi Trục Đạt Lỗ	6942	119	90		57856	104928	
+Hộ tống NPC Úy Lữ đối thoại	6945	119			52960	104480	
+Thạch Kính Nhất	6947	119			55296	103744	
+Thiện Sĩ	6948	119			57248	104736	
+Thiện Ma	2725	119			59712	107456	
+Thanh Thanh	6950	119			61280	111872	
+Rương thường	6930	119	8				\setting\task\treasuremap2\damogucheng\npc\box.txt
+Quan Tiểu Đao	7016	119			49536	113632	

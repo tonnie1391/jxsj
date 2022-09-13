@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Bùi Dực Phi	0	792	0	5	35	1	20	20	20	20	20	1		51488	103680		1		
+Đến Long Quán Pha	0	2525	4	5	35	1	20	20	20	20	20	1		51552	104768				
+gxl2longguanpo	1															\setting\map\map_info\yuanshisenlin_2_gexialingf\trap\to_longguanpo.txt			

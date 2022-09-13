@@ -1,0 +1,9 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lãnh Vân	0	1057	3	5	60	1	20	20	20	20	20	1		51744	101280		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51680	103456		1		
+to_exit514	1															\setting\map\map_info\tianwaitian\trap\to_exit514.txt			
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51424	101600		1		1
+Vũ Khách	0	1178	3	5	60	1	20	20	20	20	20	1		51744	100960		1		1
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		51168	101728		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		51552	102880		1		
+Hồn Sứ	0	1177	0	0	55	1	20	20	20	20	20	1		52224	101056		1		

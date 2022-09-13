@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Về Phục Lưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		51200	103424		1		
+to_fuliudong	1															\setting\map\map_info\fuliudong_luonv\trap\to_fuliudong.txt			
+Lạc Động Nữ	0	4365	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\fuliudong_luonv\npc\luodongnv.txt			
+Thủ Lĩnh Vu Nữ	0	4366	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt	52256	98720				

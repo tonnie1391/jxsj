@@ -1,0 +1,58 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vô Diêm Hồn	0	2326	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\afanggongfeixu\npc\area1.txt	1		1
+Ải Yên Tẩu	0	2327	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\afanggongfeixu\npc\area2.txt	1		0
+Quỷ Diện Sinh	0	2328	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\afanggongfeixu\npc\area3.txt	1		4
+Tàn Tích Dã Sứ	0	2329	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\afanggongfeixu\npc\area4.txt	1		0
+to_dasanguan	1															\setting\map\map_info\afanggongfeixu\trap\to_dasanguan.txt			
+to_huashan	1															\setting\map\map_info\afanggongfeixu\trap\to_huashan.txt			
+to_jianmenguan	1															\setting\map\map_info\afanggongfeixu\trap\to_jianmenguan.txt			
+to_yonglezhen	1															\setting\map\map_info\afanggongfeixu\trap\to_yonglezhen.txt			
+to_xixiayipintang	1															\setting\map\map_info\afanggongfeixu\trap\to_xixiayipintang.txt			
+Đại Tán Quan	0	2525	4	5	1	1	20	20	20	20	20	1		49696	112384		1		
+Hoa Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		62720	101280		1		
+Kiếm Môn Quan	0	2525	4	5	1	1	20	20	20	20	20	1		55456	123840		1		
+Vĩnh Lạc Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		63456	120704		1		
+Nhất Phẩm Đường	0	2525	4	5	1	1	20	20	20	20	20	1		49952	101984		1		
+Minh Điền	0	4391	3	5	150	1	20	20	20	20	20	1		60928	106528		1		
+Vương Nham	0	4392	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt	60864	110176		1		
+Thu Minh Chí	0	4379	3	5	150	1	20	20	20	20	20	1		63328	108704		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		56320	102912		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		56000	103072		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55872	103104		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55680	103040		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55936	103392		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		56160	103488		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		56384	103776		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		56224	103872		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55968	103936		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55968	104000		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	125	1	20	20	20	20	20	1		55552	103008		1		
+Kim Xuyên	0	5057	3	5	125	1	20	20	20	20	20	1		52288	110240		1		
+Đan Bích Tú	0	5065	3	5	125	1	20	20	20	20	20	1		60512	103328		1		
+Lương Tiếu Tiếu	0	2441	3	5	125	1	20	20	20	20	20	1		62304	105728		1		
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52160	111392				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52000	111488				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52672	110400				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52640	109824				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52512	109664				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52224	111168				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52480	110592				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52576	110848				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52320	111712				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52736	109984				
+Lính Tình Báo Kim	0	4643	0	5	130	1	20	20	20	20	20	1		52736	110688				
+Thủ Lĩnh Tình Báo	0	4644	0	5	130	1	20	20	20	20	20	1		52096	111744				
+Thủ Lĩnh Tình Báo	0	4644	0	5	130	1	20	20	20	20	20	1		52448	111488				
+Ngô Dụng	0	2442	3	5	125	1	20	20	20	20	20	1		62528	105440		1		
+Lối vào Tần Lăng	0	2525	4	5	125	1	20	20	20	20	20	1		62816	105952		1		
+Thủ Lĩnh Tình Báo	0	4644	0	5	130	1	20	20	20	20	20	1		52864	110240				
+Thủ Lĩnh Tình Báo	0	4644	0	5	130	1	20	20	20	20	20	1		52928	110912				
+Huyết La Môn-Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		59968	101216		1		
+to_xueluomenshan1	1															\setting\map\map_info\afanggongfeixu\trap\to_xueluomenshan1.txt			
+Huyết La Môn-Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		54464	104032		1		
+to_xueluomenshan2	1															\setting\map\map_info\afanggongfeixu\trap\to_xueluomenshan2.txt			
+Huyết La Môn-Hà	0	2525	4	5	1	1	20	20	20	20	20	1		51680	111840		1		
+to_xueluomenhe1	1															\setting\map\map_info\afanggongfeixu\trap\to_xueluomenhe1.txt			
+Huyết La Môn-Hà	0	2525	4	5	1	1	20	20	20	20	20	1		59200	110144		1		
+to_xueluomenhe2	1															\setting\map\map_info\afanggongfeixu\trap\to_xueluomenhe2.txt			
+Lâm Phong Dương	0	9615	3	5	120	1	20	20	20	20	20	1		60864	121760				

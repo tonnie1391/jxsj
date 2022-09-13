@@ -1,0 +1,12 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hoàn Nhan Tương	0	1076	0	0	150	1	20	20	20	20	20	1		53920	100352		1		
+Thiết Y Vệ	0	1075	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xiagu4\npc\tieyiwei.txt	1		
+Bang Chúng Diêm Bang	0	1074	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xiagu4\npc\yanbangbangzhong.txt	1		
+to_taizubaoku2	1															\setting\map\map_info\xiagu4\trap\to_taizubaoku2.txt			
+to_exit552	1															\setting\map\map_info\xiagu4\trap\to_exit552.txt			
+Bảo Khố	0	2525	4	5	85	1	20	20	20	20	20	1		52480	97760				
+Rời khỏi	0	2525	4	5	85	1	20	20	20	20	20	1		51232	103360				
+Thống Lĩnh Thiết Y Vệ	0	1090	0	5	90	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	52640	99360		1		
+Thống Lĩnh Thiết Y Vệ	0	1090	0	5	90	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	52320	101248		1		
+Thống Lĩnh Thiết Y Vệ	0	1090	0	5	90	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	53120	101088		1		
+Thống Lĩnh Thiết Y Vệ	0	1090	0	5	90	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	53984	101344		1		

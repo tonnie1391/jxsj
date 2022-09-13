@@ -1,0 +1,66 @@
+MapId	ClassName	ToFightState	BeProtected	Script
+地图id	trap点的类名，需要和mapinfo里面的对应起来（唯一）	转换战斗状态	保护时间	自定义脚本
+2154	to_fight	1	0	
+2154	to_peace	0	0	
+2254	to_fight	1	0	
+2254	to_peace	0	0	
+2255	to_fight	1	0	
+2255	to_peace	0	0	
+2256	to_fight	1	0	
+2256	to_peace	0	0	
+2257	to_fight	1	0	
+2257	to_peace	0	0	
+2258	to_fight	1	0	
+2258	to_peace	0	0	
+2259	to_fight	1	0	
+2259	to_peace	0	0	
+2154	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2254	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2255	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2256	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2257	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2258	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2259	rukou	-1	0	Task.NewPrimerLv20:EnterFuben()
+2253	juqing1	-1	0	Task.NewPrimerLv20:AddJuQing1()
+2253	juqing2	-1	0	Task.NewPrimerLv20:AddJuQing2()
+55	to_nanmenwai	1	0	
+55	to_nanmennei	0	0	
+55	to_beimenwai	1	0	
+55	to_beimennei	0	0	
+55	to_ximenwai	1	0	
+55	to_ximennei	0	0	
+55	to_dongmenwai	1	0	
+55	to_dongmennei	0	0	
+55	to_fight	1	0	
+55	to_peace	0	0	
+2286	to_nanmenwai	1	0	
+2286	to_nanmennei	0	0	
+2286	to_beimenwai	1	0	
+2286	to_beimennei	0	0	
+2286	to_ximenwai	1	0	
+2286	to_ximennei	0	0	
+2286	to_dongmenwai	1	0	
+2286	to_dongmennei	0	0	
+2286	to_fight	1	0	
+2286	to_peace	0	0	
+60	to_yewai	1	0	
+60	to_anquanqu	0	0	
+74	to_fight	1	0	
+74	to_peace	0	0	
+48	to_fight	1	0	
+48	to_peace	0	0	
+59	to_fight	1	0	
+59	to_peace	0	0	
+72	to_fight	1	0	
+72	to_peace	0	0	
+67	to_fight	1	0	
+67	to_peace	0	0	
+66	to_fight	1	0	
+66	to_peace	0	0	
+51	to_fight	1	0	
+51	to_peace	0	0	
+63	to_fight	1	0	
+63	to_peace	0	0
+2086	to_fight	1	0	
+2086	to_peace	0	0	
+	

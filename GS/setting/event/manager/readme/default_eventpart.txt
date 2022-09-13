@@ -1,0 +1,1 @@
+PartId	Name	ExClass	Kind	SubKind	StartDate	EndDate	ExParam1	ExParam2	ExParam3	ExParam4	ExParam5	ExParam6	ExParam7	ExParam8	ExParam9	ExParam10	ExParam11	ExParam12	ExParam13	ExParam14	ExParam15	ExParam16	ExParam17	ExParam18	ExParam19	ExParam20

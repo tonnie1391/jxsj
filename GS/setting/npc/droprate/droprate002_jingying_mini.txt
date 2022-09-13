@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	10					250000		
+		18	1	114	1	100000		1级玄晶
+		18	1	114	2	70000		2级玄晶
+		18	1	114	3	20000		3级玄晶
+		19	3	1	1	10000		素炒竹肉
+		17	1	1	1	20000		金创药（小）
+		17	2	1	1	5000		凝神丹（小）

@@ -1,0 +1,8 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hồng Nương Tử	0	864	3	5	60	1	20	20	20	20	20	1		52224	100768		1		
+Tâm Như Đại Sư	0	830	3	5	60	1	20	20	20	20	20	1		52096	100640		1		
+to_exit507	1															\setting\map\map_info\longwangmiao_2\trap\to_exit507.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51648	101216		1		
+Gia Vương	0	1193	3	5	60	1	20	20	20	20	20	1		52224	100608		1		
+Tùy Tùng Gia Vương	0	820	3	5	60	1	20	20	20	20	20	1		51648	101024		1		
+Tùy Tùng Gia Vương	0	820	3	5	60	1	20	20	20	20	20	1		51808	101184		1		

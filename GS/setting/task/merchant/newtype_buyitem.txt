@@ -1,0 +1,2 @@
+TaskId	TaskName	TaskType	Diff	Genre	Detail	Particular	Level	Series	Num	ItemName	Suffix	Step01	Step02	Step03	LevelFlag	StartDay	AwardExp	NeedTime
+任务编号	任务名	任务类型	难度(描述)	大类	分类	细类	等级	五行	数量	物品名	后缀名	步骤1-9	步骤10	步骤100	达到60级	开服多少天后	获得经验	需要时间(秒)

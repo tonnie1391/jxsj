@@ -1,0 +1,31 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Khố	0	2599	3	5	90	1	20	20	20	20	20	1		51200	104000		1		
+Chủ Tiệm Binh Khí	0	2569	3	5	90	1	20	20	20	20	20	1		51456	101280		1		
+Chủ Tiệm Phòng Cụ	0	2570	3	5	90	1	20	20	20	20	20	1		50912	102240		1		
+Chủ Tiệm Thuốc	0	2571	3	5	90	1	20	20	20	20	20	1		50752	103968		1		
+Chủ Tiệm Tạp Hóa	0	2572	3	5	90	1	20	20	20	20	20	1		53088	104928		1		
+Tổng Quản Môn Phái	0	2573	3	5	90	1	20	20	20	20	20	1		51872	104256		1		
+Truyền Tống Môn Phái	0	2574	3	5	90	1	20	20	20	20	20	1		51360	103360		1		
+Củng Thiếu Trăn	0	3538	3	5	90	1	20	20	20	20	20	1		49824	101888		1		3
+Lãnh Thu Vân	0	3539	3	5	90	1	20	20	20	20	20	1		53184	102848		1		
+Cầu Chỉ Thủy	0	3540	3	5	90	1	20	20	20	20	20	1		51776	105856		1		
+La Phong	0	3541	3	5	90	1	20	20	20	20	20	1		50592	106688		1		2
+Thạch Hiên Viên	0	3542	3	5	150	1	20	20	20	20	20	1		54816	99776		1		
+Hàn Thác Trụ	0	40	3	5	60	1	20	20	20	20	20	1		50528	100544		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		50688	107200				2
+to_daoxiangcun	1															\setting\map\map_info\gaibang\trap\to_daoxiangcun.txt			
+to_yangzhoufu	1															\setting\map\map_info\gaibang\trap\to_yangzhoufu.txt			
+to_gusushuixie	1															\setting\map\map_info\gaibang\trap\to_gusushuixie.txt			
+Đạo Hương Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		48800	104608		1		
+Dương Châu Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		53248	99104		1		
+Cô Tô Thủy Tạ	0	2525	4	5	1	1	20	20	20	20	20	1		48928	107616		1		
+Điểm tìm đường Truyền Tống Môn Phái	0	2615	5	5	1	1	20	20	20	20	20	1		51360	103360		1		
+Chủ Tửu Lầu	0	2633	3	5	90	1	20	20	20	20	20	1		51872	102816		1		
+6027	0	6027	5	5	1	1	20	20	20	20	20	1		52096	105952				
+6027	0	6027	5	5	1	1	20	20	20	20	20	1		52256	107008				
+6029	0	6029	5	5	1	1	20	20	20	20	20	1		50528	106720				
+6033	0	6033	5	5	1	1	20	20	20	20	20	1		53248	105056				
+Sở Hòa	0	6061	5	5	1	1	20	20	20	20	20	1		49280	104736				
+Đậu Lão Thái	0	6067	5	5	1	1	20	20	20	20	20	1		52800	102592				
+Kiều Đại Hà	0	6103	5	5	1	1	20	20	20	20	20	1		49376	106016				
+6032	0	6032	5	5	1	1	20	20	20	20	20	1		51552	103808				

@@ -1,0 +1,17 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+houying1_daying1	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\houying1_daying1.txt			
+daying1_houying1	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\daying1_houying1.txt			
+houying3_daying3	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\houying3_daying3.txt			
+daying3_houying3	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\daying3_houying3.txt			
+daying1_yewai	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\daying1_yewai.txt			
+daying3_yewai	1															\setting\map\map_info\zhanchang_qishuiqiao\trap\daying3_yewai.txt			
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		61910	88530				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		62140	88742				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		44035	110196				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		44256	110380				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		60256	90624				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		61540	91954				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		44400	108085				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		45588	109258				
+Chiến thương của lão binh	0	1623	3	5	1	1	20	20	20	20	20	1		53536	102528		1		
+Người Liên Lạc Thương Hội Chiến Trường	0	2962	3	5	1	1	20	20	20	20	20	1		52896	98208		1		

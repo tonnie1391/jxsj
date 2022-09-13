@@ -1,0 +1,83 @@
+ID vật phẩm	Miêu tả vật phẩm
+20077	Rương Thiên Niên Linh Quả
+20082	Thiên Niên Linh Quả
+20115	Chìa Càn Khôn
+4	Thỏi vàng (đại)
+9	Thỏi vàng
+42	Tinh Khí Tán (1500)
+45	Hoạt Khí Tán (1500)
+1	Bạch Câu Hoàn
+2	Đại Bạch Câu Hoàn
+10	Thùng rượu (5 bình)
+11	Thùng rượu (50 bình)
+12	Vô Hạn Truyền Tống Phù (1 tuần)
+13	Vô Hạn Truyền Tống Phù (1 tháng)
+18	Vô Hạn Truyền Tống Phù (1 tuần)
+19	Vô Hạn Truyền Tống Phù (1 tháng)
+22	Càn Khôn Phù
+24	Lệnh bài triệu hồi gia tộc
+25	Giấy phép bày bán
+26	Cửu Chuyển Tục Mệnh Hoàn
+27	Lệnh Bài Hình Bộ
+28	Từ Bi Tâm Kinh
+29	Không Bạch Tâm Thư (sơ)
+30	Không Bạch Tâm Thư (trung)
+32	Kim Tê (cấp 4)
+33	Kim Tê (cấp 3)
+35	Lệnh bài Tẩy Tủy Đảo
+95	Bách Luyện Hoàn
+79	Vạn Vật Quy Nguyên Đơn
+36	Mã bài (Đại Uyển Mã)
+37	Mã bài (Ô Truy)
+40	Tinh Khí Tán (500)
+43	Hoạt Khí Tán (500)
+41	Tinh Khí Tán (1000)
+44	Hoạt Khí Tán (1000)
+46	Thiên Nhãn Phù
+68	Bản đồ bí cảnh
+207	Chìa khóa đồng
+208	Chìa khóa bạc
+209	Chìa khóa vàng
+210	Ốc biển truyền thanh (tiểu)
+211	Ốc biển truyền thanh (trung)
+54	Dây cương thần bí
+232	Giỏ Hoa Tình (10)
+233	Giỏ Hoa Tình (100)
+234	Giỏ Hoa Tình (1000)
+3	Cường Hiệu Bạch Câu Hoàn
+52	Đặc Hiệu Bạch Câu Hoàn
+434	Tam Tu Lệnh
+248	Ngọc Trúc Mai Hoa
+100	Bổ Tu Lệnh
+106	Nguyệt Ảnh Nguyên Thạch
+447	Nguyệt Ảnh Khoáng Thạch
+104	Tu Luyện Đơn
+107	Bùa sửa phòng cụ cường 15
+108	Bùa sửa trang sức cường 15
+49	Lệnh bài chúc phúc (sơ)
+50	Lệnh bài chúc phúc (trung)
+70	Lệnh bài chúc phúc (cao)
+57	Lệnh Bài Nghĩa Quân
+58	Lệnh bài thi đấu môn phái (cao)
+59	Lệnh bài Bạch Hổ Đường (cao)
+60	Lệnh Bài Gia Tộc (cao)
+61	Lệnh bài chiến trường (Dương Châu)
+62	Lệnh bài chiến trường (Phượng Tường)
+444	Giải Ngọc Chùy
+103	Bạc khóa Liên Server
+445	Bạc khóa Liên Server (đại)
+55	Võ Lâm Mật Tịch (trung)
+56	Tẩy Tủy Kinh (trung)
+88	Bánh ít bát bảo
+89	Bánh ít thập cẩm
+229	Huyền Chân Đơn
+238	Tử Chân Đơn
+239	Huyết Chân Đơn
+253	Quả xí muội (sơ)
+254	Quả xí muội (trung)
+255	Quả xí muội (cao)
+407	Túi Phúc Tinh Long
+409	Túi Phúc Kim Ngân
+410	Túi Phúc Hoa Hạ
+414	Túi Phúc Dương Châu
+411	Rương Mật Tịch (cao)

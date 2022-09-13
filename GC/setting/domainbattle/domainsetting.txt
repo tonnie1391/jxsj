@@ -1,0 +1,51 @@
+DomainId	DomainName	CountryId	FightMap	MapType	CenterX	CenterY	nRange	ReputeParam	ReactRate	TitleDetail
+1	Long Môn Trấn	1	31	village	1950	3443	100	4	30	2
+5	Đại Tán Quan	1	87	fight	1808	3739	100	6	30	2
+6	Cư Diên Trạch	1	94	fight	1787	3609	100	6	30	2
+7	Mê Cung Sa Mạc	1	101	fight	1774	3535	100	5	30	2
+8	Gia Dụ Quan	1	115	fight	1624	3158	100	4	30	2
+9	Đôn Hoàng Cổ Thành	1	123	fight	1835	3658	100	3	30	2
+10	Nguyệt Nha Tuyền	1	131	fight	1798	3490	100	5	30	2
+11	Vĩnh Lạc Trấn	4	32	village	1790	3599	100	4	30	2
+14	Hán Thủy Cổ Độ	4	88	fight	1751	3615	100	6	30	2
+15	Phục Ngưu Sơn	4	95	fight	1746	3575	100	10	30	2
+16	Hoàng Hạc Lâu	4	109	fight	1765	3564	100	4	30	2
+17	Hoa Sơn	4	116	fight	1797	3539	100	3	30	2
+18	Tàn Tích Cung A Phòng	2	132	fight	1777	3553	100	4	30	2
+19	Giang Tân Thôn	4	34	village	1738	3644	150	4	30	2
+22	Cán Hoa Khê	4	90	fight	1784	3712	100	8	30	2
+23	Kiếm Các Thục Đạo	4	104	fight	1734	3475	100	3	30	2
+24	Kiếm Môn Quan	4	111	fight	1794	3572	100	8	30	2
+25	Phong Đô Quỷ Thành	4	118	fight	1704	3530	100	4	30	2
+26	Tam Hiệp Sạn Đạo	4	126	fight	1702	3587	100	4	30	2
+27	Thần Nữ Phong	4	134	fight	1761	3522	100	4	30	2
+28	Vân Trung Trấn	2	30	village	1782	3568	100	4	30	2
+33	Thái Hành Cổ Kính	2	86	fight	1825	3501	100	6	30	2
+34	Phong Lăng Độ	2	100	fight	1779	3527	100	3	30	2
+35	Long Môn Thạch Quật	2	107	fight	1763	3571	100	4	30	2
+36	Sắc Lặc Xuyên	1	114	fight	1747	3525	100	3	30	2
+37	Mạc Bắc Thảo Nguyên	1	122	fight	1825	3485	100	2	30	2
+38	Mông Cổ Vương Đình	1	130	fight	1720	3459	100	4	30	2
+39	Đạo Hương Thôn	4	33	village	1771	3737	150	4	30	2
+42	Hàn Sơn Cổ Sát	4	89	fight	1745	3466	100	3	30	2
+43	Hổ Khâu Kiếm Trì	4	96	fight	1833	3648	100	4	30	2
+44	Thục Cương Sơn	2	103	fight	1806	3559	100	4	30	2
+45	Thục Cương Bí Cảnh	2	117	fight	1610	3203	100	5	30	2
+46	Đại Vũ Đài	2	125	fight	1772	3542	100	2	30	2
+47	Lương Sơn Bạc	2	133	fight	1711	3481	100	7	30	2
+48	Long Tuyền Thôn	4	36	village	1751	3534	150	4	30	2
+53	Thái Thạch Cơ	4	92	fight	1854	3436	100	5	30	2
+54	Bành Lãi Cổ Trạch	4	99	fight	1425	2857	100	3	30	2
+55	Cửu Nghi Khê	4	106	fight	1799	3593	100	5	30	2
+56	Vũ Di Sơn	4	120	fight	1727	3548	100	3	30	2
+57	Tỏa Vân Uyên	4	128	fight	1739	3507	100	4	30	2
+58	Cổ Lãng Dữ	4	136	fight	1698	3479	100	3	30	2
+59	Ba Lăng Huyện	4	37	village	1782	3580	150	4	30	2
+61	Vũ Lăng Sơn	4	121	fight	1639	3291	100	4	30	2
+62	Đào Hoa Nguyên	4	137	fight	1818	3638	100	3	30	2
+63	Thạch Cổ Trấn	3	35	village	1867	3699	100	4	30	2
+68	Nhĩ Hải Ma Nham	3	91	fight	1802	3503	100	4	30	2
+69	Điểm Thương Sơn	3	98	fight	1761	3593	100	3	30	2
+70	Thiên Long Tự	3	112	fight	1712	3589	100	2	30	2
+71	Miêu Lĩnh	3	119	fight	1666	3493	100	1	30	2
+72	Tàn Tích Dạ Lang	3	135	fight	1831	3648	100	3	30	2

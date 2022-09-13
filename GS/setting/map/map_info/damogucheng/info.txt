@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+大漠窃贼	0	2713	0	5	65	1	20	20	20	20	20	1				\setting\map\map_info\damogucheng\npc\npc_level_1.txt	1		
+荒原刀客	0	2714	0	5	70	1	20	20	20	20	20	1				\setting\map\map_info\damogucheng\npc\npc_level_2.txt	1		
+沙漠巫师	0	2715	0	5	75	1	20	20	20	20	20	1				\setting\map\map_info\damogucheng\npc\npc_level_3.txt	1		
+面具武士	0	2717	0	5	75	1	20	20	20	20	20	1		55776	104928		1		
+尸逐达鲁	0	2718	0	5	75	1	20	20	20	20	20	1		57856	104928		1		
+尉吕	0	2721	3	5	30	1	20	20	20	20	20	1		52960	104480		1		
+石敬一	0	2723	3	5	30	1	20	20	20	20	20	1		55296	103744		1		
+鄯士	0	2724	3	5	30	1	20	20	20	20	20	1		57248	104736		1		
+鄯摩	0	2725	3	5	30	1	20	20	20	20	20	1		59712	107456		1		
+青青	0	2726	3	5	10	1	20	20	20	20	20	1		61280	111872		1		
+宝箱	0	2704	3	5	70	1	20	20	20	20	20	1				\setting\map\map_info\damogucheng\npc\box.txt	1		
+to_lock	1															\setting\map\map_info\damogucheng\trap\to_lock.txt			
+to_finalboss	1															\setting\map\map_info\damogucheng\trap\to_finalboss.txt			
+to_leave	1															\setting\map\map_info\damogucheng\trap\to_leave.txt			
+出口	0	2525	4	5	20	1	20	20	20	20	20	1		60736	114432				

@@ -1,0 +1,22 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngưu Chấn Sơn	0	3119	0	5	95	1	20	20	20	20	20	16		51904	93408				0
+Nguyên Thập Nhị	0	3120	0	5	95	1	20	20	20	20	20	16		53504	107456				1
+Diêu Thanh Bình	0	3121	0	5	95	1	20	20	20	20	20	16		46016	110080				2
+Tôn Nguyệt Lâu	0	3122	0	5	95	1	20	20	20	20	20	16		49152	93984				4
+to_daoxiangcun	1															\setting\map\map_info\shugangmijing\trap\to_daoxiangcun.txt			
+to_funiushan	1															\setting\map\map_info\shugangmijing\trap\to_funiushan.txt			
+to_jianjudong	1															\setting\map\map_info\shugangmijing\trap\to_jianjudong.txt			
+Đạo Hương Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		57760	106080		1		
+Phục Ngưu Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		43936	109216		1		
+Tiến Cúc Động	0	2525	4	5	1	1	20	20	20	20	20	1		57312	96768		1		
+Phù Du Tán Binh	0	2265	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\shugangmijing\npc\area1.txt			
+Mâu Thủ Bí Cảnh	0	2266	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\shugangmijing\npc\area2.txt			
+Lang Trung Giang Hồ	0	2267	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\shugangmijing\npc\area3.txt			
+Sơn Miêu	0	2268	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\shugangmijing\npc\area4.txt			
+Người Thần Bí 1	0	1844	0	5	95	1	20	20	20	20	20	16		51904	102368				0
+Người Thần Bí 2	0	1845	0	5	95	1	20	20	20	20	20	16		51264	102368				1
+Người Thần Bí 3	0	1846	0	5	95	1	20	20	20	20	20	16		51552	101632				2
+Đại Vũ Đài	0	2525	4	5	1	1	20	20	20	20	20	1		50112	93120		1		
+to_dayutai	1															\setting\map\map_info\shugangmijing\trap\to_dayutai.txt			
+Lương Sơn Bạc	0	2525	4	5	1	1	20	20	20	20	20	1		56128	95584		1		
+to_liangshanpo	1															\setting\map\map_info\shugangmijing\trap\to_liangshanpo.txt			

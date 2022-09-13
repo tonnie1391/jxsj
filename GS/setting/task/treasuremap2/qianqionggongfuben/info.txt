@@ -1,0 +1,4 @@
+InstanceLevel	Desc	RequirePlayerLevel	Favor	NpcFile	AwardFile
+1	Cấp 90 trở lên	90	40	\setting\task\treasuremap2\qianqionggongfuben\npc_level1.txt	\setting\task\treasuremap2\qianqionggongfuben\award_level1.txt
+2	Cấp 100 trở lên	100	45	\setting\task\treasuremap2\qianqionggongfuben\npc_level2.txt	\setting\task\treasuremap2\qianqionggongfuben\award_level2.txt
+3	Cấp 130 trở lên	130	50	\setting\task\treasuremap2\qianqionggongfuben\npc_level3.txt	\setting\task\treasuremap2\qianqionggongfuben\award_level3.txt

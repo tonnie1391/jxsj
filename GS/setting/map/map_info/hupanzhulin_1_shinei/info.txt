@@ -1,0 +1,31 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đường Nhất Trần	0	696	3	5	60	1	20	20	20	20	20	1		50688	122880		1		
+Đường Nhất Trần	0	696	3	5	60	1	20	20	20	20	20	1		60352	122976		1		
+Đường Hiểu	0	701	3	5	150	1	20	20	20	20	20	1		50848	122944		1		
+Đường Nhã	0	704	3	5	60	1	20	20	20	20	20	1		53056	122560		1		
+Đường Nhã	0	704	3	5	60	1	20	20	20	20	20	1		55488	123040		1		
+Đường Nhu	0	705	3	5	60	1	20	20	20	20	20	1		53152	122432		1		
+Đường Nhu	0	705	3	5	60	1	20	20	20	20	20	1		55424	122944		1		
+Đường Hiểu	0	706	3	5	150	1	20	20	20	20	20	1		53248	122752		1		
+Đường Hiểu	0	706	3	5	150	1	20	20	20	20	20	1		55552	123360		1		
+Tiểu Nô	0	707	3	5	60	1	20	20	20	20	20	1		52960	122464		1		
+Đường Khuyết	0	709	3	5	90	1	20	20	20	20	20	1		55360	123232		1		
+Đường Phong	0	710	3	5	60	1	20	20	20	20	20	1		55584	123136		1		1
+Gia Nhân Đường Viễn	0	711	3	5	60	1	20	20	20	20	20	1		55360	123456		1		
+Đường Khuyết	0	712	3	5	90	1	20	20	20	20	20	1		57792	123360		1		
+Đường Hạc	0	727	3	5	90	1	20	20	20	20	20	1		60416	122816		1		
+Đường Hạc	0	727	3	5	90	1	20	20	20	20	20	1		50624	122688		1		
+Thân Vệ Đường Khuyết	0	733	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\hupanzhulin_1_shinei\npc\tangqueqinwei.txt	1		1
+Đường Khuyết	0	736	3	5	90	1	20	20	20	20	20	1		60512	123136		1		
+Đến Ẩn Giả Hiệp	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Đến Đông Bờ Hồ Trúc Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360		1		
+Đến Nội Viện Biệt Nhã Tiểu Trúc	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136		1		
+Đến Nội Viện Biệt Nhã Tiểu Trúc	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648		1		
+Đến Đông Bờ Hồ Trúc Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872		1		
+Đến Đông Bờ Hồ Trúc Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456		1		
+to_exit17	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\hupanzhulin_1_shinei\trap\to_exit25.txt			

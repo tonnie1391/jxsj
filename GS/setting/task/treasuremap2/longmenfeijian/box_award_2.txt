@@ -1,0 +1,4 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	5000					500000		1000°óÒø
+	10000					300000		2000°óÒø
+	16000					200000		5000°óÒø

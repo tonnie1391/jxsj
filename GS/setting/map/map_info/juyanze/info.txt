@@ -1,0 +1,50 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trang Viên Kháng Thủ	0	840	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\zhuangyuankanshou.txt	1		4
+Phi Thương Thủ	0	841	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\feiqiangshou.txt	1		0
+to_liangxianglin	1															\setting\map\map_info\juyanze\trap\to_liangxianglin.txt			
+Hổ Kỵ Hoành Sơn	0	2154	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\area2.txt			2
+Ưng Kỵ Hoành Sơn	0	2155	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\area3.txt			
+Khương Bộ Binh Hoành Sơn	0	2153	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\area4.txt			
+to_shamomigong	1															\setting\map\map_info\juyanze\trap\to_shamomigong.txt			
+to_mengguwangting	1															\setting\map\map_info\juyanze\trap\to_mengguwangting.txt			
+to_jiayuguan	1															\setting\map\map_info\juyanze\trap\to_jiayuguan.txt			
+to_fengxiangfu	1															\setting\map\map_info\juyanze\trap\to_fengxiangfu.txt			
+to_dufang	1															\setting\map\map_info\juyanze\trap\to_dufang.txt			
+to_lubing	1															\setting\map\map_info\juyanze\trap\to_lubing.txt			
+Soái Trướng	0	2525	4	5	1	1	20	20	20	20	20	1		55744	122400		1		
+Mê Cung Sa Mạc	0	2525	4	5	1	1	20	20	20	20	20	1		63584	115488				
+Phượng Tường Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		51072	126144				
+Trát Doanh Binh	0	581	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\zhayingbing.txt	1		4
+Sòng Bạc Vong Quy	0	2525	4	5	1	1	20	20	20	20	20	1		61728	104128		1		
+Doanh Trướng	0	2525	4	5	1	1	20	20	20	20	20	1		59808	111680		1		
+Quách Chính	0	972	3	5	65	1	20	20	20	20	20	1		51200	109056		1		
+Tiểu Anh	0	839	3	5	65	1	20	20	20	20	20	1		52736	117760		1		
+Dã Mộ Quang	0	842	0	5	65	1	20	20	20	20	20	1		53376	125696		1		
+Truy Phong	0	843	0	5	65	1	20	20	20	20	20	1		58240	125184		1		
+Mã Tặc Kỳ Thủ	0	854	0	5	65	1	20	20	20	20	20	1		52320	125600		1		
+Vân Đại Đao	0	846	3	5	65	1	20	20	20	20	20	1		61152	104640		1		
+Mã Bá Lạc	0	865	3	5	65	1	20	20	20	20	20	1		60800	105824		1		
+Mã Tặc Bị Bắt	0	889	3	5	65	1	20	20	20	20	20	1		54752	123424		1		
+Ngựa Chúa	0	587	0	5	65	1	20	20	20	20	20	1		53440	106560		1		
+Ngựa Chúa	0	587	0	5	65	1	20	20	20	20	20	1		53952	105824		1		
+Ngựa Chúa	0	587	0	5	65	1	20	20	20	20	20	1		52256	107200		1		
+Ngựa Chúa	0	587	0	5	65	1	20	20	20	20	20	1		55904	108928		1		
+Lão Túy Đầu	0	571	3	5	65	1	20	20	20	20	20	1		61952	104544		1		
+Người Bắt Rắn	0	598	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\nongsheren.txt			
+Bích Xà	0	595	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\bishe.txt			
+Tấn Lang	0	594	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\xunlang.txt			
+Tiểu Mặc Nhĩ	0	602	3	5	65	1	20	20	20	20	20	1		60800	119168		1		
+Đại Mặc Nhĩ	0	603	3	5	65	1	20	20	20	20	20	1		60480	106592		1		
+Bã rượu của Lão Túy Đầu	0	1242	3	5	65	1	20	20	20	20	20	1		61952	104704		1		
+Thổ Cẩu	0	622	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\juyanze\npc\tugou.txt			
+Lâu Kế Thiện	0	3027	0	5	65	1	20	20	20	20	20	16		51360	121216				4
+Lư Quán Bắc	0	3028	0	5	65	1	20	20	20	20	20	16		54816	104000				2
+Lục Trọng Hiền	0	3029	0	5	65	1	20	20	20	20	20	16		63456	119168				3
+Lạc Nhĩ Kim	0	3030	0	5	65	1	20	20	20	20	20	16		54912	119872				0
+Gia Dụ Quan	0	2525	4	5	1	1	20	20	20	20	20	1		50976	117184				
+to_mengguwangting	1															\setting\map\map_info\juyanze\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	1	1	20	20	20	20	20	1		63680	103904				
+to_helanshandonglu	1															\setting\map\map_info\juyanze\trap\to_helanshandonglu.txt			
+Đông Hạ Lan Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		56768	127584				
+to_keyimenyaoai	1															\setting\map\map_info\juyanze\trap\to_keyimenyaoai.txt			
+Cửa Ải Khắc Di Môn	0	2525	4	5	1	1	20	20	20	20	20	1		63552	126176				

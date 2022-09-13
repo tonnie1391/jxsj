@@ -1,0 +1,1 @@
+NpcId	TRPOSX	TRPOSY

@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_jingshe	1															\setting\map\map_info\jingshe_shutong\trap\to_jingshe.txt			
+Đến Vũ Di Sơn Tinh Xá	0	2525	4	5	1	1	20	20	20	20	20	1		52160	103136				
+Thư Đồng	0	4304	3	5	105	1	20	20	20	20	20	1		51712	102528		1		

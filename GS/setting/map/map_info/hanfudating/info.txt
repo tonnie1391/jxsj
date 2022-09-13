@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hàn Thác Trụ	0	556	3	5	60	1	20	20	20	20	20	1		49216	99232		1		
+to_exit516	1															\setting\map\map_info\hanfudating\trap\to_exit516.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		49856	99904		1		
+Quản Gia Hàn Phủ	0	4591	0	5	130	1	20	20	20	20	20	1		50304	99200				
+A Hoàn Hàn Phủ	0	4592	0	5	130	1	20	20	20	20	20	1		50048	99072				

@@ -1,0 +1,15 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_juyanze	1															\setting\map\map_info\keyimenyaoai\trap\to_juyanze.txt			
+to_luhegu	1															\setting\map\map_info\keyimenyaoai\trap\to_luhegu.txt			
+Cư Diên Trạch	0	2525	4	5	1	1	20	20	20	20	20	1		51680	115680				
+Lộc Hợp Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		61344	102656				
+Lý Đông Hải	0	10068	3	5	130	1	20	20	20	20	20	1		65504	112544		1		
+Thái Mãnh	0	10069	3	5	130	1	20	20	20	20	20	1		65664	112768		1		
+Gia Tinh Niên	0	10070	3	5	130	1	20	20	20	20	20	1		65440	113312		1		
+Thạch Đệ Mông	0	10071	3	5	130	1	20	20	20	20	20	1		65088	113472		1		
+Kha Tiêu Húc	0	10072	3	5	130	1	20	20	20	20	20	1		64800	113216		1		
+Chàng Lệnh Lang	0	10073	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\keyimenyaoai\npc\minions01.txt	1		
+Quân Hiệu Cầm Sinh Quân	0	10074	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\keyimenyaoai\npc\minions02.txt	1		
+Binh Sĩ Cầm Sinh Quân	0	10075	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\keyimenyaoai\npc\minions03.txt	1		
+Kỵ Binh Bát Hỉ Quân	0	10076	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\keyimenyaoai\npc\task_defminions.txt	1		
+Khang Ấn Thần	0	10077	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\keyimenyaoai\npc\task_boss01.txt	1		

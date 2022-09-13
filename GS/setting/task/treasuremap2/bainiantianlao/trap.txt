@@ -1,0 +1,2 @@
+TrapName	TrapPosFile
+inside_room	\setting\task\treasuremap2\bainiantianlao\trap\inside_room.txt

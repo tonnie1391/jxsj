@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lỗ Binh	0	1230	0	5	65	1	20	20	20	20	20	1		55840	110176		1		0
+A Nhã	0	838	3	5	65	1	20	20	20	20	20	1		53824	109696		1		0
+Lỗ Binh	0	1229	3	5	65	1	20	20	20	20	20	1		59840	126240		1		0
+Đầu Tử Muội	0	974	3	5	65	1	20	20	20	20	20	1		51552	110720		1		0
+Đầu Tử Muội	0	974	3	5	65	1	20	20	20	20	20	1		50624	109664		1		0
+Đổ Khách	0	967	3	5	65	1	20	20	20	20	20	1				\setting\map\map_info\juyanze_shinei\npc\duke.txt	1		0
+Phục Binh	0	966	0	5	65	1	20	20	20	20	20	1				\setting\map\map_info\juyanze_shinei\npc\fubing.txt	1		0
+to_exit29	1															\setting\map\map_info\juyanze_shinei\trap\to_exit29.txt	1		
+to_exit8	1															\setting\map\map_info\juyanze_shinei\trap\to_exit8.txt	1		
+to_exit9	1															\setting\map\map_info\juyanze_shinei\trap\to_exit9.txt	1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50592	110784		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		54176	110656		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		59424	126720		1		

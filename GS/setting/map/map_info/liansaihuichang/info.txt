@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quan Hội Trường	0	3386	3	5	100	1	20	20	20	20	20	1				\setting\map\map_info\liansaihuichang\npc\huichangguanyuan.txt	1		
+Thương Nhân Hội Trường	0	3387	3	5	100	1	20	20	20	20	20	1				\setting\map\map_info\liansaihuichang\npc\huichangyaoshang.txt	1		
+Truyền Tống Hội Trường	0	3388	3	5	100	1	20	20	20	20	20	1				\setting\map\map_info\liansaihuichang\npc\huichangchuansongren.txt	1		
+Trâu Đức Khoái	0	2599	3	5	100	1	20	20	20	20	20	1				\setting\map\map_info\liansaihuichang\npc\wupinbaoguanren.txt	1		

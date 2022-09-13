@@ -1,0 +1,41 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_shanzhai	1															\setting\map\map_info\diancangshan\trap\to_shanzhai.txt			
+to_bieyuan	1															\setting\map\map_info\diancangshan\trap\to_bieyuan.txt			
+Tinh Binh Ô Bố Trại	0	2156	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\area1.txt	1		
+Tuần Thủ Ô Bố Trại	0	2157	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\area2.txt	1		
+Hắc Thủy Khinh Kỵ	0	2158	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\area3.txt	1		
+Tuần Thủ Ô Bố Trại	0	2157	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\area4.txt	1		
+A Nặc	0	579	3	5	70	1	20	20	20	20	20	1		58528	118080		1		
+Thủ Lĩnh Giám Công	0	580	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\jiangongtouling.txt	1		
+Giám Công	0	582	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\jiangong.txt	1		
+Lý Bản Nguyên	0	585	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	51424	118784		1		
+Khổ Công	0	583	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\diancangshan\npc\kugong.txt	1		
+Thiên Long Tự	0	2525	4	5	70	1	20	20	20	20	20	1		57216	103168				
+Nhĩ Hải Ma Nham	0	2525	4	5	70	1	20	20	20	20	20	1		61888	105888				
+Đại Lý Phủ	0	2525	4	5	70	1	20	20	20	20	20	1		61888	121696				
+Hoàng Lăng Đoàn Thị	0	2525	4	5	70	1	20	20	20	20	20	1		53568	105536				
+Đại sảnh Biệt Viện	0	2525	4	5	70	1	20	20	20	20	20	1		58336	104160				
+Cư Dân Sơn Trại	0	2525	4	5	70	1	20	20	20	20	20	1		58400	118112				
+Kẻ Nghe Lén	0	994	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	57888	117600		1		
+Hứa Xương	0	859	3	5	70	1	20	20	20	20	20	1		59168	106944		1		
+Hung Mãnh Môn Vệ	0	961	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	59296	105504		1		
+Hung Mãnh Môn Vệ	0	961	0	5	70	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	59424	105376		1		
+Mã Thị	0	1046	3	5	70	1	20	20	20	20	20	1		57472	119232		1		
+Cáp Ca	0	586	3	5	70	1	20	20	20	20	20	1		58752	116736		1		
+Tử Sở	0	596	3	5	70	1	20	20	20	20	20	1		58656	117632		1		
+Thẩm Tẩu	0	4408	3	5	150	1	20	20	20	20	20	1		58944	118464		1		
+Đoàn Trí Tường	0	4425	3	5	150	1	20	20	20	20	20	1		61344	121920		1		
+Tang Đại Nương	0	4385	3	5	150	1	20	20	20	20	20	1		57088	119840		1		
+Nho Sinh Giả Trang	0	4435	0	5	115	1	20	20	20	20	20	2		60704	112448		1		
+Công nhân xây miếu	0	4436	0	5	115	1	20	20	20	20	20	2		60928	111968		1		
+Thư Đồng Giả Trang	0	4437	0	5	115	1	20	20	20	20	20	2		61280	112320		1		
+to_tianlongsi	1															\setting\map\map_info\diancangshan\trap\to_tianlongsi.txt			
+to_erhaimoyan	1															\setting\map\map_info\diancangshan\trap\to_erhaimoyan.txt			
+to_dalifu	1															\setting\map\map_info\diancangshan\trap\to_dalifu.txt			
+to_duanshihuangling	1															\setting\map\map_info\diancangshan\trap\to_duanshihuangling.txt			
+Tiết Điệp Y	0	3043	0	5	65	1	20	20	20	20	20	16		59264	124192				0
+Chung Thiết Thoái	0	3044	0	5	65	1	20	20	20	20	20	16		58144	105984				1
+Ứng Tiêu Phong	0	3045	0	5	65	1	20	20	20	20	20	16		59392	113184				2
+Du Vạn Lý	0	3046	0	5	65	1	20	20	20	20	20	16		51680	103936				3
+Tiểu Nguyệt	0	5063	3	5	120	1	20	20	20	20	20	1		58176	104800				
+Lưu lão gia	0	5064	0	5	120	1	20	20	20	20	20	1		58848	103360				

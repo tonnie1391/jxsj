@@ -1,0 +1,9 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+houying1_daying1_1	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\houying1_daying1_1.txt			
+houying1_daying1_2	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\houying1_daying1_2.txt			
+daying1_houying1	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\daying1_houying1.txt			
+daying1_yewai	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\daying1_yewai.txt			
+houying3_daying3_1	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\houying3_daying3_1.txt			
+houying3_daying3_2	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\houying3_daying3_2.txt			
+daying3_houying3	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\daying3_houying3.txt			
+daying3_yewai	1															\setting\map\map_info\zhanchang_xibei_fengxiang\trap\daying3_yewai.txt			

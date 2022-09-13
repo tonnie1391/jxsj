@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Sĩ Binh Kim Quốc	0	63	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yanziwu_1_ysj\npc\jinguoshibing.txt	1		
+Đến Ngoài Yến Tử Ổ	0	2525	4	5	1	1	20	20	20	20	20	1		52448	97760		1		
+ysj2yanziwu	1															\setting\map\map_info\yanziwu_1_ysj\trap\to_yanziwu.txt			

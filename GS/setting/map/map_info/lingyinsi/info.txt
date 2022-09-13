@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lý Phượng Nương	0	950	3	5	60	1	20	20	20	20	20	1		51360	102784		1		
+Thị Vệ Lý Hậu	0	949	0	5	70	1	20	20	20	20	20	1				\setting\map\map_info\lingyinsi\npc\lihoushiwei.txt	1		
+to_exit524	1															\setting\map\map_info\lingyinsi\trap\to_exit524.txt			
+Thạch Hiên Viên	0	1185	0	0	150	1	20	20	20	20	20	1		52512	103776		1		
+Dương Thiết Tâm	0	1184	0	0	150	1	20	20	20	20	20	1		52320	103936		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		52608	104064		1		

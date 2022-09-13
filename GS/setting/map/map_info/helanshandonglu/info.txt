@@ -1,0 +1,30 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_juyanze	1															\setting\map\map_info\helanshandonglu\trap\to_juyanze.txt			
+Cư Diên Trạch	0	2525	4	5	1	1	20	20	20	20	20	1		47936	91136				
+to_luhegu	1															\setting\map\map_info\helanshandonglu\trap\to_luhegu.txt			
+Lộc Hợp Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		61536	90176				
+helan_safe_enter	1															\setting\map\map_info\helanshandonglu\trap\safearea01.txt			
+Hậu Doanh Tây Hạ	0	2525	4	5	1	1	20	20	20	20	20	1		48416	94752				
+helan_safe_exit	1															\setting\map\map_info\helanshandonglu\trap\safearea02.txt			
+Nguy Danh Lệnh Công	0	10052	3	5	130	1	20	20	20	20	20	1		47424	94784				
+Nhậm Đắc Hiếu	0	10053	3	5	130	1	20	20	20	20	20	1		47520	94720				
+Nhân Đa Toa Đinh	0	10054	3	5	130	1	20	20	20	20	20	1		47360	94912				
+Nhân Đa Bảo Trung	0	10055	3	5	130	1	20	20	20	20	20	1		47360	95072				
+Tô Nô Nhi	0	10056	3	5	130	1	20	20	20	20	20	1		47424	95200				
+Vệ Trung Tiên	0	10057	3	5	130	1	20	20	20	20	20	1		47712	94848				
+Lê Ấn Phúc	0	10058	3	5	130	1	20	20	20	20	20	1		47616	94752				
+Tù Binh Bị Trói	0	10059	3	5	130	1	20	20	20	20	20	1		47968	94784				
+Sa Hồ Lưu Dân	0	10060	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\helanshandonglu\npc\minions01.txt			
+Quân Cảnh Vệ	0	10061	0	5	125	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\helanshandonglu\npc\minions02.txt			
+Thanh củi	0	10062	3	5	130	1	20	20	20	20	20	1				\setting\map\map_info\helanshandonglu\npc\task_shumu.txt			
+Rìu	0	10063	3	5	130	1	20	20	20	20	20	1							
+Đống củi	0	10064	3	5	130	1	20	20	20	20	20	1							
+Mã thảo	0	10065	3	5	130	1	20	20	20	20	20	1				\setting\map\map_info\helanshandonglu\npc\task_macao.txt			
+Hốc cây	0	10092	3	5	130	1	20	20	20	20	20	1		53856	98432				
+Gạch	0	10093	3	5	130	1	20	20	20	20	20	1		48704	96576				
+Lý Vân Dao	0	10051	3	5	130	1	20	20	20	20	20	1		48256	95648				
+Thác Bạt Mộ Vân	0	10049	3	5	130	1	20	20	20	20	20	1		48320	95584				
+Dã Luyện Đại Sư	0	3574	3	5	130	1	20	20	20	20	20	1		48416	95616				
+Tiệm thuốc	0	10036	3	5	130	1	20	20	20	20	20	1		48224	95808				
+Xa Phu	0	2597	3	5	130	1	20	20	20	20	20	1		48000	95808				
+Thủ Khố	0	2599	3	5	130	1	20	20	20	20	20	1		47840	95712				

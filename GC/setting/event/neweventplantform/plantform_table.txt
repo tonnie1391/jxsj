@@ -1,0 +1,6 @@
+Session	EventType	AwardFile	Desc	
+活动届数	活动类型	奖励表	描述	
+1	1	award_session_1.txt	打雪仗	
+2	2	award_session_2.txt	城堡之战	
+3	3	award_session_3.txt	先祖之魂
+4	4	award_session_4.txt	赛龙舟	

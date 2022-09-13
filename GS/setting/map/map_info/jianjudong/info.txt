@@ -1,0 +1,20 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Khổ Công	0	2190	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianjudong\npc\area1.txt	1		
+Bang Chúng Bắc Mã	0	2191	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianjudong\npc\area2.txt	1		
+Khổ Công	0	2190	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianjudong\npc\area3.txt	1		
+Bang Chúng Diêm Bang	0	2189	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianjudong\npc\area4.txt	1		
+to_daoxiangcun	1															\setting\map\map_info\jianjudong\trap\to_daoxiangcun.txt			
+to_shugangshan	1															\setting\map\map_info\jianjudong\trap\to_shugangshan.txt			
+Đạo Hương Thôn	0	2525	4	5	85	1	20	20	20	20	20	1		43872	104800				
+Thục Cương Sơn	0	2525	4	5	85	1	20	20	20	20	20	1		53984	102816				
+to_mangshedong	1															\setting\map\map_info\jianjudong\trap\to_mangshedong.txt			
+Mãng Xà Động	0	2525	4	5	85	1	20	20	20	20	20	1		47872	106112				
+Đại Trụ	0	1064	0	5	85	1	20	20	20	20	20	1		42240	100640				
+Cố Vô Thường	0	3091	0	5	85	1	20	20	20	20	20	16		42336	97760				5
+Cổ Thanh Dương	0	3092	0	5	85	1	20	20	20	20	20	16		50752	104832				4
+Quan Tử Mạc	0	3093	0	5	85	1	20	20	20	20	20	16		52544	94208				3
+Hà Liên Tố	0	3094	0	5	85	1	20	20	20	20	20	16		44160	96000				2
+to_liangshanpo	1															\setting\map\map_info\jianjudong\trap\to_liangshanpo.txt			
+Lương Sơn Bạc	0	2525	4	5	85	1	20	20	20	20	20	1		54400	92320				
+to_shugangmijing	1															\setting\map\map_info\jianjudong\trap\to_shugangmijing.txt			
+Lối vào Thục Cương Bí Cảnh	0	2525	4	6	85	1	20	20	20	20	20	1		42016	97504				

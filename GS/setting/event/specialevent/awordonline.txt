@@ -1,0 +1,6 @@
+nId	Genre	DetailType	ParticularType	Level	nNum	nMoney	BindMoney	BindCoin	Infomation	Ready1Time	Ready2Time
+1	18	1	80	1	2				2个黄金福袋	300	300
+2							3000		3000绑定银两	900	300
+3	18	1	189	1	1				1个小酒箱（5瓶装）	1200	300
+4	18	1	71	2	1				1个大白驹丸（绑定）	1800	300
+5								400	400绑定金币	1800	300

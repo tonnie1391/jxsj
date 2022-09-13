@@ -1,0 +1,28 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngô Hy	0	1125	3	5	150	1	20	20	20	20	20	1		50656	125856		1		
+Tư Không Đỗ	0	890	3	5	75	1	20	20	20	20	20	1		56160	114784		1		
+Ngô Hy	0	884	0	5	75	1	20	20	20	20	20	1		56032	114624		1		2
+to_exit14	1															\setting\map\map_info\jiangeshudao_shinei\trap\to_exit14.txt			
+to_exit15	1															\setting\map\map_info\jiangeshudao_shinei\trap\to_exit15.txt			
+to_exit28	1															\setting\map\map_info\jiangeshudao_shinei\trap\to_exit28.txt			
+to_exit20	1															\setting\map\map_info\jiangeshudao_shinei\trap\to_exit20.txt			
+to_exit26	1															\setting\map\map_info\jiangeshudao_shinei\trap\to_exit26.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		55328	115232		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		58368	115264		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		56064	126688		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		60192	123392		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50368	126304		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		59584	119776		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		54176	110688		1		
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56000	126144		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56160	125984		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		55840	126336		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56320	125824		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56416	126944		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56576	126784		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56736	126592		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56416	126112		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56640	126336		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		56896	126400		1		2
+Ngô Đức	0	1105	3	5	75	1	20	20	20	20	20	1		56320	126496		1		2
+Thư	0	886	3	5	75	1	20	20	20	20	20	1		59296	114208		1		2

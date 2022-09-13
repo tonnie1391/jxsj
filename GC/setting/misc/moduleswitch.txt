@@ -1,0 +1,4 @@
+modulename	moduletable	switch	callbackfun
+zhenyuan	Item.tbZhenYuan	1	SwitchState
+fightpower	Player.tbFightPower	1	OnServerStart
+waizhuang	Shop	1	WaiZhuangShopSwitch

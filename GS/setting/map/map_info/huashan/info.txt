@@ -1,0 +1,22 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lệnh Hồ Chiêm	0	3115	0	5	95	1	20	20	20	20	20	16		51168	117440				5
+Nhạc Lãnh Thiền	0	3116	0	5	95	1	20	20	20	20	20	16		54400	111680				3
+Phong Cốc	0	3117	0	5	95	1	20	20	20	20	20	16		58272	103488				4
+Ninh Cán Cán	0	3118	0	5	95	1	20	20	20	20	20	16		59392	114848				2
+to_yonglezhen	1															\setting\map\map_info\huashan\trap\to_yonglezhen.txt			
+to_fenglingdu	1															\setting\map\map_info\huashan\trap\to_fenglingdu.txt			
+to_longmenshiku	1															\setting\map\map_info\huashan\trap\to_longmenshiku.txt			
+Vĩnh Lạc Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		60512	123040		1		
+Phong Lăng Độ	0	2525	4	5	1	1	20	20	20	20	20	1		63488	108576		1		
+Long Môn Thạch Quật	0	2525	4	5	1	1	20	20	20	20	20	1		63488	115456		1		
+Diệp Hầu Hoa Sơn	0	2261	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\huashan\npc\area1.txt			
+Thủ Quân Hoa Sơn	0	2262	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\huashan\npc\area2.txt			
+Dị Nhân Kiếm Khách	0	2263	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\huashan\npc\area3.txt			
+Cường Tặc Hoa Sơn	0	2264	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\huashan\npc\area4.txt			
+to_huosirenmu	1															\setting\map\map_info\huashan\trap\to_huosirenmu.txt			
+Hoạt Tử Nhân Mộ	0	2525	4	5	1	1	20	20	20	20	20	1		50944	105856		1		
+to_afanggongfeixu	1															\setting\map\map_info\huashan\trap\to_afanggongfeixu.txt			
+Tàn Tích Cung A Phòng	0	2525	4	5	1	1	20	20	20	20	20	1		49632	119776		1		
+Nhạc Khả Sơn	0	4632	3	5	130	1	20	20	20	20	20	1		58560	117632		1		
+Tần Tri Lễ	0	4633	0	5	130	1	20	20	20	20	20	1		60064	116096		1		
+Tần Tri Họa	0	4634	0	5	130	1	20	20	20	20	20	1		59488	116192		1		

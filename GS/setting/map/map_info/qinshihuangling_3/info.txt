@@ -1,0 +1,18 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Chiến sĩ vong trận	0	2433	0	5	120	1	20	20	20	20	20	1	\setting\npc\droprate\qinling\f3_enemy.txt			\setting\map\map_info\qinshihuangling_3\npc\enemy.txt	1		
+Bách Phu Trường	0	2434	0	5	120	1	20	20	20	20	20	1	\setting\npc\droprate\qinling\f3_leader.txt			\setting\map\map_info\qinshihuangling_3\npc\leader.txt	1		
+trap_f2_1	1															\setting\map\map_info\qinshihuangling_3\trap\trap_f2_1.txt	1		
+trap_f2_2	1															\setting\map\map_info\qinshihuangling_3\trap\trap_f2_2.txt	1		
+trap_f4_1	1															\setting\map\map_info\qinshihuangling_3\trap\trap_f4_1.txt	1		
+trap_f4_2	1															\setting\map\map_info\qinshihuangling_3\trap\trap_f4_2.txt	1		
+trap_safe_in	1															\setting\map\map_info\qinshihuangling_3\trap\trap_safe_in.txt	1		
+trap_safe_out	1															\setting\map\map_info\qinshihuangling_3\trap\trap_safe_out.txt	1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		46816	103488		1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		49344	101152		1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		56320	112896		1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		57952	111392		1		
+Dã Tẩu	0	2447	3	5	100	1	20	20	20	20	20	1		55808	102080		1		
+Trương Nguyên	0	2448	3	5	100	1	20	20	20	20	20	1		56704	101664		1		
+Bạch Miêu Miêu	0	2449	3	5	100	1	20	20	20	20	20	1		56352	101632		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		55808	102560		1		2
+Trâu Đức Khoái	0	2599	3	5	100	1	20	20	20	20	20	1		56416	102720		1		

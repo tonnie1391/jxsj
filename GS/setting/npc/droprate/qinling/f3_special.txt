@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	5	260500		5级玄晶
+		18	1	1	6	380000		6级玄晶
+		18	1	1	7	50000		7级玄晶
+		18	1	1	8	5000		8级玄晶
+		18	1	1	9	500		9级玄晶
+		18	1	357	1	300000		夜明珠成品
+		18	1	370	1	2000		20格背包材料
+		22	1	81	1	2000		BOSS武器材料

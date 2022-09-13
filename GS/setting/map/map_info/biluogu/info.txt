@@ -1,0 +1,11 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_step1	1															\setting\map\map_info\biluogu\trap\trap_step1.txt			
+trap_step2	1															\setting\map\map_info\biluogu\trap\trap_step2.txt			
+Biển báo (Trùng độc)	0	9733	8	0	1	1	20	20	20	20	20	1		52480	111136				
+Biển báo (Độc Nhất Phong)	0	9734	8	0	1	1	20	20	20	20	20	1		52672	110560				
+Biển báo (Độc Ông)	0	9735	8	0	1	1	20	20	20	20	20	1		54144	111264				
+Biển báo (Bò cạp)	0	9765	8	0	1	1	20	20	20	20	20	1		54336	111200				
+Biển báo (Thủ hộ giả)	0	9766	8	0	1	1	20	20	20	20	20	1		54848	111392				
+Biển báo (Tịch Lam)	0	9767	8	0	1	1	20	20	20	20	20	1		54976	110816				
+Biển báo (Tịch Đình)	0	9768	8	0	1	1	20	20	20	20	20	1		55776	109088				
+Biển báo (Bạch Thu Lâm)	0	9769	8	0	1	1	20	20	20	20	20	1		56000	109216				

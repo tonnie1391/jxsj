@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Xa Phu	0	7258	3	5	35	1	20	20	20	20	20	1		53984	104800		1		
+Thương Nhân	0	7259	3	5	35	1	20	20	20	20	20	1		54336	105216		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		54848	105664		1		

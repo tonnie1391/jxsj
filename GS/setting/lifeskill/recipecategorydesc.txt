@@ -1,0 +1,14 @@
+CategoryId	Name
+1	Kim
+2	Mộc
+3	Thủy
+4	Hỏa
+5	Thổ
+6	Nguyên liệu
+7	Thủ nghệ
+8	Dược phẩm
+9	Ma Đao Thạch
+10	Hộ Giáp Phiến
+11	Ngũ Hành Thạch
+12	Danh vọng
+13	Bàn Thạch Phù

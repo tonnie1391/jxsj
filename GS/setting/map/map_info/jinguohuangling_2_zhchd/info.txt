@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vinh Đồ	0	458	3	5	90	1	20	20	20	20	20	1		49504	99424		1		1
+Bồ Sát Phong Nô	0	462	3	5	90	1	20	20	20	20	20	1		49248	99424		1		
+Ngột Tát	0	254	3	5	60	1	20	20	20	20	20	1		49376	99296		1		
+Hoàn Nhan Tương	0	255	3	5	150	1	20	20	20	20	20	1		49216	99200		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		49856	99936		1		
+zhchd2jinguohuangling	1															\setting\map\map_info\jinguohuangling_2_zhchd\trap\to_jinguohuangling.txt			

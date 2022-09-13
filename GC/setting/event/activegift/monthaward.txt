@@ -1,0 +1,6 @@
+nId	nActive	szInfor	nParam1	nParam2	nParam3	nParam4	nParam5	nParam6	nParam7	nParam8	nParam9	nParam10	nParam11	nParam12	nParam13	nParam14	nParam15
+1	160	一星礼包	binditem=18,1,189,1	binditem=18,1,114,6													
+2	460	二星礼包	binditem=18,1,114,6	binditem=18,1,1000,1													
+3	810	三星礼包	binditem=18,1,1000,1	binditem=18,1,525,1													
+4	1210	四星礼包	binditem=18,1,114,8														
+5	1310	五星礼包	xiayi=30	prestige=30	expbase=500	binditem=18,1,80,1,0,2	titlename=骏马踏九州	title=6,90,1,9									

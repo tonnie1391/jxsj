@@ -1,0 +1,40 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Sạn Đạo Ác Viên	0	2301	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\sanxiazhandao\npc\area1.txt			
+Sạn Đạo Tiều Tử	0	2302	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\sanxiazhandao\npc\area2.txt			
+Đà Thủ Giả Trang	0	2303	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\sanxiazhandao\npc\area3.txt			
+Sạn Đạo Xích Mãng	0	2304	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\sanxiazhandao\npc\area4.txt			
+to_jiangjincun	1															\setting\map\map_info\sanxiazhandao\trap\to_jiangjincun.txt			
+Giang Tân Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		48128	114944		1		
+Phong Đô Quỷ Thành	0	2525	4	5	1	1	20	20	20	20	20	1		50880	126464		1		
+Tướng Lĩnh Mông Cổ	0	4356	3	5	150	1	20	20	20	20	20	1		52000	115904		1		
+Tướng Lĩnh Kim Quốc	0	4357	3	5	150	1	20	20	20	20	20	1		62144	117120		1		
+Tướng Lĩnh Tống Quốc	0	4358	3	5	150	1	20	20	20	20	20	1		54560	123808		1		
+Lý Thiên Khoa	0	4350	3	5	150	1	20	20	20	20	20	1		53632	124544		1		
+Thị Vệ Triều Đình	0	4371	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\sanxiazhandao\npc\chiwei3.txt			
+to_shennvfeng	1															\setting\map\map_info\sanxiazhandao\trap\to_shennvfeng.txt			
+Thần Nữ Phong	0	2525	4	5	1	1	20	20	20	20	20	1		64512	106752		1		
+to_fengduguicheng	1															\setting\map\map_info\sanxiazhandao\trap\to_fengduguicheng.txt			
+Long Trụ Thí Luyện	0	4448	0	5	80	1	20	20	20	20	20	1		54592	126784		1		
+Ân Bốc Nguyên	0	4611	3	5	130	1	20	20	20	20	20	1		60896	124000		1		
+Kỳ Điền Phong	0	4612	3	5	130	1	20	20	20	20	20	1		55360	124032		1		
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62688	116672				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62592	116960				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62656	117280				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62912	117216				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62880	117728				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62528	117920				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62464	118080				
+Kiếp Hóa Tặc	0	4613	0	5	130	1	20	20	20	20	20	3		62432	116608				
+Thủ Lĩnh Kiếp Hóa Tặc	0	4614	0	5	130	1	20	20	20	20	20	3		62880	116928				
+Thủ Lĩnh Kiếp Hóa Tặc	0	4614	0	5	130	1	20	20	20	20	20	3		62688	117504				
+Thủ Lĩnh Kiếp Hóa Tặc	0	4614	0	5	130	1	20	20	20	20	20	3		62752	118176				
+Thủ Lĩnh Kiếp Hóa Tặc	0	4614	0	5	130	1	20	20	20	20	20	3		62656	118304				
+Thủ Lĩnh Kiếp Hóa Tặc	0	4614	0	5	130	1	20	20	20	20	20	3		62304	118080				
+Hỗn Dương Điện-Quang	0	2525	4	5	1	1	20	20	20	20	20	1		61728	116192		1		
+to_hunyangdianguang1	1															\setting\map\map_info\sanxiazhandao\trap\to_hunyangdianguang1.txt			
+Hỗn Dương Điện-Quang	0	2525	4	5	1	1	20	20	20	20	20	1		58368	120704		1		
+to_hunyangdianguang2	1															\setting\map\map_info\sanxiazhandao\trap\to_hunyangdianguang2.txt			
+Hỗn Dương Điện-Ảnh	0	2525	4	5	1	1	20	20	20	20	20	1		50496	110016		1		
+to_hunyangdianying1	1															\setting\map\map_info\sanxiazhandao\trap\to_hunyangdianying1.txt			
+Hỗn Dương Điện-Ảnh	0	2525	4	5	1	1	20	20	20	20	20	1		55008	104288		1		
+to_hunyangdianying2	1															\setting\map\map_info\sanxiazhandao\trap\to_hunyangdianying2.txt			

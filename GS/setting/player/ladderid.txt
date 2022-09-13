@@ -1,0 +1,182 @@
+HUGE_ID	MID_ID	SMALL_ID	LADDER_NAME	LADDER_UNIT	SEARCHMOD	ISABLE
+1	0	0	Đại Hội Võ Lâm		0	0
+1	1	0	Đơn đấu	%d điểm	0	1
+1	1	1	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	2	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	3	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	4	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	5	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	6	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	7	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	8	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	9	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	10	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	11	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	12	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	1	13	Phân bảng đơn đấu (môn phái)	%d điểm	0	1
+1	2	0	Song đấu	%d điểm	0	1
+1	3	0	Tam đấu	%d điểm	0	1
+1	4	0	Ngũ hành đấu (5 người)	%d điểm	0	1
+1	5	0	Đoàn Thể (quy mô lớn)	%d điểm	0	1
+2	0	0	Khác		0	1
+2	1	0	Tu luyện	cấp %d	0	1
+2	1	1	Thiếu Lâm	cấp %d	0	1
+2	1	2	Thiên Vương	cấp %d	0	1
+2	1	3	Đường Môn	cấp %d	0	1
+2	1	4	Ngũ Độc	cấp %d	0	1
+2	1	5	Nga My	cấp %d	0	1
+2	1	6	Thúy Yên	cấp %d	0	1
+2	1	7	Cái Bang	cấp %d	0	1
+2	1	8	Thiên Nhẫn	cấp %d	0	1
+2	1	9	Võ Đang	cấp %d	0	1
+2	1	10	Côn Lôn	cấp %d	0	1
+2	1	11	Minh Giáo	cấp %d	0	1
+2	1	12	Đoàn Thị	cấp %d	0	1
+2	1	13	Tu luyện Cổ Mộ	cấp %d	0	1
+2	2	0	Hoạt động		0	1
+2	2	1	Phi Tự Nhai	%d tấm	1	0
+2	2	2	Bảng Tiêu Dao Cốc	%d tấm	1	1
+2	2	3	Thuyền Rồng	%d điểm vinh dự	1	0
+2	2	4	Uy danh	%d điểm vinh dự	1	1
+2	2	5	Bảng tuyển mỹ nữ	 %d phiếu	1	1
+2	2	6	Bảng Bá Chủ Ấn	 %d 	1	1
+2	2	7	Bảng vị trí [không sử dụng]	 %d phiếu	1	0
+2	2	8	Quần Phương Phổ	%d điểm	1	1
+2	2	9	Hàn Vũ	%d điểm	1	1
+2	2	10	Dạ Lam Quan	%d điểm	1	1
+2	2	11	Hỏa Phượng	%d điểm	1	1
+2	3	0	Thi thú vị		0	1
+2	3	1	Bảng thi đấu trong tháng	%d điểm	1	1
+2	3	2	Bảng thi đấu tháng trước	%d điểm	0	1
+2	4	0	Gia tộc	%d điểm vinh dự	1	1
+3	0	0	Liên đấu		0	1
+3	1	0	Sơ cấp		1	1
+3	1	1	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	2	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	3	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	4	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	5	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	6	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	7	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	8	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	9	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	10	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	11	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	12	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	1	13	Phân bảng Liên Đấu (sơ)	%d điểm	1	1
+3	2	0	Cao cấp		1	1
+3	2	1	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	2	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	3	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	4	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	5	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	6	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	7	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	8	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	9	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	10	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	11	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	12	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	2	13	Phân bảng Liên Đấu (cao)	%d điểm	1	1
+3	3	0	Liên đấu	%d điểm vinh dự	1	1
+3	3	1	Thiếu Lâm	%d điểm vinh dự	0	1
+3	3	2	Thiên Vương	%d điểm vinh dự	0	1
+3	3	3	Đường Môn	%d điểm vinh dự	0	1
+3	3	4	Ngũ Độc	%d điểm vinh dự	0	1
+3	3	5	Nga My	%d điểm vinh dự	0	1
+3	3	6	Thúy Yên	%d điểm vinh dự	0	1
+3	3	7	Cái Bang	%d điểm vinh dự	0	1
+3	3	8	Thiên Nhẫn	%d điểm vinh dự	0	1
+3	3	9	Võ Đang	%d điểm vinh dự	0	1
+3	3	10	Côn Lôn	%d điểm vinh dự	0	1
+3	3	11	Minh Giáo	%d điểm vinh dự	0	1
+3	3	12	Đoàn Thị 	%d điểm vinh dự	0	1
+3	3	13	Bảng vinh dự Cổ Mộ	%d điểm vinh dự	0	1
+3	4	0	Sơ cấp trước		0	1
+3	4	1	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	2	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	3	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	4	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	5	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	6	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	7	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	8	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	9	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	10	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	11	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	12	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	4	13	Phân bảng sơ cấp lần trước	%d điểm	0	1
+3	5	0	Cao cấp trước		0	1
+3	5	1	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	2	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	3	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	4	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	5	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	6	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	7	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	8	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	9	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	10	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	11	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	12	Phân bảng cao cấp lần trước	%d điểm	0	1
+3	5	13	Phân bảng cao cấp lần trước	%d điểm	0	1
+4	0	0	Võ Lâm		0	1
+4	1	0	Võ Lâm	%d điểm vinh dự	1	1
+4	1	1	Thiếu Lâm	%d điểm vinh dự	0	1
+4	1	2	Thiên Vương	%d điểm vinh dự	0	1
+4	1	3	Đường Môn	%d điểm vinh dự	0	1
+4	1	4	Ngũ Độc	%d điểm vinh dự	0	1
+4	1	5	Nga My	%d điểm vinh dự	0	1
+4	1	6	Thúy Yên	%d điểm vinh dự	0	1
+4	1	7	Cái Bang	%d điểm vinh dự	0	1
+4	1	8	Thiên Nhẫn	%d điểm vinh dự	0	1
+4	1	9	Võ Đang	%d điểm vinh dự	0	1
+4	1	10	Côn Lôn	%d điểm vinh dự	0	1
+4	1	11	Minh Giáo	%d điểm vinh dự	0	1
+4	1	12	Đoàn Thị 	%d điểm vinh dự	0	1
+4	1	13	Bảng vinh dự Cổ Mộ	%d điểm vinh dự	0	1
+4	2	0	Môn Phái	%d điểm vinh dự	0	1
+4	2	1	Thiếu Lâm	%d điểm vinh dự	0	1
+4	2	2	Thiên Vương	%d điểm vinh dự	0	1
+4	2	3	Đường Môn	%d điểm vinh dự	0	1
+4	2	4	Ngũ Độc	%d điểm vinh dự	0	1
+4	2	5	Nga My	%d điểm vinh dự	0	1
+4	2	6	Thúy Yên	%d điểm vinh dự	0	1
+4	2	7	Cái Bang	%d điểm vinh dự	0	1
+4	2	8	Thiên Nhẫn	%d điểm vinh dự	0	1
+4	2	9	Võ Đang	%d điểm vinh dự	0	1
+4	2	10	Côn Lôn	%d điểm vinh dự	0	1
+4	2	11	Minh Giáo	%d điểm vinh dự	0	1
+4	2	12	Đoàn Thị 	%d điểm vinh dự	0	1
+4	2	13	Bảng vinh dự Cổ Mộ	%d điểm vinh dự	0	1
+4	3	0	Liên đấu	%d điểm vinh dự	1	1
+4	3	1	Thiếu Lâm	%d điểm vinh dự	0	1
+4	3	2	Thiên Vương	%d điểm vinh dự	0	1
+4	3	3	Đường Môn	%d điểm vinh dự	0	1
+4	3	4	Ngũ Độc	%d điểm vinh dự	0	1
+4	3	5	Nga My	%d điểm vinh dự	0	1
+4	3	6	Thúy Yên	%d điểm vinh dự	0	1
+4	3	7	Cái Bang	%d điểm vinh dự	0	1
+4	3	8	Thiên Nhẫn	%d điểm vinh dự	0	1
+4	3	9	Võ Đang	%d điểm vinh dự	0	1
+4	3	10	Côn Lôn	%d điểm vinh dự	0	1
+4	3	11	Minh Giáo	%d điểm vinh dự	0	1
+4	3	12	Đoàn Thị 	%d điểm vinh dự	0	1
+4	3	13	Bảng vinh dự Cổ Mộ	%d điểm vinh dự	0	1
+4	4	0	Mông Cổ Tây Hạ	%d điểm vinh dự	0	1
+5	0	0	Thủ Lĩnh		0	1
+5	1	0	Thủ Lĩnh	%d điểm vinh dự	1	1
+6	0	0	Tài Phú		0	1
+6	1	0	Tài Phú	%d điểm vinh dự	1	1
+7	0	0	Sức chiến đấu		0	1
+7	1	0	Tổng lực	Sức chiến đấu %d	1	1
+7	2	0	Thành tựu	Thành tựu %d 	1	1
+7	3	0	Chân nguyên	Chân nguyên %d 	1	1
+7	3	1	Diệp Tịnh	Chân nguyên %d 	1	1
+7	3	2	Bảo Ngọc	Chân nguyên %d 	1	1
+7	3	3	Hạ Tiểu Sảnh	Chân nguyên %d 	1	1
+7	3	4	Oanh Oanh	Chân nguyên %d 	1	1
+7	3	5	Mộc Siêu	Chân nguyên %d 	1	1
+7	3	6	Tử Uyển	Chân nguyên %d 	1	1
+7	3	7	Tần Trọng	Chân nguyên %d 	1	1
+7	4	0	Cấp	Cấp %d	1	1

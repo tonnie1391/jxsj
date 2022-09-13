@@ -1,0 +1,12 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trừng Quang	0	404	3	5	90	1	20	20	20	20	20	1		58400	114336		1		
+Cơ Quan Mộc Nhân	0	2033	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\talin_1\npc\area1.txt	1		1
+Cơ Quan Lang	0	2034	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\talin_1\npc\area2.txt	1		
+Cơ Quan Đồng Nhân	0	2205	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\talin_1\npc\area3.txt	1		
+Đồng Giác Thú	0	2206	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\talin_1\npc\area4.txt	1		
+Trừng Huệ	0	406	3	5	90	1	20	20	20	20	20	1		60064	124000		1		
+Huyền Bi	0	407	3	5	90	1	20	20	20	20	20	1		54624	120768		1		
+to_houshanjindi	1															\setting\map\map_info\talin_1\trap\to_houshanjindi.txt			
+to_talin_2	1															\setting\map\map_info\talin_1\trap\to_talin_2.txt			
+Cấm Địa Hậu Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		64384	104224		1		
+Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		51744	128672		1		

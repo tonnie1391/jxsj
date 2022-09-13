@@ -1,0 +1,53 @@
+KindId	Name
+1	Nhiệm vụ
+2	Ma Đao Thạch
+3	Hộ Giáp Phiến
+4	Ngũ Hành Thạch
+5	Khoáng thạch
+6	Bảo thạch
+7	Vải
+8	Tơ lụa
+9	Bột thuốc hoạt huyết
+10	Tấm khinh mộc
+11	Da mềm
+12	Triền thủ
+13	Kiếm
+14	Đao
+15	Côn
+16	Thương
+17	Chùy
+18	Phi tiêu
+19	Phi đao
+20	Tụ tiễn
+21	Thiết Giáp Nam
+22	Bì Giáp Nam
+23	Bố Giáp Nam
+24	Thiết Giáp Nữ
+25	Bì Giáp Nữ
+26	Bố Giáp Nữ
+27	Yêu Đái Nam
+28	Yêu Đái Nữ
+29	Giày Nam
+30	Giày Nữ
+31	Tay
+32	Thủ Trạc
+33	Thiết Khôi Nam
+34	Diện Tráo Nam
+35	Bố Mão Nam
+36	Thiết Khôi Nữ
+37	Phát Đái Nữ
+38	Phát Thoa Nữ
+39	Thuốc hồi phục
+40	Thuốc đặc hiệu
+41	Liên
+42	Ngọc bội
+43	Hương Nang
+44	Nhẫn
+45	Tạp hóa
+46	Đặc biệt
+47	Bột thuốc thông lạc
+48	Tấm gỗ cứng
+49	Da cứng
+50	Hộ Thân Phù
+51	Bàn Thạch Phù
+52	Rương trang bị cao cấp

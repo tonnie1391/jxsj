@@ -1,0 +1,61 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đường Nhất Trần	0	689	3	5	60	1	20	20	20	20	20	1		54880	105280		1		
+Đường Khuyết	0	690	3	5	90	1	20	20	20	20	20	1		54976	105184		1		
+Đường Hạc	0	691	3	5	90	1	20	20	20	20	20	1		54784	105376		1		
+Hành Hung Giả	0	708	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\xingxiongzhe.txt	1		
+Thợ săn	0	713	3	5	60	1	20	20	20	20	20	1		59520	109792		1		
+Đường Nhất Trần	0	717	3	5	60	1	20	20	20	20	20	1		51680	102368		1		
+Đường Khuyết	0	718	3	5	90	1	20	20	20	20	20	1		51776	102400		1		
+Đường Hiểu	0	719	3	5	150	1	20	20	20	20	20	1		51584	102432		1		
+Đường Như	0	720	3	5	90	1	20	20	20	20	20	1		51872	102336		1		
+Đường Ngộ	0	721	3	5	90	1	20	20	20	20	20	1		51488	102400		1		
+Hươu	0	724	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\milu.txt	1		
+Mãnh Hổ	0	725	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\menghu.txt	1		
+Gấu Chó	0	726	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\gouxiong.txt	1		
+Khuyết Tự Đao Khách	0	728	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\quezidaoke.txt	1		
+Xích Y Vệ	0	729	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\chiyiwei.txt	1		
+Đường Môn Tứ Độc	0	732	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\tangmensidu.txt	1		2
+Kiếm Sĩ Tinh Nhuệ	0	737	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\wuyijianshi.txt	1		
+Thủ Lĩnh Kiếm Sĩ	0	740	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\jianshitouling.txt	1		
+Xe đầy Hỏa dược	0	1561	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\hupanzhulin_1\npc\dache.txt	1		
+Ân Dã	0	489	3	5	60	1	20	20	20	20	20	1		56352	115776		1		
+Đường Ngộ	0	492	3	5	60	1	20	20	20	20	20	1		58208	109056		1		
+Đường Phi	0	493	3	5	60	1	20	20	20	20	20	1		58528	109312		1		
+Đường Vũ	0	494	3	5	60	1	20	20	20	20	20	1		58432	109472		1		
+Đường Trọng Lâu	0	495	3	5	60	1	20	20	20	20	20	1		58336	109600		1		
+Đường Trọng Lam	0	496	3	5	60	1	20	20	20	20	20	1		54048	114624		1		
+Đường Như	0	497	3	5	90	1	20	20	20	20	20	1		58304	108928		1		
+Động Hư Chân Nhân	0	498	3	5	90	1	20	20	20	20	20	1		59456	107712		1		
+Âm Kiếm Sĩ	0	499	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	58912	107104		1		0
+Dương Kiếm Sĩ	0	500	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	58528	107552		1		2
+Hộ Pháp Càn Khôn	0	501	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\qiankunhufa.txt	1		
+Nhân Ngẫu Kiếm Sĩ	0	502	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\renoujianshi.txt	1		0
+Đường Nguyên Ẩn	0	504	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	53952	116064		1		
+Sái Vân Thủ	0	1539	3	5	35	1	20	20	20	20	20	1		52512	115712		1		
+Rượu Trúc Diệp Thanh	0	1540	3	5	35	1	20	20	20	20	20	1		50528	112512		1		
+Đường Viễn	0	1606	3	5	60	1	20	20	20	20	20	1		56864	116608		1		
+Thủ Lĩnh Hành Hung Giả	0	1409	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\xingxiongzhet.txt	1		
+Đệ Tử Đường Môn	0	1410	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\hupanzhulin_1\npc\tangmendizi.txt	1		
+Đến Gian tây	0	2525	4	5	1	1	20	20	20	20	20	1		49952	113248		1		
+Đến Gian chính Biệt Nhã Tiểu Trúc	0	2525	4	5	1	1	20	20	20	20	20	1		50240	113792		1		
+Đến Chuyết Giả Cư	0	2525	4	5	1	1	20	20	20	20	20	1		54144	109376		1		
+Đến Bố Y Các	0	2525	4	5	1	1	20	20	20	20	20	1		58528	108832		1		
+Đến Kiến Long Động	0	2525	4	5	1	1	20	20	20	20	20	1		46112	109728		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		58144	109280				2
+to_xixiang	1															\setting\map\map_info\hupanzhulin_1\trap\to_xixiang.txt			
+to_zhengting	1															\setting\map\map_info\hupanzhulin_1\trap\to_zhengting.txt			
+to_zhuozheju	1															\setting\map\map_info\hupanzhulin_1\trap\to_zhuozheju.txt			
+to_buyige	1															\setting\map\map_info\hupanzhulin_1\trap\to_buyige.txt			
+to_jianlongdong	1															\setting\map\map_info\hupanzhulin_1\trap\to_jianlongdong.txt			
+to_liechang	1															\setting\map\map_info\hupanzhulin_1\trap\to_liechang.txt			
+Ô Y Kiếm Sĩ	0	2228	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\area1.txt	1		1
+Trúc Lâm Phỉ	0	2229	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\area2.txt	1		0
+Võ Sư Mã Bang	0	2061	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\area3.txt	1		0
+Thôi Thủ Mã Bang	0	2060	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\hupanzhulin_1\npc\area4.txt	1		2
+to_feicuihu	1															\setting\map\map_info\hupanzhulin_1\trap\to_feicuihu.txt			
+to_hupanzhulin_2	1															\setting\map\map_info\hupanzhulin_1\trap\to_hupanzhulin_2.txt			
+Hồ Phỉ Thúy	0	2525	4	5	1	1	20	20	20	20	20	1		57152	103136		1		
+Tây Bờ Hồ Trúc Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		56864	117344		1		
+to_fight	1															\setting\map\map_info\hupanzhulin_1\trap\to_fight.txt			
+to_peace	1															\setting\map\map_info\hupanzhulin_1\trap\to_peace.txt			
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		58592	109216				2

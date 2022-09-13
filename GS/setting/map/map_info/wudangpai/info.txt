@@ -1,0 +1,38 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Khố	0	2599	3	5	90	1	20	20	20	20	20	1		45504	96128		1		
+Chủ Tiệm Binh Khí	0	2583	3	5	90	1	20	20	20	20	20	1		46432	100256		1		
+Chủ Tiệm Phòng Cụ	0	2584	3	5	90	1	20	20	20	20	20	1		45824	100608		1		
+Chủ Tiệm Thuốc	0	2585	3	5	90	1	20	20	20	20	20	1		45120	99360		1		
+Chủ Tiệm Tạp Hóa	0	2586	3	5	90	1	20	20	20	20	20	1		43872	98368		1		
+Tổng Quản Môn Phái	0	2587	3	5	90	1	20	20	20	20	20	1		46112	96672		1		
+Truyền Tống Môn Phái	0	2588	3	5	90	1	20	20	20	20	20	1		46304	95648		1		
+Lộ Hiểu Nhiên	0	3550	3	5	90	1	20	20	20	20	20	1		43072	95840		1		2
+Động Hư Chân Nhân	0	3551	3	5	90	1	20	20	20	20	20	1		47232	98080		1		
+Nhất Diệp Chân Nhân	0	3552	3	5	90	1	20	20	20	20	20	1		46752	94912		1		
+Chung Chí Minh	0	3553	3	5	90	1	20	20	20	20	20	1		49344	96416		1		
+Vương Trùng Dương	0	3554	3	5	150	1	20	20	20	20	20	1		44832	94368		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		46976	95552				2
+to_yonglezhen	1															\setting\map\map_info\wudangpai\trap\to_yonglezhen.txt			
+to_xiangyangfu	1															\setting\map\map_info\wudangpai\trap\to_xiangyangfu.txt			
+to_tianzhufeng	1															\setting\map\map_info\wudangpai\trap\to_tianzhufeng.txt			
+Vĩnh Lạc Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		48480	92544		1		
+Tương Dương Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		49600	100992		1		
+Thiên Trụ Phong	0	2525	4	5	1	1	20	20	20	20	20	1		41376	95168		1		
+A Bộ	0	972	3	5	1	1	20	20	20	20	20	1		48320	96128		1		
+to_cangku	1															\setting\map\map_info\wudangpai\trap\to_cangku.txt			
+Thương khố	0	2525	4	5	1	1	20	20	20	20	20	1		48576	96512		1		
+Điểm tìm đường Truyền Tống Môn Phái	0	2615	5	5	1	1	20	20	20	20	20	1		46304	95648		1		
+Chủ Tửu Lầu	0	2635	3	5	90	1	20	20	20	20	20	1		45728	99296		1		
+Tảo Địa Lão Đạo	0	1804	3	5	90	1	20	20	20	20	20	1		44352	98272		1		
+6007	0	6007	5	5	1	1	20	20	20	20	20	1		47520	97184				
+6017	0	6017	5	5	1	1	20	20	20	20	20	1		42272	97568				
+6017	0	6017	5	5	1	1	20	20	20	20	20	1		42976	99712				
+6017	0	6017	5	5	1	1	20	20	20	20	20	1		43552	98176				
+6031	0	6031	5	5	1	1	20	20	20	20	20	1		47552	95072				
+6033	0	6033	5	5	1	1	20	20	20	20	20	1		43680	95552				
+6035	0	6035	5	5	1	1	20	20	20	20	20	1		43744	95584				
+Tăng Sảnh	0	6055	5	5	1	1	20	20	20	20	20	1		45376	99456				
+Cương Khâu	0	6090	5	5	1	1	20	20	20	20	20	1		46528	100384				
+6017	0	6017	5	5	1	1	20	20	20	20	20	1		45408	94496				
+6017	0	6017	5	5	1	1	20	20	20	20	20	1		46368	95648				
+6035	0	6035	5	5	1	1	20	20	20	20	20	1		46176	95488				

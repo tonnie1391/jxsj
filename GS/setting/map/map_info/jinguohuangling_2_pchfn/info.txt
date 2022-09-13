@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Bồ Sát Phong Nô	0	462	3	5	90	1	20	20	20	20	20	1		47776	111968		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		48096	112448		1		
+pchfn2jinguohuangling	1															\setting\map\map_info\jinguohuangling_2_pchfn\trap\to_jinguohuangling.txt			

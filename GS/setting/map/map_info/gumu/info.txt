@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Khố	0	2599	3	5	90	1	20	20	20	20	20	1		54855	98638		1		
+Chủ Tiệm Binh Khí	0	11007	3	5	90	1	20	20	20	20	20	1		57385	93658		1		
+Chủ Tiệm Phòng Cụ	0	11008	3	5	90	1	20	20	20	20	20	1		56896	93946		1		
+Chủ Tiệm Thuốc	0	11009	3	5	90	1	20	20	20	20	20	1		56683	94183		1		
+Chủ Tiệm Tạp Hóa	0	11010	3	5	90	1	20	20	20	20	20	1		57832	93810		1		
+Du Tự Ngữ	0	11011	3	5	90	1	20	20	20	20	20	1		58533	97078		1		
+Truyền Tống Môn Phái	0	11012	3	5	90	1	20	20	20	20	20	1		53408	99792		1		
+Lâm Yên Khanh	0	11014	3	5	90	1	20	20	20	20	20	1		53450	94284		1		
+Tô Thanh Linh	0	11017	3	5	90	1	20	20	20	20	20	1		55355	97576		1		
+to_yonglezhen	1															\setting\map\map_info\gumu\trap\to_yonglezhen.txt			
+Vĩnh Lạc Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		57383	99987		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		57193	93449				2
+Chủ Tửu Lầu	0	11016	3	5	60	1	20	20	20	20	20	1		56671	94444		1		

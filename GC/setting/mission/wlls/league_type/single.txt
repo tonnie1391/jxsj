@@ -1,0 +1,12 @@
+Name	MapLinkType	MemberCount	PlayerCount	Sex	Camp	Series	Faction	Teacher	Time_Weekend	Time_Common	Time_AdvMatch	ReadyTime_Common	PKTime_Common	ReadyTime_Adv	PKTime_Adv	PriIntoMap	PriReadyMap	PriMacthMap	PriMacthMapPatch	AdvIntoMap	AdvReadyMap	AdvMacthMap	AdvMacthMapPatch	Desc
+类型名	地图类型	战队人数	比赛人数	性别判断	阵营判断	五行判断	门派判断	师徒判断	比赛日程（周末）	比赛日程（日常）	比赛日程（八强）	准备时间（秒）	比赛时间（秒）	准备时间（八强）（秒）	比赛时间（八强）（秒）	初级会场地图	初级准备场地图	初级比赛场地图	初级比赛后备图	高级会场地图	高级准备场地图	高级比赛场地图	高级比赛场后备图	描述
+混合单人赛	1	1	1	0	0	0	0	0	1500	2000	1900	280	600	280	600	1401	1413	1425	1508	1437	1452	1464	1523	本届武林联赛比赛类型为<color=yellow>混合单人赛<color>，特意考察单人搏击之术，各位可以勤加习练，达至<color=yellow>“炉火纯青，登峰造极”<color>之境界，届时定可脱颖而出。
+									1515	2015	1915					1402	1415	1427	1510	1438	1454	1466	1525	
+									1530	2030	1930					1403	1417	1429	1512	1439	1455	1467	1526	
+									1545	2045	1945					1404				1440				
+									1600	2100	2000					1405				1441				
+									1615	2115						1406				1442				
+									1900							1407				1443				
+									1915															
+									1930															
+									1945															

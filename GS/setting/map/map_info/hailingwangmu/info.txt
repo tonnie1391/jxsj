@@ -1,0 +1,24 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trương Trảm Kinh	0	3564	3	6	150	1	20	20	20	20	20	1		50592	101216		1		0
+Trâu Đức Khoái	0	2599	3	6	150	1	20	20	20	20	20	1		54592	100192		1		
+Minh Phủ Quy Khách	0	4211	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\ceng11.txt	1		
+Mãnh Cầm	0	4212	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\ceng12.txt	1		
+U Minh Lang	0	4213	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\ceng13.txt	1		
+U Liên	0	4214	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\ceng21.txt	1		
+Khiên Hồn Nữ	0	4215	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\ceng22.txt	1		
+Hồng Liên Thị Vệ	0	4236	0	5	125	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\hailingwangmu\npc\honglianshiwei.txt	1		
+Mộc Sấm	0	4240	3	6	150	1	20	20	20	20	20	1		53824	114848		1		0
+Điền Ích	0	4239	3	6	150	1	20	20	20	20	20	1		52448	109504		1		
+Tái Tông Sư	0	4238	3	6	150	1	20	20	20	20	20	1		54048	123680		1		
+hlwm_trap1	1															\setting\map\map_info\hailingwangmu\trap\trap1.txt			
+to_ceng1	1															\setting\map\map_info\hailingwangmu\trap\trap2.txt			
+to_boss2over	1															\setting\map\map_info\hailingwangmu\trap\trap3.txt			
+to_ceng2	1															\setting\map\map_info\hailingwangmu\trap\trap4.txt			
+to_boss3over	1															\setting\map\map_info\hailingwangmu\trap\trap5.txt			
+to_ceng3	1															\setting\map\map_info\hailingwangmu\trap\trap6.txt			
+to_huo1	1															\setting\map\map_info\hailingwangmu\trap\trap7.txt			
+to_huo2	1															\setting\map\map_info\hailingwangmu\trap\trap8.txt			
+to_huo3	1															\setting\map\map_info\hailingwangmu\trap\trap9.txt			
+to_boss3	1															\setting\map\map_info\hailingwangmu\trap\trap10.txt			
+to_fbover	1															\setting\map\map_info\hailingwangmu\trap\trap11.txt			
+trapjingji	1															\setting\map\map_info\hailingwangmu\trap\trapjingji.txt			

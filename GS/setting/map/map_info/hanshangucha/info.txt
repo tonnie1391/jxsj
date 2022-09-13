@@ -1,0 +1,36 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quan Văn Tị Nạn	0	2126	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\area1.txt			
+Quan Võ Tị Nạn	0	2127	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\area2.txt			
+Cấm Quân Đại Tống	0	2128	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\area3.txt			
+Cấm Quân Đại Tống	0	2128	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\area4.txt			
+to_huqiujianchi	1															\setting\map\map_info\hanshangucha\trap\to_huqiujianchi.txt			
+to_shugangshan	1															\setting\map\map_info\hanshangucha\trap\to_shugangshan.txt			
+to_yangzhoufu	1															\setting\map\map_info\hanshangucha\trap\to_yangzhoufu.txt			
+Hổ Khâu Kiếm Trì	0	2525	4	5	1	1	20	20	20	20	20	1		57120	120480				
+Thục Cương Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		59008	101440				
+Dương Châu Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		48224	108288				
+Trương Hàn	0	559	3	5	60	1	20	20	20	20	20	1		51904	104160				
+Đại Trí Thiền Sư	0	560	0	5	55	1	20	20	20	20	20	1		60640	111744				
+Từ Phạm	0	561	0	5	55	1	20	20	20	20	20	1		59680	111904				
+Tiền Khán Thủ	0	557	3	5	60	1	20	20	20	20	20	1		52640	104032				
+Hứa Học Viện	0	566	3	5	60	1	20	20	20	20	20	1		57760	104160				
+Soái kỳ	0	1599	3	5	60	1	20	20	20	20	20	1		52384	104416				
+Đại Thần	0	1223	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\dachen.txt			
+Thủ vệ	0	434	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshangucha\npc\shouwei.txt			
+Tri Khách Tăng	0	979	3	5	60	1	20	20	20	20	20	1		60832	114080				
+Lý Khắc Duệ	0	1802	0	5	55	1	20	20	20	20	20	1		55648	115776				
+Lục Thủy Tinh	0	1634	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\hanshangucha\npc\lvshuijing.txt			
+Đao Tặc	0	2967	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\hanshangucha\npc\daozei.txt			1
+Kha Hùng Phi	0	3007	0	5	55	1	20	20	20	20	20	16		49760	102048				3
+Khổng Bất Dung	0	3008	0	5	55	1	20	20	20	20	20	16		51520	118208				0
+Lôi Cầu Khách	0	3009	0	5	55	1	20	20	20	20	20	16		60704	118144				2
+Lý Hành Kiệm	0	3010	0	5	55	1	20	20	20	20	20	16		61536	102016				3
+Rương cũ	0	4579	3	5	1	1	20	20	20	20	20	16		49984	115264				
+Túi rách	0	4580	3	5	1	1	20	20	20	20	20	16		51360	114400				
+Túi rách	0	4581	3	5	1	1	20	20	20	20	20	16		51232	115104				
+Tân Khí Tật	0	4603	3	5	130	1	20	20	20	20	20	1		57536	104224				
+Thiết Tặc	0	4605	0	5	130	1	20	20	20	20	20	1		56160	104192				
+Thiết Tặc	0	4605	0	5	130	1	20	20	20	20	20	1		56544	104352				
+Thiết Tặc	0	4605	0	5	130	1	20	20	20	20	20	1		56832	104512				
+Thiết Tặc	0	4605	0	5	130	1	20	20	20	20	20	1		56640	103680				
+Thiết Tặc	0	4605	0	5	130	1	20	20	20	20	20	1		56384	103744				

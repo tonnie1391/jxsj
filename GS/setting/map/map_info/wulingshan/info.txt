@@ -1,0 +1,24 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Bùi Thời Uyên	0	3135	0	5	95	1	20	20	20	20	20	16		58144	104512				5
+Ngô Thái Huyền	0	3136	0	5	95	1	20	20	20	20	20	16		53824	110592				4
+Hoàng Phủ Kiến	0	3137	0	5	95	1	20	20	20	20	20	16		50144	105920				3
+Thân Đồ Chân	0	3138	0	5	95	1	20	20	20	20	20	16		47424	101056				2
+Tiều Phu Vũ Lăng Sơn	0	1897	3	5	60	1	20	20	20	20	20	1		54176	108736		1		
+Thần Võ Quân Sĩ	0	1902	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wulingshan\npc\shenwujunshi.txt			
+to_balingxian	1															\setting\map\map_info\wulingshan\trap\to_balingxian.txt			
+Ba Lăng Huyện	0	2525	4	5	1	1	20	20	20	20	20	1		58176	107936		1		
+Thủ Quân Vũ Lăng Sơn	0	2281	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wulingshan\npc\area1.txt			
+Xích Luyện Vương Xà	0	2282	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wulingshan\npc\area2.txt			
+Bưu Bá Khán Thủ	0	2283	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wulingshan\npc\area3.txt			
+Thảo Quỷ Bà	0	2284	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wulingshan\npc\area4.txt			
+to_fuliudong	1															\setting\map\map_info\wulingshan\trap\to_fuliudong.txt			
+Phục Lưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		45408	104288		1		
+to_shennvfeng	1															\setting\map\map_info\wulingshan\trap\to_shennvfeng.txt			
+Thần Nữ Phong	0	2525	4	5	1	1	20	20	20	20	20	1		56256	95296		1		
+to_taohuayuan	1															\setting\map\map_info\wulingshan\trap\to_taohuayuan.txt			
+Đào Hoa Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		50624	115264		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		54144	104928		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		54208	105344		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		53888	104864		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		54048	105568		1		
+Tiểu Lỗ Ban	0	4649	3	5	130	1	20	20	20	20	20	1		46688	100896		1		

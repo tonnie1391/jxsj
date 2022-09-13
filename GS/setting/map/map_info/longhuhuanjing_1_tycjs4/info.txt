@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đào Vĩnh Xương	0	183	3	5	35	1	20	20	20	20	20	1		51520	102528		1		
+Nhất Diệp Chân Nhân	0	208	3	5	35	1	20	20	20	20	20	1		51392	102656		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	35	1	20	20	20	20	20	1		51936	103168		1		
+tycjs2longhuhuanjing	1															\setting\map\map_info\longhuhuanjing_1_tycjs4\trap\to_longhuhuanjing.txt			

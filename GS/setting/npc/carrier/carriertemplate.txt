@@ -1,0 +1,10 @@
+nTemplate	szFile
+11000	\setting\npc\carrier\chariot.ini
+11001	\setting\npc\carrier\chariot.ini
+11002	\setting\npc\carrier\boat.ini
+11003	\setting\npc\carrier\tower.ini
+11004	\setting\npc\carrier\tower.ini
+11005	\setting\npc\carrier\tower.ini
+11006	\setting\npc\carrier\tower.ini
+11057	\setting\npc\carrier\boat2.ini
+11049	\setting\npc\carrier\chariot_task.ini

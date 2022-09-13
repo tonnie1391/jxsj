@@ -1,0 +1,49 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Truyền Nhân Thiên Long Môn	0	184	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\ditangdaochuanren.txt	1		0
+Truyền Nhân Địa Đường Đao	0	185	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\tianlongmenchuanren.txt	1		
+Đào Phạm Pháp Nhân Uyên	0	195	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\taofan.txt	1		
+Thần Bí Lão Giả	0	197	3	5	60	1	20	20	20	20	20	1		40192	88160		1		
+Vương Trùng Dương	0	198	3	5	150	1	20	20	20	20	20	1		38592	81088		1		
+Rắn Hổ	0	203	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\dushe.txt	1		
+Thái Dược Nhân	0	209	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\caiyaoren.txt	1		
+Nhất Diệp Chân Nhân	0	414	3	5	90	1	20	20	20	20	20	1		47712	78080		1		
+Chung Chí Minh	0	417	3	5	90	1	20	20	20	20	20	1		39744	78080		1		
+Vô Ưu Tử	0	418	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	39968	92448		1		0
+Vô Sân Tử	0	419	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	40128	93408		1		0
+Linh Hạc Chân Nhân	0	420	3	5	60	1	20	20	20	20	20	1		41120	97472		1		
+Thần Bí Kim Nhân	0	421	3	5	60	1	20	20	20	20	20	1		39136	97600		1		
+Bì Định Quân	0	422	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	38784	97088		1		2
+Tạ Pháp Sư	0	423	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	39264	96960		1		2
+Cao Tiên Hóa	0	424	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	39456	97568		1		2
+Tiết Tự Tốc	0	425	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	39040	97952		1		4
+Động Hư Chân Nhân	0	426	3	5	90	1	20	20	20	20	20	1		47776	93184		1		
+Đệ Tử Võ Đang	0	786	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\wudangdizi.txt	1		
+Đệ Tử Chấp Sự Võ Đang	0	787	3	5	60	1	20	20	20	20	20	1		50560	97408		1		
+Thủ Lĩnh Đào Phạm	0	1134	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\taofanshouling.txt	1		
+Đệ Tử Võ Đang Hiểu Âm	0	1416	3	5	60	1	20	20	20	20	20	1		48800	90720		1		
+Tiểu Thiên	0	1437	3	5	60	1	20	20	20	20	20	1		44704	75360		1		
+Phụ Thân Tiểu Thiên	0	1438	3	5	60	1	20	20	20	20	20	1		44992	73376		1		
+Cổ Kiếm Vô Ngấn	0	1521	3	5	60	1	20	20	20	20	20	1		41952	101504		1		
+Bức thư của ông lão	0	1522	3	5	60	1	20	20	20	20	20	1		36512	90240		1		
+Đến Thanh Hư Chân Thất	0	2525	4	5	1	1	20	20	20	20	20	1		47328	99488		1		
+Đến chỗ Đào Vĩnh Xương	0	2525	4	5	1	1	20	20	20	20	20	1		48896	90432		1		
+Đến chỗ Ngụy Trường Phong	0	2525	4	5	1	1	20	20	20	20	20	1		44960	93280		1		
+Đến Vân Lộc Thủy Cư	0	2525	4	5	1	1	20	20	20	20	20	1		46176	82624		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		49312	90528				2
+to_jiejianchi	1															\setting\map\map_info\longhuhuanjing_1\trap\to_jiejianchi.txt			
+to_laojunyan	1															\setting\map\map_info\longhuhuanjing_1\trap\to_laojunyan.txt			
+to_qingxuzhenshi	1															\setting\map\map_info\longhuhuanjing_1\trap\to_qingxuzhenshi.txt			
+to_taoju	1															\setting\map\map_info\longhuhuanjing_1\trap\to_taoju.txt			
+to_weiju	1															\setting\map\map_info\longhuhuanjing_1\trap\to_weiju.txt			
+to_yunlushuiju	1															\setting\map\map_info\longhuhuanjing_1\trap\to_yunlushuiju.txt			
+Hổ Con	0	2056	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\area1.txt	1		
+Hổ Cái	0	2057	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\area2.txt	1		
+Đào Phạm	0	2224	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\area3.txt	1		3
+Thích Khách Bịt Mặt	0	2225	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\longhuhuanjing_1\npc\area4.txt	1		2
+to_tianzhufeng	1															\setting\map\map_info\longhuhuanjing_1\trap\to_tianzhufeng.txt			
+to_longhuhuanjing_2	1															\setting\map\map_info\longhuhuanjing_1\trap\to_longhuhuanjing_2.txt			
+Thiên Trụ Phong	0	2525	4	5	1	1	20	20	20	20	20	1		51264	101952		1		
+Tây Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		36512	74112		1		
+to_fight	1															\setting\map\map_info\longhuhuanjing_1\trap\to_fight.txt			
+to_peace	1															\setting\map\map_info\longhuhuanjing_1\trap\to_peace.txt			
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		48992	90336				2

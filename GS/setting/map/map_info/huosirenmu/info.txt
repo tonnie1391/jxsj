@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+U Minh Cốt	0	2293	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\huosirenmu\npc\area1.txt			
+Đạo Mộ Man Tặc	0	2294	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\huosirenmu\npc\area2.txt			
+Quỷ Nương Tử	0	2295	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\huosirenmu\npc\area3.txt			
+Thất Tâm Đạo Nhân	0	2296	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\huosirenmu\npc\area4.txt			
+to_huashan	1															\setting\map\map_info\huosirenmu\trap\to_huashan.txt			
+Hoa Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		56000	106944		1		
+Lâm Triều Anh	0	4348	3	5	150	1	20	20	20	20	20	1		45312	95968		1		
+to_baiyuetanshuo1	1															\setting\map\map_info\huosirenmu\trap\to_baiyuetanshuo1.txt			
+Bái Nguyệt Đàn-Sóc	0	2525	4	5	1	1	20	20	20	20	20	1		55552	104928		1		
+to_baiyuetanshuo2	1															\setting\map\map_info\huosirenmu\trap\to_baiyuetanshuo2.txt			
+Bái Nguyệt Đàn-Sóc	0	2525	4	5	1	1	20	20	20	20	20	1		46880	103744		1		
+to_baiyuetanwang1	1															\setting\map\map_info\huosirenmu\trap\to_baiyuetanwang1.txt			
+Bái Nguyệt Đàn-Vọng	0	2525	4	5	1	1	20	20	20	20	20	1		48672	98400		1		
+to_baiyuetanwang2	1															\setting\map\map_info\huosirenmu\trap\to_baiyuetanwang2.txt			
+Bái Nguyệt Đàn-Vọng	0	2525	4	5	1	1	20	20	20	20	20	1		56608	101632		1		

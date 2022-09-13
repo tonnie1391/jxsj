@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	±¸×¢
+1	2954	57536	87680	¿ªÆôÃÜÂë¼äÊ¯±®

@@ -1,0 +1,28 @@
+[Common]
+HurtFrame=12
+RunSpeed=10
+WalkSpeed=5
+AttackFrame=18
+CastFrame=18
+
+[Male]
+WalkFrame=12
+RunFrame=14
+StandFrame=25
+
+[Female]
+WalkFrame=12
+RunFrame=14
+StandFrame=45
+
+[stamina]
+// 平时体力恢复速度
+NormalAdd=1
+// 练功模式跑步体力减少速度
+ExerciseRunSub=1
+// 战斗模式跑步体力减少速度
+FightRunSub=1
+// 屠杀模式跑步体力减少速度
+KillRunSub=9
+// 打坐时候体力恢复千分比
+SitAdd=10

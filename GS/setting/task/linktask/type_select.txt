@@ -1,0 +1,6 @@
+TypeId	TypeName	FileName	Level1	Level2	Level3	Level4	Level5	Level6	Level7	Level8	Level9	Level10	Level11
+Loại nhiệm vụ ID	Tên nhiệm vụ	Nội dung nhiệm vụ	Cấp 1	Cấp 2	Cấp 3	Cấp 4	Cấp 5	Cấp 6	Cấp 7	Cấp 8	Cấp 9	Cấp 10	Cấp 11
+10000	Nhiệm vụ nghĩa quân	entity_finditem.txt	0	0	0	2000	2000	2000	2000	2000	2000	2000	2000
+20000	Nhiệm vụ nghĩa quân	entity_killnpc.txt	5000	4500	4000	3500	3500	3500	3500	3500	3500	3500	3500
+30000	Nhiệm vụ nghĩa quân	entity_findequip.txt	0	0	0	0	0	0	0	0	0	0	0
+40000	Nhiệm vụ nghĩa quân	entity_buyitem.txt	0	0	0	0	0	0	0	0	0	0	0

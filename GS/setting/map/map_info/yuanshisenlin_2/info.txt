@@ -1,0 +1,81 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cơ Chú	0	76	3	5	60	1	20	20	20	20	20	1		59232	114176		1		
+Di Nhân Đao Khách	0	79	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\yirendaoke.txt	1		
+Ân Phương	0	80	3	5	60	1	20	20	20	20	20	1		60864	117408		1		1
+Ân Đồng	0	81	3	5	60	1	20	20	20	20	20	1		60704	117696		1		2
+Điệp Phiêu Phiêu	0	82	3	5	90	1	20	20	20	20	20	1		58176	108000		1		
+Võ Lâm Cao Thủ	0	83	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\wulingaoshou.txt	1		
+Quan Vạn Sơn	0	84	3	5	60	1	20	20	20	20	20	1		55328	113888		1		
+Võ Sĩ Di Nhân	0	85	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\yirenwushi.txt	1		
+Thủ Lĩnh Di Nhân	0	86	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	52192	113248		1		
+Đồng Tử	0	89	3	5	60	1	20	20	20	20	20	1		57280	113920		1		1
+Thám Tử Trường Ca Môn	0	101	0	5	45	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2\npc\changgemen.txt	1		
+Lan Tùng Lâm	0	110	3	5	60	1	20	20	20	20	20	1		52224	111712		1		
+Võ Sĩ Thiên Vương	0	112	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\tianwangwushi.txt	1		
+Tướng Lĩnh Thiên Vương	0	113	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\tianwangjiangling.txt	1		
+Bùi Dực Phi	0	114	3	5	90	1	20	20	20	20	20	1		51488	103648		1		
+Đệ Tử Hồng Kỳ	0	116	3	5	60	1	20	20	20	20	20	1		53312	109216		1		2
+Đệ Tử Hắc Kỳ	0	118	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\heiqidizi.txt	1		0
+Đệ Tử Bạch Kỳ	0	119	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\baiqidizi.txt	1		
+Võ Sĩ Cái Bang	0	120	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\gaibangwushi.txt	1		
+La Phong	0	121	3	5	90	1	20	20	20	20	20	1		53600	104224		1		2
+Hộ Pháp Hồng Kỳ	0	128	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\hongqihufa.txt	1		2
+Lan Tùng Lâm	0	129	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	55648	108512		1		
+Ngư Tàng Phong	0	130	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	54496	108480		1		3
+Điệp Phiêu Phiêu	0	131	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	55264	106784		1		
+Hồ Hiến Cơ	0	133	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	55904	105312		1		2
+La Phong	0	134	3	5	90	1	20	20	20	20	20	1		56128	103712		1		2
+Đệ Tử Hoàng Kỳ	0	135	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\huangqidizi.txt	1		0
+Thạch Hiên Viên	0	136	3	5	150	1	20	20	20	20	20	1		55136	103264		1		
+Dương Thiết Tâm	0	137	3	5	150	1	20	20	20	20	20	1		55040	103392		1		
+Cổ Yên Nhiên	0	138	3	5	150	1	20	20	20	20	20	1		55104	103616		1		
+Lư Tiếu Bần	0	359	3	5	90	1	20	20	20	20	20	1		58560	107872		1		
+Trưởng Thôn Mông Khả	0	360	3	5	60	1	20	20	20	20	20	1		59584	121344		1		
+Thôn Dân Mông Khả	0	361	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2\npc\mengkecunming.txt	1		
+Tộc Trưởng Dao Sơn	0	363	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	52736	122816		1		
+Nam Tử Dao Sơn	0	364	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\yaoshanbunanzi.txt	1		
+Hàn Phá Sơn	0	365	3	5	90	1	20	20	20	20	20	1		58432	108416		1		
+Tù Trưởng Thổ Sơn	0	367	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt	60256	105408		1		2
+Đệ Tử Thiên Vương	0	1174	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2\npc\tianwangdizi.txt	1		
+Đệ Tử Cái Bang	0	1413	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2\npc\gaibangdizi.txt	1		
+Đệ Tử Ngũ Độc	0	1422	0	0	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\wududiziz.txt	1		
+Đệ Tử Ngũ Độc	0	1421	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2\npc\wududizi.txt	1		
+Nữ Vu Nam Di	0	1423	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\nanyinvwu.txt	1		
+Sát Thủ Thổ Sơn	0	1424	0	5	45	1	20	20	20	20	20	2	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\tushanshashou.txt	1		
+Quả Phụ Hắc Kỳ	0	1440	3	5	60	1	20	20	20	20	20	1		52576	114496		1		
+Đệ Tử Thiên Vương Kim Đào	0	1448	3	5	60	1	20	20	20	20	20	1		55680	107200		1		
+Đệ Tử Cái Bang Hỏa Phong	0	1449	3	5	60	1	20	20	20	20	20	1		56512	105920		1		
+Liên Chu Thảo	0	1512	3	5	1	1	20	20	20	20	20	1		53088	119008		1		
+Liên Chu Thảo	0	1513	3	5	1	1	20	20	20	20	20	1		57920	104544		1		
+Liên Chu Thảo	0	1514	3	5	1	1	20	20	20	20	20	1		59968	117792		1		
+Liên Chu Thảo	0	1515	3	5	1	1	20	20	20	20	20	1		60800	106208		1		
+Rương thư ải phía tây	0	1516	3	5	1	1	20	20	20	20	20	1		54368	117792		1		
+Rương thư ải trung tâm	0	1517	3	5	1	1	20	20	20	20	20	1		55520	118112		1		
+Rương thư ải phía đông	0	1518	3	5	1	1	20	20	20	20	20	1		57344	117504		1		
+Rương Thư Đăng Sát Khẩu	0	1519	3	5	1	1	20	20	20	20	20	1		56096	118816		1		
+Đi Xích Luyện Xà Động	0	2525	4	5	1	1	20	20	20	20	20	1		59552	110848		1		
+Đến Ngư Tàng Phong Cương Lâu	0	2525	4	5	1	1	20	20	20	20	20	1		56256	119104		1		
+Đến phòng Ân Phương	0	2525	4	5	1	1	20	20	20	20	20	1		57472	113664		1		
+Đến phòng Ân Đồng	0	2525	4	5	1	1	20	20	20	20	20	1		57664	113856		1		
+Đến Cam Lộ Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		56320	117408		1		
+Đến Nơi ở Mộc Thị	0	2525	4	5	1	1	20	20	20	20	20	1		60448	111040		1		
+Đến phòng Thủ Lĩnh Nữ Vu	0	2525	4	5	1	1	20	20	20	20	20	1		51520	118912		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		57056	113984				2
+to_shedong	1															\setting\map\map_info\yuanshisenlin_2\trap\to_shedong.txt			
+to_shandi	1															\setting\map\map_info\yuanshisenlin_2\trap\to_shandi.txt			
+to_yucangfeng	1															\setting\map\map_info\yuanshisenlin_2\trap\to_yucangfeng.txt			
+to_yinfang	1															\setting\map\map_info\yuanshisenlin_2\trap\to_yinfang.txt			
+to_yintong	1															\setting\map\map_info\yuanshisenlin_2\trap\to_yintong.txt			
+to_ganlugu	1															\setting\map\map_info\yuanshisenlin_2\trap\to_ganlugu.txt			
+to_dingtaoling2	1															\setting\map\map_info\yuanshisenlin_2\trap\to_dingtaoling2.txt			
+to_nvwushouling	1															\setting\map\map_info\yuanshisenlin_2\trap\to_nvwushouling.txt			
+Lạc Phách Sát Thủ	0	2250	0	5	40	1	20	20	20	20	20	1	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\area1.txt			0
+Lưu Phóng Đao Khách	0	2251	0	5	40	1	20	20	20	20	20	1	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\area2.txt			4
+Lưu Phóng Vu Nữ	0	2089	0	5	40	1	20	20	20	20	20	1	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\area3.txt			3
+Lạc Phách Võ Sĩ	0	2090	0	5	40	1	20	20	20	20	20	1	\setting\npc\droprate\droprate005.txt			\setting\map\map_info\yuanshisenlin_2\npc\area4.txt			
+to_yuanshisenlin_1	1															\setting\map\map_info\yuanshisenlin_2\trap\to_yuanshisenlin_1.txt			
+Đông Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		60416	103008		1		
+to_fight	1															\setting\map\map_info\yuanshisenlin_2\trap\to_fight.txt			
+to_peace	1															\setting\map\map_info\yuanshisenlin_2\trap\to_peace.txt			
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		57120	113792				2
+Xe Dược Thảo	0	793	3	5	60	1	20	20	20	20	20	1		52096	111904		1		

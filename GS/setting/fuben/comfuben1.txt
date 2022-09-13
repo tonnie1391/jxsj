@@ -1,0 +1,2 @@
+nId	MapId	Name	MinNumber	MaxNumber	Grade	Time	ItemId	GroupModel	Count	AutoOpen	FubenId	ConditionItem	ConditionMapType	TotalTime
+1	1693	ÂäÓ¢ËþµÄ´«Ëµ	2	6	90	20	18,1,549,1	1	5	1	1		fight	30

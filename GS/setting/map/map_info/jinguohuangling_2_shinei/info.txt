@@ -1,0 +1,20 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ninh Ly Châu	0	241	3	5	60	1	20	20	20	20	20	1		50592	118528		1		
+Vinh Đồ	0	458	3	5	90	1	20	20	20	20	20	1		55712	123392		1		1
+Bồ Sát Phong Nô	0	462	3	5	90	1	20	20	20	20	20	1		55328	123008		1		
+Ngột Tát	0	238	3	5	60	1	20	20	20	20	20	1		50688	122848		1		
+Ngột Tát	0	252	3	5	60	1	20	20	20	20	20	1		53056	122528		1		
+Lý Sư Nhi	0	253	3	5	60	1	20	20	20	20	20	1		53184	122688		1		
+Ngột Tát	0	254	3	5	60	1	20	20	20	20	20	1		55456	123136		1		
+Hoàn Nhan Tương	0	255	3	5	150	1	20	20	20	20	20	1		55584	123264		1		
+Đệ Tử Thiên Nhẫn	0	1430	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\jinguohuangling_2_shinei\npc\tianrendiziz.txt	1		
+Đến Huyền Tự Lao	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136		1		
+Đến Hoàng Lăng Kim Quốc 2	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648		1		
+Đến công trường	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872		1		
+to_exit17	1															\setting\map\map_info\jinguohuangling_2_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\jinguohuangling_2_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\jinguohuangling_2_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\jinguohuangling_2_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\jinguohuangling_2_shinei\trap\to_exit24.txt			

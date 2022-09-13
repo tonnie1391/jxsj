@@ -1,0 +1,28 @@
+Id	Name	TimeFrameDay	TimeFrameDayEx	TimeFrameTime	ClassName
+Từ khóa ID	Miêu tả danh hiệu	Server mở mấy ngày	Server mở mấy ngày (Bản tăng tốc)	Thời gian mở (giờ mở)	Loại
+1	Mở cấp 69	0	0	0	OpenLevel69
+2	Mở cấp 79	0	0	0	OpenLevel79
+3	Mở cấp 89	0	0	0	OpenLevel89
+4	Mở cấp 99	0	0	0	OpenLevel99
+5	Mở boss thế giới cấp 55 (5 ngày sau khi mở server)	0	0	0	OpenBoss55
+6	Mở boss thế giới cấp 75 (7 ngày sau khi mở cấp 79)	0	0	0	OpenBoss75
+7	Mở boss thế giới cấp 95 (7 ngày sau khi mở cấp 99)	0	0	0	OpenBoss95
+8	Mở cấp 150	0	0	0	OpenLevel150
+9	Đóng Bạch Hổ Đường (sơ) 2 (1 tuần sau khi mở cấp 99)	0	0	0	CloseBaiHuTangChu2
+10	Bạch Hổ Đường (cao) chỉ mở 1 trận (120 ngày sau khi mở cấp 99)	0	0	0	OpenOneAdvBaiHuTang
+11	Chiến trường Phượng Tường chỉ mở 1 trận (Sau khi mở cấp 150, 150 ngày sau)	0	0	0	OpenOneFengXiangBattle
+12	Mở nhiệm vụ Tiêu Dao Cốc (7 ngày sau khi mở cấp 79)	0	0	0	OpenXoyoGameTask
+13	Mở boss thế giới cấp 120 (90 ngày sau khi mở cấp 150)	50	0	0	OpenBoss120
+14	Mở Bạch Hổ Đường Hoàng Kim (90 ngày sau khi mở cấp 150)	50	0	0	OpenBaiHuTangGolden
+15	Mở trạng thái nguyên soái chiến thần Phượng Tường (156 ngày sau khi mở cấp 150)	0	0	0	OpenSongjinDaXiaBattle
+16	Mở Truy nã-cao (Đạo tặc) (30 ngày sau khi mở cấp 150)	21	0	0	OpenAdvWanted
+17	Đóng tính năng Mông Cổ Tây Hạ 14:50 (156 ngày sau khi mở cấp 150)	0	0	0	CloseSongJin1450
+18	Đóng tính năng Mông Cổ Tây Hạ 18:50 (156 ngày sau khi mở cấp 150)	0	0	0	CloseSongJin1850
+19	Đóng tính năng Mông Cổ Tây Hạ 20:50 (156 ngày sau khi mở cấp 150)	0	0	0	CloseSongJin2050
+20	Mở Nhiệm vụ hiệp khách	0	0	0	XiakeDaily
+21	Mở Lâu Lan Cổ Thành	0	0	0	Atlantis
+22	Mở trạng thái Long Trụ	0	0	0	OpenSongjinProtectTotem
+23	Mở nhiệm vụ câu cá	0	0	0	WeekendFish
+24	Mở chiến trường Khắc Di Môn	50	0	0	Keyimen
+25	Mở báo danh thành chiến liên server (14 ngày sau khi mở cấp 150)	0	0	0	GlobalKufuBattle
+26	Mở mua Danh vọng bài Du Long (60 ngày sau khi mở cấp 150)	0	0	0	OpenYoulongAllSell

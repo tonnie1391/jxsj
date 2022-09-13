@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ân Phương	0	97	3	5	35	1	20	20	20	20	20	1		52288	102400				
+Đến Cam Lộ Cốc 2	0	2525	4	5	35	1	20	20	20	20	20	1		51008	101856				
+jintou2ceng2	1															\setting\map\map_info\yuanshisenlin_2_jtf\trap\to_ceng2.txt			

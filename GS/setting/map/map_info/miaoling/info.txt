@@ -1,0 +1,18 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ba Đại Nhi	0	3127	0	5	95	1	20	20	20	20	20	16		50560	102176				4
+Kỷ Thiên Thành	0	3128	0	5	95	1	20	20	20	20	20	16		51392	116896				2
+Lâu Thiên Thiên	0	3129	0	5	95	1	20	20	20	20	20	16		54976	104800				1
+Bạch Viễn Hải	0	3130	0	5	95	1	20	20	20	20	20	16		58816	117312				0
+Gỗ sam thượng hạng	0	1650	3	5	60	1	20	20	20	20	20	1		51456	109568		1		
+to_shiguzhen	1															\setting\map\map_info\miaoling\trap\to_shiguzhen.txt			
+Thạch Cổ Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		48640	119744		1		
+Thợ Săn Hắc Miêu	0	2273	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\miaoling\npc\area1.txt			
+Man Nữ Tế Tư	0	2274	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\miaoling\npc\area2.txt			
+Thợ Săn Bạch Miêu	0	2275	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\miaoling\npc\area3.txt			
+Thủ Quân Miêu Lĩnh	0	2276	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\miaoling\npc\area4.txt			
+Xi Vưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		59552	114656		1		
+to_chiyoudong	1															\setting\map\map_info\miaoling\trap\to_chiyoudong.txt			
+to_taohuayuan	1															\setting\map\map_info\miaoling\trap\to_taohuayuan.txt			
+Đào Hoa Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		59872	105664		1		
+to_yelangjiuxu	1															\setting\map\map_info\miaoling\trap\to_yelangjiuxu.txt			
+Tàn Tích Dạ Lang	0	2525	4	5	1	1	20	20	20	20	20	1		48864	99232		1		

@@ -1,0 +1,15 @@
+nIndex	nAchievementId1	nAchievementId2	nAchievementId3	nAchievementId4	nAchievementId5	nAchievementId6	nAchievementId7	nAchievementId8	nAchievementId9	nAchievementId10	nAchievementId11	nAchievementId12	nAchievementId13	nAchievementId14	nAchievementId15
+1	90	91	92	93	94										
+2	215	216	217	218	219	220	221	223							
+3	225	226	227	228	229	230	231								
+4	245	246	247												
+5	251	252	253	254	256	257									
+6	263	264	261	262											
+7	269	270	271												
+8	340	341	342	343	344	345	346	347	348						
+9	353	354	355												
+10	359	360	361	362	363	364	365	366	367	368	369				
+11	440	443	446												
+12	441	444	447												
+13	442	445	448												
+14	483	484	485	486

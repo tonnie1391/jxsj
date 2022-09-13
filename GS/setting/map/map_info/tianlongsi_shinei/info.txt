@@ -1,0 +1,33 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đạo Huyền Chân Nhân	0	1006	3	5	85	1	20	20	20	20	20	1		50656	122976		1		0
+Đạo Huyền Chân Nhân	0	1017	0	5	85	1	20	20	20	20	20	1		54304	109504		1		0
+Đạo Ẩn Chân Nhân	0	1014	3	5	85	1	20	20	20	20	20	1		60192	119008		1		
+Đạo Ẩn Chân Nhân	0	1016	0	5	85	1	20	20	20	20	20	1		55232	110752		1		
+Bì Nhật La	0	916	3	5	85	1	20	20	20	20	20	1		57888	123328		1		
+Bì Nhật La	0	1022	3	5	85	1	20	20	20	20	20	1		55200	109632		1		
+Vương Đạo Gia	0	922	0	5	85	1	20	20	20	20	20	1		60608	123040		1		
+Tín Sứ Tây Hạ	0	923	3	5	85	1	20	20	20	20	20	1		50720	125824		1		
+Thị Vệ Quỷ Chủ	0	919	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\tianlongsi_shinei\npc\guizhushiwei.txt	1		2
+Đạo Nhân Thủ vệ	0	1021	0	5	85	1	20	20	20	20	20	1				\setting\map\map_info\tianlongsi_shinei\npc\daorenshouwei.txt	1		
+to_xixiang	1															\setting\map\map_info\tianlongsi_shinei\trap\to_xixiang.txt	1		
+to_exit17	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit17.txt	1		
+to_exit18	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit18.txt	1		
+to_exit19	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit19.txt	1		
+to_exit26	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit26.txt	1		
+to_exit21	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit21.txt	1		
+to_exit22	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit22.txt	1		
+to_exit28	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit28.txt	1		
+to_exit25	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit25.txt	1		
+to_exit23	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit23.txt	1		
+to_exit24	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit24.txt	1		
+to_exit20	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit20.txt	1		
+to_exit27	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit27.txt	1		
+to_exit9	1															\setting\map\map_info\tianlongsi_shinei\trap\to_exit9.txt	1		
+to_guizhudezhufang	1															\setting\map\map_info\tianlongsi_shinei\trap\to_guizhudezhufang.txt	1		
+to_guanrilouerceng	1															\setting\map\map_info\tianlongsi_shinei\trap\to_guanrilouerceng.txt	1		
+to_guanriloudijiao	1															\setting\map\map_info\tianlongsi_shinei\trap\to_guanriloudijiao.txt	1		
+Lầu 2	0	2525	4	5	1	1	20	20	20	20	20	1		55456	122784		1		
+Tầng hầm	0	2525	4	5	1	1	20	20	20	20	20	1		55968	123360		1		
+Lối vào	0	2525	4	5	1	1	20	20	20	20	20	1				\setting\map\map_info\tianlongsi_shinei\npc\rukou.txt	1		
+Rời phòng	0	2525	4	5	1	1	20	20	20	20	20	1				\setting\map\map_info\tianlongsi_shinei\npc\likaifangjian.txt	1		
+Rời Mật Thất	0	2525	4	5	1	1	20	20	20	20	20	1		54176	110656		1		

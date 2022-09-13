@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hồ Lệ Nương	0	4320	3	5	35	1	20	20	20	20	20	1		52288	102400				
+Tân Khí Tật	0	4319	3	5	35	1	20	20	20	20	20	1		52192	102432				
+Lục Du	0	4318	3	5	35	1	20	20	20	20	20	1		52096	102464				
+Đến Vũ Di Sơn Tinh Xá	0	2525	4	5	35	1	20	20	20	20	20	1		51008	101856				
+to_jingshe	1															\setting\map\map_info\jingshe_mudi\trap\to_jingshe.txt			

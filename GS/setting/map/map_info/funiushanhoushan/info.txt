@@ -1,0 +1,97 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vân Phong	0	4026	3	5	95	1	20	20	20	20	20	1		57952	105856		1		3
+Dương Kiến	0	4024	3	5	95	1	20	20	20	20	20	1		53024	112544		1		3
+Phác Tán	0	4028	3	5	95	1	20	20	20	20	20	1		53504	120384		1		3
+La Ẩn	0	4025	3	5	95	1	20	20	20	20	20	1		53952	105824		1		3
+Hồ Gia	0	4030	3	5	95	1	20	20	20	20	20	1		52320	115744		1		3
+Cung Viên	0	4027	3	5	95	1	20	20	20	20	20	1		60384	110752		1		3
+Thuyền Phu	0	4010	3	5	95	1	20	20	20	20	20	1		53216	120288		1		3
+Thợ Săn Dã Nhân	0	4009	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\yerenlieshou.txt	1		3
+Ma Âm Cổ	0	4007	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\shoukuanglouluo.txt	1		3
+Chó Sói	0	4008	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\huilang.txt	1		3
+Khổ Công	0	4005	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\kugong.txt	1		3
+Giám Công	0	4001	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\jiangong.txt	1		3
+Thợ Đẽo Đá	0	4003	0	5	95	1	20	20	20	20	20	1	\setting\npc\droprate\renwudiaoluo\caishigongjiang.txt			\setting\map\map_info\funiushanhoushan\npc\caishigongjiang.txt	1		
+Thuyền cũ	0	4012	3	5	95	1	20	20	20	20	20	1		60000	111328		1		3
+Thuyền cũ	0	4059	3	5	95	1	20	20	20	20	20	1		53248	120128		1		3
+Khổ Công Cố Phong	0	1926	3	5	95	1	20	20	20	20	20	1		60640	110944		1		3
+Nghĩa Quân Săn Bắn	0	1924	3	5	95	1	20	20	20	20	20	1		56448	98528		1		3
+Ngô Ất	0	1813	0	5	95	1	20	20	20	20	20	1		56672	105824		1		3
+Tần Đào	0	1815	0	5	95	1	20	20	20	20	20	1		56704	101824		1		3
+Tất Tái Ngộ	0	1817	0	5	95	1	20	20	20	20	20	1		57920	106432		1		3
+Phản Quân Phục Ngưu Sơn	0	1811	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\funiushanpanjun.txt	1		
+Thao Luyện Sĩ Tốt	0	1822	0	0	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\caolianshizu.txt	1		
+Đoạt Kỳ Sĩ Tốt	0	1823	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\duoqisizu.txt	1		
+Tống Sĩ Tốt	0	1818	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\songjunshizu.txt	1		
+Dũng Sĩ Hứa Tuấn	0	1826	0	5	95	1	20	20	20	20	20	1		55424	123552		1		3
+Vong Mệnh Đồ	0	1827	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\wangmingtu.txt	1		
+Long Thú	0	1828	0	5	95	1	20	20	20	20	20	1		56864	120672		1		
+Tất Tái Ngộ Quân Kỳ	0	1824	3	5	95	1	20	20	20	20	20	1		56672	122656		1		3
+Chuột núi	0	1651	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\shanshu.txt	1		3
+Thảo dược	0	1652	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\caoyao.txt	1		3
+Hoa rừng	0	1636	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\yehua.txt	1		3
+Thủ Lĩnh Mai Hoa Đạo	0	1819	3	5	95	1	20	20	20	20	20	1		51584	122272		1		3
+Lương khô	0	1637	3	5	95	1	20	20	20	20	20	1		51680	122080		1		3
+Nước uống	0	1638	3	5	95	1	20	20	20	20	20	1		51744	122272		1		3
+to_caikuanqu	1															\setting\map\map_info\funiushanhoushan\trap\to_caikuanqu.txt			
+to_famuqu	1															\setting\map\map_info\funiushanhoushan\trap\to_famuqu.txt			
+guanka1a	1															\setting\map\map_info\funiushanhoushan\trap\guanka1a.txt			
+guanka2a	1															\setting\map\map_info\funiushanhoushan\trap\guanka2a.txt			
+guanka3a	1															\setting\map\map_info\funiushanhoushan\trap\guanka3a.txt			
+guanka1b	1															\setting\map\map_info\funiushanhoushan\trap\guanka1b.txt			
+guanka2b	1															\setting\map\map_info\funiushanhoushan\trap\guanka2b.txt			
+guanka3b	1															\setting\map\map_info\funiushanhoushan\trap\guanka3b.txt			
+to_manzhangshan	1															\setting\map\map_info\funiushanhoushan\trap\to_manzhangshan.txt			
+to_niulanzhai	1															\setting\map\map_info\funiushanhoushan\trap\to_niulanzhai.txt			
+to_eshendian	1															\setting\map\map_info\funiushanhoushan\trap\to_eshendian.txt			
+Cây phong	0	4023	3	5	1	1	20	20	20	20	20	1		55424	102816		1		3
+Cây phong	0	4023	3	5	1	1	20	20	20	20	20	1		55776	105184		1		3
+Cây phong	0	4023	3	5	1	1	20	20	20	20	20	1		56672	102912		1		3
+Dung nham	0	4021	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\anshao.txt	1		
+Man Chướng Sơn	0	2525	3	5	95	1	20	20	20	20	20	1		58720	98400		1		3
+Tê Giác Khoáng	0	2525	3	5	95	1	20	20	20	20	20	1		59072	108608		1		3
+Ngạc Thần Điện	0	2525	3	5	95	1	20	20	20	20	20	1		57952	120608		1		3
+Rời Khoáng Đạo	0	2525	3	5	95	1	20	20	20	20	20	1		60896	106560		1		3
+Dụng cụ cắt đá	0	4011	3	5	95	1	20	20	20	20	20	1		54144	122144		1		3
+Lộ Lộ Thông	0	4043	3	5	95	1	20	20	20	20	20	1		52896	116384		1		3
+Mộc Huyền	0	4044	3	5	95	1	20	20	20	20	20	1		52576	117056		1		3
+Huyền Băng Đàm	0	2525	3	5	95	1	20	20	20	20	20	1		61760	94112		1		3
+Rời Huyền Băng Đàm	0	2525	3	5	95	1	20	20	20	20	20	1		63168	92736		1		3
+Rời khỏi Ngạc Thần Điện	0	2525	3	5	95	1	20	20	20	20	20	1		58016	125888		1		3
+Dân nữ bị bắt	0	4094	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\beiqindeminnv.txt	1		3
+Hoa Tặc	0	4091	0	5	95	1	20	20	20	20	20	1	\setting\npc\droprate\droprate010_jingying.txt	59392	99488		1		3
+Nhị Đương Gia	0	4092	0	5	95	1	20	20	20	20	20	1	\setting\npc\droprate\droprate010_jingying.txt	60896	98752		1		3
+Tiền xu cổ	0	4103	3	5	95	1	20	20	20	20	20	1		60896	128256		1		3
+Cơ quan	0	4099	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\jiguan1.txt	1		3
+Cơ quan	0	4100	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\jiguan2.txt	1		3
+Cơ quan	0	4097	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\jiguan3.txt	1		3
+Lâu La	0	4093	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\louluo.txt	1		3
+Tiền Lai	0	4085	3	5	95	1	20	20	20	20	20	1		59648	102016		1		3
+Vân Đại Đao	0	4077	3	5	95	1	20	20	20	20	20	1		58528	98368		1		3
+Vân Tiểu Đao	0	4084	3	5	95	1	20	20	20	20	20	1		58016	120896		1		3
+Thần Vu	0	4090	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\shenwu.txt	1		3
+Dũng Sĩ	0	4089	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\yongshi.txt	1		3
+Cá Sấu Ăn Thịt	0	4101	0	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\shirene.txt	1		3
+Cá Sấu Ăn Thịt (lớn)	0	4102	0	5	95	1	20	20	20	20	20	1		57632	130016		1		3
+Tiên Nhũ Linh Thạch	0	4105	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\xianrulingshi.txt	1		3
+Tuyết Hồn Châu	0	4104	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\xuehunzhu.txt	1		3
+Chi Lan	0	4076	3	5	95	1	20	20	20	20	20	1				\setting\map\map_info\funiushanhoushan\npc\zhilan.txt	1		3
+to_exitmanzhangshan	1															\setting\map\map_info\funiushanhoushan\trap\to_exitmanzhangshan.txt			
+to_exiteshendian	1															\setting\map\map_info\funiushanhoushan\trap\to_exiteshendian.txt			
+to_xuanbingtan	1															\setting\map\map_info\funiushanhoushan\trap\to_xuanbingtan.txt			
+to_exitxuanbingtan	1															\setting\map\map_info\funiushanhoushan\trap\to_exitxuanbingtan.txt			
+Rời khỏi Man Chướng Sơn	0	2525	3	5	95	1	20	20	20	20	20	1		60992	96160		1		3
+guanka3aa	1															\setting\map\map_info\funiushanhoushan\trap\guanka3aa.txt			
+guanka3bb	1															\setting\map\map_info\funiushanhoushan\trap\guanka3bb.txt			
+to_fight	1															\setting\map\map_info\funiushanhoushan\trap\to_fight.txt			
+to_safe	1															\setting\map\map_info\funiushanhoushan\trap\to_safe.txt			
+Thủ Khố	0	2599	3	5	60	1	20	20	20	20	20	1		52480	117216				
+Trương Trảm Kinh	0	3564	3	5	60	1	20	20	20	20	20	1		51520	116160				
+to_exitshanzhuang	1															\setting\map\map_info\funiushanhoushan\trap\to_exitshanzhuang.txt			
+Tẩu Địa Kê	0	4110	0	5	95	1	20	20	20	20	20	1	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\funiushanhoushan\npc\zoudiji.txt	1		3
+Qua Qua	0	4112	0	5	95	1	20	20	20	20	20	1	\setting\npc\droprate\renwudiaoluo\guagua.txt			\setting\map\map_info\funiushanhoushan\npc\guagua.txt	1		3
+Đỗ Nhị	0	4109	3	5	95	1	20	20	20	20	20	1		49312	111456		1		3
+Loạn Đao Tam	0	4116	3	5	95	1	20	20	20	20	20	1		48768	110848		1		3
+Rời Sơn Trang	0	2525	3	5	95	1	20	20	20	20	20	1		50304	114016		1		3
+Thời Tái Hưng	0	4115	3	5	60	1	20	20	20	20	20	3		50048	112928		1		
+ 	0	11186	8	6	1	1	20	20	20	20	20	1		54528	111008		1		3

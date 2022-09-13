@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+车夫	0	2597	3	5	100	1	20	20	20	20	20	1		52384	102560		1		
+石破天	0	7282	3	5	100	1	20	20	20	20	20	1		51008	104768		1		
+夏洛遥	0	7283	3	5	100	1	20	20	20	20	20	1		53472	101952		1		

@@ -1,0 +1,2 @@
+ZoneType	ZoneTypeName	ZoneName	ServerName	GatewayId	MainServer	GlobalArea
+1	WJXVN	Group01	BICHHUYETKIEM	gate0101	1	1

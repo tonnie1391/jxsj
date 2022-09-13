@@ -1,0 +1,23 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hộ Thủ Hồng Thương	0	2297	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dayutai\npc\area1.txt			
+Tỳ Nữ Hồng Thương	0	2298	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dayutai\npc\area2.txt			
+Thiết Phủ Kim Binh	0	2299	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dayutai\npc\area3.txt			
+Ải Kiếm Tú Nữ	0	2300	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dayutai\npc\area4.txt			
+Chu Hy	0	4307	3	5	105	1	20	20	20	20	20	1		53376	105824				
+Thư quyển (thượng)	0	1654	3	5	105	1	20	20	20	20	20	1		54048	104320				
+Thư quyển (trung)	0	1655	3	5	105	1	20	20	20	20	20	1		57344	103744				
+Thư quyển (hạ)	0	1656	3	5	105	1	20	20	20	20	20	1		59776	103712				
+Thị Vệ Triều Đình	0	4371	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dayutai\npc\chiwei2.txt			
+to_shugangmijing	1															\setting\map\map_info\dayutai\trap\to_shugangmijing.txt			
+Thục Cương Bí Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		55936	124128		1		
+Trương Xích Thành	0	4349	3	5	105	1	20	20	20	20	20	1		59904	104064				
+to_liangshanpo	1															\setting\map\map_info\dayutai\trap\to_liangshanpo.txt			
+Lương Sơn Bạc	0	2525	4	5	1	1	20	20	20	20	20	1		63424	112192		1		
+to_baiyuetancan1	1															\setting\map\map_info\dayutai\trap\to_baiyuetancan1.txt			
+Bái Nguyệt Đàn-Tàn	0	2525	4	5	1	1	20	20	20	20	20	1		57728	123136		1		
+to_baiyuetancan2	1															\setting\map\map_info\dayutai\trap\to_baiyuetancan2.txt			
+Bái Nguyệt Đàn-Tàn	0	2525	4	5	1	1	20	20	20	20	20	1		53664	118048		1		
+to_baiyuetanmei1	1															\setting\map\map_info\dayutai\trap\to_baiyuetanmei1.txt			
+Bái Nguyệt Đàn-Mi	0	2525	4	5	1	1	20	20	20	20	20	1		59008	107424		1		
+to_baiyuetanmei2	1															\setting\map\map_info\dayutai\trap\to_baiyuetanmei2.txt			
+Bái Nguyệt Đàn-Mi	0	2525	4	5	1	1	20	20	20	20	20	1		62336	112864		1		

@@ -1,0 +1,62 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Mộc Dung Thanh	0	77	0	5	35	1	20	20	20	20	20	1		53600	126048		1		
+Mộc Nhất Lâu	0	78	0	5	35	1	20	20	20	20	20	1		56416	126304		1		
+Ân Phương	0	87	3	5	60	1	20	20	20	20	20	1		50752	122880				1
+Ân Đồng	0	88	3	5	60	1	20	20	20	20	20	1		53152	122592				3
+Xích Luyện Xà Vương	0	90	0	5	35	1	20	20	20	20	20	1		51264	105504		1		
+Người Nuôi Ong	0	95	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\yangfengren.txt	1		3
+Kim Tiền Báo	0	96	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\jinqianbao.txt	1		
+Ân Phương	0	97	3	5	60	1	20	20	20	20	20	1		55520	123168				1
+Ân Đồng	0	98	3	5	60	1	20	20	20	20	20	1		57856	123360				2
+Ngư Tàng Phong	0	99	3	5	60	1	20	20	20	20	20	1		60544	123104				3
+Đăng Sát Khẩu Tiêu Binh	0	102	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\dengshakoushaobing.txt	1		
+Đệ Tử Ngũ Độc	0	103	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\wududizi.txt	1		1
+Thủ Lĩnh Bạch Kỳ	0	104	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\baiqishouling.txt	1		1
+Xe chuyển thư	0	105	0	5	35	1	20	20	20	20	20	1		56352	104480		1		
+Cơ Chú	0	107	3	5	60	1	20	20	20	20	20	1		54176	104960				
+Cơ Chú	0	122	3	5	60	1	20	20	20	20	20	1		50560	119168				
+Thạch Hiên Viên	0	139	3	5	150	1	20	20	20	20	20	1		53824	118912				
+Dương Thiết Tâm	0	140	3	5	150	1	20	20	20	20	20	1		53920	119008				
+Bùi Dực Phi	0	141	3	5	90	1	20	20	20	20	20	1		53984	119168				
+La Phong	0	142	3	5	90	1	20	20	20	20	20	1		53632	118944				2
+Võ Sĩ Cái Bang	0	143	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\gaibangwushi.txt			
+Võ Sĩ Thiên Vương	0	144	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\tianwangwushi.txt			
+Nữ Vu Thủ Lĩnh Na Phong	0	369	0	5	35	1	20	20	20	20	20	1		56960	119264		1		
+Bùi Dực Phi	0	115	0	5	35	1	20	20	20	20	20	1		58592	95008		1		
+Bùi Dực Phi	0	792	0	5	35	1	20	20	20	20	20	1		58592	98560		1		
+Nga Hoàng Ca	0	1536	3	5	60	1	20	20	20	20	20	1		57184	118848				
+Cổ Yên Nhiên	0	109	3	5	150	1	20	20	20	20	20	1		50656	125888				
+Họa Sư Nhát Gan	0	1441	3	5	60	1	20	20	20	20	20	1		51264	104800				
+Xích Luyện Xà	0	1442	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_shinei\npc\chilianshe.txt	1		
+Đến Long Quán Pha	0	2525	4	5	1	1	20	20	20	20	20	1		58240	95488				
+Đến Long Quán Pha	0	2525	4	5	1	1	20	20	20	20	20	1		58304	99104				
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		51264	106560				
+Đến Đăng Sát Khẩu	0	2525	4	5	1	1	20	20	20	20	20	1		54912	106080				
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		50560	110912				
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456				
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		53344	119584				
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		56480	119776				
+Đến Biệt Viện Tùng Đào	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360				
+Đến Biệt Viện Tùng Đào	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136				
+Đến Cam Lộ Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648				
+Đến Cam Lộ Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872				
+Đến Đăng Sát Khẩu	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456				
+Đến Ngũ Độc Giáo	0	2525	4	5	1	1	20	20	20	20	20	1		50336	126368				
+Đến Định Đào Lĩnh	0	2525	4	5	1	1	20	20	20	20	20	1		53248	126528				
+Đến Định Đào Lĩnh	0	2525	4	5	1	1	20	20	20	20	20	1		56032	126752				
+to_exit3	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit3.txt			
+to_exit4	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit4.txt			
+to_exit5	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit5.txt			
+to_exit6	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit6.txt			
+to_exit8	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit8.txt			
+to_exit17	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit17.txt			
+to_exit18	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit18.txt			
+to_exit19	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit19.txt			
+to_exit21	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit25.txt			
+to_exit26	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit26.txt			
+to_exit27	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit27.txt			
+to_exit28	1															\setting\map\map_info\yuanshisenlin_2_shinei\trap\to_exit28.txt			

@@ -1,0 +1,15 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Nhạc Hữu Tình	0	870	0	5	55	1	20	20	20	20	20	1		51040	95008		1		2
+Thủ hạ Nhạc Hữu Tình	0	941	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\gaibangmidao\npc\yueyouqingshouxia.txt	1		2
+Lương Côn Hiền	0	867	0	5	55	1	20	20	20	20	20	1		50656	98656		1		0
+Long Đoạn	0	868	0	5	55	1	20	20	20	20	20	1		51776	99872		1		1
+Hứa Nguyên	0	866	0	5	55	1	20	20	20	20	20	1		52768	97440		1		3
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		49664	96160		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		49856	95936		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		50112	96192		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		49888	96416		1		4
+Triệu Khoách	0	1180	3	5	60	1	20	20	20	20	20	1		49568	95840		1		
+to_midaowai	1															\setting\map\map_info\gaibangmidao\trap\to_midaowai.txt			
+to_exit505	1															\setting\map\map_info\gaibangmidao\trap\to_exit505.txt			
+Mật Đạo Tắt	0	2525	4	5	1	1	20	20	20	20	20	1		50848	94496		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50784	102784		1		

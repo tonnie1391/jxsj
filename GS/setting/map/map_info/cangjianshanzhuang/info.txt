@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Kiếm Nô	0	1800	3	5	60	1	20	20	20	20	20	1		53344	97184				
+Xa Phu	0	2597	3	5	60	1	20	20	20	20	20	1		52064	99328				
+cangjian	1															\setting\map\map_info\cangjianshanzhuang\trap\cangjian.txt			

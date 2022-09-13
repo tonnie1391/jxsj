@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	2	50000		2级玄晶
+		18	1	114	3	10000		3级玄晶
+		18	1	114	4	5000		4级玄晶
+		18	1	114	5	500		5级玄晶
+		18	1	626	1	50000		小锄头
+		18	1	627	1	100000		小水壶

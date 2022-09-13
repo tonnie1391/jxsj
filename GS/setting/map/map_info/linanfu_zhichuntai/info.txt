@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ô Tiểu Long	0	1459	3	5	60	1	20	20	20	20	20	1		52064	101824		1		
+Tú Bà Tri Xuân Đài	0	1461	3	5	60	1	20	20	20	20	20	1		51328	102432		1		
+Tiểu Hồng	0	1462	3	5	60	1	20	20	20	20	20	1		52032	102048		1		
+Tiểu Thúy	0	1463	3	5	60	1	20	20	20	20	20	1		51840	101888		1		
+zhichuntai2linanfu	1															\setting\map\map_info\linanfu_zhichuntai\trap\to_linanfu.txt			
+Đến Lâm An Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		51392	103360		1		

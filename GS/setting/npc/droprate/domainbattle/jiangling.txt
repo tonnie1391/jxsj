@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	315000		4级玄晶（绑定）
+		18	1	114	5	200000		5级玄晶（绑定）
+		18	1	114	6	100000		6级玄晶（绑定）
+		18	1	114	7	10000		7级玄晶（绑定）
+		18	1	252	1	375000		领土争夺战宝箱

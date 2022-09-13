@@ -1,0 +1,57 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngô Tài	0	1124	3	5	75	1	20	20	20	20	20	1		58944	115168		1		
+Tiếp Đầu Đồng Tử	0	894	3	5	75	1	20	20	20	20	20	1		53120	111904		1		
+Mao Đại	0	1100	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	58112	114368		1		
+Mao Nhị	0	1101	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	58816	113984		1		
+Mao Tứ	0	1102	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	59520	114784		1		
+Thủ Vệ Hậu Viện	0	881	3	5	75	1	20	20	20	20	20	2		61536	105632		1		
+Hắc Hổ	0	1098	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	52320	120576		1		
+Hắc Hổ Thủ Hạ	0	1099	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiangeshudao\npc\heihushouxia.txt	1		
+to_wude	1															\setting\map\map_info\jiangeshudao\trap\to_wude.txt			
+to_tangshi	1															\setting\map\map_info\jiangeshudao\trap\to_tangshi.txt			
+to_tangque	1															\setting\map\map_info\jiangeshudao\trap\to_tangque.txt			
+to_xinshi	1															\setting\map\map_info\jiangeshudao\trap\to_xinshi.txt			
+Nam Ảnh	0	2166	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiangeshudao\npc\area1.txt			
+Thần Hành Binh	0	2167	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiangeshudao\npc\area2.txt			
+Nữ Ảnh	0	2165	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiangeshudao\npc\area3.txt			
+Thần Hành Binh	0	2167	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiangeshudao\npc\area4.txt			
+to_chengdufu	1															\setting\map\map_info\jiangeshudao\trap\to_chengdufu.txt			
+to_dasanguan	1															\setting\map\map_info\jiangeshudao\trap\to_dasanguan.txt			
+to_jianmenguan	1															\setting\map\map_info\jiangeshudao\trap\to_jianmenguan.txt			
+to_xiangshuidong	1															\setting\map\map_info\jiangeshudao\trap\to_xiangshuidong.txt			
+Thành Đô Phủ	0	2525	4	5	75	1	20	20	20	20	20	1		49024	118848				
+Đại Tán Quan	0	2525	4	5	75	1	20	20	20	20	20	1		58464	101184				
+Kiếm Môn Quan	0	2525	4	5	75	1	20	20	20	20	20	1		61952	116608				
+Hưởng Thủy Động	0	2525	4	5	75	1	20	20	20	20	20	1		48928	108608				
+Phòng Khách	0	2525	4	5	75	1	20	20	20	20	20	1		61792	105792				
+Đại sảnh Biệt Viện	0	2525	4	5	75	1	20	20	20	20	20	1		60736	106080				
+Dịch Quán	0	2525	4	5	75	1	20	20	20	20	20	1		57280	112704				
+Nhà nhỏ	0	2525	4	5	75	1	20	20	20	20	20	1		51520	113952				
+Binh Phù	0	1560	3	5	75	1	20	20	20	20	20	1		58528	114016				
+Tuần Viện	0	882	0	0	75	1	20	20	20	20	20	2		60288	106592		1		
+Tuần Viện	0	882	0	0	75	1	20	20	20	20	20	2		60768	105184		1		
+Tuần Viện	0	882	0	0	75	1	20	20	20	20	20	2		61312	106016		1		
+Đội Trưởng Tuần Viện	0	883	3	5	75	1	20	20	20	20	20	2		60544	105376		1		
+Ngô Tín	0	1104	3	5	75	1	20	20	20	20	20	2		59488	106880		1		
+Tuyết Nguyệt	0	1106	3	5	75	1	20	20	20	20	20	2		60192	106112		1		
+Thủ Vệ Tiền Viện	0	880	3	5	75	1	20	20	20	20	20	2		59712	106880		1		
+Thủ Vệ Tiền Viện	0	880	3	5	75	1	20	20	20	20	20	2		59840	107040		1		
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	2		53568	115392		1		
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	2		53760	115584		1		
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	2		57824	115232		1		
+Thủ vệ	0	434	3	5	75	1	20	20	20	20	20	2		58048	115392		1		
+Ngô Hỉ	0	1107	0	0	75	1	20	20	20	20	20	2		54240	114592		1		
+Thị Tùng Ngô Hy	0	1109	0	0	75	1	20	20	20	20	20	2		53952	114560		1		
+Thị Tùng Ngô Hỉ	0	1109	0	0	75	1	20	20	20	20	20	2		54464	114816		1		
+Ngô Hỉ Binh Phù	0	1117	3	5	75	1	20	20	20	20	20	2		54432	114720		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		51360	103232		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		51616	102560		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		51520	103872		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		51936	102816		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		51840	103360		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		52192	103872		1		
+Gấu Hoang	0	1033	0	5	75	1	20	20	20	20	20	2		52416	103328		1		
+Viên Thiên Thọ	0	3067	0	5	75	1	20	20	20	20	20	16		56992	120000				0
+Nhạc Nguyên Kính	0	3068	0	5	75	1	20	20	20	20	20	16		61600	112800				1
+Thượng Quan Cừu	0	3069	0	5	75	1	20	20	20	20	20	16		49024	113312				2
+Tiết Vô Cực	0	3070	0	5	75	1	20	20	20	20	20	16		56128	108032				3

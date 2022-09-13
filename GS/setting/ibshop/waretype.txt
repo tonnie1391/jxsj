@@ -1,0 +1,19 @@
+ID loại thương phẩm	Tên loại thương phẩm	Miêu tả loại thương phẩm
+0	Đạo cụ ẩn	Đạo cụ ẩn
+1	Vật phẩm mới	Vật phẩm mới
+2	Khu khuyến mãi	Khu khuyến mãi
+101	Luyện cấp	Luyện cấp
+102	Tính năng hỗ trợ	Tính năng hỗ trợ
+103	Khu tinh phẩm	Khu tinh phẩm
+104	Mua gần đây	Mua gần đây
+105	Bán chạy ở server	Bán chạy ở server
+106	Tăng sức mạnh	Tăng sức mạnh
+107	Tăng trang bị	Tăng trang bị
+108	Tăng danh vọng	Tăng danh vọng
+109	Danh hiệu	Danh hiệu
+110	Mặt nạ	Mặt nạ
+111	Trang bị thú cưỡi	Trang bị thú cưỡi
+112	Mua giới hạn	Mua giới hạn
+113	Đạo cụ báu vật	Đạo cụ báu vật
+114	Tình Nồng Ý Mật	Tình Nồng Ý Mật
+115	Mặt nạ	Mặt nạ

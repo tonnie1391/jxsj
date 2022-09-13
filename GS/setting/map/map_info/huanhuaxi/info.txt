@@ -1,0 +1,30 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_mayigu	1															\setting\map\map_info\huanhuaxi\trap\to_mayigu.txt			
+to_danqingsheng	1															\setting\map\map_info\huanhuaxi\trap\to_danqingsheng.txt			
+Thương Sĩ Ngô Gia	0	2123	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\area1.txt	1		
+Thương Sĩ Ngô Gia	0	2123	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\area3.txt	1		
+Đao Binh Ngô Gia	0	2124	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\area2.txt	1		
+Hưởng Thủy Tử Sĩ	0	2125	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\area4.txt	1		0
+Đại Bạch Xà	0	533	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	55552	103392		1		
+to_chengdufu	1															\setting\map\map_info\huanhuaxi\trap\to_chengdufu.txt			
+to_erhaimoyan	1															\setting\map\map_info\huanhuaxi\trap\to_erhaimoyan.txt			
+to_xiangshuidong	1															\setting\map\map_info\huanhuaxi\trap\to_xiangshuidong.txt			
+to_kunlunpai	1															\setting\map\map_info\huanhuaxi\trap\to_kunlunpai.txt			
+Thành Đô Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		63488	113664		1		
+Nhĩ Hải Ma Nham	0	2525	4	5	1	1	20	20	20	20	20	1		53024	128256		1		
+Hưởng Thủy Động	0	2525	4	5	1	1	20	20	20	20	20	1		57344	103968		1		
+Côn Lôn Phái	0	2525	4	5	1	1	20	20	20	20	20	1		54464	103104		1		
+Phi Long Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		60960	100960		1		
+Nhà Ẩn Giả	0	2525	4	5	1	1	20	20	20	20	20	1		54336	113376		1		
+Thị Vệ Hồng Thương	0	828	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\zhaofushiwei.txt	1		0
+Vân Tiểu Đao	0	1208	3	5	60	1	20	20	20	20	20	1		58752	104800		1		1
+A Phúc	0	1211	3	5	60	1	20	20	20	20	20	1		58880	127040		1		
+Tân Binh Giáo Đầu	0	537	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt	58272	122336		1		
+Tân Binh	0	538	0	0	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\xinbing.txt	1		
+Trường Thương Sĩ	0	539	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\huanhuaxi\npc\changqiangbing.txt	1		
+Thất Thái Thạch	0	1635	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\huanhuaxi\npc\qicaishi.txt			
+Thương Tặc	0	2968	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\huanhuaxi\npc\qiangzei.txt			1
+Tần Tư Du	0	3011	0	5	55	1	20	20	20	20	20	16		61824	125696				4
+Khuất Hướng Vinh	0	3012	0	5	55	1	20	20	20	20	20	16		61600	103296				0
+Nhậm Thương Khung	0	3013	0	5	55	1	20	20	20	20	20	16		51392	106592				1
+Tang Thương Hải	0	3014	0	5	55	1	20	20	20	20	20	16		55072	127872				3

@@ -1,0 +1,6 @@
+nId	nActive	szInfor	nParam1	nParam2	nParam3	nParam4	nParam5	nParam6	nParam7	nParam8	nParam9	nParam10	nParam11	nParam12	nParam13	nParam14	nParam15
+1	300	Túi quà 1 sao	binditem=18,1,114,6	binditem=18,1,1815,4												
+2	500	Túi quà 2 sao	binditem=18,1,114,6,nil,3	binditem=18,1,1815,4,0,2													
+3	1000	Túi quà 3 sao	binditem=18,1,114,7	binditem=18,1,525,1,nil,2	binditem=18,1,1815,4,0,3												
+4	1500	Túi quà 4 sao	binditem=18,1,114,8,nil,2	binditem=18,1,1815,4,0,4													
+5	2000	Túi quà 5 sao	xiayi=30	prestige=30	expbase=500	binditem=18,1,1815,4,0,5	titlename=Tuấn Mã Đạp Cửu Châu	title=6,90,1,9									

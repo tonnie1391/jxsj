@@ -1,0 +1,3 @@
+AwardLevel	PlayerLevel	ItemG	ItemD	ItemP	ItemL	LevelFile
+1	100	18	1	1018	6	\setting\task\treasuremap2\longmenfeijian\level_2\award_1.txt
+2	120	18	1	1018	8	\setting\task\treasuremap2\longmenfeijian\level_2\award_2.txt

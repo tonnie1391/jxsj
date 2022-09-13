@@ -1,0 +1,26 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Trinh sát quân Mông	Trinh sát quân Mông	11380	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\mengjunchihou.txt	1		0
+Di Dân Lâu Lan	Di Dân Lâu Lan	11381	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\loulanyimin.txt	1		0
+Khoáng Mạch Đạo Tặc	Khoáng Mạch Đạo Tặc	11382	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\kuangmaidaofei.txt	1		0
+Sát Thủ Ngân Bài	Sát Thủ Ngân Bài	11383	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\yinpaishashou.txt	1		0
+Sát Thủ Kim Bài	Sát Thủ Kim Bài	11384	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\jinpaishashou.txt	1		0
+Giang Tuyết Ngữ	Giang Tuyết Ngữ	11389	3	5	25	1	20	20	20	20	20	1		56896	115328		1		0
+Vọng Thu Bạch	Vọng Thu Bạch	11390	3	5	25	1	20	20	20	20	20	1		57952	115520		1		0
+Thủ Lĩnh Đạo Tặc	Thủ Lĩnh Đạo Tặc	11392	0	5	130	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\daofeishouling.txt	1		0
+Khưu Việt	Khưu Việt	11393	3	5	25	1	20	20	20	20	20	1		56896	104480		1		0
+Lam Dật Thạch	Lam Dật Thạch	11394	3	5	25	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\lanyishi.txt	1		0
+Kim Huyền Thạch	Kim Huyền Thạch	11401	3	5	25	1	20	20	20	20	20	1				\setting\map\map_info\kongquehe\trap\jinxuanshi.txt	1		0
+Xa Phu	Xa Phu	2597	3	5	60	1	20	20	20	20	20	1		57600	116480				
+kongquehe2other_a	1															\setting\map\map_info\kongquehe\trap\kongquehe2other_a.txt			
+kongquehe2other_b	1															\setting\map\map_info\kongquehe\trap\kongquehe2other_b.txt			
+kongquehein2out	1															\setting\map\map_info\kongquehe\trap\kongquehein2out.txt			
+kongqueheout2in	1															\setting\map\map_info\kongquehe\trap\kongqueheout2in.txt			
+Biện Kinh Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		51136	112160				
+Lâm An Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		54752	96640				
+to_bianjing	1															\setting\map\map_info\kongquehe\trap\to_bianjing.txt			
+to_linan	1															\setting\map\map_info\kongquehe\trap\to_linan.txt			
+Truyền tống liên server	0	2525	4	5	1	1	20	20	20	20	20	1		53728	116800				
+Truyền tống liên server	0	2525	4	5	1	1	20	20	20	20	20	1		59840	96192				
+Lý Thành Hữu	0	11420	3	5	60	1	20	20	20	20	20	1		56512	115776				
+Tiệm thuốc	0	11402	3	5	60	1	20	20	20	20	20	1		56960	116288				
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		57280	116608				2

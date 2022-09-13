@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Rương sắt cũ	0	1663	3	5	90	1	20	20	20	20	20	3		50144	99168		1		
+Lâm An Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		49856	99936		1		
+to_linanfu	1															\setting\map\map_info\linanfu_zhuxi3\trap\to_linanfu.txt			

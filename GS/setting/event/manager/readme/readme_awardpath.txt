@@ -1,0 +1,22 @@
+掉落表说明				
+字段名	描述	格式	类型	说明
+Name	描述	string	字符串	用做描述,做参考,无实际作用
+Kind	物品类型	n	整型	0,1或空代表奖励,2代表材料
+Exp	经验值	n	整型	经验值
+ExpBase	经验值基值	n	整型	经验值基值,根据等级基值获得相应经验
+JxMoney	剑侠币	n	整型	银两值
+JxBindMoney	剑侠币	n	整型	绑定银两值
+JxCoin	金币	n	整型	绑定金币值
+Genre	物品G	n	整型	G,D,P,L值必须同时填写
+Detail	物品D	n	整型	G,D,P,L值必须同时填写
+Particular	物品P	n	整型	G,D,P,L值必须同时填写
+Level	等级	n	整型	G,D,P,L值必须同时填写
+Series	五行	n	整型	五行,-1或不填则随机五行,0金,1木,2,水,3,火,4土
+Amount	数量	n	整型	空为默认为1次,0则为不获得,该物品数量.
+RandRate	获得几率	n	整型	百万分之N,最大几率是所有奖励几率相加
+Bind	物品绑定1	n	整型	获取绑定与否,0不绑定,1绑定
+TimeLimit	物品限时	n	整型	表示n分钟
+TimeLimit	物品限时	YYYY/mm/dd/HH/MM/SS	字符串	定时限时消失
+TimeLimit	物品限时	HH/MM/SS	字符串	当天该时消失
+TimeLimit	物品限时	dd/HH/MM/SS	字符串	dd天后该时间消失
+Annouce	公告	n	整型	0不告,1全服公告			

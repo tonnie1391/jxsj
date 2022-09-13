@@ -1,0 +1,752 @@
+Name	Kind	Genre	DetailType	ParticularType	Level	Icon	View	ObjID	Intro	Help	Series	Price	Stack	ItemValue	MakeCost	BindType	Valuable	ReqLevel	ClassName	ForbidType	CanBeOffer	Shortcut	CDType
+Thiên Nhẫn Tiểu Kỳ	Thiên Nhẫn Tiểu Kỳ	20	1	1	1	\image\item\other\quest\quest_0012_s.spr		32	Tín vật truyền lệnh của đệ tử Thiên Nhẫn Giáo.		0	0	1	1		3	0		taskitem				
+Chìa khóa địa huyệt	Chìa khóa địa huyệt	20	1	2	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cổng địa huyệt thần bí Thiên Vương Đảo.		0	0	100	1		3	0		taskitem				
+Hùng đảm thảo	Hùng đảm thảo	20	1	3	1	\image\item\other\quest\quest_0014_s.spr		32	Mùi vị kỳ lạ, dùng để đuổi cá sấu hoặc những mãnh thú khác.		0	0	100	1		3	0		taskitem				
+Thư của Cầu Chỉ Thủy	Thư của Cầu Chỉ Thủy	20	1	4	1	\image\item\other\quest\quest_0003_s.spr		32	Bên trong có thể ẩn chứa bí mật to lớn.		0	0	1	1		3	0		taskitem				
+Thư liên lạc giả	Thư liên lạc giả	20	1	5	1	\image\item\other\quest\quest_0003_s.spr		32	Mưu đồ vu cáo Thiên Vương Bang phản nghịch.		0	0	100	1		3	0		taskitem				
+Quả du	Quả du	20	1	6	1	\image\item\other\quest\quest_0002_s.spr		32	Quả và hạt cây du, giống đồng tiền.		0	0	100	1		3	0		taskitem				
+Bố Giả Thương	Bố Giả Thương	20	1	7	1	\image\item\other\quest\quest_0004_s.spr		32	Binh khí của đệ nhất võ sĩ Hạ Bộ Trần của Cấm quân.		0	0	1	1		3	0		taskitem				
+Dưa hấu	Dưa hấu	20	1	8	1	\image\item\other\quest\quest_0005_s.spr		32	Dùng để giải khát, mọng nước.		0	0	100	1		3	0		taskitem				
+Hầu Nhi Tửu	Hầu Nhi Tửu	20	1	9	1	\image\item\other\quest\quest_0006_s.spr		32	Do Hầu Nhi ủ, vị ngọt, hiếm có.		0	0	100	1		3	0		taskitem				
+Bút lông	Bút lông	20	1	10	1	\image\item\other\quest\quest_0009_s.spr		32	Một trong những nguyên liệu cơ bản để vẽ bản đồ.		0	0	100	1		3	0		taskitem				
+Giấy Tuyên	Giấy Tuyên	20	1	11	1	\image\item\other\quest\quest_0010_s.spr		32	Một trong những nguyên liệu cơ bản để vẽ bản đồ.		0	0	100	1		3	0		taskitem				
+Tập bản đồ	Tập bản đồ	20	1	12	1	\image\item\other\quest\quest_0011_s.spr		32	Dùng trong quân sự, nghiên cứu.		0	0	100	1		3	0		taskitem				
+Ảnh Giả Ám Ký	Ảnh Giả Ám Ký	20	1	13	1	\image\item\other\quest\quest_0008_s.spr		32	Cái Bang "Ảnh Xã" dùng, dùng để chỉ vị trí địa lý.		0	0	100	1		3	0		taskitem				
+Cờ Ngũ Độc Giáo	Cờ Ngũ Độc Giáo	20	1	14	1	\image\item\other\quest\quest_0012_s.spr		32	Đệ tử Ngũ Độc Giáo dùng để đánh dấu đường.		0	0	100	1		3	0		taskitem				
+Vong ưu thảo	Vong ưu thảo	20	1	15	1	\image\item\other\quest\quest_0014_s.spr		32	Một loại thảo mộc hiếm có.		0	0	1	1		3	0		taskitem				
+Tử La Lan	Tử La Lan	20	1	16	1	\image\item\other\quest\quest_0019_s.spr		32	Một loại thảo mộc hiếm có.		0	0	1	1		3	0		taskitem				
+Tinh tinh thảo	Tinh tinh thảo	20	1	17	1	\image\item\other\quest\quest_0020_s.spr		32	Một loại thảo mộc hiếm có.		0	0	1	1		3	0		taskitem				
+Phong Tín Tử	Phong Tín Tử	20	1	18	1	\image\item\other\quest\quest_0021_s.spr		32	Một loại thảo mộc hiếm có.		0	0	1	1		3	0		taskitem				
+Bia đá	Bia đá	20	1	19	1	\image\item\other\quest\quest_0070_s.spr		32	Phía trên có một hàng chữ mờ, khó thấy.		0	0	100	1		3	0		taskitem				
+Thủ cấp Tộc trưởng Dao Sơn	Thủ cấp Tộc trưởng Dao Sơn	20	1	20	1	\image\item\other\quest\quest_0015_s.spr		32	Thủ cấp đàn ông tộc Dao Sơn.		0	0	100	1		3	0		taskitem				
+Diên Hương Hương Nang	Diên Hương Hương Nang	20	1	21	1	\image\item\other\quest\quest_0064_s.spr		32	Đàn ông tộc Dao Sơn mang theo bên người.		0	0	100	1		1	0		taskitem				
+Túi bạc nặng trĩu	Túi bạc nặng trĩu	20	1	22	1	\image\item\other\quest\quest_0016_s.spr		32	Bên trong chứa nhiều bạc		0	0	100	1		3	0		taskitem				
+Nga Hoàng Ca	Nga Hoàng Ca	20	1	23	1	\image\item\other\quest\quest_0018_s.spr		32	Bài ca cảm động, nữ vu bộ lạc nguyên thủy thường hát.		0	0	1	1		3	0		taskitem				
+Tóc nữ vu	Tóc nữ vu	20	1	24	1	\image\item\other\quest\quest_0071_s.spr		32	Mái tóc dài thô màu nâu đen của Nữ Vu Nam Di		0	0	100	1		3	0		taskitem				
+Chìa khóa Hoàng Đồng 1	Chìa khóa Hoàng Đồng 1	20	1	25	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cổng Đại Tuyết Chủng núi Côn Lôn.		0	0	100	1		3	0		taskitem				
+Chìa khóa Hoàng Đồng 2	Chìa khóa Hoàng Đồng 2	20	1	26	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cổng Đại Tuyết Chủng núi Côn Lôn.		0	0	100	1		3	0		taskitem				
+Chìa khóa Hoàng Đồng 3	Chìa khóa Hoàng Đồng 3	20	1	27	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cổng Đại Tuyết Chủng núi Côn Lôn.		0	0	100	1		3	0		taskitem				
+Thư của Tạ Vũ Điền	Thư của Tạ Vũ Điền	20	1	28	1	\image\item\other\quest\quest_0003_s.spr		32	Tạ Vũ Điền, đệ tử đời trước của phái Côn Lôn kể chuyện nội loạn.		0	0	100	1		3	0		taskitem				
+Cổ Kiếm Trường Thanh	Cổ Kiếm Trường Thanh	20	1	29	1	\image\item\other\quest\quest_0033_s.spr		32	Di vật của Sở Khi Thiên phái Côn Lôn đời trước		0	0	1	1		3	0		taskitem				
+Thổ Phục Linh	Thổ Phục Linh	20	1	30	1	\image\item\other\quest\quest_0034_s.spr		32	Thuốc quý, trị được nhiều bệnh nan y.		0	0	1	1		3	0		taskitem				
+Sơn Dược	Sơn Dược	20	1	31	1	\image\item\other\quest\quest_0035_s.spr		32	Thuốc quý, trị được nhiều bệnh nan y.		0	0	1	1		3	0		taskitem				
+Cửu Tiết Xương Bồ	Cửu Tiết Xương Bồ	20	1	32	1	\image\item\other\quest\quest_0036_s.spr		32	Thuốc quý, trị được nhiều bệnh nan y.		0	0	1	1		3	0		taskitem				
+Đại Thanh Đâu 	Đại Thanh Đâu 	20	1	33	1	\image\item\other\quest\quest_0037_s.spr		32	Thuốc quý, trị được nhiều bệnh nan y.		0	0	1	1		3	0		taskitem				
+Sợi tơ	Sợi tơ	20	1	34	1	\image\item\other\quest\quest_0072_s.spr		32	Dùng để may quần áo.		0	0	100	1		3	0		taskitem				
+Kim Cang Thiền Trượng (chưa khai quang)	Kim Cang Thiền Trượng (chưa khai quang)	20	1	35	1	\image\item\other\quest\quest_0073_s.spr		32	Gậy phục ma Đạt Ma Đại Sư mang theo bên người khi đi về phía đông		0	0	1	1		3	0		taskitem				
+Kim Cang Thiền Trượng (khai quang)	Kim Cang Thiền Trượng (khai quang)	20	1	36	1	\image\item\other\quest\quest_0073_s.spr		32	Gậy phục ma Đạt Ma Đại Sư mang theo bên người khi đi về phía đông		0	0	1	1		3	0		taskitem				
+Địa Căn Thảo	Địa Căn Thảo	20	1	37	1	\image\item\other\quest\quest_0037_s.spr		32	Có thể cải tử hồi sinh, tăng công lực		0	0	100	1		3	0		taskitem				
+Thích Giả Đấu Lạp	Thích Giả Đấu Lạp	20	1	38	1	\image\item\other\quest\quest_0075_s.spr		32	Chiếc mũ sư trụ trì Pháp Môn tự đời thứ tư đội		0	0	100	1		3	0		taskitem				
+Chìa khóa miếu hoang	Chìa khóa miếu hoang	20	1	39	1	\image\item\other\quest\quest_0013_s.spr		32	Chiếc chìa khóa của ngôi miếu bỏ hoang.		0	0	100	1		3	0		taskitem				
+Linh kiện mộc nhân	Linh kiện mộc nhân	20	1	40	1	\image\item\other\quest\quest_0038_s.spr		32	Linh kiện trên người Mộc Nhân trong Thiếu Lâm Mộc Nhân Hạng.		0	0	100	1		1	0		taskitem				
+Thư Lộ Hiểu Nhiên giao	Thư Lộ Hiểu Nhiên giao	20	1	41	1	\image\item\other\quest\quest_0003_s.spr		32	Thư Lộ Hiểu Nhiên giao		0	0	1	1		3	0		taskitem				
+Túi đồ Lộ Hiểu Nhiên giao	Túi đồ Lộ Hiểu Nhiên giao	20	1	42	1	\image\item\other\quest\quest_0042_s.spr		32	Túi đồ Lộ Hiểu Nhiên giao		0	0	1	1		3	0		taskitem				
+Râu Chân Nhân	Râu Chân Nhân	20	1	43	1	\image\item\other\quest\quest_0076_s.spr		32	Râu đá nhổ xuống từ bức tượng Võ Đang		0	0	100	1		3	0		taskitem				
+Thanh Minh Bảo Kiếm	Thanh Minh Bảo Kiếm	20	1	44	1	\image\item\other\quest\quest_0033_s.spr		32	Bội kiếm của Chung Chí Minh phái Võ Đang, danh kiếm đương thời, hiếm thấy.		0	0	100	1		3	0		taskitem				
+Bộ Thanh Minh Kiếm	Bộ Thanh Minh Kiếm	20	1	45	1	\image\item\other\quest\quest_0041_s.spr		32	Bộ Thanh Minh Bảo Kiếm		0	0	100	1		3	0		taskitem				
+Danh sách phạm nhân	Danh sách phạm nhân	20	1	46	1	\image\item\other\quest\quest_0011_s.spr		32	Ghi tên những cự thương buôn bán tại Kim Quốc có hành động đoạt người cướp của bí mật.		0	0	100	1		3	0		taskitem				
+Ô Kim Trường Kiếm	Ô Kim Trường Kiếm	20	1	47	1	\image\item\other\quest\quest_0033_s.spr		32	Thân kiếm làm bằng hợp kim, chém sắt như chém bùn.		0	0	100	1		3	0		taskitem				
+Lương thảo bị cướp	Lương thảo bị cướp	20	1	48	1	\image\item\other\quest\quest_0077_s.spr		32	Túi lương thực chứa đầy lương thực trong quân doanh		0	0	100	1		3	0		taskitem				
+Châu báu bị cướp	Châu báu bị cướp	20	1	49	1	\image\item\other\quest\quest_0078_s.spr		32	Trên một miếng vải mềm để nhiều trang sức quý giá		0	0	100	1		3	0		taskitem				
+Thất Bảo Lưu Ly	Thất Bảo Lưu Ly	20	1	50	1	\image\item\other\quest\quest_0079_s.spr		32	Có bảy màu biến đổi bất định, siêu việt lạ thường		0	0	1	1		3	0		taskitem				
+Tiền thời nhà Thương	Tiền thời nhà Thương	20	1	51	1	\image\item\other\quest\quest_0080_s.spr		32	Đồng tiền hình đao dùng vào thời nhà Thương		0	0	1	1		3	0		taskitem				
+Trường Kiếm của Mộ Dung Thị	Trường Kiếm của Mộ Dung Thị	20	1	52	1	\image\item\other\quest\quest_0033_s.spr		32	Bảo kiếm của hoàng thất Mộ Dung Yên quốc, rất quý.		0	0	1	1		3	0		taskitem				
+Danh sách mật thám	Danh sách mật thám	20	1	53	1	\image\item\other\quest\quest_0011_s.spr		32	Ghi thông tin chi tiết của danh sách mật thám.		0	0	1	1		3	0		taskitem				
+Nga My Lục	Nga My Lục	20	1	54	1	\image\item\other\quest\quest_0018_s.spr		32	Ghi lại hậu sự của môn hạ Thất Tiên Tử, do ẩn sĩ phái Nga My giữ, người ngoài không được biết.		0	0	100	1		3	0		taskitem				
+Nguồn gốc Độc Y	Nguồn gốc Độc Y	20	1	55	1	\image\item\other\quest\quest_0003_s.spr		32	Tinh hoa mà Trương Thiện Đức học được 		0	0	1	1		3	0		taskitem				
+Thủ cấp Diệp Long Diên	Thủ cấp Diệp Long Diên	20	1	56	1	\image\item\other\quest\quest_0015_s.spr		32	Thủ cấp của tên côn đồ Diệp Long Diên thủ hạ của Tiền Trọng Quang		0	0	1	1		3	0		taskitem				
+Thủ cấp Chu Quang Chiếu	Thủ cấp Chu Quang Chiếu	20	1	57	1	\image\item\other\quest\quest_0015_s.spr		32	Thủ cấp của tên côn đồ Chu Quang Chiếu thủ hạ của Tiền Trọng Quang		0	0	1	1		3	0		taskitem				
+Thủ cấp Lục Đại Khấu	Thủ cấp Lục Đại Khấu	20	1	58	1	\image\item\other\quest\quest_0015_s.spr		32	Thủ cấp của 6 tên côn đồ tội ác tày trời thủ hạ của Tiền Trọng Quang		0	0	1	1		3	0		taskitem				
+Thủ cấp Thợ Xây	Thủ cấp Thợ Xây	20	1	59	1	\image\item\other\quest\quest_0015_s.spr		32	Đầu Thợ Xây Lăng Mộ		0	0	1	1		3	0		taskitem				
+Tuyết Sơn Chi Linh (Tây)	Tuyết Sơn Chi Linh (Tây)	20	1	60	1	\image\item\other\quest\quest_0048_s.spr		32	Giữ tinh hoa của Tuyết Sơn.<enter><color=gold>Nhấn chuột phải vào góc tây thần đài để dùng<color>		0	0	1	1		3	0		taskitem				
+Tuyết Sơn Chi Linh (Nam)	Tuyết Sơn Chi Linh (Nam)	20	1	61	1	\image\item\other\quest\quest_0048_s.spr		32	Giữ tinh hoa của Tuyết Sơn.<enter><color=gold>Nhấn chuột phải vào góc nam thần đài để dùng<color>		0	0	1	1		3	0		taskitem				
+Băng lư	Băng lư	20	1	62	1	\image\item\other\quest\quest_0027_s.spr		32	Lò đồng chứa băng hàn độc		0	0	1	1		3	0		taskitem				
+Xuân Tuyệt Tâm Pháp	Xuân Tuyệt Tâm Pháp	20	1	63	1	\image\item\other\quest\quest_0018_s.spr		32	Tâm pháp nhập môn nội công của đệ tử Đường Môn.		0	0	1	1		3	0		taskitem				
+Sái Vân Thủ	Sái Vân Thủ	20	1	64	1	\image\item\other\quest\quest_0018_s.spr		32	Tâm pháp nhập môn ngoại công của đệ tử Đường Môn.		0	0	1	1		3	0		taskitem				
+Tâm Ý Gian	Tâm Ý Gian	20	1	65	1	\image\item\other\quest\quest_0018_s.spr		32	Tâm pháp nhập môn khinh công của đệ tử Đường Môn.		0	0	1	1		3	0		taskitem				
+Trang sách	Trang sách	20	1	66	1	\image\item\other\quest\quest_0028_s.spr		32	Trang Mật tịch bị rách		0	0	1	1		3	0		taskitem				
+Món quà của Đường Như	Món quà của Đường Như	20	1	67	1	\image\item\other\quest\quest_0029_s.spr		32	Túi đồ gói kín, không biết bên trong có gì		0	0	1	1		3	0		taskitem				
+Âm Phù	Âm Phù	20	1	68	1	\image\item\other\quest\quest_0031_s.spr		32	Hộ phù có hình thái cực, phải sử dụng kết hợp với một phần khác		0	0	1	1		3	0		taskitem				
+Dương Phù	Dương Phù	20	1	69	1	\image\item\other\quest\quest_0030_s.spr		32	Hộ phù có hình thái cực, phải sử dụng kết hợp với một phần khác		0	0	1	1		3	0		taskitem				
+Rượu Trúc Diệp Thanh	Rượu Trúc Diệp Thanh	20	1	70	1	\image\item\other\quest\quest_0063_s.spr		32	Rượu lâu năm mùi hương thơm ngát		0	0	1	1		3	0		taskitem				
+Hỏa Khí Phổ	Hỏa Khí Phổ	20	1	71	1	\image\item\other\quest\quest_0018_s.spr		32	Mật tịch chế tạo hỏa khí do Đường Vân viết.		0	0	1	1		3	0		taskitem				
+Hoa Hồng Miên	Hoa Hồng Miên	20	1	72	1	\image\item\other\quest\quest_0032_s.spr		32	Được đệ tử giáo hội thần bí trồng với phương pháp đặc biệt, không bao giờ tàn.		0	0	100	1		1	0		taskitem				
+Cờ phía đông	Cờ phía đông	20	1	73	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ phía đông Ngoài Bách Hoa Trận		0	0	1	1		3	0		taskitem				
+Cờ phía nam	Cờ phía nam	20	1	74	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ phía nam Ngoài Bách Hoa Trận		0	0	1	1		3	0		taskitem				
+Cờ phía tây	Cờ phía tây	20	1	75	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ phía tây Ngoài Bách Hoa Trận		0	0	1	1		3	0		taskitem				
+Cờ phía bắc	Cờ phía bắc	20	1	76	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ phía bắc Ngoài Bách Hoa Trận		0	0	1	1		3	0		taskitem				
+Hài cốt nữ	Hài cốt nữ	20	1	77	1	\image\item\other\quest\quest_0022_s.spr		32	Xác chết đệ tử Thúy Yên Môn trong Bách Hoa trận		0	0	100	1		3	0		taskitem				
+Thư của La Phong	Thư của La Phong	20	1	78	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của Cái Bang trưởng lão La Phong		0	0	1	1		3	0		taskitem				
+Mật Bạch Xà	Mật Bạch Xà	20	1	79	1	\image\item\other\quest\quest_0081_s.spr		32			0	0	100	1		3	0		taskitem				
+Thủ cấp Lý A Đại	Thủ cấp Lý A Đại	20	1	80	1	\image\item\other\quest\quest_0015_s.spr		32			0	0	1	1		3	0		taskitem				
+Gối bạc hà	Gối bạc hà	20	1	81	1	\image\item\other\quest\quest_0082_s.spr		32	Trên gối tỏa mùi hương tươi mát, làm ta muốn ngủ		0	0	1	1		3	0		taskitem				
+Nhang đèn	Nhang đèn	20	1	82	1	\image\item\other\quest\quest_0083_s.spr		32			0	0	100	1		3	0		taskitem				
+Thư tay cơ mật	Thư tay cơ mật	20	1	83	1	\image\item\other\quest\quest_0084_s.spr		32			0	0	100	1		3	0		taskitem				
+Tim Thần Vu	Tim Thần Vu	20	1	84	1	\image\item\other\quest\quest_0085_s.spr		32			0	0	100	1		3	0		taskitem				
+Một bức thư	Một bức thư	20	1	85	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	100	1		3	0		taskitem				
+Đầu Bì La Các	Đầu Bì La Các	20	1	86	1	\image\item\other\quest\quest_0015_s.spr		32			0	0	100	1		3	0		taskitem				
+Mã Tặc mã bài	Mã Tặc mã bài	20	1	87	1	\image\item\other\quest\quest_0059_s.spr		32	Mã bài bọn cướp cưỡi ngựa mang theo bên người		0	0	100	1		3	0		taskitem				
+Mảnh Bách quan phổ 	Mảnh Bách quan phổ 	20	1	88	1	\image\item\other\quest\quest_0001_s.spr		32	Ghi lại mối quan hệ và việc quà cáp giữa quan lại		0	0	100	1		3	0		taskitem				
+Soái kỳ	Soái kỳ	20	1	89	1	\image\item\other\quest\quest_0012_s.spr		32	Soái kỳ Trương Hàn		0	0	100	1		3	0		taskitem				
+Kim khoáng thạch	Kim khoáng thạch	20	1	90	1	\image\item\other\quest\quest_0008_s.spr		32			0	0	100	1		3	0		taskitem				
+Bách thảo đồ phổ	Bách thảo đồ phổ	20	1	91	1	\image\item\other\quest\quest_0011_s.spr		32	Do Mặc Nhĩ viết, bên trong ghi công dụng độc đáo của các loại thảo dược		0	0	100	1		3	0		taskitem				
+Độ Ách kim châm	Độ Ách kim châm	20	1	92	1	\image\item\other\quest\quest_0083_s.spr		32	Được Mặc Nhĩ dùng để chữa bệnh, theo Mặc Nhĩ đã nhiều năm		0	0	100	1		3	0		taskitem				
+Cờ đầu lâu	Cờ đầu lâu	20	1	93	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ của Mã Tặc		0	0	100	1		3	0		taskitem				
+Ngọc Thoa bị cướp	Ngọc Thoa bị cướp	20	1	94	1	\image\item\other\scriptitem\liulichai.spr		32			0	0	100	1		3	0		taskitem				
+Hắc Cẩu Huyết	Hắc Cẩu Huyết	20	1	95	1	\image\item\other\quest\quest_0106_s.spr		32			0	0	100	1		3	0		taskitem				
+Vật tư quân dụng	Vật tư quân dụng	20	1	96	1	\image\item\other\scriptitem\qinling_yemingzhu_xiang.spr		32			0	0	100	1		3	0		taskitem				
+Hoàng Bảng	Hoàng Bảng	20	1	97	1	\image\item\other\quest\quest_0119_s.spr		32			0	0	100	1		3	0		taskitem				
+Băng xà	Băng xà	20	1	98	1	\image\item\other\quest\quest_0060_s.spr		32	Băng xà		0	0	100	1		3	0		taskitem				
+Tử Ngọc Khoáng Thạch	Tử Ngọc Khoáng Thạch	20	1	99	1	\image\item\other\quest\quest_0008_s.spr		32	Có ở Hưởng Thủy Động, có hiệu quả trị thương độc đáo		0	0	100	1		3	0		taskitem				
+Hàn Diêm	Hàn Diêm	20	1	100	1	\image\item\other\quest\quest_0016_s.spr		32	Một loại muối lạ, tính hàn, có thể khử độc		0	0	100	1		3	0		taskitem				
+Thanh Độc Thảo	Thanh Độc Thảo	20	1	101	1	\image\item\other\quest\quest_0014_s.spr		32	Có thể giải độc		0	0	100	1		3	0		taskitem				
+Thuốc giải độc	Thuốc giải độc	20	1	102	1	\image\item\other\quest\quest_0057_s.spr		32	Làm từ Thanh Độc Thảo		0	0	100	1		3	0		taskitem				
+Món ăn thần bí	Món ăn thần bí	20	1	103	1	\image\item\other\quest\quest_0061_s.spr		32	Do Tạ Mãn Đình thực hiện		0	0	100	1		3	0		taskitem				
+Tử Mẫu Hoàn	Tử Mẫu Hoàn	20	1	104	1	\image\item\other\quest\quest_0078_s.spr		32	Vật thần kỳ		0	0	100	1		3	0		taskitem				
+Tro xương Thiên Trúc Tăng	Tro xương Thiên Trúc Tăng	20	1	105	1	\image\item\other\quest\quest_0016_s.spr		32	Tro xương sau khi hỏa thiêu của Thiên Trúc Tăng		0	0	100	1		3	0		taskitem				
+Xá Lợi Tử	Xá Lợi Tử	20	1	106	1	\image\item\other\scriptitem\wuxingshi.spr		32	Viên đá ngũ sắc còn lại sau khi hỏa thiêu Thiên Trúc Tăng		0	0	100	1		3	0		taskitem				
+Di hài Thiên Trúc Tăng	Di hài Thiên Trúc Tăng	20	1	107	1	\image\item\other\quest\quest_0022_s.spr		32	A Di Đà Phật!		0	0	100	1		3	0		taskitem				
+Ngọc bội của Cốc Nam	Ngọc bội của Cốc Nam	20	1	108	1	\image\item\other\scriptitem\qinling_arm1_3.spr		32			0	0	100	1		3	0		taskitem				
+Khăn tay thần bí	Khăn tay thần bí	20	1	109	1	\image\item\other\scriptitem\qinling_bag2_1.spr		32			0	0	100	1		3	0		taskitem				
+Vong Linh Siêu Độ Phù	Vong Linh Siêu Độ Phù	20	1	110	1	\image\item\other\scriptitem\panshifu.spr		32			0	0	100	1		3	0		taskitem				
+Bia đá thập bát linh	Bia đá thập bát linh	20	1	111	1	\image\item\other\quest\quest_0070_s.spr		32	Văn bia thần thánh của Ô Man Tộc		0	0	100	1		3	0		taskitem				
+Mật Chiếu	Mật Chiếu	20	1	112	1	\image\item\other\scriptitem\baitanxukezheng.spr		32			0	0	100	1		3	0		taskitem				
+Tài liệu bị dán kín	Tài liệu bị dán kín	20	1	113	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	100	1		3	0		taskitem				
+Nước bùa	Nước bùa	20	1	114	1	\image\item\other\scriptitem\qinling_refine1_3.spr		32			0	0	100	1		3	0		taskitem				
+Độc Dược	Độc Dược	20	1	115	1	\image\item\other\quest\quest_0057_s.spr		32			0	0	100	1		3	0		taskitem				
+Cơ quan khu nữu	Cơ quan khu nữu	20	1	116	1	\image\item\other\quest\quest_0038_s.spr		32			0	0	100	1		3	0		taskitem				
+Bản đồ Mê Cung Sa Mạc	Bản đồ Mê Cung Sa Mạc	20	1	117	1	\image\item\other\quest\quest_0028_s.spr		32			0	0	100	1		3	0		taskitem				
+Sinh Thiết Khoáng Thạch	Sinh Thiết Khoáng Thạch	20	1	118	1	\image\item\other\quest\quest_0008_s.spr		32	Phường Đúc Kiếm là nơi chế tạo binh khí		0	0	100	1		3	0		taskitem				
+Thủ cấp Mạc Kỳ	Thủ cấp Mạc Kỳ	20	1	119	1	\image\item\other\quest\quest_0015_s.spr		32	Gian phu?		0	0	100	1		3	0		taskitem				
+Thư của Tiểu Hiển	Thư của Tiểu Hiển	20	1	120	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	100	1		3	0		taskitem				
+Xá Lợi Tử của Phật Thích Ca Mâu Ni	Xá Lợi Tử của Phật Thích Ca Mâu Ni	20	1	121	1	\image\item\other\scriptitem\bailiandan.spr		32			0	0	100	1		3	0		taskitem				
+Quân lệnh bí mật	Quân lệnh bí mật	20	1	122	1	\image\item\other\quest\quest_0059_s.spr		32			0	0	100	1		3	0		taskitem				
+Thảo Liệu	Thảo Liệu	20	1	123	1	\image\item\other\quest\quest_0093_s.spr		32			0	0	100	1		3	0		taskitem				
+Thư của Đại Giới thiền sư	Thư của Đại Giới thiền sư	20	1	124	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	100	1		3	0		taskitem				
+Ngọn lửa linh hồn	Ngọn lửa linh hồn	20	1	125	1	\image\item\other\scriptitem\baiyinhuoju.spr		32			0	0	100	1		3	0		taskitem				
+Chìa khóa bảo rương	Chìa khóa bảo rương	20	1	126	1	\image\item\other\quest\quest_0013_s.spr		32			0	0	100	1		3	0		taskitem				
+Danh sách bí mật	Danh sách bí mật	20	1	127	1	\image\item\other\scriptitem\atlas_s.spr		32			0	0	100	1		3	0		taskitem				
+Thân Tử Bồn	Thân Tử Bồn	20	1	128	1	\image\item\other\scriptitem\gongce_yanhua.spr		32			0	0	100	1		3	0		taskitem				
+Ngân phiếu	Ngân phiếu	20	1	129	1	\image\item\other\quest\quest_0001_s.spr		32			0	0	100	1		3	0		taskitem				
+Bản đồ Hoàng Hạc Lâu	Bản đồ Hoàng Hạc Lâu	20	1	130	1	\image\item\other\quest\quest_0028_s.spr		32			0	0	100	1		3	0		taskitem				
+Di thư của Yến Tiểu Lục	Di thư của Yến Tiểu Lục	20	1	131	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	100	1		3	0		taskitem				
+Giỏ trái cây	Giỏ trái cây	20	1	132	1	\image\item\other\quest\quest_0043_s.spr		32	Đựng đầy trái cây		0	0	1	1		3	0		taskitem				
+Thư của phân đà	Thư của Thiên Vương phân đà	20	1	133	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của đà chủ phân đà Thiên Vương, rất quan trọng		0	0	1	1		3	0		taskitem				
+Ống đựng thư	Ống đựng thư	20	1	134	1	\image\item\other\quest\quest_0044_s.spr		32	Ống đựng thư dùng thạch sáp dán kín, bên trong có tài liệu cơ mật		0	0	1	1		3	0		taskitem				
+Độc hỏa thảo	Độc hỏa thảo	20	1	135	1	\image\item\other\quest\quest_0086_s.spr		32	Rất độc, hỏa tính mạnh		0	0	100	1		3	0		taskitem				
+Thư gửi Cầu Chỉ Thủy	Thư gửi Cầu Chỉ Thủy	20	1	136	1	\image\item\other\quest\quest_0003_s.spr		32	Thư do Thiên Vương Bang chủ Dương Thiết Tâm viết		0	0	1	1		3	0		taskitem				
+Thư gửi Thạch Hiên Viên	Thư gửi Thạch Hiên Viên	20	1	137	1	\image\item\other\quest\quest_0003_s.spr		32	Thư do Thiên Vương Bang chủ Dương Thiết Tâm viết		0	0	1	1		3	0		taskitem				
+Thất Tinh Thương Phổ	Thất Tinh Thương Phổ	20	1	138	1	\image\item\other\quest\quest_0087_s.spr		32	Mật phổ truyền nhân Bắc Đẩu Thương		0	0	1	1		3	0		taskitem				
+Tử Tinh Mẫu Đơn	Tử Tinh Mẫu Đơn	20	1	139	1	\image\item\other\quest\quest_0045_s.spr		32	Xa xí phẩm hình hoa mẫu đơn được làm bằng tử kim, rất quý.		0	0	1	1		3	0		taskitem				
+Kim Cang Kinh	Kim Cang Kinh	20	1	140	1	\image\item\other\quest\quest_0046_s.spr		32	Tên đầy đủ là "Kim Cang Bát Nhã Ba La Mật", một trong bảo điển của nhà Phật		0	0	1	1		3	0		taskitem				
+Siêu Độ Vong Hồn Kinh	Siêu Độ Vong Hồn Kinh	20	1	141	1	\image\item\other\quest\quest_0088_s.spr		32	Kinh văn Đạo gia dùng để siêu độ vong hồn		0	0	1	1		3	0		taskitem				
+Ngân phiếu 50 vạn lượng	Ngân phiếu 50 vạn lượng	20	1	142	1	\image\item\other\quest\quest_0001_s.spr		32	Ngân phiếu đang lưu hành, giá trị 50 vạn		0	0	1	1		3	0		taskitem				
+Hồ điệp thảo	Hồ điệp thảo	20	1	143	1	\image\item\other\quest\quest_0089_s.spr		32	Loại cỏ giống như bướm, gió thổi nhẹ nhàng lắc lư		0	0	100	1		3	0		taskitem				
+Túy Hán	Túy Hán	20	1	144	1	\image\item\other\quest\quest_0090_s.spr		32	Tay chân quờ quạng, áo quần xộc xệch		0	0	100	1		3	0		taskitem				
+Pháo hoa	Pháo hoa	20	1	145	1	\image\item\other\quest\quest_0047_s.spr		32	Có thể dùng để phóng pháo hiệu, có thể dùng riêng hoặc bỏ vào trong pháo lễ.<enter><color=gold>Nhấn chuột phải tại vị trí nhiệm vụ chỉ định để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Long Châu	Long Châu	20	1	146	1	\image\item\other\quest\quest_0048_s.spr		32	Bảo châu khắc rồng, hạt nhân cơ quan thú tự động xoay chuyển		0	0	100	1		3	0		taskitem				
+Mảnh Phượng Nhãn Châu	Mảnh Phượng Nhãn Châu	20	1	147	1	\image\item\other\quest\quest_0049_s.spr		32	Mảnh ngọc vụn, tương truyền có một ma lực nhất định		0	0	100	1		3	0		taskitem				
+Chìa khóa bảo rương	Chìa khóa bảo rương	20	1	148	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa mở bảo rương		0	0	100	1		3	0		taskitem				
+Bản Đồ Yến Tử Ổ	Bản Đồ Yến Tử Ổ	20	1	149	1	\image\item\other\quest\quest_0050_s.spr		32	Mảnh giấy ghi chép địa hình Yến Tử Ổ		0	0	1	1		3	0		taskitem				
+Bản Đồ Trích Thủy Động	Bản Đồ Trích Thủy Động	20	1	150	1	\image\item\other\quest\quest_0050_s.spr		32	Mảnh giấy ghi chép địa hình Trích Thủy Động		0	0	1	1		3	0		taskitem				
+Xương Sói Vàng	Xương Sói Vàng	20	1	151	1	\image\item\other\quest\quest_0052_s.spr		32	Vật Liễu Quỷ dùng để bỏ bùa		0	0	100	1		1	0		taskitem				
+Xương Hươu	Xương Hươu	20	1	152	1	\image\item\other\quest\quest_0022_s.spr		32	Vật Liễu Quỷ dùng để bỏ bùa		0	0	100	1		1	0		taskitem				
+Đầu giặc Kim	Đầu giặc Kim	20	1	153	1	\image\item\other\quest\quest_0015_s.spr		32	Đầu Võ Sĩ Kim Quốc.<enter><color=gold>Nhấn chuột phải tại vị trí nhiệm vụ chỉ định để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Ngân Thiềm Yêu Bài	Ngân Thiềm Yêu Bài	20	1	154	1	\image\item\other\quest\quest_0053_s.spr		32	Tùy thân yêu bài của tiền nhiệm Ngân Thiềm Hương chủ Mộc Vô Ngôn của Ngũ Độc Giáo		0	0	100	1		3	0		taskitem				
+Hài cốt võ lâm cao thủ	Hài cốt võ lâm cao thủ	20	1	155	1	\image\item\other\quest\quest_0015_s.spr		32	Hài cốt võ lâm cao thủ, mau chóng chôn cất.<enter><color=gold>Nhấn chuột phải tại vị trí nhiệm vụ chỉ định để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Chu hồng quả	Chu hồng quả	20	1	156	1	\image\item\other\quest\quest_0054_s.spr		32	Tương truyền nếu chế luyện theo một cách thức nào đó có thể chế ra linh dược có tác dụng tăng cường công lực		0	0	100	1		3	0		taskitem				
+Tiểu Thiệt Thảo	Tiểu Thiệt Thảo	20	1	157	1	\image\item\other\quest\quest_0021_s.spr		32	Thông thường chỉ sống ở khu vực hang rắn, có tác dụng giải độc		0	0	100	1		3	0		taskitem				
+Mảnh Tàng Bảo Đồ góc trái trên	Mảnh Tàng Bảo Đồ 1	20	1	158	1	\image\item\other\quest\quest_0055_s.spr		32	Một mảnh của Tàng Bảo Đồ, thu thập đầy đủ có thể ghép thành Tàng Bảo Đồ hoàn chỉnh		0	0	1	1		3	0		taskitem				
+Mảnh Tàng Bảo Đồ góc trái dưới	Mảnh Tàng Bảo Đồ 2	20	1	159	1	\image\item\other\quest\quest_0055_s.spr		32	Một mảnh của Tàng Bảo Đồ, thu thập đầy đủ có thể ghép thành Tàng Bảo Đồ hoàn chỉnh		0	0	1	1		3	0		taskitem				
+Mảnh Tàng Bảo Đồ góc phải trên	Mảnh Tàng Bảo Đồ 3	20	1	160	1	\image\item\other\quest\quest_0055_s.spr		32	Một mảnh của Tàng Bảo Đồ, thu thập đầy đủ có thể ghép thành Tàng Bảo Đồ hoàn chỉnh		0	0	1	1		3	0		taskitem				
+Mảnh Tàng Bảo Đồ góc phải dưới	Mảnh Tàng Bảo Đồ 4	20	1	161	1	\image\item\other\quest\quest_0055_s.spr		32	Một mảnh của Tàng Bảo Đồ, thu thập đầy đủ có thể ghép thành Tàng Bảo Đồ hoàn chỉnh		0	0	1	1		3	0		taskitem				
+Thư ải phía Tây	Thư Ải 1 mới đến	20	1	162	1	\image\item\other\quest\quest_0003_s.spr		32	Thư truyền lệnh Ải phía Tây mới đến		0	0	1	1		3	0		taskitem				
+Thư ải trung tâm	Thư Ải 2 mới đến	20	1	163	1	\image\item\other\quest\quest_0003_s.spr		32	Thư truyền lệnh Ải Trung Tâm mới đến		0	0	1	1		3	0		taskitem				
+Thư ải phía Đông	Thư Ải 3 mới đến	20	1	164	1	\image\item\other\quest\quest_0003_s.spr		32	Thư truyền lệnh Ải phía Đông mới đến		0	0	1	1		3	0		taskitem				
+Thư Đăng Sát Khẩu	Thư Đăng Sát Khẩu mới đến	20	1	165	1	\image\item\other\quest\quest_0003_s.spr		32	Thư truyền lệnh Ải Đăng Sát Khẩu mới đến		0	0	1	1		3	0		taskitem				
+Chu Hồng Đơn	Chu Hồng Đơn	20	1	166	1	\image\item\other\quest\quest_0054_s.spr		32	Đơn dược được luyện thành từ Chu hồng quả, có tác dụng tăng cường công lực		0	0	100	1		3	0		taskitem				
+Hoa Lục Thiểm Nhi	Hoa Lục Thiểm Nhi	20	1	167	1	\image\item\other\quest\quest_0091_s.spr		32	Đóa hoa xanh rờn, điểm kỳ lạ là trong đêm tối sẽ tỏa ra những tia sáng		0	0	100	1		3	0		taskitem				
+Thủ lệnh Điệp Phiêu Phiêu	Thủ lệnh Điệp Phiêu Phiêu	20	1	168	1	\image\item\other\quest\quest_0059_s.spr		32	Truyền lệnh bài của Hồng Kỳ Kỳ Chủ Điệp Phiêu Phiêu (Ngũ Độc Giáo)		0	0	1	1		3	0		taskitem				
+Thư không ký tên	Thư không ký tên	20	1	169	1	\image\item\other\quest\quest_0003_s.spr		32	Thư không ký tên, nhìn nét chữ là của con gái		0	0	1	1		3	0		taskitem				
+Ấn giám Lan Tùng Lâm	Ấn giám Lan Tùng Lâm	20	1	170	1	\image\item\other\quest\quest_0056_s.spr		32	Thông quan ấn giám của Lan Tùng Lâm (Ngũ Độc Giáo)		0	0	1	1		3	0		taskitem				
+Thiên Vương Bang Yêu Bài	Thiên Vương Bang Yêu Bài	20	1	171	1	\image\item\other\quest\quest_0053_s.spr		32	Yêu Bài đệ tử Thiên Vương Bang đeo ở thắt lưng dùng để nhận biết người của Thiên Vương Bang		0	0	100	1		1	0		taskitem				
+Nhãn kính xà dược	Nhãn kính xà dược	20	1	172	1	\image\item\other\quest\quest_0057_s.spr		32	Thuốc giải nhãn kính xà độc.		0	0	100	1		3	0		taskitem				
+Lệnh bài Mã Tặc	Lệnh bài Mã Tặc	20	1	173	1	\image\item\other\quest\quest_0059_s.spr		32	Thủ lĩnh Mã Tặc dùng lệnh bài để hô hào thi lệnh		0	0	100	1		3	0		taskitem				
+Thạch tượng cơ quan	Thạch tượng cơ quan	20	1	174	1	\image\item\other\quest\quest_0092_s.spr		32	Mở tượng thạch cơ quan bí mật.<enter><color=gold>Nhấn chuột phải vào Văn Khúc Động để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Cổ Kiếm Vô Ngấn	Cổ Kiếm Vô Ngấn	20	1	175	1	\image\item\other\quest\quest_0033_s.spr		32	Nghe đồn kiếm nổi tiếng đương thời vô cùng sắc bén		0	0	100	1		3	0		taskitem				
+Ngân phiếu của đào phạm	Ngân phiếu của đào phạm	20	1	176	1	\image\item\other\quest\quest_0001_s.spr		32	Dưới vực sâu của Long Hổ Huyễn Cảnh có một số thủ lĩnh trốn trại mang theo một lượng lớn ngân phiếu		0	0	100	1		3	0		taskitem				
+Bức thư của ông lão	Bức thư của ông lão	20	1	177	1	\image\item\other\quest\quest_0003_s.spr		32	Bức thư của ông lão để lại, nhưng bị thích khách thiêu hủy rồi		0	0	100	1		3	0		taskitem				
+Liên căn thảo	Liên căn thảo	20	1	178	1	\image\item\other\quest\quest_0093_s.spr		32	Rễ nằm dưới đất tiếp nối với lá, cùng chung một rễ, đồng sinh đồng tử		0	0	100	1		3	0		taskitem				
+Da rắn hổ	Da rắn hổ	20	1	179	1	\image\item\other\quest\quest_0060_s.spr		32	Da của rắn hổ mang dùng làm thuốc có giá trị rất cao		0	0	100	1		3	0		taskitem				
+Thuốc nối gân	Thuốc nối gân	20	1	180	1	\image\item\other\quest\quest_0061_s.spr		32	Do Không Vô Đại Sư điều chế, nối gân rất hiệu nghiệm, sau khi dùng cần đợi một thời gian thuốc mới có tác dụng.<enter><color=gold>Nhấn chuột phải vào Đào Vĩnh Xương để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Ôn nhuận thảo	Ôn nhuận thảo	20	1	181	1	\image\item\other\quest\quest_0094_s.spr		32	Loại cỏ này như có hơi ấm, sờ lên nó giúp bình tĩnh lại		0	0	100	1		3	0		taskitem				
+Quả sồi	Quả sồi	20	1	182	1	\image\item\other\quest\quest_0062_s.spr		32	Mài thành bột để làm thành bánh Quả sồi, ăn lót dạ		0	0	100	1		3	0		taskitem				
+Đào Thoát Hòa Thượng	Đào Thoát Hòa Thượng	20	1	183	1	\image\item\other\quest\quest_0095_s.spr		32	Hòa thượng bị trói tay chân		0	0	100	1		3	0		taskitem				
+Mật lệnh Thiên Nhẫn	Mật lệnh Thiên Nhẫn	20	1	184	1	\image\item\other\quest\quest_0059_s.spr		32	Lệnh bài bí mật Thiên Nhẫn Giáo có thể triệu tập ngay tức thì mật thám của Thiên Nhẫn đang mai phục ở Tây Tháp Lâm.<enter><color=gold>Nhấn chuột phải sử dụng<color>		0	0	100	1		3	0		tianrenmiling				
+Hắc Long Triền	Hắc Long Triền	20	1	185	1	\image\item\other\quest\quest_0096_s.spr		32	Có thể phát ra tuyệt chiêu Hắc Long Văn treo cổ kẻ thù.<enter><color=gold>Nhấn chuột phải sử dụng<color>		0	0	1	1		3	0		taskitem				
+Tập chú thơ Đông Pha	Tập chú thơ Đông Pha	20	1	186	1	\image\item\other\quest\quest_0018_s.spr		32	Tập chú tác phẩm Tô Thức anh hào Bắc Tống		0	0	1	1		3	0		taskitem				
+Rượu lâu năm	Rượu lâu năm	20	1	187	1	\image\item\other\quest\quest_0063_s.spr		32	Hũ rượu bịt kín bằng đất sét, hương thơm ngào ngạt		0	0	1	1		3	0		taskitem				
+Thư của Thiên Mục Đạo Trưởng	Thư của Thiên Mục Đạo Trưởng	20	1	188	1	\image\item\other\quest\quest_0003_s.spr		32	Trước lúc lâm chung Thiên Mục Đạo Trưởng giao phó bức thư, trong thư ghi lại nhiều điều quan trọng		0	0	1	1		3	0		taskitem				
+Túi thêu tơ vàng	Túi thêu tơ vàng	20	1	189	1	\image\item\other\quest\quest_0064_s.spr		32	Túi gấm thêu tơ vàng là đồ trang sức quý báu		0	0	100	1		3	0		taskitem				
+Hồi môn của Như Ý	Hồi môn của Như Ý	20	1	190	1	\image\item\other\quest\quest_0097_s.spr		32	Một đống châu báu		0	0	100	1		1	0		taskitem				
+Gia thư của Lư Tiếu Bần	Gia thư của Lư Tiếu Bần	20	1	191	1	\image\item\other\quest\quest_0003_s.spr		32	Gia thư của Lư Tiếu Bần (Kỳ Chủ Bạch Kỳ Ngũ Độc Giáo)		0	0	1	1		3	0		taskitem				
+Hoa hợp hoan	Hoa hợp hoan	20	1	192	1	\image\item\other\quest\quest_0065_s.spr		32	Mọc ở Hoạt Ngư Đài, nở vào lúc hoàng hôn, sáng tàn		0	0	100	1		3	0		taskitem				
+Tuyết Sơn Chi Linh (Đông)	Tuyết Sơn Chi Linh (Đông)	20	1	193	1	\image\item\other\quest\quest_0048_s.spr		32	Tinh hoa của Tuyết Sơn, bảo vệ linh khí của đất đai.<enter><color=gold>Nhấn chuột phải vào góc Đông Thần Đài để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Tuyết Sơn Chi Linh (Bắc)	Tuyết Sơn Chi Linh (Bắc)	20	1	194	1	\image\item\other\quest\quest_0048_s.spr		32	Tinh hoa của Tuyết Sơn, bảo vệ linh khí của đất đai.<enter><color=gold>Nhấn chuột phải vào góc Bắc Thần Đài để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Tuyết Sơn Chi Linh	Tuyết Sơn Chi Linh	20	1	195	1	\image\item\other\quest\quest_0048_s.spr		32	Tinh hoa của Tuyết Sơn, bảo vệ linh khí của đất đai		0	0	1	1		3	0		taskitem				
+Hươu nhung	Hươu nhung	20	1	196	1	\image\item\other\quest\quest_0098_s.spr		32	Thuốc quý		0	0	100	1		1	0		taskitem				
+Da hổ	Da hổ	20	1	197	1	\image\item\other\quest\quest_0099_s.spr		32	Da quý		0	0	100	1		1	0		taskitem				
+Tay gấu	Tay gấu	20	1	198	1	\image\item\other\quest\quest_0100_s.spr		32	Thức ăn quý		0	0	100	1		1	0		taskitem				
+La bàn Xuân Hoa Viên	La bàn Xuân Hoa Viên	20	1	199	1	\image\item\other\quest\quest_0101_s.spr		32	La bàn hình tròn xem phong thủy.<enter><color=gold>Nhấn chuột phải vào Xuân Hoa Viên để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Du Long Giác	Du Long Giác	20	1	200	1	\image\item\other\quest\quest_0023_s.spr		32	Truyền rằng có ngọc giác thần bí ẩn chứa bí mật của trời đất		0	0	100	1		3	0		taskitem				
+Chu Tước Lệnh Phù	Tượng Chu Tước	20	1	201	1	\image\item\other\quest\quest_0103_s.spr		32	Lệnh phù điều khiển tượng Chu Tước.<enter><color=gold>Nhấn chuột phải vào tượng Chu Tước để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Chìa khóa cơ quan phía Bắc	Cơ quan phía Bắc	20	1	202	1	\image\item\other\quest\quest_0104_s.spr		32	Cơ quan phức tạp, giống Hỗn Thiên Nghi.<enter><color=gold>Nhấn chuột phải vào cơ quan phía Bắc để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Hắc Y Nhân	Hắc Y Nhân	20	1	203	1	\image\item\other\quest\quest_0105_s.spr		32	Người mặc áo đen, bịt mặt		0	0	100	1		3	0		taskitem				
+Túi lữ khách	Túi lữ khách	20	1	204	1	\image\item\other\quest\quest_0042_s.spr		32	Túi lữ khách trong Bách Hoa Trận Dịch Quán		0	0	100	1		3	0		taskitem				
+Hãn Huyết Bảo Mã	Hãn Huyết Bảo Mã	20	1	205	1	\image\item\other\quest\quest_0051_s.spr		32	Loại ngựa quý, ngày chạy một nghìn dặm, đêm chạy tám trăm dặm		0	0	100	1		3	0		taskitem				
+Pháo hoa tháp Nam	Pháo hoa 2	20	1	206	1	\image\item\other\quest\quest_0047_s.spr		32	Một góc trong mộ anh hùng Cái Bang, sau khi châm ngòi nhìn thật lộng lẫy.<enter><color=gold>Nhấn chuột phải vào Nam tháp lâu để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Pháo hoa tháp Tây	Pháo hoa 3	20	1	207	1	\image\item\other\quest\quest_0047_s.spr		32	Một góc trong mộ anh hùng Cái Bang, sau khi châm ngòi nhìn thật lộng lẫy.<enter><color=gold>Nhấn chuột phải vào Tây tháp lâu để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Pháo hoa tháp Bắc	Pháo hoa 4	20	1	208	1	\image\item\other\quest\quest_0047_s.spr		32	Một góc trong mộ anh hùng Cái Bang, sau khi châm ngòi nhìn thật lộng lẫy.<enter><color=gold>Nhấn chuột phải vào Bắc tháp lâu để sử dụng<color>		0	0	100	1		3	0		taskitem				
+La bàn Hạ Hoa Viên	La bàn Hạ Hoa Viên	20	1	209	1	\image\item\other\quest\quest_0101_s.spr		32	Dùng để xem xem phong thủy.<enter><color=gold>Nhấn chuột phải vào Hạ Hoa Viên để sử dụng<color>		0	0	100	1		3	0		taskitem				
+La bàn Thu Hoa Viên 	La bàn Thu Hoa Viên 	20	1	210	1	\image\item\other\quest\quest_0101_s.spr		32	Dùng để xem phong thủy.<enter><color=gold>Nhấn chuột phải vào Xuân Hoa Viên để sử dụng<color>		0	0	100	1		3	0		taskitem				
+La bàn Đông Hoa Viên	La bàn Đông Hoa Viên	20	1	211	1	\image\item\other\quest\quest_0101_s.spr		32	Dùng để xem phong thủy.<enter><color=gold>Nhấn chuột phải vào Đông Hoa Viên để sử dụng<color>		0	0	100	1		3	0		taskitem				
+Thanh Long Lệnh Phù	Tượng Thanh Long	20	1	212	1	\image\item\other\quest\quest_0103_s.spr		32	Lệnh Phù điều khiển tượng Thanh Long.<enter><color=gold>Nhấn chuột phải vào tượng Thanh Long để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Huyền Vũ Lệnh Phù	Tượng Huyền Vũ	20	1	213	1	\image\item\other\quest\quest_0103_s.spr		32	Lệnh Phù điều khiển tượng Huyền Vũ.<enter><color=gold>Nhấn chuột phải vào tượng Huyền Vũ để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Bạch Hổ Lệnh Phù	Tượng Bạch Hổ	20	1	214	1	\image\item\other\quest\quest_0103_s.spr		32	Lệnh Phù điều khiển tượng Bạch Hổ.<enter><color=gold>Nhấn chuột phải vào tượng Bạch Hổ để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Chìa khóa cơ quan phía Tây	Cơ quan phía Tây	20	1	215	1	\image\item\other\quest\quest_0104_s.spr		32	Cơ quan phức tạp, giống Hỗn Thiên Nghi.<enter><color=gold>Nhấn chuột phải vào cơ quan phía Tây để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Chìa khóa cơ quan phía Nam	Cơ quan phía Nam	20	1	216	1	\image\item\other\quest\quest_0104_s.spr		32	Cơ quan phức tạp, giống Hỗn Thiên Nghi.<enter><color=gold>Nhấn chuột phải vào cơ quan phía Nam để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Chìa khóa cơ quan phía Đông	Cơ quan phía Đông	20	1	217	1	\image\item\other\quest\quest_0104_s.spr		32	Cơ quan phức tạp, giống Hỗn Thiên Nghi.<enter><color=gold>Nhấn chuột phải vào cơ quan phía Đông để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Hoa Hương Loa	Hoa Hương Loa	20	1	218	1	\image\item\other\quest\quest_0065_s.spr		32	Loại hoa chỉ có duy nhất trên Thanh Loa Đảo		0	0	100	1		3	0		taskitem				
+Giáng Long Kỳ	Giáng Long Kỳ	20	1	219	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ dẫn đường của Thiên Vương Bang.<enter><color=gold>Nhấn phải chuột vào cửa hang Huyền Long Than để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Phục Hổ Kỳ	Phục Hổ Kỳ	20	1	220	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ dẫn đường của Thiên Vương Bang.<enter><color=gold>Nhấn phải chuột vào chính giữa Huyền Long Than để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Ngự Báo Kỳ	Ngự Báo Kỳ	20	1	221	1	\image\item\other\quest\quest_0012_s.spr		32	Cờ dẫn đường của Thiên Vương Bang.<enter><color=gold>Nhấn phải chuột vào bên trong Huyền Long Than để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Mũi tên sắt	Mũi tên sắt	20	1	222	1	\image\item\other\quest\quest_0033_s.spr		32	Mũi tên làm từ sắt		0	0	100	1		3	0		taskitem				
+Bè trúc	Bè trúc	20	1	223	1	\image\item\other\quest\quest_0004_s.spr		32	Bó bằng trúc.<enter><color=gold>Nhấn phải chuột vào vị trí chỉ định để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Tiễn xa	Tiễn xa	20	1	224	1	\image\item\other\quest\quest_0034_s.spr		32	Xe có mũi tên, sức công phá lớn		0	0	1	1		3	0		taskitem				
+Nồi sắt	Nồi sắt	20	1	225	1	\image\item\other\quest\quest_0061_s.spr		32	Nồi sắt dùng để nấu thuốc		0	0	1	1		3	0		taskitem				
+Hùng đảm hương	Hùng đảm hương	20	1	226	1	\image\item\other\quest\quest_0057_s.spr		32	Một loại thuốc để đuổi cá sấu		0	0	100	1		3	0		taskitem				
+Bản vẽ chế tạo chìa khóa	Bản vẽ chế tạo chìa khóa	20	1	227	1	\image\item\other\quest\quest_0010_s.spr		32	Bản vẽ chế tạo chìa khóa bảo rương		0	0	1	1		3	0		taskitem				
+Mảnh sắt	Mảnh sắt	20	1	228	1	\image\item\other\quest\quest_0055_s.spr		32	Dùng để đúc vật nhỏ		0	0	100	1		3	0		taskitem				
+Chìa khóa rương	Chìa khóa rương	20	1	229	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa bảo rương		0	0	100	1		3	0		taskitem				
+Bản vẽ chế tạo trường thương	Bản vẽ chế tạo trường thương	20	1	230	1	\image\item\other\quest\quest_0011_s.spr		32	Bản vẽ chế tạo trường thương		0	0	1	1		3	0		taskitem				
+Thiên Vương trường thương	Thiên Vương trường thương	20	1	231	1	\image\item\other\quest\quest_0004_s.spr		32	Thiên Vương trường thương		0	0	1	1		3	0		taskitem				
+Bản đồ vị trí rương mật	Bản đồ vị trí rương mật	20	1	232	1	\image\item\other\quest\quest_0004_s.spr		32	Bản đồ vị trí rương mật		0	0	1	1		3	0		taskitem				
+Kim Văn Ngọc Bội	Kim Văn Ngọc Bội	20	1	233	1	\image\item\other\quest\quest_0079_s.spr		32	Ngọc bội có đường vân bằng vàng, vật gia truyền của Đường Nhu		0	0	1	1		3	0		taskitem				
+Da thú	Da thú	20	1	234	1	\image\item\other\quest\quest_0050_s.spr		32	Da thú		0	0	100	1		3	0		taskitem				
+Bì Giáp Y	Bì Giáp Y	20	1	235	1	\image\item\other\quest\quest_0007_s.spr		32	Làm bằng da thú, chống rét		0	0	100	1		3	0		taskitem				
+Thùng nước 1	Thùng nước 1	20	1	236	1	\image\item\other\quest\quest_0027_s.spr		32	Thùng nước đầy dùng để hủy Hỏa dược.<enter><color=gold>Nhấn chuột phải vào xe ngựa ở phía Tây Bắc Bờ Hồ Trúc Lâm để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Thùng nước 2	Thùng nước 2	20	1	237	1	\image\item\other\quest\quest_0027_s.spr		32	Thùng nước đầy dùng để hủy Hỏa dược.<enter><color=gold>Nhấn chuột phải vào xe ngựa ở phía Đông Bắc Bờ Hồ Trúc Lâm để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Thùng nước 3	Thùng nước 3	20	1	238	1	\image\item\other\quest\quest_0027_s.spr		32	Thùng nước đầy dùng để hủy Hỏa dược.<enter><color=gold>Nhấn chuột phải vào xe ngựa ở phía Nam Bờ Hồ Trúc Lâm để sử dụng<color>		0	0	1	1		3	0		taskitem				
+Tế phẩm	Tế phẩm	20	1	239	1	\image\item\other\quest\quest_0027_s.spr		32	Đệ tử Cái Bang dùng tế phẩm để thờ cúng các bậc tiền bối		0	0	100	1		3	0		taskitem				
+Hài cốt đệ tử Cái Bang	Hài cốt đệ tử Cái Bang	20	1	240	1	\image\item\other\quest\quest_0022_s.spr		32	Hài cốt đệ tử Cái Bang		0	0	100	1		3	0		taskitem				
+Pháp khí bị cướp	Pháp khí bị cướp	20	1	241	1	\image\item\other\quest\quest_0048_s.spr		32	Pháp khí bị phản đồ Thiếu Lâm Tự uy hiếp		0	0	100	1		3	0		taskitem				
+Rượu Mông Cổ	Rượu Mông Cổ	20	1	242	1	\image\item\other\quest\quest_0063_s.spr		32	Người Mông Cổ luôn mang theo bên người, rất mạnh.		0	0	100	1		3	0		taskitem				
+Cơ Quan Thú Cốt	Cơ Quan Thú Cốt	20	1	243	1	\image\item\other\quest\quest_0038_s.spr		32	Cơ Quan Thú Cốt trong Bạch Sơn Thạch Trường-Cái Bang		0	0	100	1		3	0		taskitem				
+Mã thảo	Mã thảo	20	1	244	1	\image\item\other\quest\quest_0086_s.spr		32	Dùng làm thức ăn cho ngựa		0	0	100	1		3	0		taskitem				
+Binh khí của Đoạt Bảo Nhân	Binh khí của Đoạt Bảo Nhân	20	1	245	1	\image\item\other\quest\quest_0033_s.spr		32	Binh khí của Đoạt Bảo Nhân trong Bách Hoa Trận		0	0	100	1		3	0		taskitem				
+Lá dâu	Lá dâu	20	1	246	1	\image\item\other\quest\quest_0002_s.spr		32	Lá dâu dùng để nuôi tằm		0	0	100	1		3	0		taskitem				
+Tử Ngọc Lan	Tử Ngọc Lan	20	1	247	1	\image\item\other\quest\quest_0089_s.spr		32	Hoa nổi tiếng trong Xuân Hoa Viên-Bách Hoa Trận, dùng làm thuốc		0	0	100	1		3	0		taskitem				
+Mẫu đơn	Mẫu đơn	20	1	248	1	\image\item\other\quest\quest_0019_s.spr		32	Hoa nổi tiếng trong Hạ Hoa Viên-Bách Hoa Trận, dùng làm thuốc		0	0	100	1		3	0		taskitem				
+Hoa Nguyệt Quý	Hoa Nguyệt Quý	20	1	249	1	\image\item\other\quest\quest_0014_s.spr		32	Hoa nổi tiếng trong Thu Hoa Viên-Bách Hoa Trận, dùng làm thuốc		0	0	100	1		3	0		taskitem				
+Hoa Sơn Trà	Hoa Sơn Trà	20	1	250	1	\image\item\other\quest\quest_0020_s.spr		32	Hoa nổi tiếng trong Đông Hoa Viên-Bách Hoa Trận, dùng làm thuốc		0	0	100	1		3	0		taskitem				
+Xích Luyện Xà	Xích Luyện Xà	20	1	251	1	\image\item\other\quest\quest_0076_s.spr		32	Toàn thân đỏ thẫm, có độc.		0	0	100	1		3	0		taskitem				
+Cây nến	Cây nến	20	1	252	1	\image\item\other\quest\quest_0083_s.spr		32	Cây nến dùng khi tế Tiên linh.		0	0	100	1		3	0		taskitem				
+Cần câu	Cần câu	20	1	253	1	\image\item\other\quest\quest_0131_s.spr		32	Cần câu cá.		0	0	100	1		3	0		taskitem				
+Mồi câu cá	Mồi câu cá	20	1	254	1	\image\item\other\quest\quest_0130_s.spr		32	Mồi dùng để câu cá.		0	0	100	1		3	0		taskitem				
+Búa sắt bị hư	Búa sắt bị hư	20	1	255	1	\image\item\other\quest\quest_0073_s.spr		32	Búa sắt bị hư.		0	0	1	1		3	0		taskitem				
+Búa sắt hoàn hảo	Búa sắt hoàn hảo	20	1	256	1	\image\item\other\quest\quest_0073_s.spr		32	Búa sắt hoàn hảo.		0	0	1	1		3	0		taskitem				
+Khổng Minh Đăng	Khổng Minh Đăng	20	1	257	1	\image\item\other\quest\quest_0127_s.spr		32	Thường chỉ sử dụng khi cúng tế anh linh đã khuất.		0	0	100	1		3	0		taskitem				
+Nửa trên Long Thương	Nửa trên Long Thương	20	1	258	1	\image\item\other\quest\quest_0128_s.spr		32	Truyền thuyết rằng Thương đã bị gãy làm đôi.		0	0	1	1		3	0		taskitem				
+Nửa dưới Long Thương	Nửa dưới Long Thương	20	1	259	1	\image\item\other\quest\quest_0129_s.spr		32	Truyền thuyết rằng Thương đã bị gãy làm đôi.		0	0	1	1		3	0		taskitem				
+Di vật của Độc Cô Kiếm	Di vật của Độc Cô Kiếm	20	1	260	1	\image\item\other\quest\quest_0076_s.spr		32	Di vật lưu truyền hậu thế của tiền võ lâm minh chủ Độc Cô Kiếm		0	0	1	1		3	0		taskitem				
+Lệnh Bài Nghĩa Quân Tinh Anh	Lệnh Bài Nghĩa Quân Tinh Anh	20	1	261	1	\image\item\other\quest\quest_0053_s.spr		32	Chỉ có người lập được chiến công hiển hách cho Nghĩa quân mới có tư cách công bố, là biểu tượng cho vinh dự		0	0	1	1		3	0		taskitem				
+Sổ nợ bí mật	Sổ nợ bí mật	20	1	262	1	\image\item\other\quest\quest_0011_s.spr		32	Ghi lại những giao dịch bí mật giữa Diêm Bang với trọng thần triều đình		0	0	1	1		3	0		taskitem				
+Chiến thương của lão binh	Chiến thương của lão binh	20	1	263	1	\image\item\other\quest\quest_0128_s.spr		32	Chiến thương của lão binh		0	0	1	1		3	0		taskitem				
+Hoa rừng	Hoa rừng	20	1	264	1	\image\item\other\quest\quest_0020_s.spr		32	Hoa rừng tỏa ra mùi thơm thoang thoảng		0	0	100	1		3	0		taskitem				
+Rương hoàng đồng (lớn)	Rương hoàng đồng (lớn)	20	1	265	1	\image\item\other\scriptitem\huangjbaoxiang.spr		32	Rương nặng trịch, như chứa đầy đồ vật quý giá		0	0	1	1		3	0		taskitem				
+Phản quân bị bắt làm tù binh	Phản quân bị bắt làm tù binh	20	1	266	1	\image\item\other\quest\quest_0090_s.spr		32	Phản quân Phục Ngưu Sơn bị bắt làm tù binh		0	0	100	1		3	0		taskitem				
+Khẩn Thân Ngọc	Khẩn Thân Ngọc	20	1	267	1	\image\item\other\quest\quest_0125_s.spr		32	Đá này có thể làm cho thân xác người chết không thối rữa		0	0	1	1		3	0		taskitem				
+Trường Ca Lục (quyển 1)	Trường Ca Lục (quyển 1)	20	1	268	1	\image\item\other\quest\quest_0018_s.spr		32	Ghi lại sự hưng suy của quá khứ		0	0	1	1		3	0		taskitem				
+Trường Ca Lục (quyển 2)	Trường Ca Lục (quyển 2)	20	1	269	1	\image\item\other\quest\quest_0018_s.spr		32	Ghi lại sự hưng suy của quá khứ		0	0	1	1		3	0		taskitem				
+Trường Ca Lục (quyển 3)	Trường Ca Lục (quyển 3)	20	1	270	1	\image\item\other\quest\quest_0018_s.spr		32	Ghi lại sự hưng suy của quá khứ		0	0	1	1		3	0		taskitem				
+Thuốc đặc chế	Thuốc đặc chế	20	1	271	1	\image\item\other\quest\quest_0109_s.spr		32	Dùng để giám định di tích		0	0	1	1		3	0		taskitem				
+Tuyết Lang Hào	Tuyết Lang Hào	20	1	272	1	\image\item\other\quest\quest_0009_s.spr		32	Một trong văn phòng tứ bửu		0	0	100	1		3	0		taskitem				
+Nhuận Ngọc Mặc 	Nhuận Ngọc Mặc 	20	1	273	1	\image\item\other\quest\quest_0008_s.spr		32	Một trong văn phòng tứ bửu		0	0	100	1		3	0		taskitem				
+Vân Quý Tuyên	Vân Quý Tuyên	20	1	274	1	\image\item\other\quest\quest_0010_s.spr		32	Một trong văn phòng tứ bửu		0	0	100	1		3	0		taskitem				
+Thư của Triệu đại nhân	Thư của Triệu đại nhân	20	1	275	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của Triệu đại nhân		0	0	1	1		3	0		taskitem				
+Y phục cận vệ Thiết Mộc Chân	Y phục cận vệ Thiết Mộc Chân	20	1	276	1	\image\item\other\quest\quest_0007_s.spr		32	Y phục cận vệ Thiết Mộc Chân		0	0	1	1		3	0		taskitem				
+Một bình rượu	Một bình rượu	20	1	277	1	\image\item\other\quest\quest_0063_s.spr		32	50000 kinh nghiệm		0	0	1	1		3	0		taskitem				
+Thiết Phù Đồ Mã Khải	Thiết Phù Đồ Mã Khải	20	1	278	1	\image\item\other\quest\quest_0007_s.spr		32	Thiết Phù Đồ Mã Khải		0	0	100	1		3	0		taskitem				
+Thiết Phù Đồ Mã Đao	Thiết Phù Đồ Mã Đao	20	1	279	1	\image\item\other\quest\quest_0080_s.spr		32	Thiết Phù Đồ Mã Đao		0	0	100	1		3	0		taskitem				
+Mặt Nạ Mã Tặc	Mặt Nạ Mã Tặc	20	1	280	1	\image\item\other\quest\quest_0118_s.spr		32	Mặt nạ của bọn cướp ngựa dùng để che đậy thân phận		0	0	100	1		3	0		taskitem				
+Thư của Lý An Toàn	Thư của Lý An Toàn	20	1	281	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của Lý An Toàn, không được biết nội dung		0	0	1	1		3	0		taskitem				
+Hoa Hư Không	Hoa Hư Không	20	1	282	1	\image\item\other\quest\quest_0091_s.spr		32	Là một trong những dược liệu chế tạo hoàn Đồng Đơn		0	0	100	1		3	0		taskitem				
+Huyễn Sinh Thảo	Huyễn Sinh Thảo	20	1	283	1	\image\item\other\quest\quest_0027_s.spr		32	Là một trong những dược liệu chế tạo hoàn Đồng Đơn		0	0	100	1		3	0		taskitem				
+Hộp Trang Sức Gỗ Lim	Hộp Trang Sức Gỗ Lim	20	1	284	1	\image\item\other\quest\quest_0026_s.spr		32	Hộp trang sức được đậy kín bằng gỗ lim, rất chắc chắn		0	0	100	1		3	0		taskitem				
+Thư gửi Đậu Hạo	Thư gửi Đậu Hạo	20	1	285	1	\image\item\other\quest\quest_0003_s.spr		32	Thư Bạch Thu Lâm gửi Trường Ca Môn Chủ Đậu Hạo		0	0	1	1		3	0		taskitem				
+Gỗ sam thượng hạng	Gỗ sam thượng hạng	20	1	286	1	\image\item\other\quest\quest_0034_s.spr		32	Loại gỗ thượng đẳng, rất chắc chắn		0	0	100	1		3	0		taskitem				
+Thịt rừng	Thịt rừng	20	1	287	1	\image\item\other\quest\quest_0060_s.spr		32	Thịt rừng		0	0	100	1		3	0		taskitem				
+Chìa Khóa Thanh Đồng 1	Chìa Khóa Thanh Đồng 1	20	1	288	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa Khóa Thanh Đồng 1		0	0	1	1		3	0		taskitem				
+Chìa Khóa Thanh Đồng 2	Chìa Khóa Thanh Đồng 2	20	1	289	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa Khóa Thanh Đồng 2		0	0	1	1		3	0		taskitem				
+Chìa Khóa Thanh Đồng 3	Chìa Khóa Thanh Đồng 3	20	1	290	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa Khóa Thanh Đồng 3		0	0	1	1		3	0		taskitem				
+Chìa Khóa Thanh Đồng 4	Chìa Khóa Thanh Đồng 4	20	1	291	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa Khóa Thanh Đồng 4		0	0	1	1		3	0		taskitem				
+Bách Niên Lão Sâm	Bách Niên Lão Sâm	20	1	292	1	\image\item\other\quest\quest_0035_s.spr		32	Bách Niên Lão Sâm		0	0	100	1		3	0		taskitem				
+Trúc Diệp Thanh	Trúc Diệp Thanh	20	1	293	1	\image\item\other\quest\quest_0063_s.spr		32	Trúc Diệp Thanh		0	0	100	1		3	0		taskitem				
+Xương Hổ Đực	Xương Hổ Đực	20	1	294	1	\image\item\other\quest\quest_0052_s.spr		32	Xương Hổ Đực		0	0	100	1		3	0		taskitem				
+Linh Phượng Thoa	Linh Phượng Thoa	20	1	295	1	\image\item\other\quest\quest_0129_s.spr		32	Linh Phượng Thoa		0	0	1	1		3	0		taskitem				
+Hoàng Đế Nội Kinh	Hoàng Đế Nội Kinh	20	1	296	1	\image\item\other\quest\quest_0011_s.spr		32	Hoàng Đế Nội Kinh		0	0	100	1		3	0		taskitem				
+Ngân phiếu 1000 lượng	Ngân phiếu 1000 lượng	20	1	297	1	\image\item\other\quest\quest_0001_s.spr		32	Ngân phiếu 1000 lượng		0	0	1	1		3	0		taskitem				
+Tôn Tử Binh Pháp	Tôn Tử Binh Pháp	20	1	298	1	\image\item\other\quest\quest_0011_s.spr		32	Tôn Tử Binh Pháp, là tài liệu nhập môn khi luyện binh pháp. Có thể đọc ở bất cứ nơi nào.<enter><color=gold>Nhấn phím phải sử dụng<color>		0	0	1	1		3	0		army_book	taskarmy			
+Mặc Gia Cơ Quan Thuật 	Mặc Gia Cơ Quan Thuật 	20	1	299	1	\image\item\other\quest\quest_0087_s.spr		32	Mặc Gia Cơ Quan Thuật, là tài liệu nhập môn khi luyện cơ quan thuật. Có thể đọc ở bất cứ nơi nào.<enter><color=gold>Nhấn phím phải sử dụng<color>		0	0	1	1		3	0		army_hisbook				
+Bình nước	Bình nước_Cố Trọng Nhan	20	1	300	1	\image\item\other\quest\quest_0109_s.spr		32	Bình nước đầy		0	0	100	1		3	0		taskitem				
+Túi tiền	Túi tiền	20	1	301	1	\image\item\other\quest\quest_0025_s.spr		32	Túi Toàn thúc dùng để đựng tiền		0	0	100	1		3	0		taskitem				
+Sổ sách	Sổ sách	20	1	302	1	\image\item\other\quest\quest_0010_s.spr		32	Bên trên có ghi dòng chữ "miễn bán thiếu"		0	0	100	1		3	0		taskitem				
+Trang sức	Trang sức	20	1	303	1	\image\item\other\quest\quest_0094_s.spr		32	Là trang sức mà Tường tẩu lén giấu vào trong sọt than		0	0	100	1		3	0		taskitem				
+Thiết Dao Tử Quân Mã Bài	Thiết Dao Tử Quân Mã Bài	20	1	304	1	\image\item\other\quest\quest_0059_s.spr		32	Mã bài Thiết Dao Tử Quân mang theo người		0	0	100	1		3	0		taskitem				
+Cấm Quân Khải Giáp 	Cấm Quân Khải Giáp 	20	1	305	1	\image\item\other\quest\quest_0007_s.spr		32	Áo giáp cởi từ trên người cấm quân đại nội, đặt cược giữa Tôn Đình Lạc và Trương Hàn…		0	0	100	1		3	0		taskitem				
+Trái tim của Đại Tế Tư	Trái tim của Đại Tế Tư	20	1	306	1	\image\item\other\quest\quest_0085_s.spr		32	Đầy máu, thật đáng sợ…		0	0	100	1		3	0		taskitem				
+Mật hàm Gia Vương	Mật hàm Gia Vương	20	1	307	1	\image\item\other\quest\quest_0001_s.spr		32	Mật hàm Gia Vương gửi cho Hàn Thác Trụ, rất quan trọng		0	0	100	1		3	0		taskitem				
+Long Phù	Long Phù	20	1	308	1	\image\item\other\quest\quest_0059_s.spr		32	Binh phù của Tô Phóng		0	0	100	1		3	0		taskitem				
+Hổ Phù	Hổ Phù	20	1	309	1	\image\item\other\quest\quest_0053_s.spr		32	Binh phù của Từ Trường Phúc		0	0	100	1		3	0		taskitem				
+Thủ dụ	Thủ dụ	20	1	310	1	\image\item\other\quest\quest_0011_s.spr		32	Viết bằng tay bên trên có 4 chữ "Niệm Dục Thoái Nhàn"		0	0	100	1		3	0		taskitem				
+Lam diệp thảo 	Lam diệp thảo 	20	1	311	1	\image\item\other\quest\quest_0091_s.spr		32	Tên Lam diệp nhưng lá không phải màu lam		0	0	100	1		3	0		taskitem				
+Ngọc Lưu Ly	Ngọc Lưu Ly	20	1	312	1	\image\item\other\quest\quest_0125_s.spr		32	Viên ngọc sáng lấp lánh		0	0	100	1		3	0		taskitem				
+Noãn Ngọc Phật	Noãn Ngọc Phật	20	1	313	1	\image\item\other\quest\quest_0120_s.spr		32	Ngọc Phật được điêu khắc rất tinh xảo		0	0	100	1		3	0		taskitem				
+Dao Chỉ Phiến	Dao Chỉ Phiến	20	1	314	1	\image\item\other\quest\quest_0111_s.spr		32	Chiếc quạt giấy tinh xảo		0	0	100	1		3	0		taskitem				
+Hương Nang Ngũ Sắc	Hương Nang Ngũ Sắc	20	1	315	1	\image\item\other\quest\quest_0064_s.spr		32	Hương nang của Lý Nguyên Triết		0	0	100	1		3	0		taskitem				
+Nhánh cây	Nhánh cây	20	1	316	1	\image\item\other\quest\quest_0034_s.spr		32	Nhánh cây rất chắc chắn		0	0	100	1		3	0		taskitem				
+Cần câu	Cần câu	20	1	317	1	\image\item\other\quest\quest_0123_s.spr		32	Được Tiểu Anh tạo thành từ nhánh cây, dùng để vớt những cái bọc rớt trong hồ		0	0	100	1		3	0		taskitem				
+Túi ướt	Túi ướt	20	1	318	1	\image\item\other\quest\quest_0016_s.spr		32	Túi do Tiểu Anh ném xuống hồ trong đó chứa bí mật của Du Long Giác		0	0	100	1		3	0		taskitem				
+Thần Bí Đồ Án	Thần Bí Đồ Án	20	1	319	1	\image\item\other\quest\quest_0050_s.spr		32	Không ai hiểu nổi		0	0	100	1		3	0		taskitem				
+Thổ Long Bì	Thổ Long Bì	20	1	320	1	\image\item\other\quest\quest_0076_s.spr		32	Da của Thổ Long ở bãi tha ma, có được nó là người dũng cảm.		0	0	100	1		3	0		taskitem				
+Thần Bí Họa Tượng	Thần Bí Họa Tượng	20	1	321	1	\image\item\other\quest\quest_0084_s.spr		32	Đáp án ở trong bức chân dung		0	0	100	1		3	0		taskitem				
+Dịch lá khoai	Dịch lá khoai	20	1	322	1	\image\item\other\quest\quest_0027_s.spr		32	Thuốc được ngâm từ lá khoai		0	0	100	1		3	0		taskitem				
+Sơn Tuyền Thủy	Sơn Tuyền Thủy	20	1	323	1	\image\item\other\quest\quest_0027_s.spr		32	Sơn Tuyền Thủy đã ngâm qua thảo dược		0	0	100	1		3	0		taskitem				
+Lá khoai	Lá khoai	20	1	324	1	\image\item\other\quest\quest_0021_s.spr		32	Lá khoai có thể biến thành màu lam		0	0	100	1		3	0		taskitem				
+Du Long Giác	Du Long Giác	20	1	325	1	\image\item\other\quest\quest_0023_s.spr		32	Đây là Du Long Giác trong truyền thuyết? Nhưng sao tỏa ra mùi kì lạ…		0	0	100	1		3	0		taskitem				
+Ký hiệu	Ký hiệu	20	1	326	1	\image\item\other\quest\quest_0113_s.spr		32	Đặt ở nơi khuất		0	0	100	1		3	0		taskitem				
+Tiền bị cướp	Tiền bị cướp	20	1	327	1	\image\item\other\quest\quest_0078_s.spr		32	Tiền do bọn Mã Tặc cướp của thương khách và người dân		0	0	100	1		3	0		taskitem				
+Miêu Thú Trảo	Miêu Thú Trảo	20	1	328	1	\image\item\other\quest\quest_0100_s.spr		32	Móng vuốt của mèo, nghe nói là trị thương thần dược		0	0	100	1		3	0		taskitem				
+Cống phẩm bị cướp	Cống phẩm bị cướp	20	1	329	1	\image\item\other\quest\quest_0026_s.spr		32	Bảo rương bị khóa, không biết bên trong chứa những gì…		0	0	100	1		3	0		taskitem				
+Sừng Đằng Giác Dương	Sừng Đằng Giác Dương	20	1	330	1	\image\item\other\quest\quest_0098_s.spr		32	Sừng của Đằng Giác Dương trông rất oai		0	0	100	1		3	0		taskitem				
+Bột mê hương	Bột mê hương	20	1	331	1	\image\item\other\quest\quest_0025_s.spr		32	Thuốc có thể khiến người mê man cả ngày		0	0	100	1		3	0		taskitem				
+Tình báo tuyệt mật	Tình báo tuyệt mật	20	1	332	1	\image\item\other\quest\quest_0003_s.spr		32	Nội dung tuyệt mật, không xem lén được…		0	0	100	1		3	0		taskitem				
+Pháo hiệu	Pháo hiệu	20	1	333	1	\image\item\other\quest\quest_0058_s.spr		32	Pháo hiệu thông báo cho đồng bọn Gia Vương		0	0	100	1		3	0		taskitem				
+Nhật ký Tín Sứ	Nhật ký Tín Sứ	20	1	334	1	\image\item\other\quest\quest_0046_s.spr		32	Trên đó viết rất nhiều chữ, xuất hiện nhiều nhất là chữ Ô Man		0	0	100	1		3	0		taskitem				
+Tiêu thạch	Tiêu thạch	20	1	335	1	\image\item\lifeskill\baoshi\yuanshi_106_s.spr		32	Tinh thể màu trắng trông hơi giống muối		0	0	100	1		3	0		taskitem				
+Gỗ	Gỗ	20	1	336	1	\image\item\lifeskill\mucai\mucai_204_s.spr		32	Gỗ rất bền chắc		0	0	100	1		3	0		taskitem				
+Hoàng Thông Mã	Hoàng Thông Mã	20	1	337	1	\image\item\other\quest\quest_0051_s.spr		32	Ngựa màu vàng do Mã Bá Lạc dày công chăm sóc		0	0	100	1		3	0		taskitem				
+Tử Thông Mã	Tử Thông Mã	20	1	338	1	\image\item\other\quest\quest_0051_s.spr		32	Ngựa màu tím do Mã Bá Lạc dày công chăm sóc		0	0	100	1		3	0		taskitem				
+Ngựa Chúa	Ngựa Chúa	20	1	339	1	\image\item\other\quest\quest_0051_s.spr		32	Ngựa Chúa do Mã Bá Lạc dày công chăm sóc		0	0	100	1		3	0		taskitem				
+Lang cốt	Lang cốt	20	1	340	1	\image\item\other\quest\quest_0022_s.spr		32	Xương của sói, là nguyên liệu tốt để Lão Túy Đầu ngâm rượu		0	0	100	1		3	0		taskitem				
+Xà dược	Xà dược	20	1	341	1	\image\item\other\quest\quest_0014_s.spr		32	Xà dược hoang dại, có thể trị độc rắn		0	0	100	1		3	0		taskitem				
+Độc Nhĩ	Độc Nhĩ	20	1	342	1	\image\item\other\quest\quest_0106_s.spr		32	Thức ăn tẩm độc do Nộ Hầu Nạp Tư làm ra để tiêu diệt Sói Hoang vùng Bành Lãi Cổ Trạch		0	0	100	1		3	0		taskitem				
+Tín Phù	Tín Phù	20	1	343	1	\image\item\other\quest\quest_0006_s.spr		32	Dụng cụ hình con khỉ, không thể ngờ đây lại là Tín Phù để liên lạc		0	0	100	1		3	0		taskitem				
+Thú Vương Thợ Săn bị bắt	Thú Vương Thợ Săn bị bắt	20	1	344	1	\image\item\other\quest\quest_0105_s.spr		32	Thú Vương Thợ Săn		0	0	100	1		3	0		taskitem				
+Thú Vương Tuần Du bị bắt	Thú Vương Tuần Du bị bắt	20	1	345	1	\image\item\other\quest\quest_0090_s.spr		32	Thú Vương Tuần Du		0	0	100	1		3	0		taskitem				
+Đầu Cam Thượng Hổ	Đầu Cam Thượng Hổ	20	1	346	1	\image\item\other\quest\quest_0015_s.spr		32	Cuối cùng ác tặc Cam Thượng Hổ đã bị xử tử		0	0	100	1		3	0		taskitem				
+Sừng hươu hoàn mỹ	Sừng hươu hoàn mỹ	20	1	347	1	\image\item\other\quest\quest_0098_s.spr		32	Sừng hươu có ở Bành Lãi Cổ Trạch		0	0	100	1		3	0		taskitem				
+Thổ Long Bì hoàn mỹ	Thổ Long Bì hoàn mỹ	20	1	348	1	\image\item\other\quest\quest_0076_s.spr		32	Thổ Long Bì có ở Bành Lãi Cổ Trạch		0	0	100	1		3	0		taskitem				
+Ngựa Hoang bị thuần phục	Ngựa Hoang bị thuần phục	20	1	349	1	\image\item\other\quest\quest_0051_s.spr		32	Ngựa Hoang có ở Bành Lãi Cổ Trạch		0	0	100	1		3	0		taskitem				
+Ngô Hỉ Binh Phù	Ngô Hỉ Binh Phù	20	1	350	1	\image\item\other\quest\quest_0053_s.spr		32	Có vật này có thể hiệu lệnh quân đội		0	0	100	1		3	0		taskitem				
+Túy Ông Tửu	Túy Ông Tửu	20	1	351	1	\image\item\other\quest\quest_0063_s.spr		32	Rượu do Phong Túy Ông để lại		0	0	100	1		3	0		taskitem				
+Chìa khóa phòng giam	Chìa khóa phòng giam	20	1	352	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa này có thể vào phòng giam của Hàn Trung		0	0	100	1		3	0		taskitem				
+Mật lệnh	Mật lệnh	20	1	353	1	\image\item\other\quest\quest_0003_s.spr		32	Trên đó toàn là chữ Kim, đọc không hiểu		0	0	100	1		3	0		taskitem				
+Than củi	Than củi	20	1	354	1	\image\item\lifeskill\mucai\mucai_103_s.spr		32	Than củi màu đen nhánh		0	0	100	1		3	0		taskitem				
+Hỏa dược	Hỏa dược	20	1	355	1	\image\item\lifeskill\yaocai\yaofen_209_s.spr		32	Hỏa Lực Thập Túc		0	0	100	1		3	0		taskitem				
+Mật tín cấu kết	Mật tín cấu kết	20	1	356	1	\image\item\other\quest\quest_0003_s.spr		32	Bức thư này là bằng chứng hùng hồn về việc giặc quan cấu kết với nhau		0	0	100	1		3	0		taskitem				
+Lỗ tai dính đầy máu	Lỗ tai dính đầy máu	20	1	357	1	\image\item\other\quest\quest_0116_s.spr		32	Ngươi có biết đây là tai trái hay tai phải không…		0	0	100	1		3	0		taskitem				
+Thất Quang Hồ Lô	Thất Quang Hồ Lô	20	1	358	1	\image\item\other\scriptitem\jingqisan.spr		32	Báu vật do sư tổ Liễu Dực Chân Nhân để lại		0	0	100	1		3	0		taskitem				
+Tẩy Tâm Châu	Tẩy Tâm Châu	20	1	359	1	\image\item\other\quest\quest_0125_s.spr		32	Không biết là thiệt hay giả, ai lại kiểm chứng xem		0	0	100	1		3	0		taskitem				
+Thịt Song Thủ	Thịt Song Thủ	20	1	360	1	\image\item\other\quest\quest_0067_s.spr		32	Có tác dụng làm đẹp		0	0	100	1		3	0		taskitem				
+Bốc Toán Tử	Bốc Toán Tử	20	1	361	1	\image\item\other\quest\quest_0010_s.spr		32	Không phải thích phong trần mà là bị lỡ tiền duyên.		0	0	100	1		3	0		taskitem				
+Đầu Trương Sinh	Đầu Trương Sinh	20	1	362	1	\image\item\other\quest\quest_0015_s.spr		32	Đầu của người xấu, giám định hoàn tất		0	0	100	1		3	0		taskitem				
+Đầu Lương Hạng Lâm	Đầu Lương Hạng Lâm	20	1	363	1	\image\item\other\quest\quest_0015_s.spr		32	Lương Hạng Lâm vì báo thù cho cha mà gia nhập đội ngũ cướp giật, cuối cùng thân bại danh liệt		0	0	100	1		3	0		taskitem				
+Ly dạ quang	Ly dạ quang	20	1	364	1	\image\item\other\quest\quest_0107_s.spr		32	Ly rượu màu canh ngọc, nghe nói buổi tối có thể phát ra ánh sáng xanh		0	0	100	1		3	0		taskitem				
+Mặt nạ Lý Thăng Dương	Mặt nạ Lý Thăng Dương	20	1	365	1	\image\item\other\quest\quest_0118_s.spr		32	Mặt nạ tinh xảo làm bằng da người, đeo vào có thể đóng giả làm người khác		0	0	100	1		3	0		taskitem				
+Phúc Long Thảo	Phúc Long Thảo	20	1	366	1	\image\item\other\quest\quest_0020_s.spr		32	Thuốc giải nhiệt khử độc		0	0	100	1		3	0		taskitem				
+Mật rắn hổ	Mật rắn hổ	20	1	367	1	\image\item\other\quest\quest_0060_s.spr		32	Mật lấy từ xác rắn hổ tươi có thể dùng để giải độc		0	0	100	1		3	0		taskitem				
+Bình đựng bột kì lạ	Bình đựng bột kì lạ	20	1	368	1	\image\item\other\quest\quest_0109_s.spr		32	Trong bình đựng một thứ bột kì lạ không biết có tác dụng gì		0	0	100	1		3	0		taskitem				
+Thuốc giải của thần y	Thuốc giải của thần y	20	1	369	1	\image\item\other\quest\quest_0057_s.spr		32	Thuốc giải độc do Trương Thiện Đức chế ra		0	0	100	1		3	0		taskitem				
+Tị Cổ Thảo	Tị Cổ Thảo	20	1	370	1	\image\item\other\quest\quest_0021_s.spr		32	Ta thấy không đeo còn khỏe hơn nữa…		0	0	100	1		3	0		taskitem				
+Hoa Phật Lệ	Hoa Phật Lệ	20	1	371	1	\image\item\lifeskill\yaocai\yaocai_105_s.spr		32	Lấy phật lệ làm tên, thấy được sự thần kỳ của nó		0	0	100	1		3	0		taskitem				
+Hạt giống Hoa Phật Lệ	Hạt giống Hoa Phật Lệ	20	1	372	1	\image\item\lifeskill\yaocai\yaofen_208_s.spr		32	Hạt giống nhỏ phát sáng		0	0	100	1		3	0		taskitem				
+Bình rỗng	Bình rỗng_Hoa Phật Lệ	20	1	373	1	\image\item\other\quest\quest_0027_s.spr		32	Mang bình này đựng đầy nước, để trồng Hoa Phật Lệ		0	0	100	1		3	0		taskitem				
+Bình nước đầy	Bình nước đầy_Hoa Phật Lệ	20	1	374	1	\image\item\other\quest\quest_0027_s.spr		32	Tưới nước vừa đủ, nhiều sẽ mục gốc, ít thì héo lá		0	0	100	1		3	0		taskitem				
+Thất Đàn Giáng Tâm Đơn	Thất Đàn Giáng Tâm Đơn	20	1	375	1	\image\item\lifeskill\yaocai\yaofen_209_s.spr		32	Tỏa ra mùi bạch đàn, chỉ ngửi cũng khiến tinh thần sảng khoái		0	0	100	1		3	0		taskitem				
+Sâm Hoàn	Sâm Hoàn	20	1	376	1	\image\item\lifeskill\yaocai\yaocai_201_s.spr		32	Sáng một viên, tối một viên, nên uống sau khi ăn		0	0	100	1		3	0		taskitem				
+Hộp thức ăn	Hộp thức ăn	20	1	378	1	\image\item\other\quest\quest_0043_s.spr		32	Món ăn ngon!		0	0	100	1		3	0		taskitem				
+Châu báu	Châu báu	20	1	379	1	\image\item\other\quest\quest_0026_s.spr		32	Đầy ắp		0	0	100	1		3	0		taskitem				
+Thỏi vàng	Thỏi vàng	20	1	380	1	\image\item\other\quest\quest_0082_s.spr		32	Nặng trịch		0	0	100	1		3	0		taskitem				
+Tiên Mật Quả	Tiên Mật Quả	20	1	381	1	\image\item\other\quest\quest_0054_s.spr		32	Quả chín tự nhiên		0	0	100	1		3	0		taskitem				
+Thư dán bằng sáp	Thư dán bằng sáp	20	1	382	1	\image\item\other\quest\quest_0044_s.spr		32	Không thể mở đọc!		0	0	100	1		3	0		taskitem				
+Di chúc	Di chúc	20	1	383	1	\image\item\other\quest\quest_0001_s.spr		32	Trong đó ghi lại rất nhiều bí mật		0	0	100	1		3	0		taskitem				
+Thức ăn chay	Thức ăn chay	20	1	384	1	\image\item\other\quest\quest_0043_s.spr		32	Cung phụng của tín đồ!		0	0	100	1		3	0		taskitem				
+Mật rắn	Mật rắn	20	1	385	1	\image\item\other\quest\quest_0085_s.spr		32	Đây là một loại thuốc quý		0	0	100	1		3	0		taskitem				
+Thanh Tâm Yên Mạt	Thanh Tâm Yên Mạt	20	1	386	1	\image\item\other\quest\quest_0042_s.spr		32	Khói cho ta tinh thần sảng khoái!		0	0	100	1		3	0		taskitem				
+Lục Súc Bất Ninh Tán (Tương Dương)	Lục Súc Bất Ninh Tán (Tương Dương)	20	1	387	1	\image\item\other\quest\quest_0042_s.spr		32	Bỏ nó vào giếng nước sẽ có sự ngạc nhiên		0	0	100	1		3	0		taskitem				
+Giấy và bút	Giấy và bút	20	1	388	1	\image\item\other\quest\quest_0121_s.spr		32	Giấy trắng và bút được chuẩn bị sẵn		0	0	100	1		3	0		taskitem				
+Bản đồ Bang Nguyên Bí Động	Bản đồ Bang Nguyên Bí Động	20	1	389	1	\image\item\other\quest\quest_0020_s.spr		32	Trên bản đồ này miêu tả chi tiết kết cấu và phân bố của Bang Nguyên Bí Động		0	0	100	1		3	0		taskitem				
+Ngân phiếu dự trữ	Ngân phiếu dự trữ	20	1	390	1	\image\item\other\quest\quest_0001_s.spr		32	Lượng ngân phiếu lớn, nhìn thấy hơi động lòng		0	0	100	1		3	0		taskitem				
+Sổ sách giao dịch	Sổ sách giao dịch	20	1	391	1	\image\item\other\quest\quest_0011_s.spr		32	Sổ sách ghi lại việc kinh doanh của Diêm Bang		0	0	100	1		3	0		taskitem				
+Ngọc Tủy Phi Phượng	Ngọc Tủy Phi Phượng	20	1	392	1	\image\item\other\quest\quest_0122_s.spr		32	Bảo vật của Đệ Nhất Mỹ, nghe nói có thể biến Đông Thi thành Tây Thi		0	0	100	1		3	0		taskitem				
+Chìa khóa bảo rương	Chìa khóa bảo rương	20	1	393	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa để mở bảo rương Bang Nguyên Bí Động		0	0	100	1		3	0		taskitem				
+Vũ khí Bang Nguyên Bí Động	Vũ khí Bang Nguyên Bí Động	20	1	394	1	\image\item\other\quest\quest_0004_s.spr		32	Vũ khí Bang Nguyên Bí Động chuẩn bị để khởi nghĩa		0	0	100	1		3	0		taskitem				
+Lương thực Bang Nguyên Bí Động	Lương thực Bang Nguyên Bí Động	20	1	395	1	\image\item\other\quest\quest_0025_s.spr		32	Lương thực Bang Nguyên Bí Động chuẩn bị để khởi nghĩa		0	0	100	1		3	0		taskitem				
+Bùa chú phát hiện trong quân doanh	Bùa chú phát hiện trong quân doanh	20	1	396	1	\image\item\other\quest\quest_0114_s.spr		32	Tuy nhìn không rõ trên đó vẽ gì nhưng có thể khẳng định đây là một tấm bùa…		0	0	100	1		3	0		taskitem				
+Mật hàm cho Hắc Hổ	Mật hàm cho Hắc Hổ	20	1	397	1	\image\item\other\quest\quest_0003_s.spr		32	Trên đó có viết gửi Hắc Hổ Tướng Quân		0	0	100	1		3	0		taskitem				
+Thư tiến cử của Hắc Hổ	Thư tiến cử của Hắc Hổ	20	1	398	1	\image\item\other\quest\quest_0013_s.spr		32	Trên đó có viết gửi Ngô Tài Đại Nhân		0	0	100	1		3	0		taskitem				
+Đàn cổ	Đàn cổ	20	1	399	1	\image\item\other\quest\quest_0123_s.spr		32	Ngươi đoán Hắc Hổ biết đánh đàn không?		0	0	100	1		3	0		taskitem				
+Thiên Cơ Phù	Thiên Cơ Phù	20	1	400	1	\image\item\other\quest\quest_0124_s.spr		32	Giấy chứng minh của đạo sĩ Thiên Long Tự		0	0	100	1		3	0		taskitem				
+Hoa Thi Vu	Hoa Thi Vu	20	1	401	1	\image\item\other\quest\quest_0019_s.spr		32	Hoa rất đẹp nhưng tỏa ra mùi xác chết thối rữa		0	0	100	1		3	0		taskitem				
+Cửu Thanh Đơn	Cửu Thanh Đơn	20	1	402	1	\image\item\other\quest\quest_0057_s.spr		32	Đơn dược luyện từ Hoa Thi Vu và Dạ Tam Hương		0	0	100	1		3	0		taskitem				
+Cầm phổ tán loạn	Cầm phổ tán loạn	20	1	403	1	\image\item\other\quest\quest_0018_s.spr		32	Cầm phổ bị thất lạc của Nam Cung Uyển Nhi		0	0	100	1		3	0		taskitem				
+Sổ ghi chép của Tiếp Dẫn Sứ	Sổ ghi chép của Tiếp Dẫn Sứ	20	1	404	1	\image\item\other\quest\quest_0046_s.spr		32	Vật phẩm có được từ Tiếp Dẫn Sứ, trên đó viết rất nhiều từ mật hiệu		0	0	100	1		3	0		taskitem				
+Tín Phù của Tùy Phong	Tín Phù của Tùy Phong	20	1	405	1	\image\item\other\quest\quest_0031_s.spr		32	Tín Phù mà Tùy Phong luôn mang theo bên mình, đeo nó có thể đối thoại với Tiếp Dẫn Sứ		0	0	100	1		3	0		taskitem				
+Pháo hoa của Bất Động Tiên Sinh	Pháo hoa của Bất Động Tiên Sinh	20	1	406	1	\image\item\other\quest\quest_0047_s.spr		32	Pháo hoa bắn trong các dịp lễ hội		0	0	100	1		3	0		taskitem				
+Cẩm nang trưởng thành	Cẩm nang trưởng thành	20	1	407	1	\image\item\other\quest\quest_0064_s.spr		32	Cẩm nang truyền thụ phương pháp kết bạn.<enter><color=gold>Nhấn chuột phải để mở<color>		0	0	1	1		0	0		advicebook				
+Gia thư thần bí	Gia thư thần bí	20	1	408	1	\image\item\other\quest\quest_0003_s.spr		32	Bức thư chưa đề tên, nhấn chuột phải mở ra xem sẽ nhận được 100 điểm kinh nghiệm		0	0	100	1		3	0		cjdbook				
+Thịt khỉ	Thịt khỉ	20	1	409	1	\image\item\other\quest\quest_0066_s.spr		32	Thịt của Khỉ Hoang		0	0	100	1		3	0		taskitem				
+Thịt hươu	Thịt hươu	20	1	410	1	\image\item\other\quest\quest_0067_s.spr		32	Thịt của hươu		0	0	100	1		3	0		taskitem				
+Thịt hổ	Thịt hổ	20	1	411	1	\image\item\other\quest\quest_0068_s.spr		32	Thịt của mãnh hổ		0	0	100	1		3	0		taskitem				
+Thịt gấu	Thịt gấu	20	1	412	1	\image\item\other\quest\quest_0069_s.spr		32	Tay của gấu đen		0	0	100	1		3	0		taskitem				
+Ngũ Hành Thư	Ngũ Hành Thư	20	1	413	1	\image\item\other\quest\quest_0011_s.spr		32	Ngũ Hành Thư		0	0	1	1		0	0		seriesinfobook				
+Huyền Đồng khoáng Thạch	Huyền Đồng khoáng Thạch	20	1	414	1	\image\item\lifeskill\kuangshi\kuangshi_101_s.spr		32	Huyền Đồng khoáng Thạch		0	0	100	1		3	0		taskitem				
+Huyền tích khoáng thạch	Huyền tích khoáng thạch	20	1	415	1	\image\item\lifeskill\kuangshi\kuangshi_102_s.spr		32	Huyền tích khoáng thạch		0	0	100	1		3	0		taskitem				
+Thô ma	Thô ma	20	1	416	1	\image\item\lifeskill\buliao\buliao_101_s.spr		32	Thô ma		0	0	100	1		3	0		taskitem				
+Tơ gia tàm	Tơ gia tàm	20	1	417	1	\image\item\lifeskill\sichou\sixian_101_s.spr		32	Tơ gia tàm		0	0	100	1		3	0		taskitem				
+Dược thảo	Dược thảo	20	1	418	1	\image\item\lifeskill\yaocai\yaocai_102_s.spr		32	Dược thảo		0	0	100	1		3	0		taskitem				
+Dược quả	Dược quả	20	1	419	1	\image\item\lifeskill\yaocai\yaocai_104_s.spr		32	Dược quả		0	0	100	1		3	0		taskitem				
+Gỗ mềm	Gỗ mềm	20	1	420	1	\image\item\lifeskill\mucai\mucai_101_s.spr		32	Gỗ mềm		0	0	100	1		3	0		taskitem				
+Gỗ cứng	Gỗ cứng	20	1	421	1	\image\item\lifeskill\mucai\mucai_201_s.spr		32	Gỗ cứng		0	0	100	1		3	0		taskitem				
+Da mềm	Da mềm	20	1	422	1	\image\item\lifeskill\maopi\maopi_101_s.spr		32	Da mềm		0	0	100	1		3	0		taskitem				
+Da cứng	Da cứng	20	1	423	1	\image\item\lifeskill\maopi\maopi_103_s.spr		32	Da cứng		0	0	100	1		3	0		taskitem				
+Thỏi Huyền Đồng khoáng	Thỏi Huyền Đồng khoáng	20	1	424	1	\image\item\lifeskill\kuangshi\kuangding_101_s.spr		32	Thỏi Huyền Đồng khoáng		0	0	100	1		3	0		taskitem				
+Thỏi Huyền Tích khoáng	Thỏi Huyền Tích khoáng	20	1	425	1	\image\item\lifeskill\kuangshi\kuangding_102_s.spr		32	Thỏi Huyền Tích khoáng		0	0	100	1		3	0		taskitem				
+Vải thô ma	Vải thô ma	20	1	426	1	\image\item\lifeskill\buliao\bupi_101_s.spr		32	Vải thô ma		0	0	100	1		3	0		taskitem				
+Lụa gia tàm	Lụa gia tàm	20	1	427	1	\image\item\lifeskill\sichou\sichou_101_s.spr		32	Lụa gia tàm		0	0	100	1		3	0		taskitem				
+Bột dược thảo	Bột dược thảo	20	1	428	1	\image\item\lifeskill\yaocai\yaofen_102_s.spr		32	Bột dược thảo		0	0	100	1		3	0		taskitem				
+Bột dược quả	Bột dược quả	20	1	429	1	\image\item\lifeskill\yaocai\yaofen_104_s.spr		32	Bột dược quả		0	0	100	1		3	0		taskitem				
+Tấm gỗ mềm	Tấm gỗ mềm	20	1	430	1	\image\item\lifeskill\mucai\muban_101_s.spr		32	Tấm gỗ mềm		0	0	100	1		3	0		taskitem				
+Tấm gỗ cứng	Tấm gỗ cứng	20	1	431	1	\image\item\lifeskill\mucai\muban_201_s.spr		32	Tấm gỗ cứng		0	0	100	1		3	0		taskitem				
+Vật liệu da mềm	Vật liệu da mềm	20	1	432	1	\image\item\lifeskill\maopi\pi_101_s.spr		32	Vật liệu da mềm		0	0	100	1		3	0		taskitem				
+Vật liệu da cứng	Vật liệu da cứng	20	1	433	1	\image\item\lifeskill\maopi\pi_103_s.spr		32	Vật liệu da cứng		0	0	100	1		3	0		taskitem				
+Thanh Đồng Kiếm	Thanh Đồng Kiếm	20	1	434	1	\image\item\other\quest\quest_0066_s.spr		32	Thanh Đồng Kiếm		0	0	100	1		3	0		taskitem				
+Tàm Tơ Bố Y	Tàm Tơ Bố Y	20	1	435	1	\image\item\equip\armor\m_changpao_402_s.spr		32	Tàm Tơ Bố Y		0	0	100	1		3	0		taskitem				
+Hành Quân Tán	Hành Quân Tán	20	1	436	1	\image\item\other\medicine\zc_711_s.spr		32	Hành Quân Tán		0	0	100	1		3	0		taskitem				
+Mộc Hạng Liên	Mộc Hạng Liên	20	1	437	1	\image\item\equip\necklace\n_101_s.spr		32	Mộc Hạng Liên		0	0	100	1		3	0		taskitem				
+Túi da	Túi da	20	1	438	1	\image\item\other\extbag\bag_001_s.spr		32	Túi da		0	0	100	1		3	0		taskitem				
+Mật Hàm Triệu Phủ	Mật Hàm Triệu Phủ	20	1	439	1	\image\item\other\quest\quest_0003_s.spr		32	Đây là bức mật hàm Triệu Phủ gửi cho Đan Thanh Sinh		0	0	100	1		3	0		taskitem				
+Ngọc Bút Lệnh	Ngọc Bút Lệnh	20	1	440	1	\image\item\other\quest\quest_0009_s.spr		32	Tín Phù Trường Ca Môn, có được nó sẽ có thể ra lệnh cho người của Trường Ca Môn làm việc.		0	0	100	1		3	0		taskitem				
+Tín hàm của Bạch Cương	Tín hàm của Bạch Cương	20	1	441	1	\image\item\other\quest\quest_0003_s.spr		32	Giấy đã ngã màu vàng trông như bức tín hàm từ rất lâu rồi.<enter><color=gold>Nhấn chuột phải để mở<color>		0	0	1	1		3	0		baijiang				
+Chìa khóa bạch đồng	Chìa khóa bạch đồng	20	1	442	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa thần bí được làm bằng đồng		0	0	100	1		3	0		taskitem				
+Tố cáo Trần Lượng	Tố cáo Trần Lượng	20	1	443	1	\image\item\other\quest\quest_0003_s.spr		32	Bức thư nói rõ ân oán giữa Nghiêm Nhụy và Chu Hy		0	0	100	1		3	0		taskitem				
+Sổ sách	Sổ sách	20	1	444	1	\image\item\other\quest\quest_0011_s.spr		32	Danh sách chương mục hơi cũ kỹ		0	0	100	1		3	0		taskitem				
+Thủ cấp Tiêu Thanh Phương	Thủ cấp Tiêu Thanh Phương	20	1	445	1	\image\item\other\quest\quest_0017_s.spr		32	Dâm phụ?		0	0	100	1		3	0		taskitem				
+Pháo hoa tháp Đông	Pháo hoa 1	20	1	446	1	\image\item\other\quest\quest_0047_s.spr		32	Tứ Phương Diệm Hỏa trong mộ anh hùng Cái Bang, sau khi đốt rất đẹp.<enter><color=gold>Tại Đông tháp lâu nhấn chuột phải để dùng<color>		0	0	100	1		3	0		taskitem				
+Chu Nhĩ Đán	Chu Nhĩ Đán	20	1	447	1	\image\item\other\quest\quest_0105_s.spr		32	Chu Nhĩ Đán		0	0	100	1		3	0		taskitem				
+Dạ Tam Hương	Dạ Tam Hương	20	1	448	1	\image\item\other\quest\quest_0074_s.spr		32	Một loại thực vật thần kỳ		0	0	100	1		3	0		taskitem				
+Máu hươu	Máu hươu	20	1	449	1	\image\item\other\quest\quest_0016_s.spr		32	Vật chí dương có thể khắc chế hàn độc		0	0	100	1		1	0		taskitem				
+Da Hổ Vàng	Da Hổ Vàng	20	1	450	1	\image\item\other\quest\quest_0099_s.spr		32	Da của Hổ Vàng là da chống rét quý hiếm		0	0	100	1		1	0		taskitem				
+Hắc Trân Châu	Hắc Trân Châu	20	1	451	1	\image\item\other\quest\quest_0125_s.spr		32	Hắc Trân Châu ở đáy biển Quỳnh Nhai là báu vật vô giá		0	0	100	1		1	0		taskitem				
+Tai của Ác Viên	Tai của Ác Viên	20	1	452	1	\image\item\other\quest\quest_0116_s.spr		32	Tai của Ác Viên ở Cửu Lão Phong		0	0	30000	1		1	0		taskitem				
+Mảnh trục cuốn 1	Mảnh trục cuốn 1	20	1	453	1	\image\item\other\scriptitem\atlas_s.spr		32	Mảnh 1 của trục cuốn thần bí		0	0	100	1		3	0		taskitem				
+Mảnh trục cuốn 2	Mảnh trục cuốn 2	20	1	454	1	\image\item\other\scriptitem\atlas_s.spr		32	Mảnh 2 của trục cuốn thần bí		0	0	100	1		3	0		taskitem				
+Mảnh trục cuốn 3	Mảnh trục cuốn 3	20	1	455	1	\image\item\other\scriptitem\atlas_s.spr		32	Mảnh 3 của trục cuốn thần bí		0	0	100	1		3	0		taskitem				
+Mảnh trục cuốn 4	Mảnh trục cuốn 4	20	1	456	1	\image\item\other\scriptitem\atlas_s.spr		32	Mảnh 4 của trục cuốn thần bí		0	0	100	1		3	0		taskitem				
+Ngũ Linh Đơn	Ngũ Linh Đơn	20	1	457	1	\image\item\other\quest\quest_0057_s.spr		32	Có thể giải độc thi thể phong tỏa ngũ quan.		0	0	100	1		3	0		taskitem				
+Thất Phản Đơn	Thất Phản Đơn	20	1	458	1	\image\item\other\quest\quest_0057_s.spr		32	Có thể giải độc thi thể che đi thất khiếu.		0	0	100	1		3	0		taskitem				
+Cửu Quang Đơn	Cửu Quang Đơn	20	1	459	1	\image\item\other\quest\quest_0057_s.spr		32	Có thể giải độc thi thể thôn tính cửu cảm.		0	0	100	1		3	0		taskitem				
+Bình rỗng	Bình rỗng_Cố Trọng Nhan	20	1	460	1	\image\item\other\quest\quest_0109_s.spr		32	Bình rỗng để Cố Trọng Nhan lấy nước		0	0	100	1		3	0		taskitem				
+Ám hiệu của Cố Trọng Nhan	Ám hiệu của Cố Trọng Nhan	20	1	461	1	\image\item\other\quest\quest_0003_s.spr		32	Ám hiệu của Cố Trọng Nhan để lại ở tổng đà Tào Bang Nhan		0	0	1	1		3	0		taskitem				
+Giá Cô Tiêu	Giá Cô Tiêu	20	1	462	1	\image\item\other\quest\quest_0103_s.spr		32	Còi dùng để liên lạc trong giang hồ		0	0	1	1		3	0		taskitem				
+Không Bạch Tâm Thư (sơ)	Không Bạch Tâm Thư (sơ)	20	1	463	1	\image\item\other\quest\xindeshu_1_s.spr		33	Một quyển Không Bạch Tâm Thư, nhấn chuột phải để bắt đầu nhiệm vụ tu luyện, sau khi hoàn thành sẽ nhận được Sách tu luyện, nhân vật cấp thấp sử dụng sẽ tăng kinh nghiệm.<enter>Nhân vật cấp 50 trở lên mới có thể sử dụng		0	0	1	2000		0	1		taskitem				
+Không Bạch Tâm Thư (trung)	Không Bạch Tâm Thư (trung)	20	1	464	1	\image\item\other\quest\xindeshu_1_s.spr		33	Một quyển Không Bạch Tâm Thư, nhấn chuột phải để bắt đầu nhiệm vụ tu luyện, sau khi hoàn thành sẽ nhận được Sách tu luyện, nhân vật cấp thấp sử dụng sẽ tăng kinh nghiệm.<enter>Nhân vật cấp 50 trở lên mới có thể sử dụng		0	0	1	6000		0	1		taskitem				
+Không Bạch Tâm Thư (cao)	Không Bạch Tâm Thư (cao)	20	1	465	1	\image\item\other\quest\xindeshu_1_s.spr		33	Một quyển Không Bạch Tâm Thư, nhấn chuột phải để bắt đầu nhiệm vụ tu luyện, sau khi hoàn thành sẽ nhận được Sách tu luyện, nhân vật cấp thấp sử dụng sẽ tăng kinh nghiệm.<enter>Nhân vật cấp 50 trở lên mới có thể sử dụng		0	0	1	18000		0	1		taskitem				
+Không Bạch Tâm Thư (cấp đại sư)	Không Bạch Tâm Thư (cấp đại sư)	20	1	466	1	\image\item\other\quest\xindeshu_1_s.spr		33	Một quyển Không Bạch Tâm Thư, nhấn chuột phải để bắt đầu nhiệm vụ tu luyện, sau khi hoàn thành sẽ nhận được Sách tu luyện, nhân vật cấp thấp sử dụng sẽ tăng kinh nghiệm.<enter>Nhân vật cấp 50 trở lên mới có thể sử dụng		0	0	1	54000		0	1		taskitem				
+Chìa khóa cửa trái Thạch Thất	Chìa khóa cửa trái Thạch Thất	20	1	467	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cơ quan thủy lưu bên cửa trái Thạch Thất		0	0	100	1		1	0		taskitem				
+Chìa khóa cửa phải Thạch Thất	Chìa khóa cửa phải Thạch Thất	20	1	468	1	\image\item\other\quest\quest_0013_s.spr		32	Chìa khóa cơ quan thủy lưu bên cửa phải Thạch Thất		0	0	100	1		1	0		taskitem				
+Thiên Lí Hương	Thương hội thu thập phẩm 1	20	1	469	1	\image\item\other\quest\quest_0065_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Nhất Phẩm Hồng	Thương hội thu thập phẩm 2	20	1	470	1	\image\item\other\quest\quest_0014_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Dưỡng Tâm Thảo	Thương hội thu thập phẩm 3	20	1	471	1	\image\item\other\quest\quest_0021_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Thiên Tinh Thảo	Thương hội thu thập phẩm 4	20	1	472	1	\image\item\other\quest\quest_0020_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Mai Quế Hồng Cúc	Thương hội thu thập phẩm 5	20	1	473	1	\image\item\other\quest\quest_0019_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Tử Mẫu Đơn	Thương hội thu thập phẩm 6	20	1	474	1	\image\item\other\quest\quest_0045_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Sen Mẫu Đơn	Thương hội thu thập phẩm 7	20	1	475	1	\image\item\other\quest\quest_0021_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Bách Hương Quả	Thương hội thu thập phẩm 8	20	1	476	1	\image\item\other\quest\quest_0054_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Huyết Phong Đằng	Thương hội thu thập phẩm 9	20	1	477	1	\image\item\other\quest\quest_0036_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Hắc Tinh Thạch	Thương hội thu thập phẩm 10	20	1	478	1	\image\item\other\quest\quest_0132_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Lục Thủy Tinh	Thương hội thu thập phẩm 11	20	1	479	1	\image\item\other\quest\quest_0133_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Thất Thái Thạch	Thương hội thu thập phẩm 12	20	1	480	1	\image\item\other\quest\quest_0134_s.spr		32	Nhiệm vụ thương hội thu thập vật phẩm		0	0	1	1		3	0						
+Thư Thương Hội	Thư Thương Hội	20	1	481	1	\image\item\other\quest\quest_0003_s.spr		32	Thương hội khắp nơi trao đổi tin tức bằng thư này.		0	0	1	1		3	0						
+Rương cơ quan	Rương cơ quan	20	1	482	1	\image\item\other\quest\quest_0134_s.spr		32	Rương cơ quan, có thể dùng độ bền của cơ quan để đổi vật phẩm tại Thiên Cơ Tử, nâng cao Cơ Quan Học Tạo Đồ sẽ mua được nhiều loại vật phẩm hơn.		0	0	1	1		1	0		army_bag				
+Sổ tay tài liệu cơ quan	Sổ tay tài liệu cơ quan	20	1	483	1	\image\item\other\quest\quest_0010_s.spr		32	Sổ tay tài liệu cơ quan, tập hợp đủ 10 loại linh kiện có thể đến chỗ Thiên Cơ Tử đổi phần thưởng.		0	0	1	1		3	0		army_handbook				
+Linh kiện cơ quan	Linh kiện cơ quan	20	1	484	1	\image\item\other\quest\quest_0038_s.spr		32	Nhấn chuột phải có thể giám định linh kiện cụ thể.		0	0	1	1		3	0		army_part				
+Ngưu Lan Trại Yêu Bài	Ngưu Lan Trại Yêu Bài	20	1	485	1	\image\item\other\quest\quest_0059_s.spr		32	Có thể cầm vật này đến nhận nhiệm vụ tại Ngưu Lan Trại ở phó bản "Hậu Sơn Phục Ngưu".		0	10	100	1		1	0						
+Chìa Khóa Mê Cung	Chìa Khóa Mê Cung	20	1	486	1	\image\item\other\quest\quest_0013_s.spr		32	Có thể cầm vật này đến nhận nhiệm vụ tại Ngạc Thần Điện ở phó bản "Hậu Sơn Phục Ngưu".		0	10	100	1		1	0						
+Cốt Ngọc Đồ Đằng	Cốt Ngọc Đồ Đằng	20	1	487	1	\image\item\other\quest\quest_0024_s.spr		32	Có thể cầm vật này đến nhận nhiệm vụ tại Man Chướng Sơn ở phó bản "Hậu Sơn Phục Ngưu".		0	10	100	1		1	0						
+Thịt bò chín	Thịt bò chín	20	1	488	1	\image\item\other\quest\quest_0069_s.spr		32	Lúc ăn nên chuyên tâm, không nên đi lại.		0	50	1	1		1	0		army_food				
+Chim cút quay	Chim cút quay	20	1	488	2	\image\item\other\quest\quest_0068_s.spr		32	Lúc ăn nên chuyên tâm, không nên đi lại.		0	100	1	1		1	0		army_food				
+Tôn Tử Binh Pháp	Tôn Tử Binh Pháp	20	1	489	1	\image\item\other\quest\quest_0011_s.spr		32	Binh thư có thể đọc mọi lúc mọi nơi.<enter><color=gold>Nhấn chuột phải để dùng<color>		0	0	1	1		3	0		repairarmybook				
+Mặc Gia Cơ Quan Thuật 	Mặc Gia Cơ Quan Thuật 	20	1	490	1	\image\item\other\quest\quest_0087_s.spr		32	Mặc Gia Cơ Quan Thuật, là tài liệu nhập môn khi luyện cơ quan thuật. Có thể đọc ở bất cứ nơi nào.<enter><color=gold>Nhấn phím phải sử dụng<color>		0	0	1	1		3	0		repairhisbook				
+Giấy viết thư (phần trên)	Giấy viết thư (phần trên)	20	1	491	1	\image\item\other\quest\quest_0028_s.spr		32	Có thể cùng bộ phận khác hợp thành giấy viết thư hoàn chỉnh.		0	0	1	1		3	0		taskitem				
+Giấy viết thư (phần dưới)	Giấy viết thư (phần dưới)	20	1	492	1	\image\item\other\quest\quest_0050_s.spr		32	Có thể cùng bộ phận khác hợp thành giấy viết thư hoàn chỉnh.		0	0	1	1		3	0		taskitem				
+Lăng tiêu thảo	Lăng tiêu thảo	20	1	493	1	\image\item\other\quest\quest_0091_s.spr		32	Dược thảo thần kì có thể giải bách độc.		0	0	100	1		3	0		taskitem				
+Thủ Thư Cẩm Nang	Thủ Thư Cẩm Nang	20	1	494	1	\image\item\other\quest\quest_0064_s.spr		32	Cẩm nang chứa thư tay của tiên sinh.		0	0	1	1		3	0		taskitem				
+Thư quyển (thượng)	Thư quyển (thượng)	20	1	495	1	\image\item\other\quest\quest_0018_s.spr		32	Thư quyển (thượng)		0	0	1	1		3	0		taskitem				
+Thư quyển (trung)	Thư quyển (trung)	20	1	496	1	\image\item\other\quest\quest_0018_s.spr		32	Thư quyển (trung)		0	0	1	1		3	0		taskitem				
+Thư quyển (hạ)	Thư quyển (hạ)	20	1	497	1	\image\item\other\quest\quest_0018_s.spr		32	Thư quyển (hạ)		0	0	1	1		3	0		taskitem				
+Ngưng Thần Đơn	Ngưng Thần Đơn	20	1	498	1	\image\item\other\quest\quest_0109_s.spr		32	Bí dược được Chủ Tiệm Thuốc cất giấu, công hiệu cực mạnh.		0	0	1	1		3	0		taskitem				
+Gỗ thông	Gỗ thông	20	1	499	1	\image\item\lifeskill\mucai\mucai_204_s.spr		32	Gỗ thông rất chắc bền.		0	0	100	1		3	0		taskitem				
+Huyền Thiết Thạch	Huyền Thiết Thạch	20	1	500	1	\image\item\lifeskill\kuangshi\kuangshi_103_s.spr		32	Đá Huyền Thiết nổi tiếng chắc bền.		0	0	100	1		3	0		taskitem				
+Rương sắt cũ	Rương sắt cũ	20	1	501	1	\image\item\other\quest\quest_0026_s.spr		32	Rương sắt cũ, không ai biết bên trong chứa gì.		0	0	1	1		3	0		taskitem				
+Vòng hoa	Vòng hoa	20	1	502	1	\image\item\other\quest\quest_0136_s.spr		32	Tế phẩm		0	0	1	1		3	0		taskitem				
+Đại Học Thành Ý Chương (thượng)	Đại Học Thành Ý Chương (thượng)	20	1	503	1	\image\item\other\quest\quest_0011_s.spr		32	Đại Học Thành Ý Chương (thượng)		0	0	1	1		3	0		taskitem				
+Đại Học Thành Ý Chương (trung)	Đại Học Thành Ý Chương (trung)	20	1	504	1	\image\item\other\quest\quest_0011_s.spr		32	Đại Học Thành Ý Chương (trung)		0	0	1	1		3	0		taskitem				
+Đại Học Thành Ý Chương (hạ)	Đại Học Thành Ý Chương (hạ)	20	1	505	1	\image\item\other\quest\quest_0011_s.spr		32	Đại Học Thành Ý Chương (hạ)		0	0	1	1		3	0		taskitem				
+Thư tịch quan trọng	Thư tịch quan trọng	20	1	506	1	\image\item\other\quest\quest_0046_s.spr		32	Tác phẩm cả đời của tiên sinh rất có giá trị.		0	0	1	1		3	0		taskitem				
+Gỗ	Gỗ	20	1	507	1	\image\item\lifeskill\mucai\mucai_204_s.spr		32	Gỗ dễ cháy, dùng để đốt		0	0	100	1		3	0		taskitem				
+Tiêu thạch	Tiêu thạch	20	1	508	1	\image\item\lifeskill\baoshi\yuanshi_106_s.spr		32	Vật dùng để dẫn lửa, có thể đốt		0	0	100	1		3	0		taskitem				
+Mật tín	Mật tín	20	1	509	1	\image\item\other\quest\quest_0003_s.spr		32			0	0	1	1		3	0		taskitem				
+Lệnh bài Trường Ca Môn	Lệnh bài Trường Ca Môn	20	1	510	1	\image\item\other\quest\quest_0053_s.spr		32	Lệnh bài biểu hiện thân phận là người Trường Ca Môn.		0	0	1	1		3	0		taskitem				
+Nón thư sinh	Nón thư sinh	20	1	511	1	\image\item\other\quest\quest_0135_s.spr		32	Nón thư sinh Trường Ca Môn thường đội, chứng tỏ là môn sinh.		0	0	1	1		3	0		taskitem				
+Giấy da dê rách nát	Giấy da dê rách nát	20	1	512	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	1	1		3	0		taskitem				
+Lương khô	Lương khô	20	1	513	1	\image\item\other\quest\quest_0077_s.spr		32			0	0	100	1		3	0		taskitem				
+Nước uống	Nước uống	20	1	514	1	\image\item\other\quest\quest_0109_s.spr		32			0	0	100	1		3	0		taskitem				
+Gia thư của Vương Trùng Dương	Gia thư của Vương Trùng Dương	20	1	515	1	\image\item\other\quest\quest_0003_s.spr		32	Gia thư của chưởng môn Võ Đang Vương Trùng Dương.		0	0	1	1		3	0		taskitem				
+Con dấu nha môn	Con dấu nha môn	20	1	516	1	\image\item\other\quest\quest_0056_s.spr		32	Con dấu của nha môn chuyên dùng, vật cần để đi qua trạm kiểm soát Tây Hạ.		0	0	1	1		3	0		taskitem				
+Thần Bí Thảo Dược	Thần Bí Thảo Dược	20	1	517	1	\image\item\other\quest\quest_0021_s.spr		32	Cỏ thần kỳ, có thể kéo dài thời gian của con dấu nha môn.		0	0	100	1		3	0		taskitem				
+Ma nhân thảo	Ma nhân thảo	20	1	518	1	\image\item\other\quest\quest_0014_s.spr		32	Thảo dược hiếm thấy, uống vào cảm thấy sảng khoái, cũng có thể giảm đau.		0	0	100	1		3	0		taskitem				
+Tấm gỗ	Tấm gỗ	20	1	519	1	\image\item\lifeskill\mucai\muban_106_s.spr		32	Tấm gỗ dâu tằm bên chắc làm đồ đựng rất tốt.		0	0	100	1		3	0		taskitem				
+Mảnh sách	Mảnh sách 1	20	1	520	1	\image\item\other\quest\quest_0028_s.spr		32	Một trong những trang sách ghi lại tội danh của Hàn Thác Trụ, chỉ buộc đã lỏng, giấy cũng đã cũ.		0	0	1	1		3	0		taskitem				
+Mảnh sách	Mảnh sách 2	20	1	521	1	\image\item\other\quest\quest_0028_s.spr		32	Một trong những trang sách ghi lại tội danh của Hàn Thác Trụ, chỉ buộc đã lỏng, giấy cũng đã cũ.		0	0	1	1		3	0		taskitem				
+Mảnh sách	Mảnh sách 3	20	1	522	1	\image\item\other\quest\quest_0028_s.spr		32	Một trong những trang sách ghi lại tội danh của Hàn Thác Trụ, chỉ buộc đã lỏng, giấy cũng đã cũ.		0	0	1	1		3	0		taskitem				
+Tín vật của La Tuyết	Tín vật của La Tuyết	20	1	523	1	\image\item\other\quest\quest_0122_s.spr		32	Tín vật nhận được sau khi mở cơ quan Tham Lãng, Phá Quân, Tử Vi, đây là vật định tình của La Tuyết và Đoàn Trí Hưng, trông hơi cũ.		0	0	1	1		3	0		taskitem				
+La bàn định vị	La bàn định vị	20	1	524	1	\image\item\other\quest\quest_0029_s.spr		32	La bàn của Linh Động Quỷ Mẫu chuyên dùng, kết hợp la bàn với ngân châm sẽ đoán được vị trí của Linh Động Quỷ Mẫu.		0	0	1	1		3	0		taskitem				
+Ngân châm định vị	Ngân châm định vị	20	1	525	1	\image\item\other\quest\quest_0009_s.spr		32	Ngân châm của Linh Động Quỷ Mẫu chuyên dùng, kết hợp ngân châm với la bàn sẽ đoán được vị trí của Linh Động Quỷ Mẫu.		0	0	1	1		3	0		taskitem				
+Hoàng Linh Hương	Hoàng Linh Hương	20	1	526	1	\image\item\other\quest\quest_0083_s.spr		32	Sau khi có được La bàn định vị và Ngân châm định vị, sử dụng Hoàng Linh Hương sẽ biết được vị trí cụ thể của Quỷ Mẫu.		0	0	100	1		3	0		taskitem				
+Bột đá nham linh	Bột đá nham linh	20	1	527	1	\image\item\other\quest\quest_0008_s.spr		32	Bột có tính chất kì lạ, màu sắc óng ánh, có nhiều ở những nơi hoang tàn.		0	0	100	1		3	0		taskitem				
+Ly hồn thảo	Ly hồn thảo	20	1	528	1	\image\item\other\quest\quest_0020_s.spr		32	Thảo dược thần kì tỏa ra mùi mê hoặc, kết hợp với Bột đá nham linh sẽ tạo ra Mê Hồn Đơn.		0	0	100	1		3	0		taskitem				
+Mê Hồn Đơn	Mê Hồn Đơn	20	1	529	1	\image\item\other\quest\quest_0125_s.spr		32	Làm từ Bột đá nham linh và Ly hồn thảo, khiến người ta hôn mê cả ngày, phải cẩn thận khi dùng.		0	0	100	1		3	0		taskitem				
+Văn kiện cơ mật Đại Lý	Văn kiện cơ mật Đại Lý	20	1	530	1	\image\item\other\quest\quest_0084_s.spr		32	Trông như một quyển sổ ghi chép bình thường nhưng có ghi lại bí mật không thể tiết lộ của nước Đại Lý.		0	0	100	1		3	0		taskitem				
+Mật tín trang 1	Mật tín trang 1	20	1	531	1	\image\item\other\quest\quest_0003_s.spr		32	Trang mật tín đã cũ nát, trên đó ghi chữ Tây Hạ.		0	0	1	1		3	0		taskitem				
+Mật tín trang 2	Mật tín trang 2	20	1	532	1	\image\item\other\quest\quest_0003_s.spr		32	Trang mật tín đã cũ nát, trên đó ghi chữ Tây Hạ.		0	0	1	1		3	0		taskitem				
+Mật tín trang 3	Mật tín trang 3	20	1	533	1	\image\item\other\quest\quest_0003_s.spr		32	Trang mật tín đã cũ nát, trên đó ghi chữ Tây Hạ.		0	0	1	1		3	0		taskitem				
+Ba Đậu	Ba Đậu	20	1	534	1	\image\item\other\quest\quest_0037_s.spr		32	Trông như một hạt đậu nành bình thường. Nhấn chuột phải rãi Ba Đậu xung quanh doanh trại bộ lạc Ô Man.		0	0	1	1		3	0		taskitem				
+Đào Mộc Kiếm	Đào Mộc Kiếm	20	1	535	1	\image\item\other\quest\quest_0033_s.spr		32	Kiếm nhỏ bằng gỗ đào rất cứng, xem ra đã khá lâu năm.		0	0	1	1		3	0		taskitem				
+Tự Họa	Tự Họa	20	1	536	1	\image\item\other\quest\quest_0084_s.spr		32	Tự Họa cũ trên đó vẽ cảnh phố xá sầm uất và có đề chữ thịnh sự phồn vinh, quốc thái an khang.		0	0	1	1		3	0		taskitem				
+Tiểu Kim Tỏa	Tiểu Kim Tỏa	20	1	537	1	\image\item\other\quest\quest_0050_s.spr		32	Khóa được làm bằng vàng tinh xảo, thể tích không lớn, dính một ít vết bẩn.		0	0	1	1		3	0		taskitem				
+Búp bê cũ	Búp bê cũ	20	1	538	1	\image\item\other\quest\quest_0115_s.spr		32	Búp bê bằng thủ công đáng yêu, trên thân có dính vết bẩn, bộ đồ và Nón đều bị mất hết.		0	0	1	1		3	0		taskitem				
+Đồ búp bê	Đồ búp bê	20	1	539	1	\image\item\other\quest\quest_0124_s.spr		32	Bộ đồ rất nhỏ ngay cả trẻ em cũng mặc không vừa, có lẽ là đồ của búp bê.		0	0	1	1		3	0		taskitem				
+Nón búp bê	Nón búp bê	20	1	540	1	\image\item\other\quest\quest_0135_s.spr		32	Chiếc nón rất nhỏ ngay cả trẻ em cũng đội không vừa, có lẽ là Nón của búp bê.		0	0	1	1		3	0		taskitem				
+Hắc Mễ Oa Oa còn tốt	Hắc Mễ Oa Oa còn tốt	20	1	541	1	\image\item\other\quest\quest_0115_s.spr		32	Hắc Mễ Oa Oa có mặc đồ, đội Nón và vết bẩn trên mình đã được làm sạch.		0	0	1	1		3	0		taskitem				
+Kim ngân thảo	Kim ngân thảo	20	1	542	1	\image\item\other\quest\quest_0065_s.spr		32	Thảo dược hiếm thấy, có mùi thơm thoang thoảng mê người, chất dịch của nó có thể giảm đau và khiến tinh thần sảng khoái.		0	0	100	1		3	0		taskitem				
+Danh sách thương hội	Danh sách thương hội	20	1	543	1	\image\item\other\quest\quest_0011_s.spr		32	Danh sách thông dụng của thương hội.		0	0	100	1		3	0		taskitem				
+Võ Mục Di Thư	Võ Mục Di Thư	20	1	544	1	\image\item\other\quest\quest_0011_s.spr		32	Võ Mục Di Thư, tài liệu để học sâu hơn về binh pháp, có thể đọc mọi lúc mọi nơi.<enter><color=gold>Nhấn chuột phải để dùng<color>		0	0	1	1		3	0		army_book110	taskarmy			
+Quỷ Cốc Đạo Thuật	Quỷ Cốc Đạo Thuật	20	1	545	1	\image\item\other\quest\quest_0087_s.spr		32	Quỷ Cốc Đạo Thuật, tài liệu để học sâu hơn về kỹ thuật cơ quan, có thể đọc mọi lúc mọi nơi.<enter><color=gold>Nhấn chuột phải để dùng<color>		0	0	1	1		3	0		army_hisbook110				
+Hạch đào	Hạch đào	20	1	546	1	\image\item\other\quest\quest_0043_s.spr		32	Ngon và ngọt.		0	0	100	1		3	0		taskitem				
+Da sói	Da sói	20	1	547	1	\image\item\other\quest\quest_0076_s.spr		32	Da Sói Hoang bóng loáng		0	0	100	1		3	0		taskitem				
+Đương quy	Đương quy_120	20	1	548	1	\image\item\other\quest\quest_0093_s.spr		32	Một loại thuốc		0	0	100	1		3	0		taskitem				
+Hoàng sâm	Hoàng sâm_120	20	1	549	1	\image\item\other\quest\quest_0035_s.spr		32	Một loại thuốc		0	0	100	1		3	0		taskitem				
+Bạch Liên Ngọc Lộ Hoàn	Bạch Liên Ngọc Lộ Hoàn	20	1	550	1	\image\item\other\quest\quest_0057_s.spr		32	Loại thuốc tốt		0	0	100	1		3	0		taskitem				
+Hoa Bội Lan	Hoa Bội Lan	20	1	551	1	\image\item\other\quest\quest_0019_s.spr		32	Hoa đẹp		0	0	100	1		3	0		taskitem				
+Gà rừng	Gà rừng	20	1	552	1	\image\item\other\quest\quest_0103_s.spr		32	Gà rừng sống trên đất		0	0	100	1		3	0		taskitem				
+Rượu Tây Bắc Vọng	Rượu Tây Bắc Vọng	20	1	553	1	\image\item\other\quest\quest_0063_s.spr		32	Một loại rượu mạnh		0	0	100	1		3	0		taskitem				
+Tử Đàn Tùng Mộc 	Tử Đàn Tùng Mộc 	20	1	554	1	\image\item\other\quest\quest_0034_s.spr		32	Tử Đàn Tùng Mộc 		0	0	100	1		3	0		taskitem				
+Bờm ngựa	Bờm ngựa	20	1	555	1	\image\item\other\quest\quest_0040_s.spr		32	Bờm của Ngựa Hoang		0	0	100	1		3	0		taskitem				
+Phượng Hoàng Cầm	Phượng Hoàng Cầm	20	1	556	1	\image\item\other\quest\quest_0035_s.spr		32	Danh cầm do Du Bá Nha làm ra.		0	0	100	1		3	0		taskitem				
+Hoàn Nhan Khúc Phổ	Hoàn Nhan Khúc Phổ	20	1	557	1	\image\item\other\quest\quest_0044_s.spr		32	Khúc Phổ của Hoàn Nhan Tương		0	0	100	1		3	0		taskitem				
+Thánh Nữ Quả	Thánh Nữ Quả	20	1	558	1	\image\item\other\quest\quest_0054_s.spr		32	Một loại trái cây		0	0	100	1		3	0		taskitem				
+Lá dâu	Lá dâu	20	1	559	1	\image\item\other\quest\quest_0086_s.spr		32	Lá của cây dâu		0	0	100	1		3	0		taskitem				
+Bản đồ Vương Phủ	Bản đồ Vương Phủ	20	1	560	1	\image\item\other\quest\quest_0028_s.spr		32	Bản đồ Vương Phủ của Hoàn Nhan Tương		0	0	100	1		3	0		taskitem				
+Bạch Sam	Bạch Sam	20	1	561	1	\image\item\other\quest\quest_0007_s.spr		32	Bạch Sam do chính tay Hà Diệp tỷ tỷ may.		0	0	1	1		3	0		taskitem				
+Tấm gỗ	Tấm gỗ_120	20	1	562	1	\image\item\lifeskill\mucai\muban_106_s.spr		32	Tấm gỗ dùng để cố định lều		0	0	100	1		3	0		taskitem				
+Dây thừng	Dây thừng_120	20	1	563	1	\image\item\other\quest\quest_0071_s.spr		32	Dây thừng dùng để cố định lều		0	0	100	1		3	0		taskitem				
+Kim Lô Chùy	Kim Lô Chùy	20	1	564	1	\image\item\equip\meleeweapon\n_chui_510_s.spr		32	Món thần khí trong truyền thuyết		0	0	1	1		3	0		taskitem				
+Sâm Dã Sơn	Sâm Dã Sơn	20	1	565	1	\image\item\lifeskill\yaocai\yaocai_108_s.spr		32	Sơn Sâm hiếm có, nguyên liệu tốt để ủ rượu		0	0	100	1		3	0		taskitem				
+Lúa Thanh Khoa	Lúa Thanh Khoa	20	1	566	1	\image\item\lifeskill\yaocai\yaocai_202_s.spr		32	Lúa Thanh Khoa thượng hạng, nguyên liệu tinh phẩm		0	0	100	1		3	0		taskitem				
+Da Sói Hoang	Da Sói Hoang	20	1	567	1	\image\item\lifeskill\maopi\maopi_103_s.spr		32	Da Sói Hoang, giữ ấm cực tốt		0	0	10	1		3	0		taskitem				
+Thủ Trạc tinh xảo	Thủ Trạc tinh xảo	20	1	568	1	\image\item\equip\cuff\f_201_s.spr		32	Một bộ Thủ Trạc tinh xảo		0	0	1	1		3	0		taskitem				
+Lê Hoa Bội	Lê Hoa Bội	20	1	569	1	\image\item\equip\pendant\m_103_s.spr		32	Mảnh Ngọc Bội tầm thường, dường như có ẩn chứa bí mật		0	0	1	1		3	0		taskitem				
+Bí dược Thiên Nhẫn	Bí dược Thiên Nhẫn	20	1	570	1	\image\item\other\quest\quest_0109_s.spr		32	Thần dược giải được hàn độc		0	0	1	1		3	0		taskitem				
+Ngân phiếu	Ngân phiếu_120	20	1	571	1	\image\item\other\quest\quest_0001_s.spr		32	Một xấp ngân phiếu		0	0	1	1		3	0		taskitem				
+Rượu nhân sâm đặc chế	Rượu nhân sâm đặc chế	20	1	572	1	\image\item\other\quest\quest_0006_s.spr		32	Một vò rượu ngon được ủ từ Lúa Thanh Khoa và nhân sâm.		0	0	1	1		3	0		taskitem				
+Thịt rừng	Thịt rừng_120	20	1	573	1	\image\item\other\quest\quest_0074_s.spr		32	Thịt rừng thượng đẳng, rất dinh dưỡng		0	0	1	1		3	0		taskitem				
+La Bặc	La Bặc_Tiêu Dao Cốc	20	1	574	1	\image\item\other\quest\quest_0139_s.spr		43	Cẩn thận, hình như có nhiều người đang chú ý La Bặc trong tay của ngươi		0	0	100	1		1	0		xoyoitem_carrot				
+Bình Thanh Hoa	Bình Thanh Hoa_Tiêu Dao Cốc	20	1	575	1	\image\item\other\quest\quest_0063_s.spr		32	Tang vật của Phi Tặc chôm nghe nói đã giao cho Trương Đức Hằng.		0	0	1	1		0	0		xoyoitem_vase				
+Pháo Hoàng Gia	Pháo Hoàng Gia_Chỉ Dẫn Nhiệm Vụ	20	1	576	1	\image\item\other\scriptitem\gongce_yanhua.spr		32	Người chơi lân cận đốt pháo hoa để cả thế giới biết tình yêu của bạn.		0	0	1	1		3	0		taskitem				
+Gỗ phong hảo hạng	Gỗ phong hảo hạng	20	1	600	1	\image\item\lifeskill\mucai\mucai_110_s.spr		32	Gỗ phong hảo hạng có ở Rừng Lá Phong		0	0	100	1		3	0		taskitem				
+Khoáng hỗn hợp	Khoáng hỗn hợp	20	1	601	1	\image\item\lifeskill\kuangshi\kuangshi_103_s.spr		32	Khoáng thạch ở Tê Giác Khoáng, cần tinh luyện thêm		0	0	100	1		3	0		taskitem				
+Vật liệu đá	Vật liệu đá	20	1	602	1	\image\item\lifeskill\kuangshi\kuangshi_102_s.spr		32	Vật liệu đá được cắt ngay ngắn		0	0	100	1		3	0		taskitem				
+Đao cụ	Đao cụ	20	1	603	1	\image\item\other\quest\quest_0080_s.spr		32	Dùng nhiều sẽ phá hủy dụng cụ cắt đá<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	20	1		0	0						
+Dây thừng	Dây thừng	20	1	604	1	\image\item\other\quest\quest_0071_s.spr		32	Dùng để sửa chiếc thuyền cũ trong Khoáng Đạo<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	3	1		0	0						
+Tấm gỗ	Tấm gỗ	20	1	605	1	\image\item\lifeskill\mucai\muban_106_s.spr		32	Dùng để sửa chiếc thuyền cũ trong Khoáng Đạo<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	3	1		0	0						
+Lệnh Bài Quân Doanh	Lệnh Bài Quân Doanh (Cửa hàng)	20	1	606	1	\image\item\other\quest\quest_0053_s.spr		32	Có thể tự do ra vào Phục Ngưu Sơn Quân Doanh bằng lệnh bài này		0	100	1	1		0	0		army_token	chuansong			
+Lệnh Bài Quân Doanh	Lệnh Bài Quân Doanh (Kỳ Trân Các)	20	1	607	1	\image\item\other\quest\quest_0053_s.spr		32	Có thể tự do ra vào Phục Ngưu Sơn Quân Doanh bằng lệnh bài này		0	0	1	1		0	0		army_token	chuansong			
+Tuyết Hồn Châu	Tuyết Hồn Châu	20	1	608	1	\image\item\other\quest\quest_0048_s.spr		32	Báu vật có ở Huyền Băng Đàm thuộc Man Chướng Sơn		0	0	100	1		3	0						
+Chi Lan	Chi Lan	20	1	609	1	\image\item\other\quest\quest_0021_s.spr		32	Thảo dược thần kì có ở Man Chướng Sơn		0	0	100	1		3	0						
+Tiên Nhũ Linh Thạch	Tiên Nhũ Linh Thạch	20	1	610	1	\image\item\other\scriptitem\xuanjing_005_s.spr		32	Đá thần kì có ở Ngạc Thần Điện		0	0	100	1		3	0						
+Tiền xu cổ	Tiền xu cổ	20	1	611	1	\image\item\other\quest\quest_0039_s.spr		32	Loại tiền xu có từ thời xa xưa		0	0	100	1		3	0						
+Bạch Cốt Chùy	Bạch Cốt Chùy	20	1	612	1	\image\item\other\quest\quest_0092_s.spr		32	Linh vật có thể trừ tà		0	0	100	1		3	0		taskitem				
+Tim Cá Sấu Chúa	Tim Cá Sấu Chúa	20	1	613	1	\image\item\other\quest\quest_0085_s.spr		32	Tim của cá sấu chúa		0	0	100	1		3	0		taskitem				
+Gia thư của thợ mỏ	Gia thư của thợ mỏ	20	1	614	1	\image\item\other\quest\quest_0003_s.spr		32	Gia thư của thợ mỏ		0	0	1	1		3	0		taskitem				
+Thảo dược	Thảo dược	20	1	615	1	\image\item\other\quest\quest_0014_s.spr		32	Thảo dược		0	0	100	1		3	0		taskitem				
+Chuột núi	Chuột núi	20	1	616	1	\image\item\other\quest\quest_0138_s.spr		32	Chuột núi		0	0	100	1		3	0		taskitem				
+Phục Ngưu Sơn Thảo Ngư	Phục Ngưu Sơn Thảo Ngư	20	1	617	1	\image\item\other\quest\quest_0137_s.spr		32	Phục Ngưu Sơn Thảo Ngư		0	0	100	1		3	0		taskitem				
+Túi quân hưởng	Túi quân hưởng	20	1	618	1	\image\item\other\quest\quest_0025_s.spr		33	Túi quân hưởng thưởng cho binh sĩ.		0	0	1	1		3	0		taskitem				
+Lệnh bài Tê Giác Khoáng	Lệnh bài Tê Giác Khoáng	20	1	619	1	\image\item\other\quest\quest_0059_s.spr		32	Có thể tự do ra vào Tê Giác Khoáng bằng lệnh bài này		0	0	100	1		3	0		taskitem				
+Máu gà	Máu gà	20	1	620	1	\image\item\other\quest\quest_0057_s.spr		32	Có thể phá Kim Chung Tráo của Bách Trảm Cát<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	100	1		0	0		chickenblood				
+Lưỡi gà tươi	Lưỡi gà tươi	20	1	621	1	\image\item\other\quest\quest_0066_s.spr		32	Nguyên liệu chính của món "Thiệt Chiến Quần Nho"		0	0	100	1		3	0		taskitem				
+Cơ Quan Thuật Tâm Đắc	Cơ Quan Thuật Tâm Đắc	20	1	622	1	\image\item\other\quest\quest_0018_s.spr		32	Quyển sách ghi lại việc bảo vệ cơ quan tâm đắc, sau khi dùng sẽ nhận được 20 độ bền cơ quan.<enter><enter><enter><color=gold>(Mỗi tuần chỉ được dùng 10 quyển)<color>		0	0	1	1		1	0		jiguanshuxinde				
+Nhiếp Không Thảo	Nhiếp Không Thảo	20	1	623	1	\image\item\other\quest\quest_0093_s.spr		32	Bỏ vào Cửu Ngưng Đỉnh có thể phá Đào Hoa Chướng<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	20	1		0	0						
+Tịnh Tâm Châu	Tịnh Tâm Châu	20	1	624	1	\image\item\other\quest\quest_0125_s.spr		32	Giao nó cho Hỏa Bồng Xuân sẽ có hiệu nghiệm<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	1	1		0	0						
+Thư tín	Thư tín	20	1	625	1	\image\item\other\quest\quest_0003_s.spr		32	Gửi cho Hỏa Bồng Xuân nhưng lại không ghi ngày thàng và lạc khoản<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	1	1		0	0						
+Đuôi bọ cạp	Đuôi bọ cạp	20	1	626	1	\image\item\lifeskill\yaocai\yaocai_208_s.spr		32	Món khoái khẩu của Gà trống<enter><enter><enter><color=gold>(Đạo cụ này sẽ biến mất sau khi rời phó bản)<color>		0	0	20	1		0	0						
+Nhang đèn	Nhang đèn	20	1	627	1	\image\item\other\quest\quest_0083_s.spr		32	Thành tâm là được!		0	0	1	1		3	0		taskitem				
+Cẩm nang Tân Thủ	Cẩm nang Tân Thủ	20	1	800	1	\image\item\other\quest\quest_0064_s.spr		32	Cẩm nang do Bạch Thu Lâm tặng, trong đó có dạy một số thường thức giang hồ.<enter><color=gold>Nhấn chuột phải để mở<color>		0	0	1	1		0	0		xinshoubook				
+Sơn Trại Đại Đao	Sơn Trại Đại Đao	20	1	801	1	\image\item\equip\meleeweapon\n_dao_201_s.spr		32	Vũ khí nhận được sau khi gia nhập tổ chức "Khinh Sư Diệt Tổ".		0	0	8	1		1	0		taskitem				
+Sơn Trại Mộc Trượng	Sơn Trại Mộc Trượng	20	1	802	1	\image\item\other\quest\quest_0073_s.spr		32	Vũ khí nhận được sau khi gia nhập tổ chức "Khinh Sư Diệt Tổ".		0	0	4	1		1	0		taskitem				
+Sơn Trại Trường Cung	Sơn Trại Trường Cung	20	1	803	1	\image\item\other\xoyogame\baibuchuanyanggong.spr		32	Vũ khí nhận được sau khi gia nhập tổ chức "Khinh Sư Diệt Tổ".		0	0	4	1		1	0		taskitem				
+Rương Hoàng Kim	HL_Rương Hoàng Kim	20	1	804	1	\image\item\other\scriptitem\huangjbaoxiang.spr		32	Bảo rương thần bí, mở ra sẽ được phần thưởng quý giá.		0	0	1	1		3	0		randomitem				
+Rương Bạch Ngân	HL_Rương Bạch Ngân	20	1	805	1	\image\item\other\scriptitem\baiyinbaoxiang.spr		32	Bảo rương thần bí, mở ra sẽ được phần thưởng quý giá.		0	0	8	1		3	0		randomitem				
+Rương Thanh Đồng	HL_Rương Thanh Đồng	20	1	806	1	\image\item\other\scriptitem\qingtongbaoxiang.spr		32	Bảo rương thần bí, mở ra sẽ được phần thưởng quý giá.		0	0	4	1		3	0		randomitem				
+Rương Huyền Thiết	HL_Rương Huyền Thiết	20	1	807	1	\image\item\other\scriptitem\heitiebaoxiang.spr		32	Bảo rương thần bí, mở ra sẽ được phần thưởng quý giá.		0	0	4	1		3	0		randomitem				
+Đại Kim Long Mạch Phong Thủy Đồ	HL_Đại Kim Long Mạch Phong Thủy Đồ	20	1	808	1	\image\item\other\quest\quest_0055_s.spr		32	Bản đồ ghi lại kết cấu phong thủy Long Mạch của Đại Kim, vật quan trọng liên quan vận mệnh quốc gia.		0	0	4	1		3	0		taskitem				
+Binh pháp 36 kế	Binh pháp 36 kế	20	1	809	1	\image\item\other\quest\quest_0011_s.spr		32	Tài liệu để học sâu hơn về binh pháp, có thể đọc mọi lúc mọi nơi.<enter><color=gold>Nhấn chuột phải dùng<color>		0	0	1	1		3	0		army_book130	taskarmy			
+Khuyết Nhất Môn	Khuyết Nhất Môn	20	1	810	1	\image\item\other\quest\quest_0087_s.spr		32	Tài liệu để học sâu hơn về Cơ Quan Thuật, có thể đọc mọi lúc mọi nơi.<enter><color=gold>Nhấn chuột phải dùng<color>		0	0	1	1		3	0		army_hisbook130				
+Thư Thu Di	Thư Thu Di_130	20	1	811	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của Thu Di, cần chuyển cho Hàn Thác Trụ.		0	0	1	1		3	0		taskitem				
+Danh Sách Đảng Cấm	Danh Sách Đảng Cấm_130	20	1	812	1	\image\item\other\quest\quest_0087_s.spr		32	Ghi chép các hình phạt của Hình bội với Đảng Khánh Nguyên, trong đó có cả những người bị oan		0	0	1	1		3	0		taskitem				
+Ngọc Tỷ Hoàng Đế	Ngọc Tỷ Hoàng Đế	20	1	813	1	\image\item\equip\guanyin\guanyin8_s.spr		32	Ngọc Tỷ của Ninh Tôn, tượng trưng cho quyền lực tối cao		0	0	1	1		3	0		taskitem				
+Chiếu Thư Hoàng Đế	Chiếu Thư Hoàng Đế_130	20	1	814	1	\image\item\equip\book\zhenfatu_107.spr		32	Thủ dụ tuyệt mật của Ninh Tôn Hoàng đế		0	0	1	1		3	0		taskitem				
+Hoa thánh vực	Hoa thánh vực_130	20	1	815	1	\image\item\other\quest\quest_0032_s.spr		32	Truyền thuyết có thể trị được bách bệnh		0	0	10	1		3	0		taskitem				
+Danh Họa Thương Triều	Danh Họa Thương Triều_130	20	1	816	1	\image\item\other\quest\quest_0084_s.spr		32	Tru Vương đời Thương rất thích bức tranh này, về sau lọt vào tay Khương Tử Nha		0	0	1	1		3	0		taskitem				
+Tranh sơn thủy	Tranh sơn thủy_130	20	1	817	1	\image\item\other\quest\quest_0114_s.spr		32	Tranh sơn thủy kỳ bí, nghe nói tác giả là một nữ nhi		0	0	1	1		3	0		taskitem				
+Hương nang nhỏ	Hương nang nhỏ_130	20	1	818	1	\image\item\other\quest\quest_0064_s.spr		32	Mùi thơm dịu nhẹ. Trên túi có thêu hai chữ "Bình An"		0	0	1	1		3	0		taskitem				
+Búp bê cũ	Búp bê cũ_130	20	1	819	1	\image\item\other\quest\quest_0115_s.spr		32	Búp bê đã bị dính nhiều bùn đất		0	0	1	1		3	0		taskitem				
+Gỗ thanh tùng	Gỗ thanh tùng_130	20	1	820	1	\image\item\lifeskill\mucai\mucai_204_s.spr		32	Loại tùng chỉ sống ở những vùng băng giá		0	0	100	1		3	0		taskitem				
+Toàn ma hiếu y	Toàn ma hiếu y_130	20	1	821	1	\image\item\equip\armor\m_changpao_405_s.spr		32	Mặc trong những buổi táng lễ		0	0	1	1		3	0		taskitem				
+Kim Thị Bài	Kim Thị Bài_130	20	1	822	1	\image\item\other\quest\quest_0053_s.spr		32	Lấy được của Người phương bắc kỳ lạ. Chính là bảo vật của Hoàng thất Kim quốc		0	0	1	1		3	0		taskitem				
+Phủ Tâm Diệp	Phủ Tâm Diệp_130	20	1	823	1	\image\item\other\quest\quest_0021_s.spr		32	Kỳ dược của Thần nữ, trị thương cực kỳ hiệu quả		0	0	12	1		3	0		taskitem				
+Thạch cao	Thạch cao_130	20	1	824	1	\image\item\lifeskill\buliao\buliao_107_s.spr		32	Loại thạch cao duyên dùng để tạc tượng		0	0	7	1		3	0		taskitem				
+Đất sét	Đất sét_130	20	1	825	1	\image\item\lifeskill\maopi\maopi_210_s.spr		32	Đất sét đặc boệt, có thể dùng để tạc tượng và xây dựng		0	0	7	1		3	0		taskitem				
+Tấu biểu	Tấu biểu_130	20	1	826	1	\image\item\other\quest\quest_0050_s.spr		32	Tiền Tượng Tổ Thượng thư		0	0	1	1		3	0		taskitem				
+Dạ Minh Châu	Dạ Minh Châu_130	20	1	827	1	\image\item\other\quest\quest_0125_s.spr		32	Thế gian hiếm thấy. Thường do các dị thú trấn giữ		0	0	1	1		3	0		taskitem				
+Đại Tống tình báo thư	Đại Tống tình báo thư	20	1	828	1	\image\item\other\quest\quest_0011_s.spr		32	Ghi chép tình hình quân sự, điền nông, Quan viên của Tống triều		0	0	1	1		3	0		taskitem				
+Bản thảo Giá Cô Thiên	Bản thảo Giá Cô Thiên	20	1	829	1	\image\item\other\quest\quest_0046_s.spr		32	Dục thượng cao lâu khứ tỵ sầu, sầu hoàn tuỳ ngã thướng cao lâu.		0	0	1	1		3	0		taskitem				
+Vấn thư của chúng thần	Vấn thư của chúng thần	20	1	830	1	\image\item\other\quest\quest_0003_s.spr		32	Thư của các đại thần hỏi thăm sức khỏe Hàn Thác Trụ		0	0	1	1		3	0		taskitem				
+Khoai lang hư	Khoai lang hư	20	1	831	1	\image\item\lifeskill\yaocai\yaocai_204_s.spr		32	Củ đã bị hư mầm		0	0	8	1		3	0		taskitem				
+Khoai môn hư	Khoai môn hư	20	1	832	1	\image\item\lifeskill\yaocai\yaocai_201_s.spr		32	Củ đã bị hư mầm		0	0	8	1		3	0		taskitem				
+Muối ăn	Muối ăn	20	1	833	1	\image\item\other\quest\quest_0016_s.spr		32	Muối thô chưa qua tinh luyện		0	0	8	1		3	0		taskitem				
+Phần đầu "Mãn Giang Hồng"	Phần đầu "Mãn Giang Hồng"	20	1	834	1	\image\item\other\quest\quest_0046_s.spr		32	Thi tập của Nhạc Phi-phần đầu		0	0	1	1		3	0		taskitem				
+Phần sau "Mãn Giang Hồng"	Phần sau "Mãn Giang Hồng"	20	1	835	1	\image\item\other\quest\quest_0046_s.spr		32	Thi tập của Nhạc Phi-phần sau		0	0	1	1		3	0		taskitem				
+Dã cúc	Dã cúc	20	1	836	1	\image\item\other\quest\quest_0032_s.spr		32	Sinh trưởng những nơi băng giá, có thể dùng ủ rượu		0	0	100	1		3	0		taskitem				
+Trà Phổ Nhĩ	Trà Phổ Nhĩ	20	1	837	1	\image\item\lifeskill\yaocai\yaocai_205_s.spr		32	Trà Phổ Nhĩ tươi non		0	0	100	1		3	0		taskitem				
+Phục Lưu hỏa chủng	Phục Lưu hỏa chủng	20	1	838	1	\image\item\other\quest\quest_0127_s.spr		32	Hỏa chủng đã hấp thu tinh linh thiên địa		0	0	1	1		3	0		taskitem				
+Huyền thiết trên núi	Huyền thiết trên núi	20	1	839	1	\image\item\lifeskill\baoshi\yuanshi_110_s.spr		32	Huyền thiết đã hấp thu tinh linh thiên địa		0	0	100	1		3	0		taskitem				
+Hỏa dược pháo	Hỏa dược pháo	20	1	840	1	\image\item\other\quest\quest_0127_s.spr		32	Hỏa dược pháo cải tiến, uy lực rất lớn.		0	0	10	1		3	0		taskitem				
+Hoa độc la	Hoa độc la	20	1	841	1	\image\item\other\quest\quest_0032_s.spr		32	Thang thuốc trị được độc bò cạp, độc rắn, vật lấy độc trị độc.		0	0	8	1		3	0		taskitem				
+Hỏa chủng đặc chế	Hỏa chủng đặc chế	20	1	842	1	\image\item\other\quest\quest_0027_s.spr		32	Hỏa chủng đặc chế có hỏa lực cực mạnh.		0	0	10	1		3	0		taskitem				
+Rương triền thủ	Rương triền thủ	20	1	843	1	\image\item\other\quest\quest_0026_s.spr		32	Rương triền thủ, số lượng cực lớn.		0	0	1	1		3	0		taskitem				
+Rương phi đao	Rương phi đao	20	1	844	1	\image\item\other\quest\quest_0026_s.spr		32	Rương phi đao, được làm từ sắt.		0	0	1	1		3	0		taskitem				
+Rương tụ tiễn	Rương tụ tiễn	20	1	845	1	\image\item\other\quest\quest_0026_s.spr		32	Rương tụ tiễn, sau khi cải tiến sức sát thương cực lớn.		0	0	1	1		3	0		taskitem				
+Dục tâm liên	Dục tâm liên	20	1	846	1	\image\item\other\quest\quest_0065_s.spr		32	Có thể cứu người trong lúc nguy cấp, bất luận bị thương nghiêm trọng đến đâu, nhưng nếu buông xuôi thì không thể cứu vãn.		0	0	1	1		3	0		taskitem				
+Vạn tượng luân	Vạn tượng luân	20	1	847	1	\image\item\other\quest\quest_0107_s.spr		32	Khi bố trí đứng nó trở thành 1 ngũ hành pháp cấm loại to, uy lực rất lớn, không phải cao nhân đắc đạo khó mà hóa giải.		0	0	1	1		3	0		taskitem				
+Rau sống	Rau sống	20	1	848	1	\image\item\other\quest\quest_0008_s.spr		32	Rau sống xanh tươi		0	0	100	1		3	0		taskitem				
+Hoàng liên	Hoàng liên	20	1	849	1	\image\item\other\quest\quest_0037_s.spr		32	Thang thuốc trị thương hàn, giải độc.		0	0	100	1		3	0		taskitem				
+Tẩu Địa Kê	Tẩu Địa Kê	20	1	850	1	\image\item\other\quest\quest_0103_s.spr		32	Tẩu Địa Kê nuôi trong nhà, rất khỏe.		0	0	100	1		3	0		taskitem				
+Phân heo	Phân heo	20	1	851	1	\image\item\lifeskill\kuangshi\kuangshi_107_s.spr		32	Một mùi hôi thối xông lên mũi.		0	0	100	1		3	0		taskitem				
+Ngân phiếu cũ	Ngân phiếu cũ	20	1	852	1	\image\item\other\quest\quest_0001_s.spr		32	Ngân phiếu hơi cũ, tiền tệ thời Tống.		0	0	1	1		3	0		taskitem				
+Trường côn phòng thân	Trường côn phòng thân	20	1	853	1	\image\item\equip\meleeweapon\n_gun_303_s.spr		32	Gậy phòng thân đơn giản, một loại vũ khí cơ bản.		0	0	1	1		3	0		taskitem				
+Gấm vóc cũ	Gấm vóc cũ	20	1	854	1	\image\item\other\quest\quest_0055_s.spr		32	Mảnh gấm vóc ghi lại bí mật của triều Tống.		0	0	1	1		3	0		taskitem				
+Ngư tinh thảo	Ngư tinh thảo	20	1	855	1	\image\item\other\quest\quest_0086_s.spr		32	Sống ở nơi âm u, ẩm ướt, lá có mùi tanh.		0	0	10	1		3	0		taskitem				
+Thạch lan	Thạch lan	20	1	856	1	\image\item\other\quest\quest_0002_s.spr		32	Âm tính, thích ẩm ướt, dược liệu hiếm có của vùng Giang Nam.		0	0	10	1		3	0		taskitem				
+Hỏa chủng quân bị	Hỏa chủng quân bị	20	1	857	1	\image\item\other\quest\quest_0027_s.spr		32	Hỏa chủng đặc chế có hỏa lực cực mạnh, dùng để đốt Kho quân bị (Kim).		0	0	10	1		3	0		taskitem				
+Hỏa chủng quân nhu	Hỏa chủng quân nhu	20	1	858	1	\image\item\other\quest\quest_0027_s.spr		32	Hỏa chủng đặc chế có hỏa lực cực mạnh, dùng để đốt Kho quân nhu (Kim).		0	0	10	1		3	0		taskitem				
+Du Long Giác-Hùng	Du Long Giác-Hùng	20	1	859	1	\image\item\other\quest\quest_0023_s.spr		32	Ngọc giác chứa đựng bí mật to lớn, có thể ghép với Du Long Thư Giác là vật xoay chuyển càn khôn cho Đại Tống.		0	0	1	1		3	0		taskitem				
+Vu cổ linh châu	Vu cổ linh châu_Linh Bích	20	1	860	1	\image\item\other\quest\quest_0125_s.spr		32	Hấp thụ linh khí trăm năm của trời đất, là hạt nhân của Vu Cổ Trận Pháp.		0	0	1	1		3	0		taskitem				
+Kế hoạch phản công	Kế hoạch phản công	20	1	861	1	\image\item\other\quest\quest_0003_s.spr		32	Bản kế hoạch cụ thể quân Kim phản công doanh trại quân Tống.		0	0	1	1		3	0		taskitem				
+Thái Tổ bí sử	Thái Tổ bí sử	20	1	862	1	\image\item\other\quest\quest_0011_s.spr		32	Ghi lại bí mật to lớn và sự kiện quan trọng của Đại Tống từ khi lập quốc.		0	0	1	1		3	0		taskitem				
+Danh sách Nga My	Danh sách Nga My	20	1	863	1	\image\item\other\quest\quest_0011_s.spr		32	Danh sách ghi lại toàn bộ số đệ tử Nga My đến Linh Bích Bạc chi viện cho quân Tống lần này.		0	0	1	1		3	0		taskitem				
+Thuốc đặc chế	Thuốc đặc chế	20	1	864	1	\image\item\other\quest\quest_0109_s.spr		32	Thuốc đặc chế từ các vật liệu hoài sơn, ba đậu, kê cốt thảo, thổ phục linh, sau khi dùng sẽ khiến thân thể suy nhược, tiêu chảy.		0	0	1	1		3	0		taskitem				
+Quỳnh bích hoàn	Quỳnh bích hoàn	20	1	865	1	\image\item\other\quest\quest_0024_s.spr		32	Vật tổ đặc biệt hình tròn, vật liệu không thể thiếu trong Tam Hoàn Trận Pháp.		0	0	1	1		3	0		taskitem				
+Đoạn Trường Tán	Đoạn Trường Tán	20	1	866	1	\image\item\other\quest\quest_0109_s.spr		32	Thuốc có độc tính cực lớn, vật liệu không thể thiếu trong Tam Hoàn Trận Pháp.		0	0	1	1		3	0		taskitem				
+Tử linh tương	Tử linh tương	20	1	867	1	\image\item\other\quest\quest_0006_s.spr		32	Độc vật trên núi tuyết, vật liệu không thể thiếu trong Tam Hoàn Trận Pháp.		0	0	1	1		3	0		taskitem				
+Cổ hoặc chi tâm	Cổ hoặc chi tâm	20	1	868	1	\image\item\other\quest\quest_0085_s.spr		32	Tim Lang Nhân bị sự khống chế của Vu Cổ Thuật.		0	0	10	1		3	0		taskitem				
+Thiết Phù Thành Chủ Lệnh	Thiết Phù Thành Chủ Lệnh	20	1	869	1	\image\item\other\scriptitem\city_master_flag.spr		32	Dùng để nhận nhiệm vụ: Khải Hoàn Thiết Phù Thành.<enter><color=gold>Tìm Tu Mộc Trạch gần Tướng Viễn Chinh Thiết Phù ở các thành chính.<color>		0	0	1	50000		3	1		newland_pad				
+Thiết Phù Anh Hùng Lệnh	Thiết Phù Anh Hùng Lệnh	20	1	870	1	\image\item\other\scriptitem\city_squire_flag.spr		32	Dùng để nhận nhiệm vụ: Vinh Dự Thiết Phù Thành.<enter><color=gold>Tìm Tu Mộc Trạch gần Tướng Viễn Chinh Thiết Phù ở các thành chính.<color>		0	0	1	50000		4	1		newland_pad				
+Vọng Tâm Thảo	Vọng Tâm Thảo	20	1	871	1	\image\item\other\quest\quest_0014_s.spr		32	Cỏ quý hiếm, có thể giao tiếp với sinh vật có linh tính.		0	0	1	1		3	0		taskitem				
+Thiết Phù Thành Chủ Lệnh	Thiết Phù Thành Chủ Lệnh (khóa)	20	1	872	1	\image\item\other\scriptitem\city_master_flag.spr		32	Sử dụng nhận danh hiệu, phi phong thành chủ. Có thể tìm Tu Mộc Trạch mua ngựa Lăng Thiên.<enter><color=gold>Dùng trước khi kết thúc thành chiến lần sau<color><enter><color=green>Nhấn chuột phải dùng<color>		0	0	1	50000		3	1		newland_pad_bind				
+Thiết Phù Anh Hùng Lệnh	Thiết Phù Anh Hùng Lệnh (khóa)	20	1	872	2	\image\item\other\scriptitem\city_squire_flag.spr		32	Sử dụng nhận danh hiệu, phi phong dũng sĩ. Có thể tìm Tu Mộc Trạch mua ngựa Trục Nhật.<enter><color=gold>Dùng trước khi kết thúc thành chiến lần sau<color><enter><color=green>Nhấn chuột phải dùng<color>		0	0	1	50000		3	1		newland_pad_bind				
+Tương Tư Quả	Tương Tư Quả	20	1	873	1	\image\item\other\quest\quest_0062_s.spr		32	Tương tư mà không được gặp mặt, gặp mặt lại không được ngã vào lòng, hỏi thế gian tình là chi, nước mắt này của Chức Nữ sẽ biến thành Tương Tư Quả mang ưu sầu nghìn năm!		0	0	3	1		3	0		taskitem				
+1 thùng nước	1 thùng nước	20	1	874	1	\image\item\other\quest\quest_0027_s.spr		32	Thùng đựng đầy nước, dùng để dập lửa.<enter><color=gold>Nhấp trực tiếp vào mồi lửa để dập tắt nó<color>		0	0	100	1		3	0		primerlv10_taskitem				
+Băng Lăng Thảo	Băng Lăng Thảo	20	1	875	1	\image\item\other\quest\quest_0014_s.spr		32	Loại thảo dược trị bỏng rất hiệu quả.		0	0	100	1		3	0		primerlv10_taskitem				
+Thủy Linh Hoa	Thủy Linh Hoa	20	1	876	1	\image\item\other\quest\quest_0091_s.spr		32	Loại thảo dược trị ngoại thương rất hiệu quả!		0	0	100	1		3	0		taskitem				
+Bó hoa tươi	Bó hoa tươi	20	1	877	1	\image\item\other\scriptitem\jh_shoupenghua.spr		32	Chúc mừng quán rượu khai trương		0	0	1	1		3	0		taskitem				
+Tài sản vụn vặt	Tài sản vụn vặt	20	1	878	1	\image\item\other\quest\quest_0078_s.spr		32	Nhìn số tài sản rải rác khắp nơi		0	0	100	1		3	0		taskitem				
+Khiên Tinh Bản	Khiên Tinh Bản	20	1	879	1	\image\item\other\quest\quest_0070_s.spr		32	Có thể dựa vào vị trí của ngôi sao để định vị		0	0	100	1		3	0		taskitem				
+Bản đồ chi tiết của quân Mông Cổ	Bản đồ chi tiết của quân Mông Cổ	20	1	880	1	\image\item\other\quest\quest_0028_s.spr		32	Bản đồ bố trí hoàn chỉnh của quân Mông Cổ		0	0	100	1		3	0		taskitem				
+Binh sĩ bị trói	Binh sĩ bị trói	20	1	881	1	\image\item\other\quest\quest_0090_s.spr		32	Cuối cùng cũng bắt được tên còn sống, cột thật chặt để khỏi chạy thoát.		0	0	100	1		3	0		taskitem				
+Mã thảo	Mã thảo (Nhiệm vụ bản đồ mới)	20	1	882	1	\image\item\other\quest\quest_0086_s.spr		32	Thực phẩm thượng hạng cho ngựa.		0	0	100	1		3	0		taskitem				
+Bình nước lớn	Bình nước lớn	20	1	883	1	\image\item\other\scriptitem\qm_shuihu.spr		32	Bình thật tinh xảo		0	0	100	1		3	0		taskitem				
+Bình nước đầy	Bình nước đầy	20	1	884	1	\image\item\other\scriptitem\qm_shuihu.spr		32	Bình chứa đầy nước		0	0	100	1		3	0		taskitem				
+Rìu	Rìu	20	1	885	1	\image\item\other\scriptitem\loulan_luoshenchui.spr		32	Một cây rìu		0	0	100	1		3	0		taskitem				
+Gỗ	Gỗ	20	1	886	1	\image\item\other\xoyogame\xianlingmu.spr		32	Một mảnh gỗ		0	0	100	1		3	0		taskitem				
+Thanh củi	Thanh củi	20	1	887	1	\image\item\other\quest\quest_0034_s.spr		32	Củi đã đốn xong		0	0	100	1		3	0		taskitem				
+Roi da	Roi da	20	1	888	1	\image\item\other\quest\quest_0060_s.spr		32			0	0	100	1		3	0		taskitem				
+Ấn sắt	Ấn sắt	20	1	889	1	\image\item\other\quest\quest_0135_s.spr		32			0	0	100	1		3	0		taskitem				
+Dao nhỏ	Dao nhỏ	20	1	890	1	\image\item\other\quest\quest_0041_s.spr		32			0	0	100	1		3	0		taskitem				
+Nước lạnh	Nước lạnh	20	1	891	1	\image\item\other\scriptitem\zhanshenjiu.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 1	Mảnh bản đồ 1	20	1	892	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 2	Mảnh bản đồ 2	20	1	893	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 3	Mảnh bản đồ 3	20	1	894	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 4	Mảnh bản đồ 4	20	1	895	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 5	Mảnh bản đồ 5	20	1	896	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 6	Mảnh bản đồ 6	20	1	897	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 7	Mảnh bản đồ 7	20	1	898	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Mảnh bản đồ 8	Mảnh bản đồ 8	20	1	899	1	\image\item\other\quest\quest_0055_s.spr		32			0	0	100	1		3	0		taskitem				
+Bản đồ chiến thuật hoàn chỉnh	Bản đồ chiến thuật hoàn chỉnh	20	1	900	1	\image\item\other\scriptitem\gaizaotu_huwan.spr		32			0	0	100	1		3	0		taskitem				
+Túi độc dược	Túi độc dược	20	1	901	1	\image\item\other\quest\quest_0110_s.spr		32			0	0	100	1		3	0		taskitem				
+Miếng ghép bản đồ	Miếng ghép bản đồ	20	1	902	1	\image\item\other\quest\quest_0101_s.spr		32			0	0	100	1		3	0		taskitem				
+Dũng Sĩ Huấn Lệnh	Dũng Sĩ Huấn Lệnh	20	1	903	1	\image\item\other\scriptitem\huanzhiyu_lv3.spr		32			0	0	100	1		3	0		taskitem				
+Công cụ vẽ bản đồ	Công cụ vẽ bản đồ	20	1	904	1	\image\item\other\quest\quest_0121_s.spr		32			0	0	100	1		3	0		taskitem				
+Chiến lợi phẩm của quân Mông Cổ	Chiến lợi phẩm của quân Mông Cổ	20	1	905	1	\image\item\other\quest\quest_0078_s.spr		32			0	0	100	1		3	0		taskitem				
+La bàn	La bàn	20	1	906	1	\image\item\other\quest\quest_0129_s.spr		32			0	0	100	1		3	0		taskitem				
+Giấy da dê	Giấy da dê	20	1	907	1	\image\item\other\quest\quest_0050_s.spr		32			0	0	100	1		3	0		taskitem				
+Bản đồ địa hình Tây Hạ	Bản đồ địa hình Tây Hạ	20	1	908	1	\image\item\other\quest\quest_0050_s.spr		32			0	0	100	1		3	0		taskitem				
+Quân Cảnh Vệ bị bắt	Quân Cảnh Vệ bị bắt	20	1	909	1	\image\item\other\quest\quest_0095_s.spr		32			0	0	100	1		3	0		taskitem				
+Mã thảo	Mã thảo	20	1	910	1	\image\item\other\quest\quest_0086_s.spr		32			0	0	100	1		3	0		taskitem				
+Phân ngựa khô	Phân ngựa khô	20	1	911	1	\image\item\other\quest\quest_0061_s.spr		32	Tuy gió đã hóng khô mùi đã bớt đi, nhưng vẫn không thể chịu được, mau lấy mấy tấm lá gói lại.		0	0	100	1		3	0		taskitem				
+Bình nước	Bình nước	20	1	912	1	\image\item\other\scriptitem\qm_shuihu.spr		32			0	0	100	1		3	0		taskitem				
+Một thùng nước lớn	Một thùng nước lớn	20	1	913	1	\image\item\other\scriptitem\qm_shuihu.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 1	Mệnh Lệnh Tấn Công 1	20	1	914	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 2	Mệnh Lệnh Tấn Công 2	20	1	915	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 3	Mệnh Lệnh Tấn Công 3	20	1	916	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 4	Mệnh Lệnh Tấn Công 4	20	1	917	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 5	Mệnh Lệnh Tấn Công 5	20	1	918	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 6	Mệnh Lệnh Tấn Công 6	20	1	919	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 7	Mệnh Lệnh Tấn Công 7	20	1	920	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Mệnh Lệnh Tấn Công 8	Mệnh Lệnh Tấn Công 8	20	1	921	1	\image\item\other\quest\quest_0088_s.spr		32			0	0	100	1		3	0		taskitem				
+Sách Mệnh Lệnh Tấn Công hoàn chỉnh	Sách Mệnh Lệnh Tấn Công hoàn chỉnh	20	1	922	1	\image\item\other\quest\quest_0044_s.spr		32			0	0	100	1		3	0		taskitem				
+Công cụ ghi chép	Công cụ ghi chép	20	1	923	1	\image\item\other\quest\quest_0121_s.spr		32			0	0	100	1		3	0		taskitem				
+Trang sức quý tộc	Trang sức quý tộc	20	1	924	1	\image\item\other\quest\quest_0079_s.spr		32			0	0	100	1		3	0		taskitem				
+Ô Đầu Thảo	Ô Đầu Thảo	20	1	925	1	\image\item\other\quest\quest_0036_s.spr		32			0	0	100	1		3	0		taskitem				
+Cành đào	Cành đào-Tân thủ	20	1	926	1	\image\item\other\quest\quest_0145_s.spr		32			0	0	100	1		3	0		taskitem				
+Thư của Thu Lâm	Thư của Thu Lâm-Tân thủ	20	1	927	1	\image\item\other\quest\quest_0144_s.spr		32	Thư của Thu Lâm để lại trước khi rời khỏi Đào Khê Trấn.<enter><color=yellow>Hãy bảo trọng, đừng manh động<color>		0	0	100	1		3	0		taskitem				
+Đèn hoa sen	Đèn hoa sen-Tân thủ	20	1	928	1	\image\item\other\quest\quest_0141_s.spr		32	Đèn hoa sen lung linh, nếu thả cùng chàng thì thật lãng mạn.<enter><color=yellow>Trăng tròn đèn sáng cùng chung ngắm.<color>		0	0	100	1		3	0		taskitem				
+Cần câu	Cần câu-Tân thủ	20	1	929	1	\image\item\other\quest\quest_0131_s.spr		32	Cần câu do tiểu buôn tặng, dùng câu cá nhất định sẽ thu hoạch lớn.<enter><color=yellow>Nón trúc xanh, áo tơi lục, không sợ mưa rơi.<color>		0	0	100	1		3	0		taskitem				
+Tịch Lịch Đạn	Tịch Lịch Đạn-Tân thủ	20	1	930	1	\image\item\other\quest\quest_0142_s.spr		32	Vũ khí bí mật của Thư Thanh, dùng khi cấp bách.		0	0	100	1		3	0		taskitem				
+Sừng Hươu Đen	Sừng Hươu Đen-Tân thủ	20	1	931	1	\image\item\other\quest\quest_0143_s.spr		32	Mẫu Sừng Hươu Đen có mùi lạ.		0	0	100	1		3	0		taskitem				
+Bộ trang phục diễn	Bộ trang phục diễn	20	1	932	1	\image\item\other\quest\quest_0146_s.spr		32	Bộ trang phục diễn có mùi hương của đào hát tỷ tỷ.		0	0	100	1		3	0		taskitem				
+Lọ thuốc óng ánh	Lọ thuốc óng ánh	20	1	933	1	\image\item\other\quest\quest_0109_s.spr		32	Lọ thuốc xanh óng ánh, nắp được đóng chặt.		0	0	100	1		3	0		taskitem				
+Lễ vật bị cướp	Lễ vật bị cướp	20	1	934	1	\image\item\other\scriptitem\huangjbaoxiang.spr		32	Món quà chúc thọ Lã lão gia do nhân sĩ giang hồ và các đại thần chuẩn bị.		0	0	100	1		3	0		taskitem				
+Áo Thủy Tặc Tiêu Binh	Áo Thủy Tặc Tiêu Binh	20	1	935	1	\image\item\other\quest\quest_0007_s.spr		32	Áo của Thủy Tặc, có thể dùng để cải trang.		0	0	100	1		3	0		taskitem				
+Tục Tự Phổ	Tục Tự Phổ	20	1	936	1	\image\item\other\quest\quest_0028_s.spr		32	Cuốn sách cổ có chữ viết thoăn thoắt hơi mờ.<enter><color=yellow>Cuộc gặp đầu, phong lưu niên thiếu.<color>		0	0	0	1		3	0		taskitem				
+Hỏa Diệm Xông Xa	Hỏa Diệm Xông Xa	20	1	937	1	\image\item\other\quest\quest_0034_s.spr		32	Công thành xa bắn tên, uy lực rất lớn.		0	0	0	1		3	0		taskitem				
+Hạt sen	Hạt sen	20	1	938	1	\image\item\other\quest\quest_0002_s.spr		32	Hạt sen vị cam, mát.<enter><color=yellow>Thập bình bình vô căn, thái liên liên hữu tử.<color>		0	0	100	1		3	0		taskitem				
+Trúc Thanh Hỏa Chiết	Trúc Thanh Hỏa Chiết	20	1	939	1	\image\item\other\quest\quest_0027_s.spr		32	Cuộn giấy màu trúc xanh, một đầu có ít tro tàn.		0	0	0	1		3	0		taskitem				
+Hỏa Chiết Nâu	Hỏa Chiết Nâu	20	1	940	1	\image\item\other\quest\quest_0034_s.spr		32	Cuộn giấy màu nâu, một đầu có ít tro tàn.		0	0	0	1		3	0		taskitem				
+Hỏa Chiết Son	Hỏa Chiết Son	20	1	941	1	\image\item\other\quest\quest_0047_s.spr		32	Cuộn giấy màu son, một đầu có ít tro tàn.		0	0	0	1		3	0		taskitem				
+Xẻng Ôn Thao	Xẻng Ôn Thao	20	1	942	1	\image\item\other\quest\quest_0039_s.spr		32	Xẻng do cao thủ trộm mộ Ôn Thao thời Ngũ Đại Lương Quốc phát minh.		0	0	0	1		3	0		taskitem				
+Thiên Thanh Nghiên	Thiên Thanh Nghiên	20	1	943	1	\image\item\other\quest\quest_0102_s.spr		32	Chất liệu quý nhưng nhẹ, cương nhu hài hòa, là báu vật vô giá.<enter><color=yellow>Thủy lục thiên thanh bất khởi trần, phong quang hòa noãn thắng tam Tần.<color>		0	0	0	1		3	0		taskitem				
+Rượu Hoa Điêu	Rượu Hoa Điêu	20	1	944	1	\image\item\other\quest\quest_0063_s.spr		32	Rượu ngon của Thiệu Hưng, đựng trong vò gốm được vẽ hình nhân vật nhiều màu sắc.		0	0	0	1		3	0		taskitem				
+Sợi Trường Mệnh	Sợi Trường Mệnh	20	1	945	1	\image\item\other\quest\quest_0072_s.spr		32	Quà mừng thôi nôi cho con, tơ ngũ sắc thêu đầy ngôi sao chim thú, có thể trừ tà phòng bệnh.		0	0	0	1		3	0		taskitem				

@@ -1,0 +1,23 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đại Mạc Thương Lang	0	2289	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\area1.txt			
+Vô Ảnh Nghĩa Sĩ	0	2290	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\area2.txt			
+Phản Binh Tị Nạn	0	2291	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\area3.txt			
+Đoạn Tình Ni	0	2292	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\area4.txt			
+to_jiayuguan	1															\setting\map\map_info\dunhuanggucheng\trap\to_jiayuguan.txt			
+Gia Dụ Quan	0	2525	4	5	1	1	20	20	20	20	20	1		62304	107392		1		
+to_longmenzhen	1															\setting\map\map_info\dunhuanggucheng\trap\to_longmenzhen.txt			
+Long Môn Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		60992	125440		1		
+Tinh Anh Hắc Phong Trại	0	4354	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\heifengjingying.txt			
+Lâu La Hắc Phong Trại	0	4353	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\dunhuanggucheng\npc\heifenglouluo.txt			
+Mãn Giang	0	4355	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt	52864	104608				
+Vương Đại Khả	0	4352	3	5	150	1	20	20	20	20	20	1		62208	120032				
+to_yueyaquan	1															\setting\map\map_info\dunhuanggucheng\trap\to_yueyaquan.txt			
+Nguyệt Nha Tuyền	0	2525	4	5	1	1	20	20	20	20	20	1		52800	120768		1		
+to_wangukuwang1	1															\setting\map\map_info\dunhuanggucheng\trap\to_wangukuwang1.txt			
+Vạn Cốt Quật-Võng	0	2525	4	5	1	1	20	20	20	20	20	1		57696	105024		1		
+to_wangukuwang2	1															\setting\map\map_info\dunhuanggucheng\trap\to_wangukuwang2.txt			
+Vạn Cốt Quật-Võng	0	2525	4	5	1	1	20	20	20	20	20	1		54048	113216		1		
+to_wangukuliang1	1															\setting\map\map_info\dunhuanggucheng\trap\to_wangukuliang1.txt			
+Vạn Cốt Quật-Lưỡng	0	2525	4	5	1	1	20	20	20	20	20	1		55904	123424		1		
+to_wangukuliang2	1															\setting\map\map_info\dunhuanggucheng\trap\to_wangukuliang2.txt			
+Vạn Cốt Quật-Lưỡng	0	2525	4	5	1	1	20	20	20	20	20	1		58016	119872		1		

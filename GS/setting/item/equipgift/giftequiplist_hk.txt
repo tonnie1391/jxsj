@@ -1,0 +1,521 @@
+Faction	RoutId	PartId	Sex	Genre	DetailType	ParticularType	Level	PartInfo	RoutInfo
+1	1	1	1	4	6	95	10	Hộ Thân Phù	Đao Thiếu
+1	1	2	1	4	3	233	10	Y Phục	Đao Thiếu
+1	1	3	1	4	8	459	10	Yêu Đái	Đao Thiếu
+1	1	4	1	4	7	41	10	Hài Tử	Đao Thiếu
+1	1	5	1	4	10	501	10	Hộ Uyển	Đao Thiếu
+1	1	6	1	4	9	487	10	Mạo Tử	Đao Thiếu
+1	1	7	1	4	5	457	10	Hạng Liên	Đao Thiếu
+1	1	8	1	4	11	91	10	Ngọc Bội	Đao Thiếu
+1	1	9	1	4	4	474	10	Giới Chỉ	Đao Thiếu
+1	1	10	1	2	1	1335	10	Vũ Khí	Đao Thiếu
+1	1	1	2	4	6	95	10	Hộ Thân Phù	Đao Thiếu
+1	1	2	2	4	3	238	10	Y Phục	Đao Thiếu
+1	1	3	2	4	8	460	10	Yêu Đái	Đao Thiếu
+1	1	4	2	4	7	42	10	Hài Tử	Đao Thiếu
+1	1	5	2	4	10	502	10	Hộ Uyển	Đao Thiếu
+1	1	6	2	4	9	488	10	Mạo Tử	Đao Thiếu
+1	1	7	2	4	5	457	10	Hạng Liên	Đao Thiếu
+1	1	8	2	4	11	92	10	Ngọc Bội	Đao Thiếu
+1	1	9	2	4	4	474	10	Giới Chỉ	Đao Thiếu
+1	1	10	2	2	1	1335	10	Vũ Khí	Đao Thiếu
+1	2	1	1	4	6	95	10	Hộ Thân Phù	Côn Thiếu
+1	2	2	1	4	3	233	10	Y Phục	Côn Thiếu
+1	2	3	1	4	8	459	10	Yêu Đái	Côn Thiếu
+1	2	4	1	4	7	41	10	Hài Tử	Côn Thiếu
+1	2	5	1	4	10	501	10	Hộ Uyển	Côn Thiếu
+1	2	6	1	4	9	487	10	Mạo Tử	Côn Thiếu
+1	2	7	1	4	5	457	10	Hạng Liên	Côn Thiếu
+1	2	8	1	4	11	91	10	Ngọc Bội	Côn Thiếu
+1	2	9	1	4	4	474	10	Giới Chỉ	Côn Thiếu
+1	2	10	1	2	1	1336	10	Vũ Khí	Côn Thiếu
+1	2	1	2	4	6	95	10	Hộ Thân Phù	Côn Thiếu
+1	2	2	2	4	3	238	10	Y Phục	Côn Thiếu
+1	2	3	2	4	8	460	10	Yêu Đái	Côn Thiếu
+1	2	4	2	4	7	42	10	Hài Tử	Côn Thiếu
+1	2	5	2	4	10	502	10	Hộ Uyển	Côn Thiếu
+1	2	6	2	4	9	488	10	Mạo Tử	Côn Thiếu
+1	2	7	2	4	5	457	10	Hạng Liên	Côn Thiếu
+1	2	8	2	4	11	92	10	Ngọc Bội	Côn Thiếu
+1	2	9	2	4	4	474	10	Giới Chỉ	Côn Thiếu
+1	2	10	2	2	1	1336	10	Vũ Khí	Côn Thiếu
+2	1	1	1	4	6	95	10	Hộ Thân Phù	Thương Thiên
+2	1	2	1	4	3	233	10	Y Phục	Thương Thiên
+2	1	3	1	4	8	459	10	Yêu Đái	Thương Thiên
+2	1	4	1	4	7	41	10	Hài Tử	Thương Thiên
+2	1	5	1	4	10	501	10	Hộ Uyển	Thương Thiên
+2	1	6	1	4	9	487	10	Mạo Tử	Thương Thiên
+2	1	7	1	4	5	457	10	Hạng Liên	Thương Thiên
+2	1	8	1	4	11	91	10	Ngọc Bội	Thương Thiên
+2	1	9	1	4	4	474	10	Giới Chỉ	Thương Thiên
+2	1	10	1	2	1	1337	10	Vũ Khí	Thương Thiên
+2	1	1	2	4	6	95	10	Hộ Thân Phù	Thương Thiên
+2	1	2	2	4	3	238	10	Y Phục	Thương Thiên
+2	1	3	2	4	8	460	10	Yêu Đái	Thương Thiên
+2	1	4	2	4	7	42	10	Hài Tử	Thương Thiên
+2	1	5	2	4	10	502	10	Hộ Uyển	Thương Thiên
+2	1	6	2	4	9	488	10	Mạo Tử	Thương Thiên
+2	1	7	2	4	5	457	10	Hạng Liên	Thương Thiên
+2	1	8	2	4	11	92	10	Ngọc Bội	Thương Thiên
+2	1	9	2	4	4	474	10	Giới Chỉ	Thương Thiên
+2	1	10	2	2	1	1337	10	Vũ Khí	Thương Thiên
+2	2	1	1	4	6	95	10	Hộ Thân Phù	Chùy Thiên
+2	2	2	1	4	3	233	10	Y Phục	Chùy Thiên
+2	2	3	1	4	8	459	10	Yêu Đái	Chùy Thiên
+2	2	4	1	4	7	41	10	Hài Tử	Chùy Thiên
+2	2	5	1	4	10	501	10	Hộ Uyển	Chùy Thiên
+2	2	6	1	4	9	487	10	Mạo Tử	Chùy Thiên
+2	2	7	1	4	5	457	10	Hạng Liên	Chùy Thiên
+2	2	8	1	4	11	91	10	Ngọc Bội	Chùy Thiên
+2	2	9	1	4	4	474	10	Giới Chỉ	Chùy Thiên
+2	2	10	1	2	1	1338	10	Vũ Khí	Chùy Thiên
+2	2	1	2	4	6	95	10	Hộ Thân Phù	Chùy Thiên
+2	2	2	2	4	3	238	10	Y Phục	Chùy Thiên
+2	2	3	2	4	8	460	10	Yêu Đái	Chùy Thiên
+2	2	4	2	4	7	42	10	Hài Tử	Chùy Thiên
+2	2	5	2	4	10	502	10	Hộ Uyển	Chùy Thiên
+2	2	6	2	4	9	488	10	Mạo Tử	Chùy Thiên
+2	2	7	2	4	5	457	10	Hạng Liên	Chùy Thiên
+2	2	8	2	4	11	92	10	Ngọc Bội	Chùy Thiên
+2	2	9	2	4	4	474	10	Giới Chỉ	Chùy Thiên
+2	2	10	2	2	1	1338	10	Vũ Khí	Chùy Thiên
+3	1	1	1	4	6	100	10	Hộ Thân Phù	Hãm Tĩnh
+3	1	2	1	4	3	234	10	Y Phục	Hãm Tĩnh
+3	1	3	1	4	8	463	10	Yêu Đái	Hãm Tĩnh
+3	1	4	1	4	7	43	10	Hài Tử	Hãm Tĩnh
+3	1	5	1	4	10	505	10	Hộ Uyển	Hãm Tĩnh
+3	1	6	1	4	9	489	10	Mạo Tử	Hãm Tĩnh
+3	1	7	1	4	5	459	10	Hạng Liên	Hãm Tĩnh
+3	1	8	1	4	11	93	10	Ngọc Bội	Hãm Tĩnh
+3	1	9	1	4	4	476	10	Giới Chỉ	Hãm Tĩnh
+3	1	10	1	2	2	147	10	Vũ Khí	Hãm Tĩnh
+3	1	1	2	4	6	100	10	Hộ Thân Phù	Hãm Tĩnh
+3	1	2	2	4	3	239	10	Y Phục	Hãm Tĩnh
+3	1	3	2	4	8	464	10	Yêu Đái	Hãm Tĩnh
+3	1	4	2	4	7	44	10	Hài Tử	Hãm Tĩnh
+3	1	5	2	4	10	506	10	Hộ Uyển	Hãm Tĩnh
+3	1	6	2	4	9	490	10	Mạo Tử	Hãm Tĩnh
+3	1	7	2	4	5	459	10	Hạng Liên	Hãm Tĩnh
+3	1	8	2	4	11	94	10	Ngọc Bội	Hãm Tĩnh
+3	1	9	2	4	4	476	10	Giới Chỉ	Hãm Tĩnh
+3	1	10	2	2	2	147	10	Vũ Khí	Hãm Tĩnh
+3	2	1	1	4	6	100	10	Hộ Thân Phù	Tụ Tiễn
+3	2	2	1	4	3	234	10	Y Phục	Tụ Tiễn
+3	2	3	1	4	8	463	10	Yêu Đái	Tụ Tiễn
+3	2	4	1	4	7	43	10	Hài Tử	Tụ Tiễn
+3	2	5	1	4	10	505	10	Hộ Uyển	Tụ Tiễn
+3	2	6	1	4	9	489	10	Mạo Tử	Tụ Tiễn
+3	2	7	1	4	5	459	10	Hạng Liên	Tụ Tiễn
+3	2	8	1	4	11	93	10	Ngọc Bội	Tụ Tiễn
+3	2	9	1	4	4	476	10	Giới Chỉ	Tụ Tiễn
+3	2	10	1	2	2	148	10	Vũ Khí	Tụ Tiễn
+3	2	1	2	4	6	100	10	Hộ Thân Phù	Tụ Tiễn
+3	2	2	2	4	3	239	10	Y Phục	Tụ Tiễn
+3	2	3	2	4	8	464	10	Yêu Đái	Tụ Tiễn
+3	2	4	2	4	7	44	10	Hài Tử	Tụ Tiễn
+3	2	5	2	4	10	506	10	Hộ Uyển	Tụ Tiễn
+3	2	6	2	4	9	490	10	Mạo Tử	Tụ Tiễn
+3	2	7	2	4	5	459	10	Hạng Liên	Tụ Tiễn
+3	2	8	2	4	11	94	10	Ngọc Bội	Tụ Tiễn
+3	2	9	2	4	4	476	10	Giới Chỉ	Tụ Tiễn
+3	2	10	2	2	2	148	10	Vũ Khí	Tụ Tiễn
+4	1	1	1	4	6	100	10	Hộ Thân Phù	Đao Độc
+4	1	2	1	4	3	234	10	Y Phục	Đao Độc
+4	1	3	1	4	8	463	10	Yêu Đái	Đao Độc
+4	1	4	1	4	7	43	10	Hài Tử	Đao Độc
+4	1	5	1	4	10	505	10	Hộ Uyển	Đao Độc
+4	1	6	1	4	9	489	10	Mạo Tử	Đao Độc
+4	1	7	1	4	5	459	10	Hạng Liên	Đao Độc
+4	1	8	1	4	11	93	10	Ngọc Bội	Đao Độc
+4	1	9	1	4	4	476	10	Giới Chỉ	Đao Độc
+4	1	10	1	2	1	1339	10	Vũ Khí	Đao Độc
+4	1	1	2	4	6	100	10	Hộ Thân Phù	Đao Độc
+4	1	2	2	4	3	239	10	Y Phục	Đao Độc
+4	1	3	2	4	8	464	10	Yêu Đái	Đao Độc
+4	1	4	2	4	7	44	10	Hài Tử	Đao Độc
+4	1	5	2	4	10	506	10	Hộ Uyển	Đao Độc
+4	1	6	2	4	9	490	10	Mạo Tử	Đao Độc
+4	1	7	2	4	5	459	10	Hạng Liên	Đao Độc
+4	1	8	2	4	11	94	10	Ngọc Bội	Đao Độc
+4	1	9	2	4	4	476	10	Giới Chỉ	Đao Độc
+4	1	10	2	2	1	1339	10	Vũ Khí	Đao Độc
+4	2	1	1	4	6	100	10	Hộ Thân Phù	Chưởng Độc
+4	2	2	1	4	3	234	10	Y Phục	Chưởng Độc
+4	2	3	1	4	8	463	10	Yêu Đái	Chưởng Độc
+4	2	4	1	4	7	43	10	Hài Tử	Chưởng Độc
+4	2	5	1	4	10	507	10	Hộ Uyển	Chưởng Độc
+4	2	6	1	4	9	489	10	Mạo Tử	Chưởng Độc
+4	2	7	1	4	5	460	10	Hạng Liên	Chưởng Độc
+4	2	8	1	4	11	93	10	Ngọc Bội	Chưởng Độc
+4	2	9	1	4	4	477	10	Giới Chỉ	Chưởng Độc
+4	2	10	1	2	1	1340	10	Vũ Khí	Chưởng Độc
+4	2	1	2	4	6	100	10	Hộ Thân Phù	Chưởng Độc
+4	2	2	2	4	3	239	10	Y Phục	Chưởng Độc
+4	2	3	2	4	8	464	10	Yêu Đái	Chưởng Độc
+4	2	4	2	4	7	44	10	Hài Tử	Chưởng Độc
+4	2	5	2	4	10	508	10	Hộ Uyển	Chưởng Độc
+4	2	6	2	4	9	490	10	Mạo Tử	Chưởng Độc
+4	2	7	2	4	5	460	10	Hạng Liên	Chưởng Độc
+4	2	8	2	4	11	94	10	Ngọc Bội	Chưởng Độc
+4	2	9	2	4	4	477	10	Giới Chỉ	Chưởng Độc
+4	2	10	2	2	1	1340	10	Vũ Khí	Chưởng Độc
+5	1	1	1	4	6	105	10	Hộ Thân Phù	Chưởng Nga
+5	1	2	1	4	3	235	10	Y Phục	Chưởng Nga
+5	1	3	1	4	8	467	10	Yêu Đái	Chưởng Nga
+5	1	4	1	4	7	45	10	Hài Tử	Chưởng Nga
+5	1	5	1	4	10	511	10	Hộ Uyển	Chưởng Nga
+5	1	6	1	4	9	491	10	Mạo Tử	Chưởng Nga
+5	1	7	1	4	5	462	10	Hạng Liên	Chưởng Nga
+5	1	8	1	4	11	95	10	Ngọc Bội	Chưởng Nga
+5	1	9	1	4	4	479	10	Giới Chỉ	Chưởng Nga
+5	1	10	1	2	1	1343	10	Vũ Khí	Chưởng Nga
+5	1	1	2	4	6	105	10	Hộ Thân Phù	Chưởng Nga
+5	1	2	2	4	3	240	10	Y Phục	Chưởng Nga
+5	1	3	2	4	8	468	10	Yêu Đái	Chưởng Nga
+5	1	4	2	4	7	46	10	Hài Tử	Chưởng Nga
+5	1	5	2	4	10	512	10	Hộ Uyển	Chưởng Nga
+5	1	6	2	4	9	492	10	Mạo Tử	Chưởng Nga
+5	1	7	2	4	5	462	10	Hạng Liên	Chưởng Nga
+5	1	8	2	4	11	96	10	Ngọc Bội	Chưởng Nga
+5	1	9	2	4	4	479	10	Giới Chỉ	Chưởng Nga
+5	1	10	2	2	1	1343	10	Vũ Khí	Chưởng Nga
+5	2	1	1	4	6	105	10	Hộ Thân Phù	Phụ Nga
+5	2	2	1	4	3	235	10	Y Phục	Phụ Nga
+5	2	3	1	4	8	467	10	Yêu Đái	Phụ Nga
+5	2	4	1	4	7	45	10	Hài Tử	Phụ Nga
+5	2	5	1	4	10	511	10	Hộ Uyển	Phụ Nga
+5	2	6	1	4	9	491	10	Mạo Tử	Phụ Nga
+5	2	7	1	4	5	462	10	Hạng Liên	Phụ Nga
+5	2	8	1	4	11	95	10	Ngọc Bội	Phụ Nga
+5	2	9	1	4	4	479	10	Giới Chỉ	Phụ Nga
+5	2	10	1	2	1	1344	10	Vũ Khí	Phụ Nga
+5	2	1	2	4	6	105	10	Hộ Thân Phù	Phụ Nga
+5	2	2	2	4	3	240	10	Y Phục	Phụ Nga
+5	2	3	2	4	8	468	10	Yêu Đái	Phụ Nga
+5	2	4	2	4	7	46	10	Hài Tử	Phụ Nga
+5	2	5	2	4	10	512	10	Hộ Uyển	Phụ Nga
+5	2	6	2	4	9	492	10	Mạo Tử	Phụ Nga
+5	2	7	2	4	5	462	10	Hạng Liên	Phụ Nga
+5	2	8	2	4	11	96	10	Ngọc Bội	Phụ Nga
+5	2	9	2	4	4	479	10	Giới Chỉ	Phụ Nga
+5	2	10	2	2	1	1344	10	Vũ Khí	Phụ Nga
+6	1	1	1	4	6	105	10	Hộ Thân Phù	Kiếm Thúy
+6	1	2	1	4	3	235	10	Y Phục	Kiếm Thúy
+6	1	3	1	4	8	467	10	Yêu Đái	Kiếm Thúy
+6	1	4	1	4	7	45	10	Hài Tử	Kiếm Thúy
+6	1	5	1	4	10	511	10	Hộ Uyển	Kiếm Thúy
+6	1	6	1	4	9	491	10	Mạo Tử	Kiếm Thúy
+6	1	7	1	4	5	462	10	Hạng Liên	Kiếm Thúy
+6	1	8	1	4	11	95	10	Ngọc Bội	Kiếm Thúy
+6	1	9	1	4	4	479	10	Giới Chỉ	Kiếm Thúy
+6	1	10	1	2	1	1344	10	Vũ Khí	Kiếm Thúy
+6	1	1	2	4	6	105	10	Hộ Thân Phù	Kiếm Thúy
+6	1	2	2	4	3	240	10	Y Phục	Kiếm Thúy
+6	1	3	2	4	8	468	10	Yêu Đái	Kiếm Thúy
+6	1	4	2	4	7	46	10	Hài Tử	Kiếm Thúy
+6	1	5	2	4	10	512	10	Hộ Uyển	Kiếm Thúy
+6	1	6	2	4	9	492	10	Mạo Tử	Kiếm Thúy
+6	1	7	2	4	5	462	10	Hạng Liên	Kiếm Thúy
+6	1	8	2	4	11	96	10	Ngọc Bội	Kiếm Thúy
+6	1	9	2	4	4	479	10	Giới Chỉ	Kiếm Thúy
+6	1	10	2	2	1	1344	10	Vũ Khí	Kiếm Thúy
+6	2	1	1	4	6	105	10	Hộ Thân Phù	Đao Thúy
+6	2	2	1	4	3	235	10	Y Phục	Đao Thúy
+6	2	3	1	4	8	467	10	Yêu Đái	Đao Thúy
+6	2	4	1	4	7	45	10	Hài Tử	Đao Thúy
+6	2	5	1	4	10	509	10	Hộ Uyển	Đao Thúy
+6	2	6	1	4	9	491	10	Mạo Tử	Đao Thúy
+6	2	7	1	4	5	461	10	Hạng Liên	Đao Thúy
+6	2	8	1	4	11	95	10	Ngọc Bội	Đao Thúy
+6	2	9	1	4	4	478	10	Giới Chỉ	Đao Thúy
+6	2	10	1	2	1	1341	10	Vũ Khí	Đao Thúy
+6	2	1	2	4	6	105	10	Hộ Thân Phù	Đao Thúy
+6	2	2	2	4	3	240	10	Y Phục	Đao Thúy
+6	2	3	2	4	8	468	10	Yêu Đái	Đao Thúy
+6	2	4	2	4	7	46	10	Hài Tử	Đao Thúy
+6	2	5	2	4	10	510	10	Hộ Uyển	Đao Thúy
+6	2	6	2	4	9	492	10	Mạo Tử	Đao Thúy
+6	2	7	2	4	5	461	10	Hạng Liên	Đao Thúy
+6	2	8	2	4	11	96	10	Ngọc Bội	Đao Thúy
+6	2	9	2	4	4	478	10	Giới Chỉ	Đao Thúy
+6	2	10	2	2	1	1341	10	Vũ Khí	Đao Thúy
+7	1	1	1	4	6	110	10	Hộ Thân Phù	Chưởng Cái
+7	1	2	1	4	3	236	10	Y Phục	Chưởng Cái
+7	1	3	1	4	8	471	10	Yêu Đái	Chưởng Cái
+7	1	4	1	4	7	47	10	Hài Tử	Chưởng Cái
+7	1	5	1	4	10	515	10	Hộ Uyển	Chưởng Cái
+7	1	6	1	4	9	493	10	Mạo Tử	Chưởng Cái
+7	1	7	1	4	5	464	10	Hạng Liên	Chưởng Cái
+7	1	8	1	4	11	97	10	Ngọc Bội	Chưởng Cái
+7	1	9	1	4	4	481	10	Giới Chỉ	Chưởng Cái
+7	1	10	1	2	1	1347	10	Vũ Khí	Chưởng Cái
+7	1	1	2	4	6	110	10	Hộ Thân Phù	Chưởng Cái
+7	1	2	2	4	3	241	10	Y Phục	Chưởng Cái
+7	1	3	2	4	8	472	10	Yêu Đái	Chưởng Cái
+7	1	4	2	4	7	48	10	Hài Tử	Chưởng Cái
+7	1	5	2	4	10	516	10	Hộ Uyển	Chưởng Cái
+7	1	6	2	4	9	494	10	Mạo Tử	Chưởng Cái
+7	1	7	2	4	5	464	10	Hạng Liên	Chưởng Cái
+7	1	8	2	4	11	98	10	Ngọc Bội	Chưởng Cái
+7	1	9	2	4	4	481	10	Giới Chỉ	Chưởng Cái
+7	1	10	2	2	1	1347	10	Vũ Khí	Chưởng Cái
+7	2	1	1	4	6	110	10	Hộ Thân Phù	Côn Cái
+7	2	2	1	4	3	236	10	Y Phục	Côn Cái
+7	2	3	1	4	8	471	10	Yêu Đái	Côn Cái
+7	2	4	1	4	7	47	10	Hài Tử	Côn Cái
+7	2	5	1	4	10	513	10	Hộ Uyển	Côn Cái
+7	2	6	1	4	9	493	10	Mạo Tử	Côn Cái
+7	2	7	1	4	5	463	10	Hạng Liên	Côn Cái
+7	2	8	1	4	11	97	10	Ngọc Bội	Côn Cái
+7	2	9	1	4	4	480	10	Giới Chỉ	Côn Cái
+7	2	10	1	2	1	1345	10	Vũ Khí	Côn Cái
+7	2	1	2	4	6	110	10	Hộ Thân Phù	Côn Cái
+7	2	2	2	4	3	241	10	Y Phục	Côn Cái
+7	2	3	2	4	8	472	10	Yêu Đái	Côn Cái
+7	2	4	2	4	7	48	10	Hài Tử	Côn Cái
+7	2	5	2	4	10	514	10	Hộ Uyển	Côn Cái
+7	2	6	2	4	9	494	10	Mạo Tử	Côn Cái
+7	2	7	2	4	5	463	10	Hạng Liên	Côn Cái
+7	2	8	2	4	11	98	10	Ngọc Bội	Côn Cái
+7	2	9	2	4	4	480	10	Giới Chỉ	Côn Cái
+7	2	10	2	2	1	1345	10	Vũ Khí	Côn Cái
+8	1	1	1	4	6	110	10	Hộ Thân Phù	Chiến Nhẫn
+8	1	2	1	4	3	236	10	Y Phục	Chiến Nhẫn
+8	1	3	1	4	8	471	10	Yêu Đái	Chiến Nhẫn
+8	1	4	1	4	7	47	10	Hài Tử	Chiến Nhẫn
+8	1	5	1	4	10	513	10	Hộ Uyển	Chiến Nhẫn
+8	1	6	1	4	9	493	10	Mạo Tử	Chiến Nhẫn
+8	1	7	1	4	5	463	10	Hạng Liên	Chiến Nhẫn
+8	1	8	1	4	11	97	10	Ngọc Bội	Chiến Nhẫn
+8	1	9	1	4	4	480	10	Giới Chỉ	Chiến Nhẫn
+8	1	10	1	2	1	1346	10	Vũ Khí	Chiến Nhẫn
+8	1	1	2	4	6	110	10	Hộ Thân Phù	Chiến Nhẫn
+8	1	2	2	4	3	241	10	Y Phục	Chiến Nhẫn
+8	1	3	2	4	8	472	10	Yêu Đái	Chiến Nhẫn
+8	1	4	2	4	7	48	10	Hài Tử	Chiến Nhẫn
+8	1	5	2	4	10	514	10	Hộ Uyển	Chiến Nhẫn
+8	1	6	2	4	9	494	10	Mạo Tử	Chiến Nhẫn
+8	1	7	2	4	5	463	10	Hạng Liên	Chiến Nhẫn
+8	1	8	2	4	11	98	10	Ngọc Bội	Chiến Nhẫn
+8	1	9	2	4	4	480	10	Giới Chỉ	Chiến Nhẫn
+8	1	10	2	2	1	1346	10	Vũ Khí	Chiến Nhẫn
+8	2	1	1	4	6	110	10	Hộ Thân Phù	Ma Nhẫn
+8	2	2	1	4	3	236	10	Y Phục	Ma Nhẫn
+8	2	3	1	4	8	471	10	Yêu Đái	Ma Nhẫn
+8	2	4	1	4	7	47	10	Hài Tử	Ma Nhẫn
+8	2	5	1	4	10	515	10	Hộ Uyển	Ma Nhẫn
+8	2	6	1	4	9	493	10	Mạo Tử	Ma Nhẫn
+8	2	7	1	4	5	464	10	Hạng Liên	Ma Nhẫn
+8	2	8	1	4	11	97	10	Ngọc Bội	Ma Nhẫn
+8	2	9	1	4	4	481	10	Giới Chỉ	Ma Nhẫn
+8	2	10	1	2	1	1348	10	Vũ Khí	Ma Nhẫn
+8	2	1	2	4	6	110	10	Hộ Thân Phù	Ma Nhẫn
+8	2	2	2	4	3	241	10	Y Phục	Ma Nhẫn
+8	2	3	2	4	8	472	10	Yêu Đái	Ma Nhẫn
+8	2	4	2	4	7	48	10	Hài Tử	Ma Nhẫn
+8	2	5	2	4	10	516	10	Hộ Uyển	Ma Nhẫn
+8	2	6	2	4	9	494	10	Mạo Tử	Ma Nhẫn
+8	2	7	2	4	5	464	10	Hạng Liên	Ma Nhẫn
+8	2	8	2	4	11	98	10	Ngọc Bội	Ma Nhẫn
+8	2	9	2	4	4	481	10	Giới Chỉ	Ma Nhẫn
+8	2	10	2	2	1	1348	10	Vũ Khí	Ma Nhẫn
+9	1	1	1	4	6	115	10	Hộ Thân Phù	Khí Võ
+9	1	2	1	4	3	237	10	Y Phục	Khí Võ
+9	1	3	1	4	8	475	10	Yêu Đái	Khí Võ
+9	1	4	1	4	7	49	10	Hài Tử	Khí Võ
+9	1	5	1	4	10	519	10	Hộ Uyển	Khí Võ
+9	1	6	1	4	9	495	10	Mạo Tử	Khí Võ
+9	1	7	1	4	5	466	10	Hạng Liên	Khí Võ
+9	1	8	1	4	11	99	10	Ngọc Bội	Khí Võ
+9	1	9	1	4	4	483	10	Giới Chỉ	Khí Võ
+9	1	10	1	2	1	1351	10	Vũ Khí	Khí Võ
+9	1	1	2	4	6	115	10	Hộ Thân Phù	Khí Võ
+9	1	2	2	4	3	242	10	Y Phục	Khí Võ
+9	1	3	2	4	8	476	10	Yêu Đái	Khí Võ
+9	1	4	2	4	7	50	10	Hài Tử	Khí Võ
+9	1	5	2	4	10	520	10	Hộ Uyển	Khí Võ
+9	1	6	2	4	9	496	10	Mạo Tử	Khí Võ
+9	1	7	2	4	5	466	10	Hạng Liên	Khí Võ
+9	1	8	2	4	11	100	10	Ngọc Bội	Khí Võ
+9	1	9	2	4	4	483	10	Giới Chỉ	Khí Võ
+9	1	10	2	2	1	1351	10	Vũ Khí	Khí Võ
+9	2	1	1	4	6	115	10	Hộ Thân Phù	Kiếm Võ
+9	2	2	1	4	3	237	10	Y Phục	Kiếm Võ
+9	2	3	1	4	8	475	10	Yêu Đái	Kiếm Võ
+9	2	4	1	4	7	49	10	Hài Tử	Kiếm Võ
+9	2	5	1	4	10	517	10	Hộ Uyển	Kiếm Võ
+9	2	6	1	4	9	495	10	Mạo Tử	Kiếm Võ
+9	2	7	1	4	5	465	10	Hạng Liên	Kiếm Võ
+9	2	8	1	4	11	99	10	Ngọc Bội	Kiếm Võ
+9	2	9	1	4	4	482	10	Giới Chỉ	Kiếm Võ
+9	2	10	1	2	1	1350	10	Vũ Khí	Kiếm Võ
+9	2	1	2	4	6	115	10	Hộ Thân Phù	Kiếm Võ
+9	2	2	2	4	3	242	10	Y Phục	Kiếm Võ
+9	2	3	2	4	8	476	10	Yêu Đái	Kiếm Võ
+9	2	4	2	4	7	50	10	Hài Tử	Kiếm Võ
+9	2	5	2	4	10	518	10	Hộ Uyển	Kiếm Võ
+9	2	6	2	4	9	496	10	Mạo Tử	Kiếm Võ
+9	2	7	2	4	5	465	10	Hạng Liên	Kiếm Võ
+9	2	8	2	4	11	100	10	Ngọc Bội	Kiếm Võ
+9	2	9	2	4	4	482	10	Giới Chỉ	Kiếm Võ
+9	2	10	2	2	1	1350	10	Vũ Khí	Kiếm Võ
+10	1	1	1	4	6	115	10	Hộ Thân Phù	Đao Côn
+10	1	2	1	4	3	237	10	Y Phục	Đao Côn
+10	1	3	1	4	8	475	10	Yêu Đái	Đao Côn
+10	1	4	1	4	7	49	10	Hài Tử	Đao Côn
+10	1	5	1	4	10	517	10	Hộ Uyển	Đao Côn
+10	1	6	1	4	9	495	10	Mạo Tử	Đao Côn
+10	1	7	1	4	5	465	10	Hạng Liên	Đao Côn
+10	1	8	1	4	11	99	10	Ngọc Bội	Đao Côn
+10	1	9	1	4	4	482	10	Giới Chỉ	Đao Côn
+10	1	10	1	2	1	1349	10	Vũ Khí	Đao Côn
+10	1	1	2	4	6	115	10	Hộ Thân Phù	Đao Côn
+10	1	2	2	4	3	242	10	Y Phục	Đao Côn
+10	1	3	2	4	8	476	10	Yêu Đái	Đao Côn
+10	1	4	2	4	7	50	10	Hài Tử	Đao Côn
+10	1	5	2	4	10	518	10	Hộ Uyển	Đao Côn
+10	1	6	2	4	9	496	10	Mạo Tử	Đao Côn
+10	1	7	2	4	5	465	10	Hạng Liên	Đao Côn
+10	1	8	2	4	11	100	10	Ngọc Bội	Đao Côn
+10	1	9	2	4	4	482	10	Giới Chỉ	Đao Côn
+10	1	10	2	2	1	1349	10	Vũ Khí	Đao Côn
+10	2	1	1	4	6	115	10	Hộ Thân Phù	Kiếm Côn
+10	2	2	1	4	3	237	10	Y Phục	Kiếm Côn
+10	2	3	1	4	8	475	10	Yêu Đái	Kiếm Côn
+10	2	4	1	4	7	49	10	Hài Tử	Kiếm Côn
+10	2	5	1	4	10	519	10	Hộ Uyển	Kiếm Côn
+10	2	6	1	4	9	495	10	Mạo Tử	Kiếm Côn
+10	2	7	1	4	5	466	10	Hạng Liên	Kiếm Côn
+10	2	8	1	4	11	99	10	Ngọc Bội	Kiếm Côn
+10	2	9	1	4	4	483	10	Giới Chỉ	Kiếm Côn
+10	2	10	1	2	1	1352	10	Vũ Khí	Kiếm Côn
+10	2	1	2	4	6	115	10	Hộ Thân Phù	Kiếm Côn
+10	2	2	2	4	3	242	10	Y Phục	Kiếm Côn
+10	2	3	2	4	8	476	10	Yêu Đái	Kiếm Côn
+10	2	4	2	4	7	50	10	Hài Tử	Kiếm Côn
+10	2	5	2	4	10	520	10	Hộ Uyển	Kiếm Côn
+10	2	6	2	4	9	496	10	Mạo Tử	Kiếm Côn
+10	2	7	2	4	5	466	10	Hạng Liên	Kiếm Côn
+10	2	8	2	4	11	100	10	Ngọc Bội	Kiếm Côn
+10	2	9	2	4	4	483	10	Giới Chỉ	Kiếm Côn
+10	2	10	2	2	1	1352	10	Vũ Khí	Kiếm Côn
+11	1	1	1	4	6	100	10	Hộ Thân Phù	Chùy Minh
+11	1	2	1	4	3	234	10	Y Phục	Chùy Minh
+11	1	3	1	4	8	463	10	Yêu Đái	Chùy Minh
+11	1	4	1	4	7	43	10	Hài Tử	Chùy Minh
+11	1	5	1	4	10	505	10	Hộ Uyển	Chùy Minh
+11	1	6	1	4	9	489	10	Mạo Tử	Chùy Minh
+11	1	7	1	4	5	459	10	Hạng Liên	Chùy Minh
+11	1	8	1	4	11	93	10	Ngọc Bội	Chùy Minh
+11	1	9	1	4	4	476	10	Giới Chỉ	Chùy Minh
+11	1	10	1	2	1	1353	10	Vũ Khí	Chùy Minh
+11	1	1	2	4	6	100	10	Hộ Thân Phù	Chùy Minh
+11	1	2	2	4	3	239	10	Y Phục	Chùy Minh
+11	1	3	2	4	8	464	10	Yêu Đái	Chùy Minh
+11	1	4	2	4	7	44	10	Hài Tử	Chùy Minh
+11	1	5	2	4	10	506	10	Hộ Uyển	Chùy Minh
+11	1	6	2	4	9	490	10	Mạo Tử	Chùy Minh
+11	1	7	2	4	5	459	10	Hạng Liên	Chùy Minh
+11	1	8	2	4	11	94	10	Ngọc Bội	Chùy Minh
+11	1	9	2	4	4	476	10	Giới Chỉ	Chùy Minh
+11	1	10	2	2	1	1353	10	Vũ Khí	Chùy Minh
+11	2	1	1	4	6	100	10	Hộ Thân Phù	Kiếm Minh
+11	2	2	1	4	3	234	10	Y Phục	Kiếm Minh
+11	2	3	1	4	8	463	10	Yêu Đái	Kiếm Minh
+11	2	4	1	4	7	43	10	Hài Tử	Kiếm Minh
+11	2	5	1	4	10	507	10	Hộ Uyển	Kiếm Minh
+11	2	6	1	4	9	489	10	Mạo Tử	Kiếm Minh
+11	2	7	1	4	5	460	10	Hạng Liên	Kiếm Minh
+11	2	8	1	4	11	93	10	Ngọc Bội	Kiếm Minh
+11	2	9	1	4	4	477	10	Giới Chỉ	Kiếm Minh
+11	2	10	1	2	1	1354	10	Vũ Khí	Kiếm Minh
+11	2	1	2	4	6	100	10	Hộ Thân Phù	Kiếm Minh
+11	2	2	2	4	3	239	10	Y Phục	Kiếm Minh
+11	2	3	2	4	8	464	10	Yêu Đái	Kiếm Minh
+11	2	4	2	4	7	44	10	Hài Tử	Kiếm Minh
+11	2	5	2	4	10	508	10	Hộ Uyển	Kiếm Minh
+11	2	6	2	4	9	490	10	Mạo Tử	Kiếm Minh
+11	2	7	2	4	5	460	10	Hạng Liên	Kiếm Minh
+11	2	8	2	4	11	94	10	Ngọc Bội	Kiếm Minh
+11	2	9	2	4	4	477	10	Giới Chỉ	Kiếm Minh
+11	2	10	2	2	1	1354	10	Vũ Khí	Kiếm Minh
+12	1	1	1	4	6	105	10	Hộ Thân Phù	Chỉ Đoàn
+12	1	2	1	4	3	235	10	Y Phục	Chỉ Đoàn
+12	1	3	1	4	8	467	10	Yêu Đái	Chỉ Đoàn
+12	1	4	1	4	7	45	10	Hài Tử	Chỉ Đoàn
+12	1	5	1	4	10	509	10	Hộ Uyển	Chỉ Đoàn
+12	1	6	1	4	9	491	10	Mạo Tử	Chỉ Đoàn
+12	1	7	1	4	5	461	10	Hạng Liên	Chỉ Đoàn
+12	1	8	1	4	11	95	10	Ngọc Bội	Chỉ Đoàn
+12	1	9	1	4	4	478	10	Giới Chỉ	Chỉ Đoàn
+12	1	10	1	2	1	1342	10	Vũ Khí	Chỉ Đoàn
+12	1	1	2	4	6	105	10	Hộ Thân Phù	Chỉ Đoàn
+12	1	2	2	4	3	240	10	Y Phục	Chỉ Đoàn
+12	1	3	2	4	8	468	10	Yêu Đái	Chỉ Đoàn
+12	1	4	2	4	7	46	10	Hài Tử	Chỉ Đoàn
+12	1	5	2	4	10	510	10	Hộ Uyển	Chỉ Đoàn
+12	1	6	2	4	9	492	10	Mạo Tử	Chỉ Đoàn
+12	1	7	2	4	5	461	10	Hạng Liên	Chỉ Đoàn
+12	1	8	2	4	11	96	10	Ngọc Bội	Chỉ Đoàn
+12	1	9	2	4	4	478	10	Giới Chỉ	Chỉ Đoàn
+12	1	10	2	2	1	1342	10	Vũ Khí	Chỉ Đoàn
+12	2	1	1	4	6	105	10	Hộ Thân Phù	Khí Đoàn
+12	2	2	1	4	3	235	10	Y Phục	Khí Đoàn
+12	2	3	1	4	8	467	10	Yêu Đái	Khí Đoàn
+12	2	4	1	4	7	45	10	Hài Tử	Khí Đoàn
+12	2	5	1	4	10	511	10	Hộ Uyển	Khí Đoàn
+12	2	6	1	4	9	491	10	Mạo Tử	Khí Đoàn
+12	2	7	1	4	5	462	10	Hạng Liên	Khí Đoàn
+12	2	8	1	4	11	95	10	Ngọc Bội	Khí Đoàn
+12	2	9	1	4	4	479	10	Giới Chỉ	Khí Đoàn
+12	2	10	1	2	1	1344	10	Vũ Khí	Khí Đoàn
+12	2	1	2	4	6	105	10	Hộ Thân Phù	Khí Đoàn
+12	2	2	2	4	3	240	10	Y Phục	Khí Đoàn
+12	2	3	2	4	8	468	10	Yêu Đái	Khí Đoàn
+12	2	4	2	4	7	46	10	Hài Tử	Khí Đoàn
+12	2	5	2	4	10	512	10	Hộ Uyển	Khí Đoàn
+12	2	6	2	4	9	492	10	Mạo Tử	Khí Đoàn
+12	2	7	2	4	5	462	10	Hạng Liên	Khí Đoàn
+12	2	8	2	4	11	96	10	Ngọc Bội	Khí Đoàn
+12	2	9	2	4	4	479	10	Giới Chỉ	Khí Đoàn
+12	2	10	2	2	1	1344	10	Vũ Khí	Khí Đoàn
+13	1	1	1	4	6	115	10	Hộ Thân Phù	Kiếm Mộ
+13	1	2	1	4	3	237	10	Y Phục	Kiếm Mộ
+13	1	3	1	4	8	475	10	Yêu Đái	Kiếm Mộ
+13	1	4	1	4	7	49	10	Hài Tử	Kiếm Mộ
+13	1	5	1	4	10	517	10	Hộ Uyển	Kiếm Mộ
+13	1	6	1	4	9	495	10	Mạo Tử	Kiếm Mộ
+13	1	7	1	4	5	465	10	Hạng Liên	Kiếm Mộ
+13	1	8	1	4	11	99	10	Ngọc Bội	Kiếm Mộ
+13	1	9	1	4	4	482	10	Giới Chỉ	Kiếm Mộ
+13	1	10	1	2	1	1528	10	Vũ Khí	Kiếm Mộ
+13	1	1	2	4	6	115	10	Hộ Thân Phù	Kiếm Mộ
+13	1	2	2	4	3	242	10	Y Phục	Kiếm Mộ
+13	1	3	2	4	8	476	10	Yêu Đái	Kiếm Mộ
+13	1	4	2	4	7	50	10	Hài Tử	Kiếm Mộ
+13	1	5	2	4	10	518	10	Hộ Uyển	Kiếm Mộ
+13	1	6	2	4	9	496	10	Mạo Tử	Kiếm Mộ
+13	1	7	2	4	5	465	10	Hạng Liên	Kiếm Mộ
+13	1	8	2	4	11	100	10	Ngọc Bội	Kiếm Mộ
+13	1	9	2	4	4	482	10	Giới Chỉ	Kiếm Mộ
+13	1	10	2	2	1	1528	10	Vũ Khí	Kiếm Mộ
+13	2	1	1	4	6	115	10	Hộ Thân Phù	Châm Mộ
+13	2	2	1	4	3	237	10	Y Phục	Châm Mộ
+13	2	3	1	4	8	475	10	Yêu Đái	Châm Mộ
+13	2	4	1	4	7	49	10	Hài Tử	Châm Mộ
+13	2	5	1	4	10	519	10	Hộ Uyển	Châm Mộ
+13	2	6	1	4	9	495	10	Mạo Tử	Châm Mộ
+13	2	7	1	4	5	466	10	Hạng Liên	Châm Mộ
+13	2	8	1	4	11	99	10	Ngọc Bội	Châm Mộ
+13	2	9	1	4	4	483	10	Giới Chỉ	Châm Mộ
+13	2	10	1	2	2	238	10	Vũ Khí	Châm Mộ
+13	2	1	2	4	6	115	10	Hộ Thân Phù	Châm Mộ
+13	2	2	2	4	3	242	10	Y Phục	Châm Mộ
+13	2	3	2	4	8	476	10	Yêu Đái	Châm Mộ
+13	2	4	2	4	7	50	10	Hài Tử	Châm Mộ
+13	2	5	2	4	10	520	10	Hộ Uyển	Châm Mộ
+13	2	6	2	4	9	496	10	Mạo Tử	Châm Mộ
+13	2	7	2	4	5	466	10	Hạng Liên	Châm Mộ
+13	2	8	2	4	11	100	10	Ngọc Bội	Châm Mộ
+13	2	9	2	4	4	483	10	Giới Chỉ	Châm Mộ
+13	2	10	2	2	2	238	10	Vũ Khí	Châm Mộ

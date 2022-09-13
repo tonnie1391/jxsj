@@ -1,0 +1,41 @@
+nId	nType	szMsg	Item1	nCount1	nSeedCount1	Item2	nCount2	nSeedCount2	Item3	nCount3	nSeedCount3	Item4	nCount4	nSeedCount4	Item5	nCount5	nSeedCount5
+索引	类型：1农作物, 2果树, 3鲜花	npc对话提示信息	果子	数量	种子数量	果子	数量	种子数量	果子	数量	种子数量	果子	数量	种子数量	果子	数量	种子数量
+1	1	Yêu cầu đơn hàng: 84 Bắp	18,1,1569,1	84	6												
+2	1	Yêu cầu đơn hàng: 96 Lúa	18,1,1571,1	96	6												
+3	1	Yêu cầu đơn hàng: 108 Khoai	18,1,1573,1	108	6												
+4	1	Yêu cầu đơn hàng: 42 Bắp, 48 Lúa	18,1,1569,1	42	3	18,1,1571,1	48	3									
+5	1	Yêu cầu đơn hàng: 42 Bắp, 54 Khoai	18,1,1569,1	42	3	18,1,1573,1	54	3									
+6	1	Yêu cầu đơn hàng: 48 Lúa, 54 Khoai	18,1,1571,1	48	3	18,1,1573,1	54	3									
+7	1	Yêu cầu đơn hàng: 56 Bắp, 32 Lúa	18,1,1569,1	56	4	18,1,1571,1	32	2									
+8	1	Yêu cầu đơn hàng: 56 Bắp, 36 Khoai	18,1,1569,1	56	4	18,1,1573,1	36	2									
+9	1	Yêu cầu đơn hàng: 64 Lúa, 36 Khoai	18,1,1571,1	64	4	18,1,1573,1	36	2									
+10	1	Yêu cầu đơn hàng: 64 Lúa, 28 Bắp	18,1,1571,1	64	4	18,1,1569,1	28	2									
+11	1	Yêu cầu đơn hàng: 74 Khoai, 28 Bắp	18,1,1573,1	74	4	18,1,1569,1	28	2									
+12	1	Yêu cầu đơn hàng: 74 Khoai, 32 Lúa	18,1,1573,1	74	4	18,1,1571,1	32	2									
+13	1	Yêu cầu đơn hàng: 28 Bắp,32 Lúa, 36 Khoai	18,1,1569,1	28	2	18,1,1571,1	32	2	18,1,1573,1	36	2						
+14	2	Yêu cầu đơn hàng: 84 Táo chín	18,1,1575,1	84	6												
+15	2	Yêu cầu đơn hàng: 96 Hồng chín	18,1,1577,1	96	6												
+16	2	Yêu cầu đơn hàng: 108 Sơn tra chín	18,1,1579,1	108	6												
+17	2	Yêu cầu đơn hàng: 42 Táo chín, 48 Hồng chín	18,1,1575,1	42	3	18,1,1577,1	48	3									
+18	2	Yêu cầu đơn hàng: 42 Táo chín, 54 Sơn tra chín	18,1,1575,1	42	3	18,1,1579,1	54	3									
+19	2	Yêu cầu đơn hàng: 48 Hồng chín, 54 Sơn tra chín	18,1,1577,1	48	3	18,1,1579,1	54	3									
+20	2	Yêu cầu đơn hàng: 56 Táo chín, 32 Hồng chín	18,1,1575,1	56	4	18,1,1577,1	32	2									
+21	2	Yêu cầu đơn hàng: 56 Táo chín, 36 Sơn tra chín	18,1,1575,1	56	4	18,1,1579,1	36	2									
+22	2	Yêu cầu đơn hàng: 64 Hồng chín, 36 Sơn tra chín	18,1,1577,1	64	4	18,1,1579,1	36	2									
+23	2	Yêu cầu đơn hàng: 64 Hồng chín, 28 Táo chín	18,1,1577,1	64	4	18,1,1575,1	28	2									
+24	2	Yêu cầu đơn hàng: 74 Sơn tra chín, 28 Táo chín	18,1,1579,1	74	4	18,1,1575,1	28	2									
+25	2	Yêu cầu đơn hàng: 74 Sơn tra chín, 32 Hồng chín	18,1,1579,1	74	4	18,1,1577,1	32	2									
+26	2	Yêu cầu đơn hàng: 28 Táo chín,32 Hồng chín, 36 Sơn tra chín	18,1,1575,1	28	2	18,1,1577,1	32	2	18,1,1579,1	36	2						
+27	3	Yêu cầu đơn hàng: 84 Hoa Đỗ Quyên	18,1,1581,1	84	6												
+28	3	Yêu cầu đơn hàng: 96 Hoa thiên điểu	18,1,1583,1	96	6												
+29	3	Yêu cầu đơn hàng: 108 Hoa sơn trà	18,1,1585,1	108	6												
+30	3	Yêu cầu đơn hàng: 42 Hoa Đỗ Quyên, 48 Hoa thiên điểu	18,1,1581,1	42	3	18,1,1583,1	48	3									
+31	3	Yêu cầu đơn hàng: 42 Hoa Đỗ Quyên, 54 Hoa sơn trà	18,1,1581,1	42	3	18,1,1585,1	54	3									
+32	3	Yêu cầu đơn hàng: 48 Hoa thiên điểu, 54 Hoa sơn trà	18,1,1583,1	48	3	18,1,1585,1	54	3									
+33	3	Yêu cầu đơn hàng: 56 Hoa Đỗ Quyên, 32 Hoa thiên điểu	18,1,1581,1	56	4	18,1,1583,1	32	2									
+34	3	Yêu cầu đơn hàng: 56 Hoa Đỗ Quyên, 36 Hoa sơn trà	18,1,1581,1	56	4	18,1,1585,1	36	2									
+35	3	Yêu cầu đơn hàng: 64 Hoa thiên điểu, 36 Hoa sơn trà	18,1,1583,1	64	4	18,1,1585,1	36	2									
+36	3	Yêu cầu đơn hàng: 64 Hoa thiên điểu, 28 Hoa Đỗ Quyên	18,1,1583,1	64	4	18,1,1581,1	28	2									
+37	3	Yêu cầu đơn hàng: 74 Hoa sơn trà, 28 Hoa Đỗ Quyên	18,1,1585,1	74	4	18,1,1581,1	28	2									
+38	3	Yêu cầu đơn hàng: 74 Hoa sơn trà, 32 Hoa thiên điểu	18,1,1585,1	74	4	18,1,1583,1	32	2									
+39	3	Yêu cầu đơn hàng: 28 Hoa Đỗ Quyên,32 Hoa thiên điểu, 36 Hoa sơn trà	18,1,1581,1	28	2	18,1,1583,1	32	2	18,1,1585,1	36	2						

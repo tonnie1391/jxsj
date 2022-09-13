@@ -1,0 +1,18 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit535	1															\setting\map\map_info\yiguan\trap\to_exit535.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51424	102144		1		
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		49952	101344		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		50240	100768		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		50496	101024		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		50240	101632		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		50784	101728		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		50848	102336		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		51232	101312		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		51680	100832		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		51520	101664		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		51968	100576		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		52032	101056		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		51776	101408		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		52576	101248		1		2
+Cang Giáp Binh	0	1103	0	5	75	1	20	20	20	20	20	1		52256	101312		1		2
+Ngô Đức	0	1105	3	5	75	1	20	20	20	20	20	1		50976	101504		1		2

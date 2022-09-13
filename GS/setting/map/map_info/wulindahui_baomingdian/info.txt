@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Mộ Binh Hiệu Úy	0	3706	3	5	35	1	20	20	20	20	20	1		53984	104800		1		
+Mộ Binh Hiệu Úy	0	3706	3	5	35	1	20	20	20	20	20	1		54336	105216		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		53472	104192		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		54848	105664		1		
+Thương Nhân Võ Lâm	0	3705	3	5	35	1	20	20	20	20	20	1		52896	104672		1		
+Thương Nhân Võ Lâm	0	3705	3	5	35	1	20	20	20	20	20	1		54432	106304		1		

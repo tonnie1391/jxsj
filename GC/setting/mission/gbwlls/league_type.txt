@@ -1,0 +1,10 @@
+LeagueType	ClassName	FileName	FileNameTrap	Desc
+联赛类型Id	类型名	类型配置	比赛场Trap点	描述
+1	Double	double.txt	minimap_trap.txt	混合双人赛
+2	Triangle	triangle.txt	medimap_trap.txt	三人赛
+3	Quatre	quatre.txt	medimap_trap.txt	四人赛
+4	Single	single.txt	minimap_trap.txt	混合单人赛
+5	Single_Faction	singlefaction.txt	minimap_trap.txt	门派单人赛
+6	Double_Series_Restraint	doubleseriesres.txt	minimap_trap.txt	五行相克双人赛
+7	Double_Series_Same	doubleseriessame.txt	minimap_trap.txt	同系双人赛
+8	Triangle_PerPk	triangleperpk.txt	minimap_trap.txt	三人单人赛

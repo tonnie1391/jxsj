@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lục Trầm Châu	0	41	3	5	60	1	20	20	20	20	20	1		51712	102368		1		0
+Đến Ngoài Yến Tử Ổ	0	2525	4	5	1	1	20	20	20	20	20	1		51264	102816		1		
+cyx2yanziwu	1															\setting\map\map_info\yanziwu_1_cyx\trap\to_yanziwu.txt			

@@ -1,0 +1,10 @@
+LeagueType	ClassName	FileName	FileNameTrap	Desc
+联赛类型Id	类型名	类型配置	比赛场Trap点	描述
+1	Double	double.txt	minimap_trap.txt	Song đấu
+2	Triangle	triangle.txt	medimap_trap.txt	Tam đấu
+3	Quatre	quatre.txt	medimap_trap.txt	Tứ đấu
+4	Single	single.txt	minimap_trap.txt	Đơn đấu hỗn hợp
+5	Single_Faction	singlefaction.txt	minimap_trap.txt	Đơn đấu môn phái
+6	Double_Series_Restraint	doubleseriesres.txt	minimap_trap.txt	Song đấu ngũ hành tương khắc
+7	Double_Series_Same	doubleseriessame.txt	minimap_trap.txt	Song đấu cùng hệ
+8	Triangle_PerPk	triangleperpk.txt	minimap_trap.txt	Đơn đấu 3 người

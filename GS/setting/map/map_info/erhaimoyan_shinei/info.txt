@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Linh Động Quỷ Mẫu	0	838	3	5	60	1	20	20	20	20	20	1		60448	122944		1		1
+Thủ Tuyền Linh Hổ	0	856	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\erhaimoyan_shinei\npc\shouquanlinghu.txt	1		
+to_guimuhoudong	1															\setting\map\map_info\erhaimoyan_shinei\trap\to_guimuhoudong.txt			
+to_exit29	1															\setting\map\map_info\erhaimoyan_shinei\trap\to_exit29.txt			
+to_exit25	1															\setting\map\map_info\erhaimoyan_shinei\trap\to_exit25.txt			
+Quỷ Mẫu Tiền Động	0	2525	4	5	1	1	20	20	20	20	20	1		59360	126848		1		
+Rời Quỷ Mẫu Động Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456		1		
+Quỷ Mẫu Hậu Động	0	2525	4	5	1	1	20	20	20	20	20	1		60480	122560		1		
+Linh Tuyền Thủy	0	1594	4	5	1	1	20	20	20	20	20	1		60256	125824		1		

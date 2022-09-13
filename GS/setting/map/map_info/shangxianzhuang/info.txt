@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit555	1															\setting\map\map_info\shangxianzhuang\trap\to_exit555.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		49824	99904		1		
+Tiêu Dao Tử	0	1077	0	5	75	1	20	20	20	20	20	1		49248	99232		1		2
+Tín đồ	0	625	0	5	75	1	20	20	20	20	20	1		49312	99808		1		2
+Tín đồ	0	625	0	5	75	1	20	20	20	20	20	1		49760	99200		1		2
+Tín đồ	0	625	0	5	75	1	20	20	20	20	20	1		50208	99136		1		2

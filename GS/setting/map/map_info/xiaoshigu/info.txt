@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit545	1															\setting\map\map_info\xiaoshigu\trap\to_exit545.txt			
+Rời khỏi	0	2525	4	5	85	1	20	20	20	20	20	1		54528	105600				
+Khán Thủ	0	1072	0	5	85	1	20	20	20	20	20	2				\setting\map\map_info\xiaoshigu\npc\kanshou.txt	1		

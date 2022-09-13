@@ -1,0 +1,8 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quật Địa Binh	0	818	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\gaibangfenduo\npc\juedibing.txt	1		
+Trưởng Thị Vệ Báo Nhãn	0	819	3	5	60	1	20	20	20	20	20	1		51104	101664		1		1
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	1		50784	102016		1		4
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	1		51552	101376		1		4
+to_exit504	1															\setting\map\map_info\gaibangfenduo\trap\to_exit504.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51456	102176		1		
+Đào Sinh Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		49664	101248		1		

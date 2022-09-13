@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Dương Thiết Tâm	0	1070	3	5	150	1	20	20	20	20	20	1		53920	100480		1		
+Thạch Hiên Viên	0	1071	3	5	150	1	20	20	20	20	20	1		54048	100768		1		
+Cổ Yên Nhiên	0	1088	3	5	150	1	20	20	20	20	20	1		53760	100640		1		
+Cơ Quan Hướng Đông	0	1108	3	5	85	1	20	20	20	20	20	1		52672	102944		1		
+Cơ Quan Hướng Nam	0	1114	3	5	85	1	20	20	20	20	20	1		49632	100800		1		
+Cơ Quan Hướng Tây	0	1118	3	5	85	1	20	20	20	20	20	1		51232	98656		1		
+Cơ Quan Hướng Bắc	0	1119	3	5	85	1	20	20	20	20	20	1		53632	99872		1		
+Bang Chúng Diêm Bang	0	1074	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xiagu3\npc\yanbangbangzhong.txt	1		
+to_taizubaoku1	1															\setting\map\map_info\xiagu3\trap\to_taizubaoku1.txt			
+to_exit551	1															\setting\map\map_info\xiagu3\trap\to_exit551.txt			
+Bảo Khố	0	2525	4	5	85	1	20	20	20	20	20	1		52480	97728				
+Rời khỏi	0	2525	4	5	85	1	20	20	20	20	20	1		51232	103360				
+Đệ Tử Thiên Vương Bang	0	938	3	5	85	1	20	20	20	20	20	2				\setting\map\map_info\xiagu3\npc\tianwangbangdizi.txt	1		
+Đệ Tử Cái Bang	0	939	3	5	85	1	20	20	20	20	20	2				\setting\map\map_info\xiagu3\npc\gaibangdizi.txt	1		
+Đệ Tử Ngũ Độc Giáo	0	936	0	0	85	1	20	20	20	20	20	2				\setting\map\map_info\xiagu3\npc\wudujiaodizi.txt	1		

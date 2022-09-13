@@ -1,0 +1,27 @@
+Id	Name	LocalName	PlugName
+1	int	整型	
+2	string	字符串	
+3	function	函数	FunctionEditor
+4	message	信息	MessageEditor
+5	time	时间	DateTimePicker
+6	task	任务变量	Jx_TaskEditor
+7	itemclass	物品Class	Jx_ItemClassSelect
+8	titlestring	称号	
+9	awardid	奖励表	Jx_AwardEditor
+10	dropitemid	掉落表	Jx_DropItemEditor
+11	callnpcid	召唤npc	Jx_CallNpcEditor
+12	npcid	npc类型Id	Jx_NpcForIdSelect
+13	npcclass	npc类型class	Jx_NpcForclassSelect
+14	maptype	地图类型	Jx_MapTypeSelect
+15	skillid	技能Id	Jx_SkillIdSelect
+16	shopid	商店Id	Jx_ShopidSelect
+17	itemstring	物品GDPL	Jx_ItemSelect
+18	mapid	地图id	Jx_MapIdSelect
+19	eventpartid	跳转事件	Jx_EventPartIdSelect
+20	factionid	门派	Jx_FactionIdSelect
+21	camp	阵营	Jx_CampSelect
+22	sex	性别	Jx_SexSelect
+23	week	星期	Jx_WeekSelect
+24	cointype	货币类型	Jx_CoinTypeSelect
+25	luascript	脚本	Jx_LuaScriptEditor
+26	finishtasktype	任务目标	jx_finishtaskselect

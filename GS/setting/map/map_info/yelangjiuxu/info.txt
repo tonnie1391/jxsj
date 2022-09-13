@@ -1,0 +1,26 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vũ Linh Tế Tự	0	2338	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yelangjiuxu\npc\area1.txt	1		1
+Phạn Chú Tăng	0	2339	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yelangjiuxu\npc\area2.txt	1		0
+Đạo Mộ Tặc	0	2340	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yelangjiuxu\npc\area3.txt	1		4
+Thú Hồn Cư Sĩ	0	2341	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yelangjiuxu\npc\area4.txt	1		0
+to_fuliudong	1															\setting\map\map_info\yelangjiuxu\trap\to_fuliudong.txt			
+to_miaoling	1															\setting\map\map_info\yelangjiuxu\trap\to_miaoling.txt			
+to_shiguzhen	1															\setting\map\map_info\yelangjiuxu\trap\to_shiguzhen.txt			
+to_taohuayuan	1															\setting\map\map_info\yelangjiuxu\trap\to_taohuayuan.txt			
+to_fengduguicheng	1															\setting\map\map_info\yelangjiuxu\trap\to_fengduguicheng.txt			
+Phục Lưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		64576	110912		1		
+Miêu Lĩnh	0	2525	4	5	1	1	20	20	20	20	20	1		56672	125504		1		
+Thạch Cổ Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		50816	117920		1		
+Đào Hoa Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		64608	123872		1		
+Phong Đô Quỷ Thành	0	2525	4	5	1	1	20	20	20	20	20	1		53216	105888		1		
+Tạ Văn Triết	0	4393	3	5	150	1	20	20	20	20	20	1		59264	105664		1		
+Thượng Quan Triết	0	5060	3	5	125	1	20	20	20	20	20	1		50912	122496		1		
+Dư Siêu	0	4624	0	5	130	1	20	20	20	20	20	1		58880	116480		1		
+to_molongdianni1	1															\setting\map\map_info\yelangjiuxu\trap\to_molongdianni1.txt			
+Ma Long Điện-Nghê	0	2525	4	5	1	1	20	20	20	20	20	1		64384	106944		1		
+to_molongdianni2	1															\setting\map\map_info\yelangjiuxu\trap\to_molongdianni2.txt			
+Ma Long Điện-Nghê	0	2525	4	5	1	1	20	20	20	20	20	1		57248	108768		1		
+to_molongdianfeng1	1															\setting\map\map_info\yelangjiuxu\trap\to_molongdianfeng1.txt			
+Ma Long Điện-Phong	0	2525	4	5	1	1	20	20	20	20	20	1		56960	112000		1		
+to_molongdianfeng2	1															\setting\map\map_info\yelangjiuxu\trap\to_molongdianfeng2.txt			
+Ma Long Điện-Phong	0	2525	4	5	1	1	20	20	20	20	20	1		61024	124640		1		

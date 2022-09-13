@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thị Vệ Lôi Đài	0	2502	3	5	10	1	20	20	20	20	20	3		51072	101568				
+Thị Vệ Lôi Đài	0	2502	3	5	10	1	20	20	20	20	20	3		54944	105920				
+Ô Thị Gia Đinh	0	1460	3	5	10	1	20	20	20	20	20	3		50752	101920				
+Ô Thị Gia Đinh	0	1460	3	5	10	1	20	20	20	20	20	3		54752	106560				

@@ -1,0 +1,1 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name

@@ -1,0 +1,42 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme	Dir
+Pháo hoa	0	10175	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\yanhua.txt	1			
+Tiểu buôn	0	10176	3	5	1	1	20	20	20	20	20	1		65728	108864		1			
+Thuyền Phu	0	10247	3	5	60	1	20	20	20	20	20	1		62816	111328		1			
+Tử Thư Thanh	0	10250	3	5	60	1	20	20	20	20	20	1		56864	113920		1			
+Sĩ Binh Tây Hạ	0	10257	0	5	15	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\shibing.txt	1			
+Phó Tướng Tây Hạ	0	10258	0	5	15	1	20	20	20	20	20	1		60576	113952		1			
+10254	0	10254	5	5	1	1	20	20	20	20	20	1		64704	109984					
+Lý Thẩm	0	10262	3	5	1	1	20	20	20	20	20	1		62048	112512		1			
+juqing1	1															\setting\map\map_info\huadengluan1\trap\juqing1.txt				
+juqing2	1															\setting\map\map_info\huadengluan1\trap\juqing2.txt				
+6100	0	6100	8	6	1	1	20	20	20	20	20	1		64704	109824					
+6101	0	6101	8	6	1	1	20	20	20	20	20	1		64576	110048					
+6102	0	6102	8	6	1	1	20	20	20	20	20	1		64800	110048					
+6042	0	6042	8	6	1	1	20	20	20	20	20	1		64608	77856					
+6864	0	6864	8	6	1	1	20	20	20	20	20	1		64576	109792					
+6096	0	6096	8	6	1	1	20	20	20	20	20	1		64864	109728					
+827	0	827	8	6	1	1	20	20	20	20	20	1		64800	109632					
+855	0	855	8	6	1	1	20	20	20	20	20	1		64768	109696					
+6113	0	6113	8	6	1	1	20	20	20	20	20	1		64800	109792					
+6116	0	6116	8	6	1	1	20	20	20	20	20	1		64544	109856					
+124	0	124	8	6	1	1	20	20	20	20	20	1		64640	109760					
+11060	0	11060	8	6	1	1	20	20	20	20	20	1		59904	112928					
+11061	0	11061	8	6	1	1	20	20	20	20	20	1		60064	112864					
+11062	0	11062	8	6	1	1	20	20	20	20	20	1		59968	112640					
+11062	0	11062	8	6	1	1	20	20	20	20	20	1		59968	112640					
+11062	0	11062	8	6	1	1	20	20	20	20	20	1		59968	112640					
+11062	0	11062	8	6	1	1	20	20	20	20	20	1		59968	112640					
+11062	0	11062	8	6	1	1	20	20	20	20	20	1		59968	112640					
+Lê dân bị cướp	0	10251	8	6	1	1	20	20	20	20	20	1		60992	113376					
+Lê dân bị cướp	0	10251	8	6	1	1	20	20	20	20	20	1		60960	113920					
+Lê dân bị cướp	0	10251	8	6	1	1	20	20	20	20	20	1		61440	113184					
+Lê dân bị cướp	0	10251	8	6	1	1	20	20	20	20	20	1		61216	113248					
+11117	0	11117	8	6	1	1	20	20	20	20	20	1		59872	112800					
+11118	0	11118	8	6	1	1	20	20	20	20	20	1		59968	112800					
+11068	0	11068	8	6	1	1	20	20	20	20	20	1		59552	112544					
+11080	0	11080	8	6	1	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\lvhuadeng.txt				
+11081	0	11081	8	6	1	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\zihuadeng.txt				
+11082	0	11082	8	6	1	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\fenhuadeng.txt				
+11083	0	11083	8	6	1	1	20	20	20	20	20	1				\setting\map\map_info\huadengluan1\npc\chenghuadeng.txt				
+6584	0	6584	8	6	1	1	20	20	20	20	20	1		64608	110176					40
+6585	0	6585	8	6	1	1	20	20	20	20	20	1		65408	109184					24

@@ -1,0 +1,7 @@
+Id	Name	SignNpcName	JoinItem	ItemEffect	EnterItemMaxCount	BagNeedFree	MemberCount	PlayerCount	MinTeamCount	MeleeMaxReadyCount	MeleeMinCount	MeleeMaxCount	MinLevel	SecTeamMaxReadyCount	PlayCount_Player	PlayCount_Team	TeamWinScore	TeamTieScore	TeamLoseScore	MaxKinToNextRank	MinPlayerToNextScore	KinAwardNum	Time_Common_Start	Time_Common_End	Time_Common_Long	Time_Common_Adv_Start	Time_Common_Adv_End	Time_Common_Adv_Long	Time_AdvMatch	ReadyTime_Common	PKTime_Common	ReadyTime_Sec	PKTime_Sec	ReadyTime_Adv	PKTime_Adv	ReadyMap	MacthMap	Desc
+1	类型名	报名官	参加活动需要的道具	道具特殊效果	道具的使用次数	需要空闲格子数	战队人数	比赛人数	活动最小开启人数	混战准备场最大队伍数	混战最少开启人数	混战最大人数	活动最低等级限制	第二阶段准备场最大队伍数	每天累计的混战次数	每天队伍累计次数	家族预选赛获胜队奖励分	家族预选赛平局队奖励分	家族预选赛战败队奖励分	进入下一阶段家族最大排名	进入家族预选赛阶段玩家最小积分	家族成员奖励人数	第一阶段比赛日程开始时间	第一阶段比赛日程结束时间	比赛时长比赛日程结束时间（分钟）	第二阶段比赛日程开始时间	第二阶段比赛日程结束时间	第二阶段比赛日程时长（分钟）	八强赛决赛	准备时间（秒）	比赛时间（秒）	准备时间（二阶）（秒）	比赛时间（二阶）（秒）	准备时间（八强）（秒）	比赛时间（八强）（秒）	准备场地图	活动比赛场地图模板	描述
+2	赛龙舟	新手村秦洼	18,1,327,1		10	0	5	4	2	120	8	8	60	24	2	2	3	2	1	120	24	40	1100	1400	15	1500	1700	15	2130	280	600	280	600	280	600	1532	1535	本届活动类型为<color=yellow>赛龙舟<color>。
+3			18,1,327,2																				1900	2300	15	2130	2300	15	2145							1533		
+4			18,1,327,3																										2200							1534		
+5			18,1,327,4																										2215									
+6																													2230									

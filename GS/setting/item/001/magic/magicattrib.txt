@@ -1,0 +1,1197 @@
+Name	Suffix	IsDarkness	Level	MagicName	MA1Min	MA1Max	MA2Min	MA2Max	MA3Min	MA3Max	ReqLevel	ItemValue	Series	MeleeWeapon	RangeWeapon	Armor	Belt	Helm	Cuff	Boots	Ring	Amulet	Necklace	Pendant	Horse	Mask	Book	PartnerRing	PartnerBody	PartnerWeapon	PartnerCuff	PartnerAmulet
+Phần trăm sát thương ngoại	Phá Quân	0	1	addphysicsdamage_p	5	10	-1	-1	0	0	1	1000	-1	200000	200000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	2	addphysicsdamage_p	11	20	-1	-1	0	0	2	1670	-1	120000	120000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	3	addphysicsdamage_p	21	30	-1	-1	0	0	3	2780	-1	72000	72000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	4	addphysicsdamage_p	31	40	-1	-1	0	0	4	4660	-1	43000	43000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	5	addphysicsdamage_p	41	50	-1	-1	0	0	5	7700	-1	26000	26000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	6	addphysicsdamage_p	51	60	-1	-1	0	0	6	12500	-1	16000	16000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	7	addphysicsdamage_p	61	70	-1	-1	0	0	7	22300	-1	9000	9000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	8	addphysicsdamage_p	71	80	-1	-1	0	0	8	33400	-1	6000	6000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	9	addphysicsdamage_p	81	90	-1	-1	0	0	9	59000	-1	3400	3400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	10	addphysicsdamage_p	91	100	-1	-1	0	0	10	200000	-1	1000	1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	11	addphysicsdamage_p	101	110	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	12	addphysicsdamage_p	111	120	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	13	addphysicsdamage_p	121	130	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	14	addphysicsdamage_p	131	140	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	15	addphysicsdamage_p	141	150	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	16	addphysicsdamage_p	151	160	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	17	addphysicsdamage_p	161	170	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	18	addphysicsdamage_p	171	180	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	19	addphysicsdamage_p	181	190	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	20	addphysicsdamage_p	191	200	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	21	addphysicsdamage_p	201	210	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	22	addphysicsdamage_p	211	230	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	23	addphysicsdamage_p	231	250	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	24	addphysicsdamage_p	251	280	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	25	addphysicsdamage_p	281	310	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương ngoại	Phá Quân	0	26	addphysicsdamage_p	311	340	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	1	addphysicsmagic_p	5	10	-1	-1	0	0	1	1000	-1	200000	200000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	2	addphysicsmagic_p	11	20	-1	-1	0	0	2	1670	-1	120000	120000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	3	addphysicsmagic_p	21	30	-1	-1	0	0	3	2780	-1	72000	72000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	4	addphysicsmagic_p	31	40	-1	-1	0	0	4	4660	-1	43000	43000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	5	addphysicsmagic_p	41	50	-1	-1	0	0	5	7700	-1	26000	26000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	6	addphysicsmagic_p	51	60	-1	-1	0	0	6	12500	-1	16000	16000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	7	addphysicsmagic_p	61	70	-1	-1	0	0	7	22300	-1	9000	9000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	8	addphysicsmagic_p	71	80	-1	-1	0	0	8	33400	-1	6000	6000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	9	addphysicsmagic_p	81	90	-1	-1	0	0	9	59000	-1	3400	3400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	10	addphysicsmagic_p	91	100	-1	-1	0	0	10	200000	-1	1000	1000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	11	addphysicsmagic_p	101	110	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	12	addphysicsmagic_p	111	120	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	13	addphysicsmagic_p	121	130	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	14	addphysicsmagic_p	131	140	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	15	addphysicsmagic_p	141	150	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	16	addphysicsmagic_p	151	160	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	17	addphysicsmagic_p	161	170	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	18	addphysicsmagic_p	171	180	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	19	addphysicsmagic_p	181	190	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	20	addphysicsmagic_p	191	200	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	21	addphysicsmagic_p	201	210	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	22	addphysicsmagic_p	211	230	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	23	addphysicsmagic_p	231	250	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	24	addphysicsmagic_p	251	280	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	25	addphysicsmagic_p	281	310	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phần trăm sát thương nội	Toái Trần	0	26	addphysicsmagic_p	311	340	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	1	attackratingenhance_v	5	50	-1	-1	0	0	1	1000	-1	200000	200000	0	0	0	200000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	2	attackratingenhance_v	51	100	-1	-1	0	0	2	1670	-1	120000	120000	0	0	0	120000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	3	attackratingenhance_v	101	150	-1	-1	0	0	3	2780	-1	72000	72000	0	0	0	72000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	4	attackratingenhance_v	151	200	-1	-1	0	0	4	4660	-1	43000	43000	0	0	0	43000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	5	attackratingenhance_v	201	250	-1	-1	0	0	5	7700	-1	26000	26000	0	0	0	26000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	6	attackratingenhance_v	251	300	-1	-1	0	0	6	12500	-1	16000	16000	0	0	0	16000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	7	attackratingenhance_v	301	350	-1	-1	0	0	7	22300	-1	9000	9000	0	0	0	9000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	8	attackratingenhance_v	351	400	-1	-1	0	0	8	33400	-1	6000	6000	0	0	0	6000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	9	attackratingenhance_v	401	450	-1	-1	0	0	9	59000	-1	3400	3400	0	0	0	3400	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	10	attackratingenhance_v	451	500	-1	-1	0	0	10	200000	-1	1000	1000	0	0	0	1000	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	11	attackratingenhance_v	501	530	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	12	attackratingenhance_v	531	560	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	13	attackratingenhance_v	561	590	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	14	attackratingenhance_v	591	620	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	15	attackratingenhance_v	621	650	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	16	attackratingenhance_v	651	680	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	17	attackratingenhance_v	681	710	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	18	attackratingenhance_v	711	740	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	19	attackratingenhance_v	741	770	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	20	attackratingenhance_v	771	800	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	21	attackratingenhance_v	801	830	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	22	attackratingenhance_v	831	860	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	23	attackratingenhance_v	861	890	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	24	attackratingenhance_v	891	920	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	25	attackratingenhance_v	921	950	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng chính xác	Tâm Nhãn	0	26	attackratingenhance_v	951	980	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	1	attackspeed_v	1	3	-1	-1	0	0	1	1000	-1	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	2	attackspeed_v	4	5	-1	-1	0	0	2	1670	-1	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	3	attackspeed_v	6	7	-1	-1	0	0	3	2780	-1	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	4	attackspeed_v	8	9	-1	-1	0	0	4	4630	-1	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	5	attackspeed_v	10	10	-1	-1	0	0	5	7700	-1	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	6	attackspeed_v	11	12	-1	-1	0	0	6	12830	-1	7800	7800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	7	attackspeed_v	13	14	-1	-1	0	0	7	21300	-1	4700	4700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	8	attackspeed_v	15	16	-1	-1	0	0	8	35750	-1	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	9	attackspeed_v	17	17	-1	-1	0	0	9	58830	-1	1700	1700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	10	attackspeed_v	18	18	-1	-1	0	0	10	125000	-1	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	11	attackspeed_v	19	19	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	12	attackspeed_v	20	20	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	13	attackspeed_v	21	22	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	14	attackspeed_v	23	24	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	15	attackspeed_v	25	26	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	16	attackspeed_v	27	27	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	17	attackspeed_v	28	28	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	18	attackspeed_v	29	29	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	19	attackspeed_v	30	30	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	20	attackspeed_v	31	32	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	21	attackspeed_v	33	34	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	22	attackspeed_v	35	36	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	23	attackspeed_v	37	38	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	24	attackspeed_v	40	40	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	25	attackspeed_v	41	42	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh ngoại	Phi Yến	0	26	attackspeed_v	43	43	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	1	castspeed_v	1	3	-1	-1	0	0	1	1000	-1	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	2	castspeed_v	4	5	-1	-1	0	0	2	1670	-1	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	3	castspeed_v	6	7	-1	-1	0	0	3	2780	-1	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	4	castspeed_v	8	9	-1	-1	0	0	4	4630	-1	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	5	castspeed_v	10	10	-1	-1	0	0	5	7700	-1	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	6	castspeed_v	11	12	-1	-1	0	0	6	12830	-1	7800	7800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	7	castspeed_v	13	14	-1	-1	0	0	7	21300	-1	4700	4700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	8	castspeed_v	15	16	-1	-1	0	0	8	35750	-1	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	9	castspeed_v	17	17	-1	-1	0	0	9	58830	-1	1700	1700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	10	castspeed_v	18	18	-1	-1	0	0	10	125000	-1	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	11	castspeed_v	19	19	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	12	castspeed_v	20	20	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	13	castspeed_v	21	22	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	14	castspeed_v	23	24	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	15	castspeed_v	25	26	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	16	castspeed_v	27	27	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	17	castspeed_v	28	28	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	18	castspeed_v	29	29	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	19	castspeed_v	30	30	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	20	castspeed_v	31	32	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	21	castspeed_v	33	34	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	22	castspeed_v	35	36	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	23	castspeed_v	37	38	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	24	castspeed_v	40	40	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	25	castspeed_v	41	42	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ đánh nội	Linh Vũ	0	26	castspeed_v	43	43	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	1	ignoredefenseenhance_v	1	10	-1	-1	0	0	1	4000	-1	0	0	0	0	0	0	0	50000	0	50000	0	0	0	0	50000	50000	50000	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	2	ignoredefenseenhance_v	11	20	-1	-1	0	0	2	6680	-1	0	0	0	0	0	0	0	30000	0	30000	0	0	0	0	30000	30000	30000	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	3	ignoredefenseenhance_v	21	30	-1	-1	0	0	3	11120	-1	0	0	0	0	0	0	0	18000	0	18000	0	0	0	0	18000	18000	18000	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	4	ignoredefenseenhance_v	31	40	-1	-1	0	0	4	18520	-1	0	0	0	0	0	0	0	10800	0	10800	0	0	0	0	10800	10800	10800	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	5	ignoredefenseenhance_v	41	50	-1	-1	0	0	5	30800	-1	0	0	0	0	0	0	0	6500	0	6500	0	0	0	0	6500	6500	6500	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	6	ignoredefenseenhance_v	51	60	-1	-1	0	0	6	50000	-1	0	0	0	0	0	0	0	4000	0	4000	0	0	0	0	4000	4000	4000	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	7	ignoredefenseenhance_v	61	70	-1	-1	0	0	7	88900	-1	0	0	0	0	0	0	0	2250	0	2250	0	0	0	0	2250	2250	2250	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	8	ignoredefenseenhance_v	71	80	-1	-1	0	0	8	133340	-1	0	0	0	0	0	0	0	1500	0	1500	0	0	0	0	1500	1500	1500	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	9	ignoredefenseenhance_v	81	90	-1	-1	0	0	9	235400	-1	0	0	0	0	0	0	0	850	0	850	0	0	0	0	850	850	850	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	10	ignoredefenseenhance_v	91	100	-1	-1	0	0	10	666700	-1	0	0	0	0	0	0	0	300	0	300	0	0	0	0	300	300	300	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	11	ignoredefenseenhance_v	101	110	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	12	ignoredefenseenhance_v	111	120	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	13	ignoredefenseenhance_v	121	130	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	14	ignoredefenseenhance_v	131	140	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	15	ignoredefenseenhance_v	141	150	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	16	ignoredefenseenhance_v	151	160	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	17	ignoredefenseenhance_v	161	170	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	18	ignoredefenseenhance_v	171	180	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	19	ignoredefenseenhance_v	181	190	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	20	ignoredefenseenhance_v	191	200	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	21	ignoredefenseenhance_v	201	210	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	22	ignoredefenseenhance_v	211	220	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	23	ignoredefenseenhance_v	221	230	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	24	ignoredefenseenhance_v	231	240	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	25	ignoredefenseenhance_v	241	250	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bỏ qua né tránh đối phương	Truy Ảnh	0	26	ignoredefenseenhance_v	251	260	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	1	fastwalkrun_p	1	4	-1	-1	0	0	1	1500	-1	0	0	0	0	0	0	200000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	2	fastwalkrun_p	5	9	-1	-1	0	0	2	2500	-1	0	0	0	0	0	0	120000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	3	fastwalkrun_p	10	12	-1	-1	0	0	3	4170	-1	0	0	0	0	0	0	72000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	4	fastwalkrun_p	13	14	-1	-1	0	0	4	7150	-1	0	0	0	0	0	0	42000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	5	fastwalkrun_p	15	16	-1	-1	0	0	5	12000	-1	0	0	0	0	0	0	25000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	6	fastwalkrun_p	17	19	-1	-1	0	0	6	21430	-1	0	0	0	0	0	0	14000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	7	fastwalkrun_p	20	20	-1	-1	0	0	7	40000	-1	0	0	0	0	0	0	7500	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	8	fastwalkrun_p	21	22	-1	-1	0	0	8	83400	-1	0	0	0	0	0	0	3600	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	9	fastwalkrun_p	23	24	-1	-1	0	0	9	166800	-1	0	0	0	0	0	0	1800	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	10	fastwalkrun_p	25	26	-1	-1	0	0	10	300000	-1	0	0	0	0	0	0	1000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	11	fastwalkrun_p	27	29	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	12	fastwalkrun_p	30	30	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	13	fastwalkrun_p	31	32	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	14	fastwalkrun_p	33	34	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	15	fastwalkrun_p	35	36	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	16	fastwalkrun_p	37	37	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	17	fastwalkrun_p	38	38	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	18	fastwalkrun_p	39	39	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	19	fastwalkrun_p	40	40	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	20	fastwalkrun_p	41	42	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	21	fastwalkrun_p	43	44	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	22	fastwalkrun_p	45	46	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	23	fastwalkrun_p	47	49	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	24	fastwalkrun_p	50	50	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	25	fastwalkrun_p	51	52	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ chạy	Tật Phong	0	26	fastwalkrun_p	53	53	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	1	meleedamagereturn_p	1	1	-1	-1	0	0	1	1000	-1	0	0	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	2	meleedamagereturn_p	2	2	-1	-1	0	0	2	1670	-1	0	0	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	3	meleedamagereturn_p	3	3	-1	-1	0	0	3	2780	-1	0	0	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	4	meleedamagereturn_p	4	4	-1	-1	0	0	4	4630	-1	0	0	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	5	meleedamagereturn_p	5	5	-1	-1	0	0	5	7700	-1	0	0	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	6	meleedamagereturn_p	6	6	-1	-1	0	0	6	12830	-1	0	0	7800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	7	meleedamagereturn_p	7	7	-1	-1	0	0	7	21300	-1	0	0	4700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	8	meleedamagereturn_p	8	8	-1	-1	0	0	8	35750	-1	0	0	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	9	meleedamagereturn_p	9	9	-1	-1	0	0	9	58830	-1	0	0	1700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	10	meleedamagereturn_p	10	10	-1	-1	0	0	10	125000	-1	0	0	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	11	meleedamagereturn_p	11	11	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	12	meleedamagereturn_p	12	12	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	13	meleedamagereturn_p	13	13	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	14	meleedamagereturn_p	14	14	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	15	meleedamagereturn_p	15	15	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	16	meleedamagereturn_p	16	16	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	17	meleedamagereturn_p	17	17	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	18	meleedamagereturn_p	18	18	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	19	meleedamagereturn_p	19	19	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	20	meleedamagereturn_p	20	20	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	21	meleedamagereturn_p	21	21	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	22	meleedamagereturn_p	22	22	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	23	meleedamagereturn_p	23	23	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	24	meleedamagereturn_p	24	24	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	25	meleedamagereturn_p	25	25	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phản đòn tấn công vật lý	Phản Phệ	0	26	meleedamagereturn_p	26	26	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	1	steallife_p	1	1	100	100	0	0	1	5000	-1	20000	20000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	2	steallife_p	2	2	100	100	0	0	2	7150	-1	14000	14000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	3	steallife_p	3	3	100	100	0	0	3	10210	-1	9800	9800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	4	steallife_p	4	4	100	100	0	0	4	14930	-1	6700	6900	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	5	steallife_p	5	5	100	100	0	0	5	20840	-1	4800	4800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	6	steallife_p	6	6	100	100	0	0	6	29420	-1	3400	3400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	7	steallife_p	7	7	100	100	0	0	7	42560	-1	2350	2350	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	8	steallife_p	8	8	100	100	0	0	8	60610	-1	1650	1650	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	9	steallife_p	9	9	100	100	0	0	9	86960	-1	1150	1150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	10	steallife_p	10	10	100	100	0	0	10	123500	-1	810	810	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	11	steallife_p	11	11	100	100	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	12	steallife_p	12	12	100	100	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	13	steallife_p	13	13	100	100	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	14	steallife_p	14	14	100	100	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	15	steallife_p	15	15	100	100	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	16	steallife_p	16	16	100	100	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	17	steallife_p	17	17	100	100	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	18	steallife_p	18	18	100	100	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	19	steallife_p	19	19	100	100	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	20	steallife_p	20	20	100	100	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	21	steallife_p	21	21	100	100	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	22	steallife_p	22	22	100	100	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	23	steallife_p	23	23	100	100	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	24	steallife_p	24	24	100	100	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	25	steallife_p	25	25	100	100	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút sinh	Hấp Tinh	0	26	steallife_p	26	26	100	100	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	1	stealmana_p	1	1	100	100	0	0	1	5000	-1	20000	20000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	2	stealmana_p	2	2	100	100	0	0	2	7150	-1	14000	14000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	3	stealmana_p	3	3	100	100	0	0	3	10210	-1	9800	9800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	4	stealmana_p	4	4	100	100	0	0	4	14930	-1	6700	6700	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	5	stealmana_p	5	5	100	100	0	0	5	20840	-1	4800	4800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	6	stealmana_p	6	6	100	100	0	0	6	29420	-1	3400	3400	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	7	stealmana_p	7	7	100	100	0	0	7	42560	-1	2350	2350	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	8	stealmana_p	8	8	100	100	0	0	8	60610	-1	1650	1650	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	9	stealmana_p	9	9	100	100	0	0	9	86960	-1	1150	1150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	10	stealmana_p	10	10	100	100	0	0	10	123500	-1	810	810	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	11	stealmana_p	11	11	100	100	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	12	stealmana_p	12	12	100	100	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	13	stealmana_p	13	13	100	100	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	14	stealmana_p	14	14	100	100	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	15	stealmana_p	15	15	100	100	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	16	stealmana_p	16	16	100	100	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	17	stealmana_p	17	17	100	100	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	18	stealmana_p	18	18	100	100	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	19	stealmana_p	19	19	100	100	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	20	stealmana_p	20	20	100	100	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	21	stealmana_p	21	21	100	100	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	22	stealmana_p	22	22	100	100	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	23	stealmana_p	23	23	100	100	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	24	stealmana_p	24	24	100	100	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	25	stealmana_p	25	25	100	100	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hút nội	Bắc Minh	0	26	stealmana_p	26	26	100	100	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	1	lifemax_v	1	5	-1	-1	0	0	1	670	-1	300000	300000	300000	300000	300000	300000	300000	300000	300000	300000	300000	0	0	0	300000	300000	300000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	2	lifemax_v	6	15	-1	-1	0	0	2	1120	-1	180000	180000	180000	180000	180000	180000	180000	180000	180000	180000	180000	0	0	0	180000	180000	180000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	3	lifemax_v	16	25	-1	-1	0	0	3	1860	-1	108000	108000	108000	108000	108000	108000	108000	108000	108000	108000	108000	0	0	0	108000	108000	108000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	4	lifemax_v	26	40	-1	-1	0	0	4	3130	-1	64000	64000	64000	64000	64000	64000	64000	64000	64000	64000	64000	0	0	0	64000	64000	64000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	5	lifemax_v	41	55	-1	-1	0	0	5	5560	-1	36000	36000	36000	36000	36000	36000	36000	36000	36000	36000	36000	0	0	0	36000	36000	36000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	6	lifemax_v	56	70	-1	-1	0	0	6	9530	-1	21000	21000	21000	21000	21000	21000	21000	21000	21000	21000	21000	0	0	0	21000	21000	21000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	7	lifemax_v	71	85	-1	-1	0	0	7	16670	-1	12000	12000	12000	12000	12000	12000	12000	12000	12000	12000	12000	0	0	0	12000	12000	12000	0	0
+Tăng sinh lực tối đa	Diên Dương	0	8	lifemax_v	86	100	-1	-1	0	0	8	26670	-1	7500	7500	7500	7500	7500	7500	7500	7500	7500	7500	7500	0	0	0	7500	7500	7500	0	0
+Tăng sinh lực tối đa	Diên Dương	0	9	lifemax_v	101	115	-1	-1	0	0	9	44450	-1	4500	4500	4500	4500	4500	4500	4500	4500	4500	4500	4500	0	0	0	4500	4500	4500	0	0
+Tăng sinh lực tối đa	Diên Dương	0	10	lifemax_v	116	130	-1	-1	0	0	10	111120	-1	1800	1800	1800	1800	1800	1800	1800	1800	1800	1800	1800	0	0	0	1800	1800	1800	0	0
+Tăng sinh lực tối đa	Diên Dương	0	11	lifemax_v	131	145	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	12	lifemax_v	146	160	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	13	lifemax_v	161	175	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	14	lifemax_v	176	190	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	15	lifemax_v	191	210	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	16	lifemax_v	211	230	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	17	lifemax_v	231	250	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	18	lifemax_v	251	270	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	19	lifemax_v	271	290	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	20	lifemax_v	291	330	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	21	lifemax_v	331	380	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	22	lifemax_v	381	440	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	23	lifemax_v	441	510	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	24	lifemax_v	511	590	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	25	lifemax_v	591	670	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng sinh lực tối đa	Diên Dương	0	26	lifemax_v	671	750	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	1	manamax_v	1	5	-1	-1	0	0	1	500	-1	300000	300000	300000	300000	300000	300000	300000	300000	300000	300000	300000	0	0	0	300000	300000	300000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	2	manamax_v	6	15	-1	-1	0	0	2	840	-1	180000	180000	180000	180000	180000	180000	180000	180000	180000	180000	180000	0	0	0	180000	180000	180000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	3	manamax_v	16	25	-1	-1	0	0	3	1390	-1	108000	108000	108000	108000	108000	108000	108000	108000	108000	108000	108000	0	0	0	108000	108000	108000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	4	manamax_v	26	40	-1	-1	0	0	4	2350	-1	64000	64000	64000	64000	64000	64000	64000	64000	64000	64000	64000	0	0	0	64000	64000	64000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	5	manamax_v	41	55	-1	-1	0	0	5	4170	-1	36000	36000	36000	36000	36000	36000	36000	36000	36000	36000	36000	0	0	0	36000	36000	36000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	6	manamax_v	56	70	-1	-1	0	0	6	7150	-1	21000	21000	21000	21000	21000	21000	21000	21000	21000	21000	21000	0	0	0	21000	21000	21000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	7	manamax_v	71	85	-1	-1	0	0	7	12500	-1	12000	12000	12000	12000	12000	12000	12000	12000	12000	12000	12000	0	0	0	12000	12000	12000	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	8	manamax_v	86	100	-1	-1	0	0	8	20000	-1	7500	7500	7500	7500	7500	7500	7500	7500	7500	7500	7500	0	0	0	7500	7500	7500	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	9	manamax_v	101	115	-1	-1	0	0	9	33340	-1	4500	4500	4500	4500	4500	4500	4500	4500	4500	4500	4500	0	0	0	4500	4500	4500	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	10	manamax_v	116	130	-1	-1	0	0	10	83340	-1	1800	1800	1800	1800	1800	1800	1800	1800	1800	1800	1800	0	0	0	1800	1800	1800	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	11	manamax_v	131	145	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	12	manamax_v	146	160	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	13	manamax_v	161	175	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	14	manamax_v	176	190	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	15	manamax_v	191	210	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	16	manamax_v	211	230	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	17	manamax_v	231	250	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	18	manamax_v	251	270	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	19	manamax_v	271	290	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	20	manamax_v	291	310	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	21	manamax_v	311	330	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	22	manamax_v	331	350	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	23	manamax_v	351	370	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	24	manamax_v	371	390	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	25	manamax_v	391	410	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng nội lực tối đa	Hoàng Quang	0	26	manamax_v	411	430	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	1	staminamax_v	1	10	-1	-1	0	0	1	340	-1	0	0	300000	300000	300000	300000	300000	300000	300000	300000	300000	0	0	0	300000	300000	300000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	2	staminamax_v	11	20	-1	-1	0	0	2	560	-1	0	0	180000	180000	180000	180000	180000	180000	180000	180000	180000	0	0	0	180000	180000	180000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	3	staminamax_v	21	30	-1	-1	0	0	3	930	-1	0	0	108000	108000	108000	108000	108000	108000	108000	108000	108000	0	0	0	108000	108000	108000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	4	staminamax_v	31	40	-1	-1	0	0	4	1570	-1	0	0	64000	64000	64000	64000	64000	64000	64000	64000	64000	0	0	0	64000	64000	64000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	5	staminamax_v	41	50	-1	-1	0	0	5	2780	-1	0	0	36000	36000	36000	36000	36000	36000	36000	36000	36000	0	0	0	36000	36000	36000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	6	staminamax_v	51	60	-1	-1	0	0	6	4770	-1	0	0	21000	21000	21000	21000	21000	21000	21000	21000	21000	0	0	0	21000	21000	21000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	7	staminamax_v	61	70	-1	-1	0	0	7	8340	-1	0	0	12000	12000	12000	12000	12000	12000	12000	12000	12000	0	0	0	12000	12000	12000	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	8	staminamax_v	71	80	-1	-1	0	0	8	13340	-1	0	0	7500	7500	7500	7500	7500	7500	7500	7500	7500	0	0	0	7500	7500	7500	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	9	staminamax_v	81	90	-1	-1	0	0	9	22230	-1	0	0	4500	4500	4500	4500	4500	4500	4500	4500	4500	0	0	0	4500	4500	4500	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	10	staminamax_v	91	100	-1	-1	0	0	10	55560	-1	0	0	1800	1800	1800	1800	1800	1800	1800	1800	1800	0	0	0	1800	1800	1800	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	11	staminamax_v	101	110	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	12	staminamax_v	111	120	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	13	staminamax_v	121	130	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	14	staminamax_v	131	140	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	15	staminamax_v	141	150	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	16	staminamax_v	151	160	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	17	staminamax_v	161	170	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	18	staminamax_v	171	180	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	19	staminamax_v	181	190	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	20	staminamax_v	191	200	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	21	staminamax_v	201	210	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	22	staminamax_v	211	220	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	23	staminamax_v	221	230	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	24	staminamax_v	231	240	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	25	staminamax_v	241	250	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng thể lực tối đa	Thiên Sơn	0	26	staminamax_v	251	260	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	1	lifereplenish_v	1	2	-1	-1	0	0	1	1000	-1	0	0	100000	100000	100000	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	2	lifereplenish_v	3	4	-1	-1	0	0	2	1670	-1	0	0	60000	60000	60000	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	3	lifereplenish_v	5	6	-1	-1	0	0	3	2780	-1	0	0	36000	36000	36000	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	4	lifereplenish_v	7	8	-1	-1	0	0	4	4630	-1	0	0	21600	21600	21600	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	5	lifereplenish_v	9	10	-1	-1	0	0	5	7700	-1	0	0	13000	13000	13000	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	6	lifereplenish_v	11	12	-1	-1	0	0	6	12850	-1	0	0	7800	7800	7800	7800	7800	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	7	lifereplenish_v	13	14	-1	-1	0	0	7	21280	-1	0	0	4700	4700	4700	4700	4700	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	8	lifereplenish_v	15	16	-1	-1	0	0	8	35750	-1	0	0	2800	2800	2800	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	9	lifereplenish_v	17	18	-1	-1	0	0	9	58890	-1	0	0	1700	1700	1700	1700	1700	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	10	lifereplenish_v	19	20	-1	-1	0	0	10	125000	-1	0	0	800	800	800	800	800	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	11	lifereplenish_v	21	22	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	12	lifereplenish_v	23	24	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	13	lifereplenish_v	25	26	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	14	lifereplenish_v	27	28	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	15	lifereplenish_v	29	30	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	16	lifereplenish_v	31	32	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	17	lifereplenish_v	33	34	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	18	lifereplenish_v	35	36	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	19	lifereplenish_v	37	38	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	20	lifereplenish_v	39	40	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	21	lifereplenish_v	41	42	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	22	lifereplenish_v	43	44	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	23	lifereplenish_v	45	46	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	24	lifereplenish_v	47	48	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	25	lifereplenish_v	49	50	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục sinh lực	Cửu Mệnh	0	26	lifereplenish_v	51	55	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	1	manareplenish_v	1	2	-1	-1	0	0	1	2000	-1	0	0	0	0	0	0	0	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	2	manareplenish_v	3	4	-1	-1	0	0	2	3340	-1	0	0	0	0	0	0	0	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	3	manareplenish_v	5	6	-1	-1	0	0	3	5560	-1	0	0	0	0	0	0	0	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	4	manareplenish_v	7	8	-1	-1	0	0	4	9260	-1	0	0	0	0	0	0	0	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	5	manareplenish_v	9	10	-1	-1	0	0	5	15390	-1	0	0	0	0	0	0	0	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	6	manareplenish_v	11	12	-1	-1	0	0	6	25000	-1	0	0	0	0	0	0	0	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	7	manareplenish_v	13	14	-1	-1	0	0	7	44450	-1	0	0	0	0	0	0	0	2250	2250	2250	2250	0	0	0	2250	2250	2250	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	8	manareplenish_v	15	16	-1	-1	0	0	8	66670	-1	0	0	0	0	0	0	0	1500	1500	1500	1500	0	0	0	1500	1500	1500	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	9	manareplenish_v	17	18	-1	-1	0	0	9	117650	-1	0	0	0	0	0	0	0	850	850	850	850	0	0	0	850	850	850	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	10	manareplenish_v	19	20	-1	-1	0	0	10	333340	-1	0	0	0	0	0	0	0	300	300	300	300	0	0	0	300	300	300	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	11	manareplenish_v	21	22	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	12	manareplenish_v	23	24	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	13	manareplenish_v	25	26	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	14	manareplenish_v	27	28	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	15	manareplenish_v	29	30	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	16	manareplenish_v	31	32	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	17	manareplenish_v	33	34	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	18	manareplenish_v	35	36	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	19	manareplenish_v	37	38	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	20	manareplenish_v	39	40	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	21	manareplenish_v	41	42	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	22	manareplenish_v	43	44	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	23	manareplenish_v	45	46	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	24	manareplenish_v	47	48	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	25	manareplenish_v	49	50	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục nội lực	Quy Nguyên	0	26	manareplenish_v	51	55	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	1	staminareplenish_v	1	2	-1	-1	0	0	1	2000	-1	0	0	0	0	0	0	0	50000	50000	50000	0	0	0	0	50000	50000	50000	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	2	staminareplenish_v	3	4	-1	-1	0	0	2	3340	-1	0	0	0	0	0	0	0	30000	30000	30000	0	0	0	0	30000	30000	30000	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	3	staminareplenish_v	5	6	-1	-1	0	0	3	5560	-1	0	0	0	0	0	0	0	18000	18000	18000	0	0	0	0	18000	18000	18000	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	4	staminareplenish_v	7	8	-1	-1	0	0	4	9260	-1	0	0	0	0	0	0	0	10800	10800	10800	0	0	0	0	10800	10800	10800	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	5	staminareplenish_v	9	10	-1	-1	0	0	5	15390	-1	0	0	0	0	0	0	0	6500	6500	6500	0	0	0	0	6500	6500	6500	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	6	staminareplenish_v	11	12	-1	-1	0	0	6	25000	-1	0	0	0	0	0	0	0	4000	4000	4000	0	0	0	0	4000	4000	4000	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	7	staminareplenish_v	13	14	-1	-1	0	0	7	44450	-1	0	0	0	0	0	0	0	2250	2250	2250	0	0	0	0	2250	2250	2250	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	8	staminareplenish_v	15	16	-1	-1	0	0	8	66670	-1	0	0	0	0	0	0	0	1500	1500	1500	0	0	0	0	1500	1500	1500	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	9	staminareplenish_v	17	18	-1	-1	0	0	9	117650	-1	0	0	0	0	0	0	0	850	850	850	0	0	0	0	850	850	850	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	10	staminareplenish_v	19	20	-1	-1	0	0	10	333340	-1	0	0	0	0	0	0	0	300	300	300	0	0	0	0	300	300	300	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	11	staminareplenish_v	21	22	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	12	staminareplenish_v	23	24	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	13	staminareplenish_v	25	26	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	14	staminareplenish_v	27	28	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	15	staminareplenish_v	29	30	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	16	staminareplenish_v	31	32	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	17	staminareplenish_v	33	34	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	18	staminareplenish_v	35	36	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	19	staminareplenish_v	37	38	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	20	staminareplenish_v	39	40	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	21	staminareplenish_v	41	42	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	22	staminareplenish_v	43	44	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	23	staminareplenish_v	45	46	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	24	staminareplenish_v	47	48	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	25	staminareplenish_v	49	50	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tốc độ hồi phục thể lực	Lâm Li	0	26	staminareplenish_v	51	52	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	1	addphysicsdamage_v	1	100	-1	-1	0	0	1	4000	1	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	2	addphysicsdamage_v	101	200	-1	-1	0	0	2	6670	1	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	3	addphysicsdamage_v	201	300	-1	-1	0	0	3	11120	1	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	4	addphysicsdamage_v	301	400	-1	-1	0	0	4	18520	1	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	5	addphysicsdamage_v	401	500	-1	-1	0	0	5	30800	1	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	6	addphysicsdamage_v	501	600	-1	-1	0	0	6	50000	1	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	7	addphysicsdamage_v	601	700	-1	-1	0	0	7	86960	1	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	8	addphysicsdamage_v	701	800	-1	-1	0	0	8	142860	1	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	9	addphysicsdamage_v	801	900	-1	-1	0	0	9	250000	1	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	10	addphysicsdamage_v	901	1000	-1	-1	0	0	10	500000	1	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	11	addphysicsdamage_v	1001	1150	-1	-1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	12	addphysicsdamage_v	1151	1300	-1	-1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	13	addphysicsdamage_v	1301	1450	-1	-1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	14	addphysicsdamage_v	1451	1600	-1	-1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	15	addphysicsdamage_v	1601	1750	-1	-1	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	16	addphysicsdamage_v	1751	1900	-1	-1	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	17	addphysicsdamage_v	1901	2050	-1	-1	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	18	addphysicsdamage_v	2051	2200	-1	-1	0	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	19	addphysicsdamage_v	2201	2350	-1	-1	0	0	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	20	addphysicsdamage_v	2400	2550	-1	-1	0	0	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	21	addphysicsdamage_v	2600	2750	-1	-1	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	22	addphysicsdamage_v	2900	3050	-1	-1	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	23	addphysicsdamage_v	3200	3350	-1	-1	0	0	13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	24	addphysicsdamage_v	3600	3750	-1	-1	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	25	addphysicsdamage_v	4000	4150	-1	-1	0	0	15	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công ngoại	Thương Lang	1	26	addphysicsdamage_v	4400	4550	-1	-1	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	1	addphysicsmagic_v	1	100	-1	-1	0	0	1	4000	1	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	2	addphysicsmagic_v	101	200	-1	-1	0	0	2	6670	1	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	3	addphysicsmagic_v	201	300	-1	-1	0	0	3	11120	1	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	4	addphysicsmagic_v	301	400	-1	-1	0	0	4	18520	1	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	5	addphysicsmagic_v	401	500	-1	-1	0	0	5	30800	1	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	6	addphysicsmagic_v	501	600	-1	-1	0	0	6	50000	1	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	7	addphysicsmagic_v	601	700	-1	-1	0	0	7	86960	1	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	8	addphysicsmagic_v	701	800	-1	-1	0	0	8	142860	1	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	9	addphysicsmagic_v	801	900	-1	-1	0	0	9	250000	1	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	10	addphysicsmagic_v	901	1000	-1	-1	0	0	10	500000	1	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	11	addphysicsmagic_v	1001	1150	-1	-1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	12	addphysicsmagic_v	1151	1300	-1	-1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	13	addphysicsmagic_v	1301	1450	-1	-1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	14	addphysicsmagic_v	1451	1600	-1	-1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	15	addphysicsmagic_v	1601	1750	-1	-1	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	16	addphysicsmagic_v	1751	1900	-1	-1	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	17	addphysicsmagic_v	1901	2050	-1	-1	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	18	addphysicsmagic_v	2051	2200	-1	-1	0	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	19	addphysicsmagic_v	2201	2350	-1	-1	0	0	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	20	addphysicsmagic_v	2400	2550	-1	-1	0	0	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	21	addphysicsmagic_v	2600	2750	-1	-1	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	22	addphysicsmagic_v	2900	3050	-1	-1	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	23	addphysicsmagic_v	3200	3350	-1	-1	0	0	13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	24	addphysicsmagic_v	3600	3750	-1	-1	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	25	addphysicsmagic_v	4000	4150	-1	-1	0	0	15	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật công nội	Đoạn Hải	1	26	addphysicsmagic_v	4400	4550	-1	-1	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	1	damage2addmana_p	1	1	-1	-1	0	0	1	1000	-1	0	0	100000	100000	100000	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	2	damage2addmana_p	1	1	-1	-1	0	0	2	1670	-1	0	0	60000	60000	60000	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	3	damage2addmana_p	2	2	-1	-1	0	0	3	2780	-1	0	0	36000	36000	36000	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	4	damage2addmana_p	2	2	-1	-1	0	0	4	4630	-1	0	0	21600	21600	21600	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	5	damage2addmana_p	3	3	-1	-1	0	0	5	7695	-1	0	0	13000	13000	13000	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	6	damage2addmana_p	3	3	-1	-1	0	0	6	12500	-1	0	0	8000	8000	8000	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	7	damage2addmana_p	4	4	-1	-1	0	0	7	21740	-1	0	0	4600	4600	4600	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	8	damage2addmana_p	4	4	-1	-1	0	0	8	35715	-1	0	0	2800	2800	2800	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	9	damage2addmana_p	5	5	-1	-1	0	0	9	62500	-1	0	0	1600	1600	1600	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	10	damage2addmana_p	5	5	-1	-1	0	0	10	125000	-1	0	0	800	800	800	800	800	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	11	damage2addmana_p	6	6	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	12	damage2addmana_p	6	6	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	13	damage2addmana_p	7	7	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	14	damage2addmana_p	7	7	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	15	damage2addmana_p	8	8	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	16	damage2addmana_p	8	8	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	17	damage2addmana_p	9	9	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	18	damage2addmana_p	9	9	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	19	damage2addmana_p	10	10	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	20	damage2addmana_p	11	11	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	21	damage2addmana_p	11	11	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	22	damage2addmana_p	12	12	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	23	damage2addmana_p	12	12	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	24	damage2addmana_p	13	13	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	25	damage2addmana_p	14	14	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chuyển sát thương thành nội lực	Hỗn Nguyên	1	26	damage2addmana_p	15	15	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	1	damage_poison_resist	1	5	-1	-1	0	0	1	1000	1	100000	100000	200000	200000	200000	200000	200000	200000	200000	200000	200000	0	0	0	200000	200000	200000	0	0
+Tăng độc phòng	Chu Thiềm	1	2	damage_poison_resist	6	10	-1	-1	0	0	2	1670	1	60000	60000	120000	120000	120000	120000	120000	120000	120000	120000	120000	0	0	0	120000	120000	120000	0	0
+Tăng độc phòng	Chu Thiềm	1	3	damage_poison_resist	11	15	-1	-1	0	0	3	2780	1	36000	36000	72000	72000	72000	72000	72000	72000	72000	72000	72000	0	0	0	72000	72000	72000	0	0
+Tăng độc phòng	Chu Thiềm	1	4	damage_poison_resist	16	20	-1	-1	0	0	4	4630	1	21600	21600	43200	43200	43200	43200	43200	43200	43200	43200	43200	0	0	0	43200	43200	43200	0	0
+Tăng độc phòng	Chu Thiềm	1	5	damage_poison_resist	21	25	-1	-1	0	0	5	7695	1	13000	13000	26000	26000	26000	26000	26000	26000	26000	26000	26000	0	0	0	26000	26000	26000	0	0
+Tăng độc phòng	Chu Thiềm	1	6	damage_poison_resist	26	30	-1	-1	0	0	6	12825	1	7800	7800	15600	15600	15600	15600	15600	15600	15600	15600	15600	0	0	0	15600	15600	15600	0	0
+Tăng độc phòng	Chu Thiềm	1	7	damage_poison_resist	31	35	-1	-1	0	0	7	21285	1	4700	4700	9400	9400	9400	9400	9400	9400	9400	9400	9400	0	0	0	9400	9400	9400	0	0
+Tăng độc phòng	Chu Thiềm	1	8	damage_poison_resist	36	40	-1	-1	0	0	8	35715	1	2800	2800	5600	5600	5600	5600	5600	5600	5600	5600	5600	0	0	0	5600	5600	5600	0	0
+Tăng độc phòng	Chu Thiềm	1	9	damage_poison_resist	41	45	-1	-1	0	0	9	58825	1	1700	1700	3400	3400	3400	3400	3400	3400	3400	3400	3400	0	0	0	3400	3400	3400	0	0
+Tăng độc phòng	Chu Thiềm	1	10	damage_poison_resist	46	50	-1	-1	0	0	10	125000	1	800	800	1600	1600	1600	1600	1600	1600	1600	1600	1600	0	0	0	1600	1600	1600	0	0
+Tăng độc phòng	Chu Thiềm	1	11	damage_poison_resist	51	55	-1	-1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	12	damage_poison_resist	56	60	-1	-1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	13	damage_poison_resist	61	65	-1	-1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	14	damage_poison_resist	66	70	-1	-1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	15	damage_poison_resist	71	75	-1	-1	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	16	damage_poison_resist	76	80	-1	-1	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	17	damage_poison_resist	81	85	-1	-1	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	18	damage_poison_resist	86	90	-1	-1	0	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	19	damage_poison_resist	91	95	-1	-1	0	0	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	20	damage_poison_resist	96	100	-1	-1	0	0	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	21	damage_poison_resist	101	105	-1	-1	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	22	damage_poison_resist	106	115	-1	-1	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	23	damage_poison_resist	116	125	-1	-1	0	0	13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	24	damage_poison_resist	126	140	-1	-1	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	25	damage_poison_resist	141	155	-1	-1	0	0	15	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc phòng	Chu Thiềm	1	26	damage_poison_resist	156	170	-1	-1	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	1	state_hurt_attacktime	1	10	-1	-1	0	0	1	3000	1	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	2	state_hurt_attacktime	11	20	-1	-1	0	0	2	5000	1	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	3	state_hurt_attacktime	21	30	-1	-1	0	0	3	8335	1	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	4	state_hurt_attacktime	31	40	-1	-1	0	0	4	13890	1	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	5	state_hurt_attacktime	41	50	-1	-1	0	0	5	23080	1	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	6	state_hurt_attacktime	51	60	-1	-1	0	0	6	37500	1	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	7	state_hurt_attacktime	61	70	-1	-1	0	0	7	65220	1	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	8	state_hurt_attacktime	71	80	-1	-1	0	0	8	107145	1	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	9	state_hurt_attacktime	81	90	-1	-1	0	0	9	187500	1	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	10	state_hurt_attacktime	91	100	-1	-1	0	0	10	375000	1	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	11	state_hurt_attacktime	101	110	-1	-1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	12	state_hurt_attacktime	111	120	-1	-1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	13	state_hurt_attacktime	121	130	-1	-1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	14	state_hurt_attacktime	131	140	-1	-1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	15	state_hurt_attacktime	141	150	-1	-1	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	16	state_hurt_attacktime	151	160	-1	-1	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	17	state_hurt_attacktime	161	170	-1	-1	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	18	state_hurt_attacktime	171	180	-1	-1	0	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	19	state_hurt_attacktime	181	190	-1	-1	0	0	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	20	state_hurt_attacktime	191	200	-1	-1	0	0	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	21	state_hurt_attacktime	201	210	-1	-1	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	22	state_hurt_attacktime	211	230	-1	-1	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	23	state_hurt_attacktime	231	250	-1	-1	0	0	13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	24	state_hurt_attacktime	251	280	-1	-1	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	25	state_hurt_attacktime	281	310	-1	-1	0	0	15	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ thọ thương	Bạch Hổ	1	26	state_hurt_attacktime	311	340	-1	-1	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	1	addpoisondamage_v	5	15	90	90	0	0	1	4000	2	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	2	addpoisondamage_v	16	30	90	90	0	0	2	6670	2	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	3	addpoisondamage_v	31	45	90	90	0	0	3	11120	2	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	4	addpoisondamage_v	46	60	90	90	0	0	4	18520	2	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	5	addpoisondamage_v	61	75	90	90	0	0	5	30800	2	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	6	addpoisondamage_v	76	90	90	90	0	0	6	50000	2	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	7	addpoisondamage_v	91	105	90	90	0	0	7	86960	2	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	8	addpoisondamage_v	106	120	90	90	0	0	8	142860	2	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	9	addpoisondamage_v	121	135	90	90	0	0	9	250000	2	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	10	addpoisondamage_v	136	150	90	90	0	0	10	500000	2	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	11	addpoisondamage_v	151	170	90	90	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	12	addpoisondamage_v	171	190	90	90	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	13	addpoisondamage_v	191	210	90	90	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	14	addpoisondamage_v	211	230	90	90	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	15	addpoisondamage_v	231	250	90	90	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	16	addpoisondamage_v	251	270	90	90	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	17	addpoisondamage_v	271	290	90	90	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	18	addpoisondamage_v	291	310	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	19	addpoisondamage_v	311	330	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	20	addpoisondamage_v	362	382	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	21	addpoisondamage_v	392	412	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	22	addpoisondamage_v	437	457	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	23	addpoisondamage_v	482	502	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	24	addpoisondamage_v	542	562	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	25	addpoisondamage_v	602	622	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công ngoại	Ô Sương	1	26	addpoisondamage_v	662	682	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	1	addpoisonmagic_v	5	15	90	90	0	0	1	4000	2	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	2	addpoisonmagic_v	16	30	90	90	0	0	2	6670	2	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	3	addpoisonmagic_v	31	45	90	90	0	0	3	11120	2	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	4	addpoisonmagic_v	46	60	90	90	0	0	4	18520	2	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	5	addpoisonmagic_v	61	75	90	90	0	0	5	30800	2	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	6	addpoisonmagic_v	76	90	90	90	0	0	6	50000	2	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	7	addpoisonmagic_v	91	105	90	90	0	0	7	86960	2	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	8	addpoisonmagic_v	106	120	90	90	0	0	8	142860	2	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	9	addpoisonmagic_v	121	135	90	90	0	0	9	250000	2	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	10	addpoisonmagic_v	136	150	90	90	0	0	10	500000	2	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	11	addpoisonmagic_v	151	170	90	90	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	12	addpoisonmagic_v	171	190	90	90	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	13	addpoisonmagic_v	191	210	90	90	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	14	addpoisonmagic_v	211	230	90	90	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	15	addpoisonmagic_v	231	250	90	90	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	16	addpoisonmagic_v	251	270	90	90	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	17	addpoisonmagic_v	271	290	90	90	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	18	addpoisonmagic_v	291	310	90	90	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	19	addpoisonmagic_v	311	330	90	90	0	0	9	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	20	addpoisonmagic_v	362	382	90	90	0	0	10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	21	addpoisonmagic_v	392	412	90	90	0	0	11	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	22	addpoisonmagic_v	437	457	90	90	0	0	12	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	23	addpoisonmagic_v	482	502	90	90	0	0	13	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	24	addpoisonmagic_v	542	562	90	90	0	0	14	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	25	addpoisonmagic_v	602	622	90	90	0	0	15	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng độc công nội	Thực Cốt	1	26	addpoisonmagic_v	662	682	90	90	0	0	16	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	1	damage_light_resist	2	5	-1	-1	0	0	1	1000	2	100000	100000	200000	200000	200000	200000	200000	200000	200000	200000	200000	0	0	0	200000	200000	200000	0	0
+Tăng lôi phòng	Cự Mộc	1	2	damage_light_resist	6	10	-1	-1	0	0	2	1670	2	60000	60000	120000	120000	120000	120000	120000	120000	120000	120000	120000	0	0	0	120000	120000	120000	0	0
+Tăng lôi phòng	Cự Mộc	1	3	damage_light_resist	11	15	-1	-1	0	0	3	2780	2	36000	36000	72000	72000	72000	72000	72000	72000	72000	72000	72000	0	0	0	72000	72000	72000	0	0
+Tăng lôi phòng	Cự Mộc	1	4	damage_light_resist	16	20	-1	-1	0	0	4	4630	2	21600	21600	43200	43200	43200	43200	43200	43200	43200	43200	43200	0	0	0	43200	43200	43200	0	0
+Tăng lôi phòng	Cự Mộc	1	5	damage_light_resist	21	25	-1	-1	0	0	5	7695	2	13000	13000	26000	26000	26000	26000	26000	26000	26000	26000	26000	0	0	0	26000	26000	26000	0	0
+Tăng lôi phòng	Cự Mộc	1	6	damage_light_resist	26	30	-1	-1	0	0	6	12825	2	7800	7800	15600	15600	15600	15600	15600	15600	15600	15600	15600	0	0	0	15600	15600	15600	0	0
+Tăng lôi phòng	Cự Mộc	1	7	damage_light_resist	31	35	-1	-1	0	0	7	21285	2	4700	4700	9400	9400	9400	9400	9400	9400	9400	9400	9400	0	0	0	9400	9400	9400	0	0
+Tăng lôi phòng	Cự Mộc	1	8	damage_light_resist	36	40	-1	-1	0	0	8	35715	2	2800	2800	5600	5600	5600	5600	5600	5600	5600	5600	5600	0	0	0	5600	5600	5600	0	0
+Tăng lôi phòng	Cự Mộc	1	9	damage_light_resist	41	45	-1	-1	0	0	9	58825	2	1700	1700	3400	3400	3400	3400	3400	3400	3400	3400	3400	0	0	0	3400	3400	3400	0	0
+Tăng lôi phòng	Cự Mộc	1	10	damage_light_resist	46	50	-1	-1	0	0	10	125000	2	800	800	1600	1600	1600	1600	1600	1600	1600	1600	1600	0	0	0	1600	1600	1600	0	0
+Tăng lôi phòng	Cự Mộc	1	11	damage_light_resist	51	55	-1	-1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	12	damage_light_resist	56	60	-1	-1	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	13	damage_light_resist	61	65	-1	-1	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	14	damage_light_resist	66	70	-1	-1	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	15	damage_light_resist	71	75	-1	-1	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	16	damage_light_resist	76	80	-1	-1	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	17	damage_light_resist	81	85	-1	-1	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	18	damage_light_resist	86	90	-1	-1	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	19	damage_light_resist	91	95	-1	-1	0	0	9	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	20	damage_light_resist	96	100	-1	-1	0	0	10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	21	damage_light_resist	101	105	-1	-1	0	0	11	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	22	damage_light_resist	106	115	-1	-1	0	0	12	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	23	damage_light_resist	116	125	-1	-1	0	0	13	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	24	damage_light_resist	126	140	-1	-1	0	0	14	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	25	damage_light_resist	141	155	-1	-1	0	0	15	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi phòng	Cự Mộc	1	26	damage_light_resist	156	170	-1	-1	0	0	16	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	1	state_weak_attacktime	1	10	-1	-1	0	0	1	3000	2	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	2	state_weak_attacktime	11	20	-1	-1	0	0	2	5000	2	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	3	state_weak_attacktime	21	30	-1	-1	0	0	3	8335	2	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	4	state_weak_attacktime	31	40	-1	-1	0	0	4	13890	2	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	5	state_weak_attacktime	41	50	-1	-1	0	0	5	23080	2	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	6	state_weak_attacktime	51	60	-1	-1	0	0	6	37500	2	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	7	state_weak_attacktime	61	70	-1	-1	0	0	7	65220	2	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	8	state_weak_attacktime	71	80	-1	-1	0	0	8	107145	2	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	9	state_weak_attacktime	81	90	-1	-1	0	0	9	187500	2	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	10	state_weak_attacktime	91	100	-1	-1	0	0	10	375000	2	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	11	state_weak_attacktime	101	110	-1	-1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	12	state_weak_attacktime	111	120	-1	-1	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	13	state_weak_attacktime	121	130	-1	-1	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	14	state_weak_attacktime	131	140	-1	-1	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	15	state_weak_attacktime	141	150	-1	-1	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	16	state_weak_attacktime	151	160	-1	-1	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	17	state_weak_attacktime	161	170	-1	-1	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	18	state_weak_attacktime	171	180	-1	-1	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	19	state_weak_attacktime	181	190	-1	-1	0	0	9	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	20	state_weak_attacktime	191	200	-1	-1	0	0	10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	21	state_weak_attacktime	201	210	-1	-1	0	0	11	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	22	state_weak_attacktime	211	230	-1	-1	0	0	12	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	23	state_weak_attacktime	231	250	-1	-1	0	0	13	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	24	state_weak_attacktime	251	280	-1	-1	0	0	14	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	25	state_weak_attacktime	281	310	-1	-1	0	0	15	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ suy yếu	Thanh Long	1	26	state_weak_attacktime	311	340	-1	-1	0	0	16	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	1	addcolddamage_v	1	100	-1	-1	0	0	1	4000	3	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	2	addcolddamage_v	101	200	-1	-1	0	0	2	6670	3	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	3	addcolddamage_v	201	300	-1	-1	0	0	3	11120	3	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	4	addcolddamage_v	301	400	-1	-1	0	0	4	18520	3	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	5	addcolddamage_v	401	500	-1	-1	0	0	5	30800	3	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	6	addcolddamage_v	501	600	-1	-1	0	0	6	50000	3	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	7	addcolddamage_v	601	700	-1	-1	0	0	7	86960	3	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	8	addcolddamage_v	701	800	-1	-1	0	0	8	142860	3	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	9	addcolddamage_v	801	900	-1	-1	0	0	9	250000	3	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	10	addcolddamage_v	901	1000	-1	-1	0	0	10	500000	3	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	11	addcolddamage_v	1001	1150	-1	-1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	12	addcolddamage_v	1151	1300	-1	-1	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	13	addcolddamage_v	1301	1450	-1	-1	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	14	addcolddamage_v	1451	1600	-1	-1	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	15	addcolddamage_v	1601	1750	-1	-1	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	16	addcolddamage_v	1751	1900	-1	-1	0	0	6	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	17	addcolddamage_v	1901	2050	-1	-1	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	18	addcolddamage_v	2051	2200	-1	-1	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	19	addcolddamage_v	2201	2350	-1	-1	0	0	9	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	20	addcolddamage_v	2400	2550	-1	-1	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	21	addcolddamage_v	2600	2750	-1	-1	0	0	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	22	addcolddamage_v	2900	3050	-1	-1	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	23	addcolddamage_v	3200	3350	-1	-1	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	24	addcolddamage_v	3600	3750	-1	-1	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	25	addcolddamage_v	4000	4150	-1	-1	0	0	15	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công ngoại	Hàn Băng	1	26	addcolddamage_v	4400	4550	-1	-1	0	0	16	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	1	addcoldmagic_v	1	100	-1	-1	0	0	1	4000	3	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	2	addcoldmagic_v	101	200	-1	-1	0	0	2	6670	3	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	3	addcoldmagic_v	201	300	-1	-1	0	0	3	11120	3	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	4	addcoldmagic_v	301	400	-1	-1	0	0	4	18520	3	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	5	addcoldmagic_v	401	500	-1	-1	0	0	5	30800	3	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	6	addcoldmagic_v	501	600	-1	-1	0	0	6	50000	3	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	7	addcoldmagic_v	601	700	-1	-1	0	0	7	86960	3	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	8	addcoldmagic_v	701	800	-1	-1	0	0	8	142860	3	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	9	addcoldmagic_v	801	900	-1	-1	0	0	9	250000	3	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	10	addcoldmagic_v	901	1000	-1	-1	0	0	10	500000	3	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	11	addcoldmagic_v	1001	1150	-1	-1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	12	addcoldmagic_v	1151	1300	-1	-1	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	13	addcoldmagic_v	1301	1450	-1	-1	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	14	addcoldmagic_v	1451	1600	-1	-1	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	15	addcoldmagic_v	1601	1750	-1	-1	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	16	addcoldmagic_v	1751	1900	-1	-1	0	0	6	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	17	addcoldmagic_v	1901	2050	-1	-1	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	18	addcoldmagic_v	2051	2200	-1	-1	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	19	addcoldmagic_v	2201	2350	-1	-1	0	0	9	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	20	addcoldmagic_v	2400	2550	-1	-1	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	21	addcoldmagic_v	2600	2750	-1	-1	0	0	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	22	addcoldmagic_v	2900	3050	-1	-1	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	23	addcoldmagic_v	3200	3350	-1	-1	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	24	addcoldmagic_v	3600	3750	-1	-1	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	25	addcoldmagic_v	4000	4150	-1	-1	0	0	15	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng công nội	Triệt Cốt	1	26	addcoldmagic_v	4400	4550	-1	-1	0	0	16	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	1	damage_fire_resist	2	5	-1	-1	0	0	1	1000	3	100000	100000	200000	200000	200000	200000	200000	200000	200000	200000	200000	0	0	0	200000	200000	200000	0	0
+Tăng hỏa phòng	Việt Quang	1	2	damage_fire_resist	6	10	-1	-1	0	0	2	1670	3	60000	60000	120000	120000	120000	120000	120000	120000	120000	120000	120000	0	0	0	120000	120000	120000	0	0
+Tăng hỏa phòng	Việt Quang	1	3	damage_fire_resist	11	15	-1	-1	0	0	3	2780	3	36000	36000	72000	72000	72000	72000	72000	72000	72000	72000	72000	0	0	0	72000	72000	72000	0	0
+Tăng hỏa phòng	Việt Quang	1	4	damage_fire_resist	16	20	-1	-1	0	0	4	4630	3	21600	21600	43200	43200	43200	43200	43200	43200	43200	43200	43200	0	0	0	43200	43200	43200	0	0
+Tăng hỏa phòng	Việt Quang	1	5	damage_fire_resist	21	25	-1	-1	0	0	5	7695	3	13000	13000	26000	26000	26000	26000	26000	26000	26000	26000	26000	0	0	0	26000	26000	26000	0	0
+Tăng hỏa phòng	Việt Quang	1	6	damage_fire_resist	26	30	-1	-1	0	0	6	12825	3	7800	7800	15600	15600	15600	15600	15600	15600	15600	15600	15600	0	0	0	15600	15600	15600	0	0
+Tăng hỏa phòng	Việt Quang	1	7	damage_fire_resist	31	35	-1	-1	0	0	7	21285	3	4700	4700	9400	9400	9400	9400	9400	9400	9400	9400	9400	0	0	0	9400	9400	9400	0	0
+Tăng hỏa phòng	Việt Quang	1	8	damage_fire_resist	36	40	-1	-1	0	0	8	35715	3	2800	2800	5600	5600	5600	5600	5600	5600	5600	5600	5600	0	0	0	5600	5600	5600	0	0
+Tăng hỏa phòng	Việt Quang	1	9	damage_fire_resist	41	45	-1	-1	0	0	9	58825	3	1700	1700	3400	3400	3400	3400	3400	3400	3400	3400	3400	0	0	0	3400	3400	3400	0	0
+Tăng hỏa phòng	Việt Quang	1	10	damage_fire_resist	46	50	-1	-1	0	0	10	125000	3	800	800	1600	1600	1600	1600	1600	1600	1600	1600	1600	0	0	0	1600	1600	1600	0	0
+Tăng hỏa phòng	Việt Quang	1	11	damage_fire_resist	51	55	-1	-1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	12	damage_fire_resist	56	60	-1	-1	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	13	damage_fire_resist	61	65	-1	-1	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	14	damage_fire_resist	66	70	-1	-1	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	15	damage_fire_resist	71	75	-1	-1	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	16	damage_fire_resist	76	80	-1	-1	0	0	6	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	17	damage_fire_resist	81	85	-1	-1	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	18	damage_fire_resist	86	90	-1	-1	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	19	damage_fire_resist	91	95	-1	-1	0	0	9	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	20	damage_fire_resist	96	100	-1	-1	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	21	damage_fire_resist	101	105	-1	-1	0	0	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	22	damage_fire_resist	106	115	-1	-1	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	23	damage_fire_resist	116	125	-1	-1	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	24	damage_fire_resist	126	140	-1	-1	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	25	damage_fire_resist	141	155	-1	-1	0	0	15	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa phòng	Việt Quang	1	26	damage_fire_resist	156	170	-1	-1	0	0	16	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	1	state_slowall_attacktime	1	10	-1	-1	0	0	1	3000	3	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	2	state_slowall_attacktime	11	20	-1	-1	0	0	2	5000	3	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	3	state_slowall_attacktime	21	30	-1	-1	0	0	3	8335	3	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	4	state_slowall_attacktime	31	40	-1	-1	0	0	4	13890	3	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	5	state_slowall_attacktime	41	50	-1	-1	0	0	5	23080	3	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	6	state_slowall_attacktime	51	60	-1	-1	0	0	6	37500	3	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	7	state_slowall_attacktime	61	70	-1	-1	0	0	7	65220	3	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	8	state_slowall_attacktime	71	80	-1	-1	0	0	8	107145	3	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	9	state_slowall_attacktime	81	90	-1	-1	0	0	9	187500	3	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	10	state_slowall_attacktime	91	100	-1	-1	0	0	10	375000	3	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	11	state_slowall_attacktime	101	110	-1	-1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	12	state_slowall_attacktime	111	120	-1	-1	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	13	state_slowall_attacktime	121	130	-1	-1	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	14	state_slowall_attacktime	131	140	-1	-1	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	15	state_slowall_attacktime	141	150	-1	-1	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	16	state_slowall_attacktime	151	160	-1	-1	0	0	6	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	17	state_slowall_attacktime	161	170	-1	-1	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	18	state_slowall_attacktime	171	180	-1	-1	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	19	state_slowall_attacktime	181	190	-1	-1	0	0	9	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	20	state_slowall_attacktime	191	200	-1	-1	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	21	state_slowall_attacktime	201	210	-1	-1	0	0	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	22	state_slowall_attacktime	211	230	-1	-1	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	23	state_slowall_attacktime	231	250	-1	-1	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	24	state_slowall_attacktime	251	280	-1	-1	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	25	state_slowall_attacktime	281	310	-1	-1	0	0	15	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm chậm đối thủ	Huyền Vũ	1	26	state_slowall_attacktime	311	340	-1	-1	0	0	16	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	1	addfiredamage_v	1	100	-1	-1	0	0	1	4000	4	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	2	addfiredamage_v	101	200	-1	-1	0	0	2	6670	4	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	3	addfiredamage_v	201	300	-1	-1	0	0	3	11120	4	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	4	addfiredamage_v	301	400	-1	-1	0	0	4	18520	4	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	5	addfiredamage_v	401	500	-1	-1	0	0	5	30800	4	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	6	addfiredamage_v	501	600	-1	-1	0	0	6	50000	4	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	7	addfiredamage_v	601	700	-1	-1	0	0	7	86960	4	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	8	addfiredamage_v	701	800	-1	-1	0	0	8	142860	4	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	9	addfiredamage_v	801	900	-1	-1	0	0	9	250000	4	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	10	addfiredamage_v	901	1000	-1	-1	0	0	10	500000	4	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	11	addfiredamage_v	1001	1150	-1	-1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	12	addfiredamage_v	1151	1300	-1	-1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	13	addfiredamage_v	1301	1450	-1	-1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	14	addfiredamage_v	1451	1600	-1	-1	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	15	addfiredamage_v	1601	1750	-1	-1	0	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	16	addfiredamage_v	1751	1900	-1	-1	0	0	6	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	17	addfiredamage_v	1901	2050	-1	-1	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	18	addfiredamage_v	2051	2200	-1	-1	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	19	addfiredamage_v	2201	2350	-1	-1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	20	addfiredamage_v	2400	2550	-1	-1	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	21	addfiredamage_v	2600	2750	-1	-1	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	22	addfiredamage_v	2900	3050	-1	-1	0	0	12	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	23	addfiredamage_v	3200	3350	-1	-1	0	0	13	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	24	addfiredamage_v	3600	3750	-1	-1	0	0	14	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	25	addfiredamage_v	4000	4150	-1	-1	0	0	15	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công ngoại	Chích Viêm	1	26	addfiredamage_v	4400	4550	-1	-1	0	0	16	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	1	addfiremagic_v	1	100	-1	-1	0	0	1	4000	4	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	2	addfiremagic_v	101	200	-1	-1	0	0	2	6670	4	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	3	addfiremagic_v	201	300	-1	-1	0	0	3	11120	4	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	4	addfiremagic_v	301	400	-1	-1	0	0	4	18520	4	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	5	addfiremagic_v	401	500	-1	-1	0	0	5	30800	4	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	6	addfiremagic_v	501	600	-1	-1	0	0	6	50000	4	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	7	addfiremagic_v	601	700	-1	-1	0	0	7	86960	4	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	8	addfiremagic_v	701	800	-1	-1	0	0	8	142860	4	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	9	addfiremagic_v	801	900	-1	-1	0	0	9	250000	4	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	10	addfiremagic_v	901	1000	-1	-1	0	0	10	500000	4	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	11	addfiremagic_v	1001	1150	-1	-1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	12	addfiremagic_v	1151	1300	-1	-1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	13	addfiremagic_v	1301	1450	-1	-1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	14	addfiremagic_v	1451	1600	-1	-1	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	15	addfiremagic_v	1601	1750	-1	-1	0	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	16	addfiremagic_v	1751	1900	-1	-1	0	0	6	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	17	addfiremagic_v	1901	2050	-1	-1	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	18	addfiremagic_v	2051	2200	-1	-1	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	19	addfiremagic_v	2201	2350	-1	-1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	20	addfiremagic_v	2400	2550	-1	-1	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	21	addfiremagic_v	2600	2750	-1	-1	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	22	addfiremagic_v	2900	3050	-1	-1	0	0	12	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	23	addfiremagic_v	3200	3350	-1	-1	0	0	13	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	24	addfiremagic_v	3600	3750	-1	-1	0	0	14	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	25	addfiremagic_v	4000	4150	-1	-1	0	0	15	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng hỏa công nội	Nghiệp Hỏa	1	26	addfiremagic_v	4400	4550	-1	-1	0	0	16	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	1	damage_physics_resist	2	5	-1	-1	0	0	1	3000	4	50000	50000	100000	100000	100000	100000	100000	100000	100000	100000	100000	0	0	0	100000	100000	100000	0	0
+Tăng vật phòng	Phục Thạch	1	2	damage_physics_resist	6	10	-1	-1	0	0	2	5000	4	30000	30000	60000	60000	60000	60000	60000	60000	60000	60000	60000	0	0	0	60000	60000	60000	0	0
+Tăng vật phòng	Phục Thạch	1	3	damage_physics_resist	11	15	-1	-1	0	0	3	8335	4	18000	18000	36000	36000	36000	36000	36000	36000	36000	36000	36000	0	0	0	36000	36000	36000	0	0
+Tăng vật phòng	Phục Thạch	1	4	damage_physics_resist	16	20	-1	-1	0	0	4	13890	4	10800	10800	21600	21600	21600	21600	21600	21600	21600	21600	21600	0	0	0	21600	21600	21600	0	0
+Tăng vật phòng	Phục Thạch	1	5	damage_physics_resist	21	25	-1	-1	0	0	5	23080	4	6500	6500	13000	13000	13000	13000	13000	13000	13000	13000	13000	0	0	0	13000	13000	13000	0	0
+Tăng vật phòng	Phục Thạch	1	6	damage_physics_resist	26	30	-1	-1	0	0	6	37500	4	4000	4000	8000	8000	8000	8000	8000	8000	8000	8000	8000	0	0	0	8000	8000	8000	0	0
+Tăng vật phòng	Phục Thạch	1	7	damage_physics_resist	31	35	-1	-1	0	0	7	65220	4	2300	2300	4600	4600	4600	4600	4600	4600	4600	4600	4600	0	0	0	4600	4600	4600	0	0
+Tăng vật phòng	Phục Thạch	1	8	damage_physics_resist	36	40	-1	-1	0	0	8	107145	4	1400	1400	2800	2800	2800	2800	2800	2800	2800	2800	2800	0	0	0	2800	2800	2800	0	0
+Tăng vật phòng	Phục Thạch	1	9	damage_physics_resist	41	45	-1	-1	0	0	9	187500	4	800	800	1600	1600	1600	1600	1600	1600	1600	1600	1600	0	0	0	1600	1600	1600	0	0
+Tăng vật phòng	Phục Thạch	1	10	damage_physics_resist	46	50	-1	-1	0	0	10	375000	4	400	400	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Tăng vật phòng	Phục Thạch	1	11	damage_physics_resist	51	55	-1	-1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	12	damage_physics_resist	56	60	-1	-1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	13	damage_physics_resist	61	65	-1	-1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	14	damage_physics_resist	66	70	-1	-1	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	15	damage_physics_resist	71	75	-1	-1	0	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	16	damage_physics_resist	76	80	-1	-1	0	0	6	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	17	damage_physics_resist	81	85	-1	-1	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	18	damage_physics_resist	86	90	-1	-1	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	19	damage_physics_resist	91	95	-1	-1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	20	damage_physics_resist	96	100	-1	-1	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	21	damage_physics_resist	101	105	-1	-1	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	22	damage_physics_resist	106	115	-1	-1	0	0	12	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	23	damage_physics_resist	116	125	-1	-1	0	0	13	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	24	damage_physics_resist	126	140	-1	-1	0	0	14	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	25	damage_physics_resist	141	155	-1	-1	0	0	15	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng vật phòng	Phục Thạch	1	26	damage_physics_resist	156	170	-1	-1	0	0	16	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	1	state_burn_attacktime	1	10	-1	-1	0	0	1	3000	4	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	2	state_burn_attacktime	11	20	-1	-1	0	0	2	5000	4	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	3	state_burn_attacktime	21	30	-1	-1	0	0	3	8335	4	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	4	state_burn_attacktime	31	40	-1	-1	0	0	4	13890	4	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	5	state_burn_attacktime	41	50	-1	-1	0	0	5	23080	4	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	6	state_burn_attacktime	51	60	-1	-1	0	0	6	37500	4	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	7	state_burn_attacktime	61	70	-1	-1	0	0	7	65220	4	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	8	state_burn_attacktime	71	80	-1	-1	0	0	8	107145	4	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	9	state_burn_attacktime	81	90	-1	-1	0	0	9	187500	4	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	10	state_burn_attacktime	91	100	-1	-1	0	0	10	375000	4	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	11	state_burn_attacktime	101	110	-1	-1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	12	state_burn_attacktime	111	120	-1	-1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	13	state_burn_attacktime	121	130	-1	-1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	14	state_burn_attacktime	131	140	-1	-1	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	15	state_burn_attacktime	141	150	-1	-1	0	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	16	state_burn_attacktime	151	160	-1	-1	0	0	6	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	17	state_burn_attacktime	161	170	-1	-1	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	18	state_burn_attacktime	171	180	-1	-1	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	19	state_burn_attacktime	181	190	-1	-1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	20	state_burn_attacktime	191	200	-1	-1	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	21	state_burn_attacktime	201	210	-1	-1	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	22	state_burn_attacktime	211	230	-1	-1	0	0	12	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	23	state_burn_attacktime	231	250	-1	-1	0	0	13	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	24	state_burn_attacktime	251	280	-1	-1	0	0	14	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	25	state_burn_attacktime	281	310	-1	-1	0	0	15	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ bỏng	Chu Tước	1	26	state_burn_attacktime	311	340	-1	-1	0	0	16	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	1	addlightingdamage_v	1	100	-1	-1	0	0	1	4000	5	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	2	addlightingdamage_v	101	200	-1	-1	0	0	2	6670	5	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	3	addlightingdamage_v	201	300	-1	-1	0	0	3	11120	5	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	4	addlightingdamage_v	301	400	-1	-1	0	0	4	18520	5	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	5	addlightingdamage_v	401	500	-1	-1	0	0	5	30800	5	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	6	addlightingdamage_v	501	600	-1	-1	0	0	6	50000	5	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	7	addlightingdamage_v	601	700	-1	-1	0	0	7	86960	5	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	8	addlightingdamage_v	701	800	-1	-1	0	0	8	142860	5	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	9	addlightingdamage_v	801	900	-1	-1	0	0	9	250000	5	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	10	addlightingdamage_v	901	1000	-1	-1	0	0	10	500000	5	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	11	addlightingdamage_v	1001	1150	-1	-1	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	12	addlightingdamage_v	1151	1300	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	13	addlightingdamage_v	1301	1450	-1	-1	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	14	addlightingdamage_v	1451	1600	-1	-1	0	0	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	15	addlightingdamage_v	1601	1750	-1	-1	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	16	addlightingdamage_v	1751	1900	-1	-1	0	0	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	17	addlightingdamage_v	1901	2050	-1	-1	0	0	7	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	18	addlightingdamage_v	2051	2200	-1	-1	0	0	8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	19	addlightingdamage_v	2201	2350	-1	-1	0	0	9	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	20	addlightingdamage_v	2400	2550	-1	-1	0	0	10	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	21	addlightingdamage_v	2600	2750	-1	-1	0	0	11	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	22	addlightingdamage_v	2900	3050	-1	-1	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	23	addlightingdamage_v	3200	3350	-1	-1	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	24	addlightingdamage_v	3600	3750	-1	-1	0	0	14	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	25	addlightingdamage_v	4000	4150	-1	-1	0	0	15	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công ngoại	Lạc Lôi	1	26	addlightingdamage_v	4400	4550	-1	-1	0	0	16	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	1	addlightingmagic_v	1	100	-1	-1	0	0	1	4000	5	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	2	addlightingmagic_v	101	200	-1	-1	0	0	2	6670	5	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	3	addlightingmagic_v	201	300	-1	-1	0	0	3	11120	5	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	4	addlightingmagic_v	301	400	-1	-1	0	0	4	18520	5	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	5	addlightingmagic_v	401	500	-1	-1	0	0	5	30800	5	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	6	addlightingmagic_v	501	600	-1	-1	0	0	6	50000	5	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	7	addlightingmagic_v	601	700	-1	-1	0	0	7	86960	5	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	8	addlightingmagic_v	701	800	-1	-1	0	0	8	142860	5	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	9	addlightingmagic_v	801	900	-1	-1	0	0	9	250000	5	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	10	addlightingmagic_v	901	1000	-1	-1	0	0	10	500000	5	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	11	addlightingmagic_v	1001	1150	-1	-1	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	12	addlightingmagic_v	1151	1300	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	13	addlightingmagic_v	1301	1450	-1	-1	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	14	addlightingmagic_v	1451	1600	-1	-1	0	0	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	15	addlightingmagic_v	1601	1750	-1	-1	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	16	addlightingmagic_v	1751	1900	-1	-1	0	0	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	17	addlightingmagic_v	1901	2050	-1	-1	0	0	7	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	18	addlightingmagic_v	2051	2200	-1	-1	0	0	8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	19	addlightingmagic_v	2201	2350	-1	-1	0	0	9	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	20	addlightingmagic_v	2400	2550	-1	-1	0	0	10	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	21	addlightingmagic_v	2600	2750	-1	-1	0	0	11	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	22	addlightingmagic_v	2900	3050	-1	-1	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	23	addlightingmagic_v	3200	3350	-1	-1	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	24	addlightingmagic_v	3600	3750	-1	-1	0	0	14	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	25	addlightingmagic_v	4000	4150	-1	-1	0	0	15	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng lôi công nội	Vân Phách	1	26	addlightingmagic_v	4400	4550	-1	-1	0	0	16	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	1	damage_cold_resist	2	5	-1	-1	0	0	1	1000	5	100000	100000	200000	200000	200000	200000	200000	200000	200000	200000	200000	0	0	0	200000	200000	200000	0	0
+Tăng băng phòng	Nghịch Thủy	1	2	damage_cold_resist	6	10	-1	-1	0	0	2	1670	5	60000	60000	120000	120000	120000	120000	120000	120000	120000	120000	120000	0	0	0	120000	120000	120000	0	0
+Tăng băng phòng	Nghịch Thủy	1	3	damage_cold_resist	11	15	-1	-1	0	0	3	2780	5	36000	36000	72000	72000	72000	72000	72000	72000	72000	72000	72000	0	0	0	72000	72000	72000	0	0
+Tăng băng phòng	Nghịch Thủy	1	4	damage_cold_resist	16	20	-1	-1	0	0	2	4630	5	21600	21600	43200	43200	43200	43200	43200	43200	43200	43200	43200	0	0	0	43200	43200	43200	0	0
+Tăng băng phòng	Nghịch Thủy	1	5	damage_cold_resist	21	25	-1	-1	0	0	5	7695	5	13000	13000	26000	26000	26000	26000	26000	26000	26000	26000	26000	0	0	0	26000	26000	26000	0	0
+Tăng băng phòng	Nghịch Thủy	1	6	damage_cold_resist	26	30	-1	-1	0	0	6	12825	5	7800	7800	15600	15600	15600	15600	15600	15600	15600	15600	15600	0	0	0	15600	15600	15600	0	0
+Tăng băng phòng	Nghịch Thủy	1	7	damage_cold_resist	31	35	-1	-1	0	0	7	21285	5	4700	4700	9400	9400	9400	9400	9400	9400	9400	9400	9400	0	0	0	9400	9400	9400	0	0
+Tăng băng phòng	Nghịch Thủy	1	8	damage_cold_resist	36	40	-1	-1	0	0	8	35715	5	2800	2800	5600	5600	5600	5600	5600	5600	5600	5600	5600	0	0	0	5600	5600	5600	0	0
+Tăng băng phòng	Nghịch Thủy	1	9	damage_cold_resist	41	45	-1	-1	0	0	9	58825	5	1700	1700	3400	3400	3400	3400	3400	3400	3400	3400	3400	0	0	0	3400	3400	3400	0	0
+Tăng băng phòng	Nghịch Thủy	1	10	damage_cold_resist	46	50	-1	-1	0	0	10	125000	5	800	800	1600	1600	1600	1600	1600	1600	1600	1600	1600	0	0	0	1600	1600	1600	0	0
+Tăng băng phòng	Nghịch Thủy	1	11	damage_cold_resist	51	55	-1	-1	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	12	damage_cold_resist	56	60	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	13	damage_cold_resist	61	65	-1	-1	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	14	damage_cold_resist	66	70	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	15	damage_cold_resist	71	75	-1	-1	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	16	damage_cold_resist	76	80	-1	-1	0	0	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	17	damage_cold_resist	81	85	-1	-1	0	0	7	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	18	damage_cold_resist	86	90	-1	-1	0	0	8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	19	damage_cold_resist	91	95	-1	-1	0	0	9	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	20	damage_cold_resist	96	100	-1	-1	0	0	10	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	21	damage_cold_resist	101	105	-1	-1	0	0	11	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	22	damage_cold_resist	106	115	-1	-1	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	23	damage_cold_resist	116	125	-1	-1	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	24	damage_cold_resist	126	140	-1	-1	0	0	14	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	25	damage_cold_resist	141	155	-1	-1	0	0	15	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng băng phòng	Nghịch Thủy	1	26	damage_cold_resist	156	170	-1	-1	0	0	16	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	1	state_stun_attacktime	1	10	-1	-1	0	0	1	3000	5	100000	100000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	2	state_stun_attacktime	11	20	-1	-1	0	0	2	5000	5	60000	60000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	3	state_stun_attacktime	21	30	-1	-1	0	0	3	8335	5	36000	36000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	4	state_stun_attacktime	31	40	-1	-1	0	0	4	13890	5	21600	21600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	5	state_stun_attacktime	41	50	-1	-1	0	0	4	23080	5	13000	13000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	6	state_stun_attacktime	51	60	-1	-1	0	0	6	37500	5	8000	8000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	7	state_stun_attacktime	61	70	-1	-1	0	0	5	65220	5	4600	4600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	8	state_stun_attacktime	71	80	-1	-1	0	0	8	107145	5	2800	2800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	9	state_stun_attacktime	81	90	-1	-1	0	0	9	187500	5	1600	1600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	10	state_stun_attacktime	91	100	-1	-1	0	0	10	375000	5	800	800	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	11	state_stun_attacktime	101	110	-1	-1	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	12	state_stun_attacktime	111	120	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	13	state_stun_attacktime	121	130	-1	-1	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	14	state_stun_attacktime	131	140	-1	-1	0	0	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	15	state_stun_attacktime	141	150	-1	-1	0	0	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	16	state_stun_attacktime	151	160	-1	-1	0	0	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	17	state_stun_attacktime	161	170	-1	-1	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	18	state_stun_attacktime	171	180	-1	-1	0	0	8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	19	state_stun_attacktime	181	190	-1	-1	0	0	9	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	20	state_stun_attacktime	191	200	-1	-1	0	0	10	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	21	state_stun_attacktime	201	210	-1	-1	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	22	state_stun_attacktime	211	230	-1	-1	0	0	13.6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	23	state_stun_attacktime	231	250	-1	-1	0	0	15.2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	24	state_stun_attacktime	251	280	-1	-1	0	0	16.8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	25	state_stun_attacktime	281	310	-1	-1	0	0	18.4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Làm đối thủ choáng	Hoàng Long	1	26	state_stun_attacktime	311	340	-1	-1	0	0	20	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	1	state_hurt_resisttime	1	5	-1	-1	0	0	1	2000	2	0	0	50000	50000	50000	50000	50000	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Giảm thời gian thọ thương	Tuyệt	1	2	state_hurt_resisttime	6	10	-1	-1	0	0	2	3334	2	0	0	30000	30000	30000	30000	30000	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Giảm thời gian thọ thương	Tuyệt	1	3	state_hurt_resisttime	11	15	-1	-1	0	0	3	5560	2	0	0	18000	18000	18000	18000	18000	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Giảm thời gian thọ thương	Tuyệt	1	4	state_hurt_resisttime	16	20	-1	-1	0	0	4	9260	2	0	0	10800	10800	10800	10800	10800	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Giảm thời gian thọ thương	Tuyệt	1	5	state_hurt_resisttime	21	25	-1	-1	0	0	5	15394	2	0	0	6500	6500	6500	6500	6500	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Giảm thời gian thọ thương	Tuyệt	1	6	state_hurt_resisttime	26	30	-1	-1	0	0	6	25000	2	0	0	4000	4000	4000	4000	4000	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Giảm thời gian thọ thương	Tuyệt	1	7	state_hurt_resisttime	31	35	-1	-1	0	0	7	43480	2	0	0	2300	2300	2300	2300	2300	2300	2300	2300	2300	0	0	0	2300	2300	2300	0	0
+Giảm thời gian thọ thương	Tuyệt	1	8	state_hurt_resisttime	36	40	-1	-1	0	0	8	71434	2	0	0	1400	1400	1400	1400	1400	1400	1400	1400	1400	0	0	0	1400	1400	1400	0	0
+Giảm thời gian thọ thương	Tuyệt	1	9	state_hurt_resisttime	41	45	-1	-1	0	0	9	125000	2	0	0	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Giảm thời gian thọ thương	Tuyệt	1	10	state_hurt_resisttime	46	50	-1	-1	0	0	10	250000	2	0	0	400	400	400	400	400	400	400	400	400	0	0	0	400	400	400	0	0
+Giảm thời gian thọ thương	Tuyệt	1	11	state_hurt_resisttime	51	52	-1	-1	0	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	12	state_hurt_resisttime	53	54	-1	-1	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	13	state_hurt_resisttime	55	56	-1	-1	0	0	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	14	state_hurt_resisttime	57	58	-1	-1	0	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	15	state_hurt_resisttime	59	60	-1	-1	0	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	16	state_hurt_resisttime	61	62	-1	-1	0	0	6	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	17	state_hurt_resisttime	63	64	-1	-1	0	0	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	18	state_hurt_resisttime	65	66	-1	-1	0	0	8	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	19	state_hurt_resisttime	67	68	-1	-1	0	0	9	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	20	state_hurt_resisttime	69	70	-1	-1	0	0	10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	21	state_hurt_resisttime	71	74	-1	-1	0	0	11	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	22	state_hurt_resisttime	75	80	-1	-1	0	0	12	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	23	state_hurt_resisttime	81	88	-1	-1	0	0	13	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	24	state_hurt_resisttime	89	98	-1	-1	0	0	14	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	25	state_hurt_resisttime	99	108	-1	-1	0	0	15	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian thọ thương	Tuyệt	1	26	state_hurt_resisttime	109	118	-1	-1	0	0	16	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	1	state_slowall_resisttime	1	5	-1	-1	0	0	1	2000	4	0	0	50000	50000	50000	50000	50000	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Giảm thời gian làm chậm	Chấn	1	2	state_slowall_resisttime	6	10	-1	-1	0	0	2	3334	4	0	0	30000	30000	30000	30000	30000	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Giảm thời gian làm chậm	Chấn	1	3	state_slowall_resisttime	11	15	-1	-1	0	0	3	5560	4	0	0	18000	18000	18000	18000	18000	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Giảm thời gian làm chậm	Chấn	1	4	state_slowall_resisttime	16	20	-1	-1	0	0	4	9260	4	0	0	10800	10800	10800	10800	10800	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Giảm thời gian làm chậm	Chấn	1	5	state_slowall_resisttime	21	25	-1	-1	0	0	5	15394	4	0	0	6500	6500	6500	6500	6500	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Giảm thời gian làm chậm	Chấn	1	6	state_slowall_resisttime	26	30	-1	-1	0	0	6	25000	4	0	0	4000	4000	4000	4000	4000	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Giảm thời gian làm chậm	Chấn	1	7	state_slowall_resisttime	31	35	-1	-1	0	0	7	43480	4	0	0	2300	2300	2300	2300	2300	2300	2300	2300	2300	0	0	0	2300	2300	2300	0	0
+Giảm thời gian làm chậm	Chấn	1	8	state_slowall_resisttime	36	40	-1	-1	0	0	8	71434	4	0	0	1400	1400	1400	1400	1400	1400	1400	1400	1400	0	0	0	1400	1400	1400	0	0
+Giảm thời gian làm chậm	Chấn	1	9	state_slowall_resisttime	41	45	-1	-1	0	0	9	125000	4	0	0	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Giảm thời gian làm chậm	Chấn	1	10	state_slowall_resisttime	46	50	-1	-1	0	0	10	250000	4	0	0	400	400	400	400	400	400	400	400	400	0	0	0	400	400	400	0	0
+Giảm thời gian làm chậm	Chấn	1	11	state_slowall_resisttime	51	52	-1	-1	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	12	state_slowall_resisttime	53	54	-1	-1	0	0	2	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	13	state_slowall_resisttime	55	56	-1	-1	0	0	3	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	14	state_slowall_resisttime	57	58	-1	-1	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	15	state_slowall_resisttime	59	60	-1	-1	0	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	16	state_slowall_resisttime	61	62	-1	-1	0	0	6	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	17	state_slowall_resisttime	63	64	-1	-1	0	0	7	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	18	state_slowall_resisttime	65	66	-1	-1	0	0	8	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	19	state_slowall_resisttime	67	68	-1	-1	0	0	9	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	20	state_slowall_resisttime	69	70	-1	-1	0	0	10	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	21	state_slowall_resisttime	71	74	-1	-1	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	22	state_slowall_resisttime	75	80	-1	-1	0	0	12	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	23	state_slowall_resisttime	81	88	-1	-1	0	0	13	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	24	state_slowall_resisttime	89	98	-1	-1	0	0	14	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	25	state_slowall_resisttime	99	108	-1	-1	0	0	15	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian làm chậm	Chấn	1	26	state_slowall_resisttime	109	118	-1	-1	0	0	16	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	1	state_weak_resisttime	1	5	-1	-1	0	0	1	2000	5	0	0	50000	50000	50000	50000	50000	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Giảm thời gian suy yếu	Cực	1	2	state_weak_resisttime	6	10	-1	-1	0	0	2	3334	5	0	0	30000	30000	30000	30000	30000	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Giảm thời gian suy yếu	Cực	1	3	state_weak_resisttime	11	15	-1	-1	0	0	3	5560	5	0	0	18000	18000	18000	18000	18000	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Giảm thời gian suy yếu	Cực	1	4	state_weak_resisttime	16	20	-1	-1	0	0	4	9260	5	0	0	10800	10800	10800	10800	10800	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Giảm thời gian suy yếu	Cực	1	5	state_weak_resisttime	21	25	-1	-1	0	0	5	15394	5	0	0	6500	6500	6500	6500	6500	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Giảm thời gian suy yếu	Cực	1	6	state_weak_resisttime	26	30	-1	-1	0	0	6	25000	5	0	0	4000	4000	4000	4000	4000	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Giảm thời gian suy yếu	Cực	1	7	state_weak_resisttime	31	35	-1	-1	0	0	7	43480	5	0	0	2300	2300	2300	2300	2300	2300	2300	2300	2300	0	0	0	2300	2300	2300	0	0
+Giảm thời gian suy yếu	Cực	1	8	state_weak_resisttime	36	40	-1	-1	0	0	8	71434	5	0	0	1400	1400	1400	1400	1400	1400	1400	1400	1400	0	0	0	1400	1400	1400	0	0
+Giảm thời gian suy yếu	Cực	1	9	state_weak_resisttime	41	45	-1	-1	0	0	9	125000	5	0	0	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Giảm thời gian suy yếu	Cực	1	10	state_weak_resisttime	46	50	-1	-1	0	0	10	250000	5	0	0	400	400	400	400	400	400	400	400	400	0	0	0	400	400	400	0	0
+Giảm thời gian suy yếu	Cực	1	11	state_weak_resisttime	51	52	-1	-1	0	0	1	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	12	state_weak_resisttime	53	54	-1	-1	0	0	2	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	13	state_weak_resisttime	55	56	-1	-1	0	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	14	state_weak_resisttime	57	58	-1	-1	0	0	4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	15	state_weak_resisttime	59	60	-1	-1	0	0	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	16	state_weak_resisttime	61	62	-1	-1	0	0	6	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	17	state_weak_resisttime	63	64	-1	-1	0	0	7	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	18	state_weak_resisttime	65	66	-1	-1	0	0	8	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	19	state_weak_resisttime	67	68	-1	-1	0	0	9	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	20	state_weak_resisttime	69	70	-1	-1	0	0	10	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	21	state_weak_resisttime	71	74	-1	-1	0	0	11	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	22	state_weak_resisttime	75	80	-1	-1	0	0	12	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	23	state_weak_resisttime	81	88	-1	-1	0	0	13	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	24	state_weak_resisttime	89	98	-1	-1	0	0	14	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	25	state_weak_resisttime	99	108	-1	-1	0	0	15	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian suy yếu	Cực	1	26	state_weak_resisttime	109	118	-1	-1	0	0	16	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	1	state_burn_resisttime	1	5	-1	-1	0	0	1	2000	1	0	0	50000	50000	50000	50000	50000	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Giảm thời gian bỏng	Hàn	1	2	state_burn_resisttime	6	10	-1	-1	0	0	2	3334	1	0	0	30000	30000	30000	30000	30000	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Giảm thời gian bỏng	Hàn	1	3	state_burn_resisttime	11	15	-1	-1	0	0	3	5560	1	0	0	18000	18000	18000	18000	18000	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Giảm thời gian bỏng	Hàn	1	4	state_burn_resisttime	16	20	-1	-1	0	0	4	9260	1	0	0	10800	10800	10800	10800	10800	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Giảm thời gian bỏng	Hàn	1	5	state_burn_resisttime	21	25	-1	-1	0	0	5	15394	1	0	0	6500	6500	6500	6500	6500	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Giảm thời gian bỏng	Hàn	1	6	state_burn_resisttime	26	30	-1	-1	0	0	6	25000	1	0	0	4000	4000	4000	4000	4000	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Giảm thời gian bỏng	Hàn	1	7	state_burn_resisttime	31	35	-1	-1	0	0	7	43480	1	0	0	2300	2300	2300	2300	2300	2300	2300	2300	2300	0	0	0	2300	2300	2300	0	0
+Giảm thời gian bỏng	Hàn	1	8	state_burn_resisttime	36	40	-1	-1	0	0	8	71434	1	0	0	1400	1400	1400	1400	1400	1400	1400	1400	1400	0	0	0	1400	1400	1400	0	0
+Giảm thời gian bỏng	Hàn	1	9	state_burn_resisttime	41	45	-1	-1	0	0	9	125000	1	0	0	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Giảm thời gian bỏng	Hàn	1	10	state_burn_resisttime	46	50	-1	-1	0	0	10	250000	1	0	0	400	400	400	400	400	400	400	400	400	0	0	0	400	400	400	0	0
+Giảm thời gian bỏng	Hàn	1	11	state_burn_resisttime	51	52	-1	-1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	12	state_burn_resisttime	53	54	-1	-1	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	13	state_burn_resisttime	55	56	-1	-1	0	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	14	state_burn_resisttime	57	58	-1	-1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	15	state_burn_resisttime	59	60	-1	-1	0	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	16	state_burn_resisttime	61	62	-1	-1	0	0	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	17	state_burn_resisttime	63	64	-1	-1	0	0	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	18	state_burn_resisttime	65	66	-1	-1	0	0	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	19	state_burn_resisttime	67	68	-1	-1	0	0	9	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	20	state_burn_resisttime	69	70	-1	-1	0	0	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	21	state_burn_resisttime	71	74	-1	-1	0	0	11	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	22	state_burn_resisttime	75	80	-1	-1	0	0	12	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	23	state_burn_resisttime	81	88	-1	-1	0	0	13	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	24	state_burn_resisttime	89	98	-1	-1	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	25	state_burn_resisttime	99	108	-1	-1	0	0	15	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian bỏng	Hàn	1	26	state_burn_resisttime	109	118	-1	-1	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	1	state_stun_resisttime	1	5	-1	-1	0	0	1	2000	3	0	0	50000	50000	50000	50000	50000	50000	50000	50000	50000	0	0	0	50000	50000	50000	0	0
+Giảm thời gian choáng	Minh	1	2	state_stun_resisttime	6	10	-1	-1	0	0	2	3334	3	0	0	30000	30000	30000	30000	30000	30000	30000	30000	30000	0	0	0	30000	30000	30000	0	0
+Giảm thời gian choáng	Minh	1	3	state_stun_resisttime	11	15	-1	-1	0	0	3	5560	3	0	0	18000	18000	18000	18000	18000	18000	18000	18000	18000	0	0	0	18000	18000	18000	0	0
+Giảm thời gian choáng	Minh	1	4	state_stun_resisttime	16	20	-1	-1	0	0	4	9260	3	0	0	10800	10800	10800	10800	10800	10800	10800	10800	10800	0	0	0	10800	10800	10800	0	0
+Giảm thời gian choáng	Minh	1	5	state_stun_resisttime	21	25	-1	-1	0	0	5	15394	3	0	0	6500	6500	6500	6500	6500	6500	6500	6500	6500	0	0	0	6500	6500	6500	0	0
+Giảm thời gian choáng	Minh	1	6	state_stun_resisttime	26	30	-1	-1	0	0	6	25000	3	0	0	4000	4000	4000	4000	4000	4000	4000	4000	4000	0	0	0	4000	4000	4000	0	0
+Giảm thời gian choáng	Minh	1	7	state_stun_resisttime	31	35	-1	-1	0	0	7	43480	3	0	0	2300	2300	2300	2300	2300	2300	2300	2300	2300	0	0	0	2300	2300	2300	0	0
+Giảm thời gian choáng	Minh	1	8	state_stun_resisttime	36	40	-1	-1	0	0	8	71434	3	0	0	1400	1400	1400	1400	1400	1400	1400	1400	1400	0	0	0	1400	1400	1400	0	0
+Giảm thời gian choáng	Minh	1	9	state_stun_resisttime	41	45	-1	-1	0	0	9	125000	3	0	0	800	800	800	800	800	800	800	800	800	0	0	0	800	800	800	0	0
+Giảm thời gian choáng	Minh	1	10	state_stun_resisttime	46	50	-1	-1	0	0	10	250000	3	0	0	400	400	400	400	400	400	400	400	400	0	0	0	400	400	400	0	0
+Giảm thời gian choáng	Minh	1	11	state_stun_resisttime	51	52	-1	-1	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	12	state_stun_resisttime	53	54	-1	-1	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	13	state_stun_resisttime	55	56	-1	-1	0	0	3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	14	state_stun_resisttime	57	58	-1	-1	0	0	4	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	15	state_stun_resisttime	59	60	-1	-1	0	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	16	state_stun_resisttime	61	62	-1	-1	0	0	6	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	17	state_stun_resisttime	63	64	-1	-1	0	0	7	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	18	state_stun_resisttime	65	66	-1	-1	0	0	8	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	19	state_stun_resisttime	67	68	-1	-1	0	0	9	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	20	state_stun_resisttime	69	70	-1	-1	0	0	10	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	21	state_stun_resisttime	71	74	-1	-1	0	0	11	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	22	state_stun_resisttime	75	80	-1	-1	0	0	12	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	23	state_stun_resisttime	81	88	-1	-1	0	0	13	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	24	state_stun_resisttime	89	98	-1	-1	0	0	14	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	25	state_stun_resisttime	99	108	-1	-1	0	0	15	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Giảm thời gian choáng	Minh	1	26	state_stun_resisttime	109	118	-1	-1	0	0	16	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	1	damage_all_resist	1	5	-1	-1	0	0	1	15000	-1	0	0	0	0	0	0	0	0	20000	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	2	damage_all_resist	6	10	-1	-1	0	0	2	21430	-1	0	0	0	0	0	0	0	0	14000	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	3	damage_all_resist	11	15	-1	-1	0	0	3	30000	-1	0	0	0	0	0	0	0	0	10000	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	4	damage_all_resist	16	20	-1	-1	0	0	4	42860	-1	0	0	0	0	0	0	0	0	7000	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	5	damage_all_resist	21	25	-1	-1	0	0	5	60000	-1	0	0	0	0	0	0	0	0	5000	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	6	damage_all_resist	26	30	-1	-1	0	0	6	85720	-1	0	0	0	0	0	0	0	0	3500	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	7	damage_all_resist	31	35	-1	-1	0	0	7	125000	-1	0	0	0	0	0	0	0	0	2400	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	8	damage_all_resist	36	40	-1	-1	0	0	8	214350	-1	0	0	0	0	0	0	0	0	1400	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	9	damage_all_resist	41	45	-1	-1	0	0	9	375000	-1	0	0	0	0	0	0	0	0	800	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	10	damage_all_resist	46	50	-1	-1	0	0	10	833400	-1	0	0	0	0	0	0	0	0	360	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	11	damage_all_resist	51	52	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	12	damage_all_resist	53	54	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	13	damage_all_resist	55	56	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	14	damage_all_resist	57	58	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	15	damage_all_resist	59	60	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	16	damage_all_resist	61	62	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	17	damage_all_resist	63	64	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	18	damage_all_resist	65	66	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	19	damage_all_resist	67	68	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	20	damage_all_resist	69	70	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	21	damage_all_resist	71	75	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	22	damage_all_resist	76	80	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	23	damage_all_resist	81	90	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	24	damage_all_resist	91	100	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	25	damage_all_resist	101	110	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kháng tất cả	Vô Song	1	26	damage_all_resist	111	120	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	1	lucky_v	1	10	-1	-1	0	0	1	15000	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	2	lucky_v	11	20	-1	-1	0	0	2	21430	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	3	lucky_v	21	30	-1	-1	0	0	3	30000	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	4	lucky_v	31	40	-1	-1	0	0	4	42860	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	5	lucky_v	41	50	-1	-1	0	0	5	60000	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	6	lucky_v	51	60	-1	-1	0	0	6	85720	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	7	lucky_v	61	70	-1	-1	0	0	7	125000	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	8	lucky_v	71	80	-1	-1	0	0	8	214350	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	9	lucky_v	81	90	-1	-1	0	0	9	375000	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	10	lucky_v	91	100	-1	-1	0	0	10	833400	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	11	lucky_v	101	105	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	12	lucky_v	106	110	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	13	lucky_v	111	115	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	14	lucky_v	116	120	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	15	lucky_v	121	125	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	16	lucky_v	126	130	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	17	lucky_v	131	135	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	18	lucky_v	136	140	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	19	lucky_v	141	145	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	20	lucky_v	146	150	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	21	lucky_v	151	155	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	22	lucky_v	156	160	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	23	lucky_v	161	165	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	24	lucky_v	166	170	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	25	lucky_v	171	175	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng may mắn	Cực Lạc	1	26	lucky_v	176	180	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	1	deadlystrikeenhance_r	1	5	-1	-1	0	0	1	4000	-1	0	0	0	0	0	0	0	0	0	50000	50000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	2	deadlystrikeenhance_r	6	10	-1	-1	0	0	2	5720	-1	0	0	0	0	0	0	0	0	0	35000	35000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	3	deadlystrikeenhance_r	11	15	-1	-1	0	0	3	8000	-1	0	0	0	0	0	0	0	0	0	25000	25000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	4	deadlystrikeenhance_r	16	20	-1	-1	0	0	4	12000	-1	0	0	0	0	0	0	0	0	0	16670	16670	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	5	deadlystrikeenhance_r	21	22	-1	-1	0	0	5	16000	-1	0	0	0	0	0	0	0	0	0	12500	12500	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	6	deadlystrikeenhance_r	23	24	-1	-1	0	0	6	24000	-1	0	0	0	0	0	0	0	0	0	8340	8340	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	7	deadlystrikeenhance_r	25	26	-1	-1	0	0	7	33340	-1	0	0	0	0	0	0	0	0	0	6000	6000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	8	deadlystrikeenhance_r	27	28	-1	-1	0	0	8	57150	-1	0	0	0	0	0	0	0	0	0	3500	3500	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	9	deadlystrikeenhance_r	29	30	-1	-1	0	0	9	100000	-1	0	0	0	0	0	0	0	0	0	2000	2000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	10	deadlystrikeenhance_r	31	32	-1	-1	0	0	10	200000	-1	0	0	0	0	0	0	0	0	0	1000	1000	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	11	deadlystrikeenhance_r	33	34	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	12	deadlystrikeenhance_r	35	36	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	13	deadlystrikeenhance_r	37	38	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	14	deadlystrikeenhance_r	39	40	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	15	deadlystrikeenhance_r	41	45	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	16	deadlystrikeenhance_r	46	50	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	17	deadlystrikeenhance_r	51	55	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	18	deadlystrikeenhance_r	56	60	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	19	deadlystrikeenhance_r	61	65	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	20	deadlystrikeenhance_r	66	70	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	21	deadlystrikeenhance_r	71	75	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	22	deadlystrikeenhance_r	76	80	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	23	deadlystrikeenhance_r	81	85	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	24	deadlystrikeenhance_r	86	90	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	25	deadlystrikeenhance_r	91	95	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng tỷ lệ chí mạng	Chí mạng	1	26	deadlystrikeenhance_r	96	100	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	1	adddefense_v	1	10	-1	-1	0	0	1	4000	-1	0	0	0	0	0	0	0	50000	0	0	50000	0	0	0	50000	50000	50000	0	0
+Tăng né tránh	Thanh Phong	1	2	adddefense_v	11	20	-1	-1	0	0	2	5720	-1	0	0	0	0	0	0	0	35000	0	0	35000	0	0	0	35000	35000	35000	0	0
+Tăng né tránh	Thanh Phong	1	3	adddefense_v	21	30	-1	-1	0	0	3	8000	-1	0	0	0	0	0	0	0	25000	0	0	25000	0	0	0	25000	25000	25000	0	0
+Tăng né tránh	Thanh Phong	1	4	adddefense_v	31	40	-1	-1	0	0	4	12000	-1	0	0	0	0	0	0	0	16670	0	0	16670	0	0	0	16670	16670	16670	0	0
+Tăng né tránh	Thanh Phong	1	5	adddefense_v	41	50	-1	-1	0	0	5	16000	-1	0	0	0	0	0	0	0	12500	0	0	12500	0	0	0	12500	12500	12500	0	0
+Tăng né tránh	Thanh Phong	1	6	adddefense_v	51	60	-1	-1	0	0	6	24000	-1	0	0	0	0	0	0	0	8340	0	0	8340	0	0	0	8340	8340	8340	0	0
+Tăng né tránh	Thanh Phong	1	7	adddefense_v	61	70	-1	-1	0	0	7	33340	-1	0	0	0	0	0	0	0	6000	0	0	6000	0	0	0	6000	6000	6000	0	0
+Tăng né tránh	Thanh Phong	1	8	adddefense_v	71	80	-1	-1	0	0	8	57150	-1	0	0	0	0	0	0	0	3500	0	0	3500	0	0	0	3500	3500	3500	0	0
+Tăng né tránh	Thanh Phong	1	9	adddefense_v	81	90	-1	-1	0	0	9	100000	-1	0	0	0	0	0	0	0	2000	0	0	2000	0	0	0	2000	2000	2000	0	0
+Tăng né tránh	Thanh Phong	1	10	adddefense_v	91	100	-1	-1	0	0	10	200000	-1	0	0	0	0	0	0	0	1000	0	0	1000	0	0	0	1000	1000	1000	0	0
+Tăng né tránh	Thanh Phong	1	11	adddefense_v	101	110	-1	-1	0	0	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	12	adddefense_v	111	120	-1	-1	0	0	2	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	13	adddefense_v	121	130	-1	-1	0	0	3	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	14	adddefense_v	131	140	-1	-1	0	0	4	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	15	adddefense_v	141	150	-1	-1	0	0	5	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	16	adddefense_v	151	160	-1	-1	0	0	6	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	17	adddefense_v	161	170	-1	-1	0	0	7	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	18	adddefense_v	171	180	-1	-1	0	0	8	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	19	adddefense_v	181	190	-1	-1	0	0	9	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	20	adddefense_v	191	200	-1	-1	0	0	10	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	21	adddefense_v	201	210	-1	-1	0	0	11	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	22	adddefense_v	211	220	-1	-1	0	0	12	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	23	adddefense_v	221	230	-1	-1	0	0	13	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	24	adddefense_v	231	240	-1	-1	0	0	14	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	25	adddefense_v	241	250	-1	-1	0	0	15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tăng né tránh	Thanh Phong	1	26	adddefense_v	251	260	-1	-1	0	0	16	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

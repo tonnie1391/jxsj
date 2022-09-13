@@ -1,0 +1,63 @@
+nId	MapType	ForbiddenUse	ForbiddenCallIn	ForbiddenCallOut	OnSwitch	Info
+1	地图类型	禁用物品类型	禁止召唤入和禁止传入	禁止被召唤出去	地图状态(进入和离开)	备注
+2	village				FIGHTSTATE_OFF|TEAM_ON|CHANGE_ON	新手村
+3	faction				FIGHTSTATE_OFF|TEAM_ON|CHANGE_ON	门派
+4	city				FIGHTSTATE_OFF|TEAM_ON|CHANGE_ON	城市
+5	fight				FIGHTSTATE_ON|CHANGE_ON	战斗区域（野外地图）
+6	taskfight					任务战斗地图
+7	tasksafe					任务非战斗地图
+8	xisuidao		chuansong	chuansong	FIGHTSTATE_OFF	洗髓岛
+9	xisuidao_shandong		chuansong	chuansong	FIGHTSTATE_ON	洗髓岛山洞
+10	battle_signup	MAIL	chuansong		FIGHTSTATE_OFF	宋金报名地图
+11	battle	revive|MAIL	chuansong	chuansong		宋金战场地图
+12	dalao		chuansong	chuansong	FIGHTSTATE_OFF	大牢
+13	baihutang	revive	chuansong	chuansong		白虎堂
+14	factionbattle	revive	chuansong	chuansong		门派竞技
+15	common_fb		chuansong	chuansong	FIGHTSTATE_ON	普通副本地图
+16	shenmibaoku_fb		chuansong	chuansong		家族关卡神秘宝库
+17	leitai		chuansong	chuansong		擂台
+18	tasktip		chuansong		FIGHTSTATE_ON	任务地图(549-552)
+19	taskarmy_fb		chuansong	chuansong	FIGHTSTATE_ON	任务副本（伏牛山后山）
+20	xoyogame		chuansong	chuansong	FIGHTSTATE_OFF	逍遥谷
+21	taskarmy		chuansong		FIGHTSTATE_OFF	军营地图
+22	liansai	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	武林联赛赛场
+23	taoyuanrukou	revive	chuansong	chuansong	FIGHTSTATE_ON|STALL_OFF|CHAT_NEW_OFF|LOGINREVOUT_OFF|PKMODEL_OFF|TEAM_OFF|PRAY_OFF	天牢-桃源入口
+24	esportwait	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	竞技赛准备场(飞絮崖)
+25	esport	ALL_ITEM	ALL_ITEM	ALL_ITEM		竞技赛(飞絮崖)
+26	dragonboatwait	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	竞技赛准备场(龙舟)
+27	dragonboat	ALL_ITEM	ALL_ITEM	ALL_ITEM		竞技赛(龙舟)
+28	globalservermap		chuansong	chuansong	FIGHTSTATE_OFF	英雄都
+29	globalservermapshandong		chuansong	chuansong	FIGHTSTATE_ON	试炼谷
+30	youlongmishi		chuansong	chuansong		游龙阁
+31	jiehun_fb		chuansong	chuansong	FIGHTSTATE_OFF	结婚副本
+32	towerdefence	ALL_ITEM	ALL_ITEM	ALL_ITEM		蘑菇大战僵尸
+33	yulucun		chuansong		PKMODEL_OFF	玉露村
+34	pingjia		chuansong	chuansong		评价地图
+35	tongpkmap				TONG_PKMODEL_ON	帮会强制PK地图
+36	kinbattle		chuansong	chuansong	FIGHTSTATE_ON	家族战地图
+37	kinbattlezhunbei		chuansong	chuansong	FIGHTSTATE_OFF	家族战准备场
+38	kuafubaihu	revive	chuansong	chuansong		
+39	atlantis	revive|MAIL	chuansong	chuansong		楼兰古城
+40	cangbaotu_fb		chuansong	chuansong	FIGHTSTATE_ON	藏宝图副本
+41	mijing		chuansong	chuansong	FIGHTSTATE_ON	秘境
+42	qinshihuangling		chuansong	chuansong		秦始皇陵
+43	castlefight					
+44	liansaihuichang					
+45	wulindahui_baomingdian					
+46	dataosha_zhunbei					
+47	dataosha					
+48	blank					
+49	global_songjin_baomingdian					
+50	tianlao					
+51	xoyogame_baoming		chuansong			
+52	homeland		chuansong	chuansong	FIGHTSTATE_OFF	家园
+53	kingame_new	revive|MAIL	chuansong	chuansong		
+54	roletransfer	ALL_ITEM	ALL_ITEM	ALL_ITEM	FIGHTSTATE_OFF	角色转移
+55	yinyangshiguangdian		chuansong	chuansong		
+56	shilianshanzhuang		chuansong	chuansong		
+57	biluogu		chuansong	chuansong		
+58	village_mini		chuansong	chuansong	FIGHTSTATE_OFF|TEAM_ON	新手村
+59	fight_mini		chuansong	chuansong	FIGHTSTATE_ON	战斗区域（野外地图）
+60	battle_wild	revive	chuansong	chuansong		克夷门战场地图
+61	taoxizhen		chuansong	chuansong		
+62	huadengluan1		chuansong	chuansong		

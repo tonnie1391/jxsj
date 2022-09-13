@@ -1,0 +1,2 @@
+ClassName	LeftTrapName	RightTrapName	LeftTrapFile	RightTrapFile
+NPC_TRAP_UP	NPC_TRAP_UP_LEFT	NPC_TRAP_UP_RIGHT	\setting\mission\castlefight\trap\npc_trap_up_left.txt	\setting\mission\castlefight\trap\npc_trap_up_right.txt

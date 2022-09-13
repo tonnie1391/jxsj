@@ -1,0 +1,3 @@
+TrapName	TrapPosFile
+to_lock	\setting\task\treasuremap2\damogucheng\trap\to_lock.txt
+to_finalboss	\setting\task\treasuremap2\damogucheng\trap\to_finalboss.txt

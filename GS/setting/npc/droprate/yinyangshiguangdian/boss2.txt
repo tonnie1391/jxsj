@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	0		4级玄晶（绑定）
+		18	1	114	5	618550		5级玄晶（绑定）
+		18	1	114	6	242650		6级玄晶（绑定）
+		18	1	114	7	45000		7级玄晶（绑定）
+		18	1	114	8	5000		8级玄晶（绑定）
+		18	1	1452	1	88800		蓝田玉（绑定）

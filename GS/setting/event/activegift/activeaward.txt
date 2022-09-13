@@ -1,0 +1,6 @@
+nId	nActive	szInfor	nParam1	nParam2	nParam3	nParam4	nParam5	nParam6	nParam7	nParam8	nParam9	nParam10	nParam11	nParam12	nParam13	nParam14	nParam15
+1	15	Rương Huyền Thiết	binditem=18,1,938,1,0,3														
+2	45	Rương Thanh Đồng	bindmoney=100000	binditem=18,1,80,1,0,5	binditem=18,1,1815,1,0,5												
+3	75	Rương Bạch Ngân	binditem=18,1,71,4	binditem=18,1,1815,3,0,3													
+4	120	Rương Hoàng Kim	binditem=18,1,1515,1	binditem=18,1,1815,4,0,3												
+5	150	Rương Phỉ Thúy	xiayi=30	prestige=5	binditem=18,1,1815,5,0,1	titlename=Nhật Hành Thiên Lý Lộ	title=6,91,1,9								

@@ -1,0 +1,125 @@
+Id	StartDate	EndDate	Desc
+1346	20080909	20080916	Kẹo nguyệt quế (Hoạt động phối phương)
+1347	20080909	20080916	Hạt sen (Hoạt động phối phương)
+1348	20080909	20080916	Bánh Trung Thu (Hoạt động phối phương)
+1359	20091222	20100105	Khối tuyết nhỏ (Hoạt động phối phương)
+1360	20091222	20100105	Khối tuyết nhỏ (Hoạt động phối phương)
+1361	20091222	20100105	Khối tuyết nhỏ (Hoạt động phối phương)
+1362	20091222	20100105	Khối tuyết nhỏ (Hoạt động phối phương)
+1363	20091222	20100105	Khối tuyết nhỏ (Hoạt động phối phương)
+1364	20091222	20100105	Bông tuyết (Hoạt động phối phương)
+1365	20091222	20100105	Bông tuyết (Hoạt động phối phương)
+1366	20091222	20100105	Bông tuyết (Hoạt động phối phương)
+1367	20091222	20100105	Bông tuyết (Hoạt động phối phương)
+1368	20091222	20100105	Bông tuyết (Hoạt động phối phương)
+1542	20090331	20090407	Bột nếp (Hoạt động phối phương)
+1543	20090331	20090407	Bột nếp (Hoạt động phối phương)
+1544	20090331	20090407	Bột nếp (Hoạt động phối phương)
+1545	20090331	20090407	Bột nếp (Hoạt động phối phương)
+1546	20090331	20090407	Bột nếp (Hoạt động phối phương)
+1547	20090331	20090407	Đậu đường (Hoạt động phối phương)
+1548	20090331	20090407	Đậu đường (Hoạt động phối phương)
+1549	20090331	20090407	Đậu đường (Hoạt động phối phương)
+1550	20090331	20090407	Đậu đường (Hoạt động phối phương)
+1551	20090331	20090407	Đậu đường (Hoạt động phối phương)
+1552	20090331	20090407	Bánh lá dứa (Hoạt động phối phương)
+1553	20090331	20090407	Bánh lá dứa (Hoạt động phối phương)
+1554	20090331	20090407	Bánh lá dứa (Hoạt động phối phương)
+1555	20090331	20090407	Bánh lá dứa (Hoạt động phối phương)
+1556	20090331	20090407	Bánh lá dứa (Hoạt động phối phương)
+1573	20090526	20090626	Tấm gỗ vân sam (Hoạt động)
+1574	20090526	20090626	Tấm gỗ vân sam (Hoạt động)
+1575	20090526	20090626	Tấm gỗ vân sam (Hoạt động)
+1576	20090526	20090626	Tấm gỗ vân sam (Hoạt động)
+1587	20090526	20090626	Tấm gỗ vân sam (Hoạt động)
+1588	20090526	20090626	Đinh sắt thô (Hoạt động)
+1589	20090526	20090626	Đinh sắt thô (Hoạt động)
+1590	20090526	20090626	Đinh sắt thô (Hoạt động)
+1591	20090526	20090626	Đinh sắt thô (Hoạt động)
+1592	20090526	20090626	Đinh sắt thô (Hoạt động)
+1593	20090526	20090626	Dầu Đồng tốt (Hoạt động)
+1594	20090526	20090626	Dầu Đồng tốt (Hoạt động)
+1595	20090526	20090626	Dầu Đồng tốt (Hoạt động)
+1596	20090526	20090626	Dầu Đồng tốt (Hoạt động)
+1597	20090526	20090626	Dầu Đồng tốt (Hoạt động)
+1598	20090526	20090626	Thuyền rồng (Hoạt động)
+1599	20090526	20090626	Thuyền rồng (Hoạt động)
+1600	20090526	20090626	Thuyền rồng (Hoạt động)
+1601	20090526	20090626	Thuyền rồng (Hoạt động)
+1602	20090526	20090626	Thuyền rồng (Hoạt động)
+1557	0	0	Vỏ sò thần bí
+1558	0	0	Vỏ sò thần bí
+1559	0	0	Vỏ sò thần bí
+1560	0	0	Vỏ sò thần bí
+1561	0	0	Vỏ sò thần bí
+1562	0	0	Vỏ sò vàng
+1563	0	0	Vỏ sò vàng
+1564	0	0	Vỏ sò vàng
+1565	0	0	Vỏ sò vàng
+1566	0	0	Vỏ sò vàng
+1577	0	0	Vỏ sò thần bí-Rương
+1578	0	0	Vỏ sò thần bí-Rương
+1579	0	0	Vỏ sò thần bí-Rương
+1580	0	0	Vỏ sò thần bí-Rương
+1581	0	0	Vỏ sò thần bí-Rương
+1582	0	0	Vỏ sò vàng-Rương
+1583	0	0	Vỏ sò vàng-Rương
+1584	0	0	Vỏ sò vàng-Rương
+1585	0	0	Vỏ sò vàng-Rương
+1586	0	0	Vỏ sò vàng-Rương
+1673	20090825	20090901	Hoa (hoạt động Thất Tịch)
+1674	20090825	20090901	Hoa (hoạt động Thất Tịch)
+1675	20090825	20090901	Hoa (hoạt động Thất Tịch)
+1676	20090825	20090901	Hoa (hoạt động Thất Tịch)
+1677	20090825	20090901	Hoa (hoạt động Thất Tịch)
+1678	20090825	20090901	Rượu (hoạt động Thất Tịch)
+1679	20090825	20090901	Rượu (hoạt động Thất Tịch)
+1680	20090825	20090901	Rượu (hoạt động Thất Tịch)
+1681	20090825	20090901	Rượu (hoạt động Thất Tịch)
+1682	20090825	20090901	Rượu (hoạt động Thất Tịch)
+1683	20090825	20090901	Thi (hoạt động Thất Tịch)
+1684	20090825	20090901	Thi (hoạt động Thất Tịch)
+1685	20090825	20090901	Thi (hoạt động Thất Tịch)
+1686	20090825	20090901	Thi (hoạt động Thất Tịch)
+1687	20090825	20090901	Thi (hoạt động Thất Tịch)
+1688	20090825	20090901	Kiếm (hoạt động Thất Tịch)
+1689	20090825	20090901	Kiếm (hoạt động Thất Tịch)
+1690	20090825	20090901	Kiếm (hoạt động Thất Tịch)
+1691	20090825	20090901	Kiếm (hoạt động Thất Tịch)
+1692	20090825	20090901	Kiếm (hoạt động Thất Tịch)
+1693	20090825	20090901	Hoa Rượu (hoạt động Thất Tịch)
+1694	20090825	20090901	Hoa Rượu (hoạt động Thất Tịch)
+1695	20090825	20090901	Hoa Rượu (hoạt động Thất Tịch)
+1696	20090825	20090901	Hoa Rượu (hoạt động Thất Tịch)
+1697	20090825	20090901	Hoa Rượu (hoạt động Thất Tịch)
+1698	20090825	20090901	Thi Kiếm (hoạt động Thất Tịch)
+1699	20090825	20090901	Thi Kiếm (hoạt động Thất Tịch)
+1700	20090825	20090901	Thi Kiếm (hoạt động Thất Tịch)
+1701	20090825	20090901	Thi Kiếm (hoạt động Thất Tịch)
+1702	20090825	20090901	Thi Kiếm (hoạt động Thất Tịch)
+1737	20110203	20110218	Hoạt động xuân 2011
+1738	20110203	20110218	Hoạt động xuân 2011
+1739	20110203	20110218	Hoạt động xuân 2011
+1740	20110203	20110218	Hoạt động xuân 2011
+1741	20110203	20110218	Hoạt động xuân 2011
+1742	20110203	20110218	Hoạt động xuân 2011
+1743	20110203	20110218	Hoạt động xuân 2011
+1744	20110203	20110218	Hoạt động xuân 2011
+1745	20110203	20110218	Hoạt động xuân 2011
+1746	20110203	20110218	Hoạt động xuân 2011
+1567	0	0	Mảnh bí cảnh
+1568	0	0	Mảnh bí cảnh
+1569	0	0	Mảnh bí cảnh
+1570	0	0	Mảnh bí cảnh
+1571	0	0	Mảnh bí cảnh
+1572	0	0	Bản đồ bí cảnh
+1767	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1768	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1769	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1770	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1771	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1772	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1773	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1774	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1775	20120205	20120208	Chế biến bánh trôi tân xuân 2012
+1776	20120205	20120208	Chế biến bánh trôi tân xuân 2012

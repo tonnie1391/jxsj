@@ -1,0 +1,24 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hứa Như	0	913	0	5	85	1	20	20	20	20	20	1		62784	92160				
+Khởi Lương Tu Nhung	0	637	3	5	85	1	20	20	20	20	20	1		56736	116672				
+Lý Khai Sơn	0	653	3	5	85	1	20	20	20	20	20	1		55808	115808				
+Hoàng Lăng Khán Thủ	0	2195	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xixiahuangling\npc\area1.txt			
+Đao Thủ Phản Quân	0	2196	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xixiahuangling\npc\area2.txt			
+Cổn Đao Thủ	0	2197	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xixiahuangling\npc\area3.txt			
+Hoàng Lăng Khán Thủ	0	2195	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\xixiahuangling\npc\area4.txt			
+to_shamomigong	1															\setting\map\map_info\xixiahuangling\trap\to_shamomigong.txt			
+Mê Cung Sa Mạc	0	2525	4	5	85	1	20	20	20	20	20	1		53152	103136				
+Vật Tuyệt Mật	0	915	3	5	85	1	20	20	20	20	20	1		62560	92160				
+Đạo Ngộ Chân Nhân	0	1583	3	5	85	1	20	20	20	20	20	1		55872	93248				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	62656	95008				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	62752	95904				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63168	94528				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63168	95072				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63296	95584				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63264	96384				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63904	95360				
+Thống Lĩnh Khán Thủ	0	1092	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	63552	95904				
+Một Tàng Võ	0	3083	0	5	85	1	20	20	20	20	20	16		60320	105248				
+Mạc Nam Trúc	0	3084	0	5	85	1	20	20	20	20	20	16		57184	93312				1
+Hoàng Vạn Kiếp	0	3085	0	5	85	1	20	20	20	20	20	16		61792	90976				2
+Khinh Khinh Nhi	0	3086	0	5	85	1	20	20	20	20	20	16		64032	96672				3

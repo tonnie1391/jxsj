@@ -1,0 +1,47 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hành Sơn Hổ	0	2330	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\liangshanpo\npc\area1.txt	1		1
+Hành Sơn Thú	0	2331	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\liangshanpo\npc\area2.txt	1		0
+Xích Cước Sơn Khách	0	2332	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\liangshanpo\npc\area3.txt	1		4
+Man Chùy	0	2333	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\liangshanpo\npc\area4.txt	1		0
+to_dayutai	1															\setting\map\map_info\liangshanpo\trap\to_dayutai.txt			
+to_jianjudong	1															\setting\map\map_info\liangshanpo\trap\to_jianjudong.txt			
+to_shugangmijing	1															\setting\map\map_info\liangshanpo\trap\to_shugangmijing.txt			
+to_tianrenjiao	1															\setting\map\map_info\liangshanpo\trap\to_tianrenjiao.txt			
+Đại Vũ Đài	0	2525	4	5	1	1	20	20	20	20	20	1		50080	112032		1		
+Tiến Cúc Động	0	2525	4	5	1	1	20	20	20	20	20	1		56864	120416		1		
+Thục Cương Bí Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		50048	122048		1		
+Thiên Nhẫn Giáo	0	2525	4	5	1	1	20	20	20	20	20	1		49984	105536		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		56320	103104		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		56032	102976		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55840	103200		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55776	102816		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55616	103008		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55872	103488		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55904	104000		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		56256	103008		1		
+Hộ Ngọc Thị Vệ	0	5051	0	5	1	1	20	20	20	20	20	1		55776	102656		1		
+Tử Hoàn	0	5072	3	5	120	1	20	20	20	20	20	1		60352	104000		1		
+Nấm mộ	0	5073	3	5	1	1	20	20	20	20	20	1		58304	101984		1		
+Hồ Hán Ngũ	0	5074	0	5	120	1	20	20	20	20	20	1		61088	101664		1		
+Bia mộ	0	5079	3	5	1	1	20	20	20	20	20	1		58240	102016		1		
+Quách Bảo Tài	0	4617	0	5	130	1	20	20	20	20	20	1		62944	100928		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		54496	108384		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		54880	108512		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		55040	108480		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		55456	109152		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		55584	109344		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		59840	121728				
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		59808	121280				
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		60192	121408				
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		60000	118464				
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		60288	121824				
+Linh Bích Bạc	0	2525	4	5	1	1	20	20	20	20	20	1		63904	100736		1		
+to_lingbipo	1															\setting\map\map_info\liangshanpo\trap\to_lingbipo.txt			
+Huyết La Môn-Hồ	0	2525	4	5	1	1	20	20	20	20	20	1		55264	103552		1		
+to_xueluomenhu1	1															\setting\map\map_info\liangshanpo\trap\to_xueluomenhu1.txt			
+Huyết La Môn-Hồ	0	2525	4	5	1	1	20	20	20	20	20	1		56544	103872		1		
+to_xueluomenhu2	1															\setting\map\map_info\liangshanpo\trap\to_xueluomenhu2.txt			
+Huyết La Môn-Hải	0	2525	4	5	1	1	20	20	20	20	20	1		57792	115680		1		
+to_xueluomenhai1	1															\setting\map\map_info\liangshanpo\trap\to_xueluomenhai1.txt			
+Huyết La Môn-Hải	0	2525	4	5	1	1	20	20	20	20	20	1		61184	117600		1		
+to_xueluomenhai2	1															\setting\map\map_info\liangshanpo\trap\to_xueluomenhai2.txt			

@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Bộ Khoái Quan Phủ	0	5000	3	5	150	1	20	20	20	20	20	1				\setting\map\map_info\xiaoyaogu_lv6\npc\guanfubukuai.txt	1		
+to_trapA1	1															\setting\map\map_info\xiaoyaogu_lv6\trap\to_trapA1.txt			
+to_trapA2	1															\setting\map\map_info\xiaoyaogu_lv6\trap\to_trapA2.txt			
+to_trapB1	1															\setting\map\map_info\xiaoyaogu_lv6\trap\to_trapB1.txt			
+to_trapB2	1															\setting\map\map_info\xiaoyaogu_lv6\trap\to_trapB2.txt			
+thief_trap	1															\setting\map\map_info\xiaoyaogu_lv6\trap\thief_trap.txt			

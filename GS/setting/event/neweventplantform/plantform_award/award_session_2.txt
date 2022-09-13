@@ -1,0 +1,6 @@
+RankType1	RankType2	RankType3	RankType4	RankType5	RankType6	RankType7	RankType8	RankDesc
+排名类型1	排名类型2	排名类型3	排名类型4	排名类型5	排名类型6	排名类型7	排名类型8	奖励描述
+binditem=18,1,1481,1	binditem=18,1,1482,1	binditem=18,1,1482,1	binditem=18,1,1483,1	binditem=18,1,1483,1	binditem=18,1,1483,1	binditem=18,1,1483,1	binditem=18,1,1483,1	箱子
+binditem=18,1,1482,1	binditem=18,1,1482,1	binditem=18,1,1483,1	binditem=18,1,1483,1					箱子
+binditem=18,1,1486,1	binditem=18,1,1486,1	binditem=18,1,1486,1						银票
+binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	binditem=18,1,1487,1	材料礼包

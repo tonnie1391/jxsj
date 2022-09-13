@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	±¸×¢
+1	2953	56512	92960	¿ªÆôÇàÁú°×»¢µÈ

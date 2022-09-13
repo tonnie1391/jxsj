@@ -1,0 +1,35 @@
+MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_5	GAMESVR_SET_6	GAMESVR_SET_7	GAMESVR_SET_8	GAMESVR_SET_9	GAMESVR_SET_10	GAMESVR_SET_11	GAMESVR_SET_12	GAMESVR_SET_13	GAMESVR_SET_14	GAMESVR_SET_15	GAMESVR_SET_16	备注
+1609	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Đảo Anh Hùng (1)
+1653	1	1	1	2	3	3	7	3	3	3	3	3	3	3	3	3	Khu chuẩn bị Di Tích Hàn Vũ (1)
+1655	1	1	1	2	3	3	7	3	3	3	3	3	3	3	3	3	Di Tích Hàn Vũ (1)
+1893	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hội trường liên đấu liên server (1)
+1905	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chuẩn bị liên đấu liên server (1)
+1917	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Đấu trường liên đấu liên server (1)
+1929	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hội trường liên đấu liên server (1)
+1941	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chuẩn bị liên đấu liên server (1)
+1953	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Đấu trường liên đấu liên server (1)
+1965	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Đấu trường nhiều người liên server (1)
+1977	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Đấu trường nhiều người liên server (1)
+2056	1	1	1	2	3	3	7	3	3	3	3	3	3	3	3	3	Báo danh Chiến Trường Liên Server (1)
+2071	1	1	1	2	3	3	7	3	3	3	3	3	3	3	3	3	Chiến Trường Liên Server (1)
+1812	1	1	1	1	1	1	1	1	1	1	9	9	9	9	9	9	Ngoài Thiết Phù Thành
+1813	1	2	2	2	2	2	2	2	2	2	8	8	8	8	8	8	Ngoài Thiết Phù Thành
+1814	1	1	3	3	3	3	3	3	3	3	7	7	7	7	7	7	Ngoài Thiết Phù Thành
+1815	1	2	1	4	4	4	4	4	4	4	6	6	6	6	6	6	Ngoài Thiết Phù Thành
+1816	1	1	2	1	5	5	5	5	5	5	5	5	5	5	5	5	Ngoài Thiết Phù Thành
+1817	1	2	3	2	1	6	6	6	6	6	4	4	4	4	4	4	Ngoài Thiết Phù Thành
+1818	1	1	1	3	2	1	7	7	7	7	3	3	3	3	3	3	Ngoài Thiết Phù Thành
+1819	1	2	2	4	3	2	1	1	1	1	2	2	2	2	2	2	Ngoài Thiết Phù Thành
+1820	1	1	3	1	4	3	2	2	2	2	1	1	1	1	1	1	Ngoài Thiết Phù Thành
+1821	1	2	1	2	5	4	3	3	3	3	6	7	8	9	10	10	Ngoài Thiết Phù Thành
+1822	1	1	2	3	1	5	4	4	4	4	7	8	9	10	11	11	Ngoài Thiết Phù Thành
+1823	1	2	3	4	2	6	5	5	5	5	8	9	10	11	12	12	Ngoài Thiết Phù Thành
+1824	1	1	1	1	3	1	6	6	6	6	9	10	11	12	13	13	Ngoài Thiết Phù Thành
+1825	1	2	2	2	4	2	7	7	7	7	10	11	12	13	14	14	Ngoài Thiết Phù Thành
+1826	1	1	3	3	5	3	1	1	1	1	11	12	13	14	15	15	Ngoài Thiết Phù Thành
+1827	1	1	1	1	1	1	1	1	1	1	10	11	12	13	14	14	Trong Thiết Phù Thành
+1828	1	2	2	2	2	2	2	2	2	2	9	10	11	12	13	13	Trong Thiết Phù Thành
+1829	1	1	3	3	3	3	3	3	3	3	8	9	10	11	12	12	Trong Thiết Phù Thành
+1830	1	2	1	4	4	4	4	4	4	4	7	8	9	10	11	11	Trong Thiết Phù Thành
+1831	1	1	2	1	5	5	5	5	5	5	6	7	8	9	10	10	Trong Thiết Phù Thành
+1832	1	2	3	4	5	6	7	7	7	7	11	12	13	14	15	15	Thiết Phù Thành (ngai vàng)

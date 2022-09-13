@@ -1,0 +1,34 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_jianzhong	1															\setting\map\map_info\dasanguan\trap\to_jianzhong.txt			
+Thiên Quỳnh Cung	0	2525	4	5	1	1	20	20	20	20	20	1		61440	106208		1		
+to_fengxiangfu	1															\setting\map\map_info\dasanguan\trap\to_fengxiangfu.txt			
+to_jiangeshudao	1															\setting\map\map_info\dasanguan\trap\to_jiangeshudao.txt			
+to_jianmenguan	1															\setting\map\map_info\dasanguan\trap\to_jianmenguan.txt			
+Mã Tặc Du Kỵ	0	2133	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\dasanguan\npc\area1.txt	1		0
+Thiết Diều Tử	0	2132	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\dasanguan\npc\area2.txt	1		
+Thiết Diều Tử	0	2132	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\dasanguan\npc\area3.txt	1		
+Du Binh Tây Hạ	0	2134	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\dasanguan\npc\area4.txt	1		
+Phượng Tường Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		50784	107968		1		
+Kiếm Các Thục Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		58208	127072		1		
+Kiếm Môn Quan	0	2525	4	5	1	1	20	20	20	20	20	1		62496	125088		1		
+Tô Mạc Dương	0	552	3	5	60	1	20	20	20	20	20	1		60064	109632		1		
+Lý A Đại	0	532	0	5	55	1	20	20	20	20	20	1		52000	107232		1		
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		60704	105984		1		1
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		60992	105440		1		1
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		60928	105696		1		1
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		61120	106976		1		1
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		61376	107328		1		1
+Ẩn Nặc Cao Thủ	0	836	0	5	55	1	20	20	20	20	20	1		61760	107264		1		1
+Sát Tướng Quân	0	1214	3	5	60	1	20	20	20	20	20	1		51616	121504		1		
+Lam Đặc Sứ	0	1215	3	5	60	1	20	20	20	20	20	1		52032	121536		1		
+Hộ Doanh Binh	0	1216	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\dasanguan\npc\huyingbing.txt	1		
+Đắc Nhật Lạc	0	1217	0	5	55	1	20	20	20	20	20	1		52064	114784		1		
+Hoàn Nhan Khảo	0	1803	0	5	55	1	20	20	20	20	20	1		52384	126592		1		
+Mai Quế Hồng Cúc	0	1628	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\dasanguan\npc\meiguihongju.txt			
+Tử Mẫu Đơn	0	1629	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\dasanguan\npc\zimudan.txt			
+Lương Ất Xương	0	2999	0	5	55	1	20	20	20	20	20	16		58144	108672				
+Cốc Kiếm Thu	0	3000	0	5	55	1	20	20	20	20	20	16		50656	124320				
+Cố Thủ Đằng	0	3001	0	5	55	1	20	20	20	20	20	16		57120	112960				2
+Quan Thiên Vấn	0	3002	0	5	55	1	20	20	20	20	20	16		59840	126336				1
+to_afanggongfeixu	1															\setting\map\map_info\dasanguan\trap\to_afanggongfeixu.txt			
+Tàn Tích Cung A Phòng	0	2525	4	5	1	1	20	20	20	20	20	1		62592	114112		1		

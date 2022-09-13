@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cường Đạo	0	2215	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\gusushuixie\npc\area1.txt	1		4
+Ẩn Sĩ Sơn Lâm	0	2216	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\gusushuixie\npc\area2.txt	1		
+Trú Thủ Cung Binh	0	2044	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\gusushuixie\npc\area3.txt	1		
+Trú Thủ Thương Sĩ	0	2043	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\gusushuixie\npc\area4.txt	1		
+Lãnh Thu Vân	0	326	3	5	90	1	20	20	20	20	20	1		56736	103264		1		
+to_gaibang	1															\setting\map\map_info\gusushuixie\trap\to_gaibang.txt			
+to_yanziwu_1	1															\setting\map\map_info\gusushuixie\trap\to_yanziwu_1.txt			
+Cái Bang	0	2525	4	5	1	1	20	20	20	20	20	1		58592	99520		1		
+Ngoài Yến Tử Ổ	0	2525	4	5	1	1	20	20	20	20	20	1		50048	104512		1		

@@ -1,0 +1,32 @@
+Name	Kind	Genre	DetailType	ParticularType	Level	Icon	View	ObjID	Intro	Help	Series	Price	Stack	ItemValue	MakeCost	BindType	Valuable	ReqLevel	ClassName	ForbidType	CanBeOffer	Shortcut	CDType	Pos
+兽皮包	兽皮包	21	1	1	1	\image\item\other\extbag\bag_002_s.spr		32	4格背包		0	500	1	500		2	0		extbag		0			-1
+紫菱包	紫菱包	21	2	1	1	\image\item\other\extbag\bag_003_s.spr		32	6格背包		0	1600	1	1600		2	0		extbag		0			-1
+锦丝包	锦丝包	21	3	1	1	\image\item\other\extbag\bag_004_s.spr		32	8格背包		0	4400	1	4400	6600	2	0		extbag		0			-1
+黄绸包	黄绸包	21	4	1	1	\image\item\other\extbag\bag_005_s.spr		32	10格背包		0	12200	1	12200	18300	2	0		extbag		0			-1
+心印包	心印包	21	5	1	1	\image\item\other\extbag\bag_006_s.spr		32	12格背包		0	40000	1	40000	60000	2	0		extbag		0			-1
+封测英雄包	封测英雄包	21	5	2	1	\image\item\other\extbag\bag_006_s.spr		32	12格背包<enter><color=gold>《剑侠世界》封闭测试纪念背包<color>		0	1	1	1		1	0		extbag		0			-1
+貂皮包	貂皮包	21	6	1	1	\image\item\other\extbag\bag_007_s.spr		32	15格背包		0	120000	1	120000	180000	2	0		extbag		0			-1
+金玉绸包	金玉绸包	21	7	1	1	\image\item\other\extbag\bag_008_s.spr		32	18格背包		0	350000	1	350000	525000	2	0		extbag		0			-1
+绮罗绣包	绮罗绣包	21	8	1	1	\image\item\other\extbag\bag_009_s.spr		32	20格背包		0	1050000	1	1050000		2	0		extbag		0			-1
+绮罗绣包[军用]	绮罗绣包	21	8	2	1	\image\item\other\extbag\bag_009_s.spr		32	20格背包，义军首领白秋琳亲手缝制的背包，奖励给为军营建设作出杰出贡献的将士，非常珍贵，务必装备在贴心的位置上。		0	90000	1	1050000		1	0		extbag		0			1
+天蚕包	天蚕包	21	9	1	1	\image\item\other\extbag\bag_010_s.spr		32	24格背包		0	3200000	1	3200000		2	0		extbag		0			-1
+蟠龙包	蟠龙包	21	9	2	1	\image\item\other\extbag\bag_011_s.spr		32	24格背包		0	3200000	1	3200000		2	0		extbag		0			-1
+飞凤包	飞凤包	21	9	3	1	\image\item\other\extbag\bag_012_s.spr		32	24格背包		0	3200000	1	3200000		2	0		extbag		0			-1
+天蚕包[军用]	天蚕包	21	9	4	1	\image\item\other\extbag\bag_010_s.spr		32	24格背包，义军首领白秋琳亲手缝制的背包，奖励给为军营建设作出杰出贡献的将士，非常珍贵，务必装备在贴心的位置上。		0	180000	1	3200000		1	0		extbag		0			1
+赵姬香袋	赵姬香袋	21	8	3	1	\image\item\other\extbag\bag_013_s.spr		32	20格背包<enter><enter>一个在秦陵中发现的小袋子，华贵且幽暗的布料表面散发出阵阵迷人的香气。看上去不大的外表却似乎能容纳下无数的东西。		0	180000	1	3200000		1	0		extbag		0			2
+阿若公主的记忆	阿若公主的记忆	21	9	5	1	\image\item\other\extbag\bag_014_s.spr		32	24格背包<enter><enter>一个在秦陵中发现的小袋子，看似粗糙的布料下却有着无比精细而温馨的手工。<enter><enter><color=green>袋子边上缝有一行文字：我知道你永远不会忘记我的。<color>		0	180000	1	3200000		1	0		extbag		0			2
+巾帼英雄赛纪念[20格]	巾帼英雄赛专用背包	21	8	4	1	\image\item\other\extbag\bag_015_s.spr		32	20格背包<enter><color=gold>《巾帼英雄赛》纪念背包<color>		0	180000	1	3200000		1	0		extbag		0			3
+巾帼英雄赛纪念[24格]	巾帼英雄赛专用背包	21	9	6	1	\image\item\other\extbag\bag_016_s.spr		32	24格背包<enter><color=gold>《巾帼英雄赛》纪念背包<color>		0	180000	1	3200000		1	0		extbag		0			3
+天蚕包[军用]	天蚕包	21	9	7	1	\image\item\other\extbag\bag_010_s.spr		32	24格背包，义军首领白秋琳亲手缝制的背包，奖励给为军营建设作出杰出贡献的将士，非常珍贵，务必装备在贴心的位置上。		0	180000	1	3200000		2	0		extbag		0			1
+剑舞九天包	剑舞九天包	21	8	5	1	\image\item\other\extbag\bag_012_s.spr		32	20格背包		0	1050000	1	1050000		2	0		extbag		0			-1
+剑舞九天包	剑舞九天包	21	9	8	1	\image\item\other\extbag\bag_012_s.spr		32	24格背包		0	180000	1	3200000		2	0		extbag		0			-1
+3尺袋子	3尺袋子_vn	21	9	9	1	\image\item\equip\amulet\n_103_s.spr		32	24格背包		0	60000	1	3200000		0	0		extbag		0			-1
+再闯江湖包（占位）	再闯江湖包	21	9	10	1	\image\item\other\extbag\bag_012_s.spr		32	24格背包		0	180000	1	3200000		2	0		extbag		0			-1
+剑啸狂沙包	剑啸狂沙包	21	8	6	1	\image\item\other\extbag\bag_012_s.spr		32	20格背包		0	1050000	1	1050000		2	0		extbag		0			-1
+秦洼的鱼篓	秦洼的鱼篓	21	6	11	1	\image\item\other\fish\yulou.spr		32	15格背包<enter>秦洼奖赏给勤劳渔夫们的礼物，愿幸运永远笼罩着你。<enter><enter><color=green>青箬笠，绿蓑衣，斜风细雨不须归。<color>		0	30000	1	350000		2	0		extbag		0			-1
+水产大师鱼篓	水产大师鱼篓	21	7	11	1	\image\item\other\fish\shuichandashiyulou.spr		32	18格背包<enter>秦洼奖赏给勤劳渔夫们的礼物。<enter><enter><color=green>拈棹舞，拥蓑眠。不作天仙作水仙。<color>		0	50000	1	1050000		2	0		extbag		0			-1
+水产大师鱼篓	水产大师鱼篓	21	8	11	1	\image\item\other\fish\shuichandashiyulou.spr		32	20格背包<enter>秦洼奖赏给勤劳渔夫们的礼物。<enter><enter><color=green>拈棹舞，拥蓑眠。不作天仙作水仙。<color>		0	50000	1	1050000		2	0		extbag		0			-1
+西域龙魂贵宾包	西域龙魂包	21	9	11	1	\image\item\other\extbag\bag_012_s.spr		32	24格背包		0	180000	1	3200000		2	0		extbag		0			-1
+西域龙魂侠客包	西域龙魂包	21	8	12	1	\image\item\other\extbag\bag_012_s.spr		32	20格背包		0	180000	1	3200000		2	0		extbag		0			-1
+贵宾包	西域龙魂包	21	9	12	1	\image\item\other\extbag\bag_012_s.spr		32	24格背包		0	180000	1	3200000		2	0		extbag		0			-1
+侠客包	西域龙魂包	21	8	13	1	\image\item\other\extbag\bag_012_s.spr		32	20格背包		0	180000	1	3200000		2	0		extbag		0			-1

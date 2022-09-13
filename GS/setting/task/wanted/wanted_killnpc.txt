@@ -1,0 +1,210 @@
+TaskId	TaskName	TaskType	MapId	PosX	PosY	MapName	NpcId	Num	LevelSeg	ActionKind	RandCallBoss	BossId
+Số nhiệm vụ	Tên nhân vật	Loại nhiệm vụ	Số hiệu Id bản đồ	Tọa độ X bản đồ	Tọa độ Y bản đồ	Tên bản đồ	NpcId	Số lượng	Cấp đoạn	Loại hành vi boss	Xác suất tử vong triệu boss (Tổng xác suất 100 vạn)	Id của boss
+50001	Bộc Tán A Lỗ	KillNpc	86	1851	3899	Thái Hành Cổ Kính	2995	1	1	1		
+50002	Bào Triệt Sơn	KillNpc	86	1819	3354	Thái Hành Cổ Kính	2996	1	1	0		
+50003	Thái Cô Trần	KillNpc	86	1710	3289	Thái Hành Cổ Kính	2997	1	1	0		
+50004	Tào An Phủ	KillNpc	86	1712	3918	Thái Hành Cổ Kính	2998	1	1	0		
+50005	Lương Ất Xương	KillNpc	87	1817	3396	Đại Tán Quan	2999	1	1	1		
+50006	Cốc Kiếm Thu	KillNpc	87	1583	3885	Đại Tán Quan	3000	1	1	0		
+50007	Cố Thủ Đằng	KillNpc	87	1785	3530	Đại Tán Quan	3001	1	1	0		
+50008	Quan Thiên Vấn	KillNpc	87	1870	3948	Đại Tán Quan	3002	1	1	0		
+50009	Giả Thiện Nhân	KillNpc	88	1920	3875	Hán Thủy Cổ Độ	3003	1	1	1		
+50010	Giang Trầm Nhạn	KillNpc	88	1602	3604	Hán Thủy Cổ Độ	3004	1	1	0		
+50011	Khương Tự Dao	KillNpc	88	1888	3282	Hán Thủy Cổ Độ	3005	1	1	0		
+50012	Giải Qui Nam	KillNpc	88	1925	3551	Hán Thủy Cổ Độ	3006	1	1	0		
+50013	Kha Hùng Phi	KillNpc	89	1555	3189	Hàn Sơn Cổ Sát	3007	1	1	1		
+50014	Khổng Bất Dung	KillNpc	89	1610	3694	Hàn Sơn Cổ Sát	3008	1	1	0		
+50015	Lôi Cầu Khách	KillNpc	89	1897	3692	Hàn Sơn Cổ Sát	3009	1	1	0		
+50016	Lý Hành Kiệm	KillNpc	89	1923	3188	Hàn Sơn Cổ Sát	3010	1	1	0		
+50017	Tần Tư Du	KillNpc	90	1932	3928	Cán Hoa Khê	3011	1	1	1		
+50018	Khuất Hướng Vinh	KillNpc	90	1925	3228	Cán Hoa Khê	3012	1	1	0		
+50019	Nhậm Thương Khung	KillNpc	90	1606	3331	Cán Hoa Khê	3013	1	1	0		
+50020	Tang Thương Hải	KillNpc	90	1721	3996	Cán Hoa Khê	3014	1	1	0		
+50021	Tô Cổ Ngâm	KillNpc	91	1722	3252	Nhĩ Hải Ma Nham	3015	1	1	1		
+50022	Tôn Văn Bưu	KillNpc	91	1710	3788	Nhĩ Hải Ma Nham	3016	1	1	0		
+50023	Đàm Thiên Quân	KillNpc	91	1899	3754	Nhĩ Hải Ma Nham	3017	1	1	0		
+50024	Đường Bác Văn	KillNpc	91	1963	3299	Nhĩ Hải Ma Nham	3018	1	1	0		
+50025	Ngô Tranh Tranh	KillNpc	92	2013	3794	Thái Thạch Cơ	3019	1	1	1		
+50026	Vũ Nhất Đao	KillNpc	92	1823	3209	Thái Thạch Cơ	3020	1	1	0		
+50027	Tây Môn Vô Danh	KillNpc	92	1603	3208	Thái Thạch Cơ	3021	1	1	0		
+50028	Hạng Lệnh Thành	KillNpc	92	1703	3679	Thái Thạch Cơ	3022	1	1	0		
+50029	Bồ Sát Sa Hổ	KillNpc	93	1679	3916	Dược Vương Động	3023	1	2	1		
+50030	Hạ Thiếu Hùng	KillNpc	93	1654	3352	Dược Vương Động	3024	1	2	0		
+50031	Hồ Nhất Lang	KillNpc	93	1945	3325	Dược Vương Động	3025	1	2	0		
+50032	Hoàng Lực Báo	KillNpc	93	1875	3475	Dược Vương Động	3026	1	2	0		
+50033	Lâu Kế Thiện	KillNpc	94	1605	3788	Cư Diên Trạch	3027	1	2	1		
+50034	Lư Quán Bắc	KillNpc	94	1713	3250	Cư Diên Trạch	3028	1	2	0		
+50035	Lục Trọng Hiền	KillNpc	94	1983	3724	Cư Diên Trạch	3029	1	2	0		
+50036	Lạc Nhĩ Kim	KillNpc	94	1716	3746	Cư Diên Trạch	3030	1	2	0		
+50037	Thượng Quan Ẩn	KillNpc	95	1738	3256	Phục Ngưu Sơn	3031	1	2	1		
+50038	Thiệu Thất Sát	KillNpc	95	1611	3838	Phục Ngưu Sơn	3032	1	2	0		
+50039	Thi Hổ Báo	KillNpc	95	1836	3941	Phục Ngưu Sơn	3033	1	2	0		
+50040	Thạch Cố Kiều	KillNpc	95	1874	3280	Phục Ngưu Sơn	3034	1	2	0		
+50041	Đường Cừu Chi	KillNpc	96	1948	3456	Hổ Khâu Kiếm Trì	3035	1	2	1		
+50042	Đào Đảo Chủ	KillNpc	96	1770	3225	Hổ Khâu Kiếm Trì	3036	1	2	0		
+50043	Điền Vô Đạo	KillNpc	96	1576	3898	Hổ Khâu Kiếm Trì	3037	1	2	0		
+50044	Đồng Bất Phúc	KillNpc	96	1835	3707	Hổ Khâu Kiếm Trì	3038	1	2	0		
+50045	Vạn Tiêu Sơn	KillNpc	97	1636	3489	Hưởng Thủy Động	3039	1	2	1		
+50046	Uông Thệ Thủy	KillNpc	97	1795	3276	Hưởng Thủy Động	3040	1	2	0		
+50047	Vương Bá Thiên	KillNpc	97	1878	3323	Hưởng Thủy Động	3041	1	2	0		
+50048	Vu Cửu Đồ	KillNpc	97	1896	3668	Hưởng Thủy Động	3042	1	2	0		
+50049	Tiết Điệp Y	KillNpc	98	1852	3881	Điểm Thương Sơn	3043	1	2	1		
+50050	Chung Thiết Thoái	KillNpc	98	1817	3312	Điểm Thương Sơn	3044	1	2	0		
+50051	Ứng Tiêu Phong	KillNpc	98	1856	3537	Điểm Thương Sơn	3045	1	2	0		
+50052	Du Vạn Lý	KillNpc	98	1615	3248	Điểm Thương Sơn	3046	1	2	0		
+50053	Trang Minh Trung	KillNpc	99	1486	2581	Bành Lãi Cổ Trạch	3047	1	2	1		
+50054	Trác Lãnh Sơn	KillNpc	99	1627	2774	Bành Lãi Cổ Trạch	3048	1	2	0		
+50055	Liễu Tứ Gia	KillNpc	99	1218	2782	Bành Lãi Cổ Trạch	3049	1	2	0		
+50056	Long Viễn Sơn	KillNpc	99	1380	3187	Bành Lãi Cổ Trạch	3050	1	2	0		
+50057	Trần Thủ Thu	KillNpc	100	1888	3196	Phong Lăng Độ	3051	1	3	1		
+50058	Trình Đạp Ba	KillNpc	100	1699	3130	Phong Lăng Độ	3052	1	3	0		
+50059	Chử Thiên Mẫn	KillNpc	100	1695	3744	Phong Lăng Độ	3053	1	3	0		
+50060	Hoàn Nhan Sửu Nô	KillNpc	100	1909	3289	Phong Lăng Độ	3054	1	3	0		
+50061	Nguy Danh Kỳ	KillNpc	101	1713	3824	Mê Cung Sa Mạc	3055	1	3	1		
+50062	Vệ Biên Thành	KillNpc	101	1702	3311	Mê Cung Sa Mạc	3056	1	3	0		
+50063	Vu Hiền Long	KillNpc	101	1837	3345	Mê Cung Sa Mạc	3057	1	3	0		
+50064	Viên Niệm Tịch	KillNpc	101	1592	3773	Mê Cung Sa Mạc	3058	1	3	0		
+50065	Tang An Nhi	KillNpc	102	1616	3122	Kê Quán Động	3059	1	3	1		
+50066	Tăng A Ngưu	KillNpc	102	1634	2842	Kê Quán Động	3060	1	3	0		
+50067	Chiêm Phúc Vân	KillNpc	102	1213	2955	Kê Quán Động	3061	1	3	0		
+50068	Trương Trấn Phi	KillNpc	102	1400	2724	Kê Quán Động	3062	1	3	0		
+50069	Diệp Hoa Dung	KillNpc	103	1794	3216	Thục Cương Sơn	3063	1	3	1		
+50070	Trác Thất Lang	KillNpc	103	1975	3411	Thục Cương Sơn	3064	1	3	0		
+50071	Tả Khí Danh	KillNpc	103	1719	3908	Thục Cương Sơn	3065	1	3	0		
+50072	Bạch Thương Nham	KillNpc	103	1628	3512	Thục Cương Sơn	3066	1	3	0		
+50073	Viên Thiên Thọ	KillNpc	104	1781	3750	Kiếm Các Thục Đạo	3067	1	3	1		
+50074	Nhạc Nguyên Kính	KillNpc	104	1925	3525	Kiếm Các Thục Đạo	3068	1	3	0		
+50075	Thượng Quan Cừu	KillNpc	104	1532	3541	Kiếm Các Thục Đạo	3069	1	3	0		
+50076	Tiết Vô Cực	KillNpc	104	1754	3376	Kiếm Các Thục Đạo	3070	1	3	0		
+50077	Liên Kinh Thái	KillNpc	105	1277	3377	Hoàng Lăng Đoàn Thị	3071	1	3	1		
+50078	Lăng Tận Trung	KillNpc	105	1549	3089	Hoàng Lăng Đoàn Thị	3072	1	3	0		
+50079	Kinh Bất Bình	KillNpc	105	1887	3371	Hoàng Lăng Đoàn Thị	3073	1	3	0		
+50080	Bồ Thập Tam	KillNpc	105	1541	3651	Hoàng Lăng Đoàn Thị	3074	1	3	0		
+50081	Yến Lưu Sênh	KillNpc	106	1719	3822	Cửu Nghi Khê	3075	1	3	1		
+50082	Dương Phong Dật	KillNpc	106	1920	3740	Cửu Nghi Khê	3076	1	3	0		
+50083	Tạ Trọng Hầu	KillNpc	106	1847	3285	Cửu Nghi Khê	3077	1	3	0		
+50084	Diệp Hạo Long	KillNpc	106	1731	3489	Cửu Nghi Khê	3078	1	3	0		
+50085	Gia Luật Thiết Thích	KillNpc	107	1922	3698	Long Môn Thạch Quật	3079	1	4	1		
+50086	Chương Nguyên Sùng	KillNpc	107	1778	3829	Long Môn Thạch Quật	3080	1	4	0		
+50087	Trịnh Cửu Công	KillNpc	107	1708	3301	Long Môn Thạch Quật	3081	1	4	0		
+50088	Trịnh Trác Quần	KillNpc	107	1883	3293	Long Môn Thạch Quật	3082	1	4	0		
+50089	Một Tàng Võ	KillNpc	108	1885	3289	Hoàng Lăng Tây Hạ	3083	1	4	1		
+50090	Mạc Nam Trúc	KillNpc	108	1787	2916	Hoàng Lăng Tây Hạ	3084	1	4	0		
+50091	Hoàng Vạn Kiếp	KillNpc	108	1931	2843	Hoàng Lăng Tây Hạ	3085	1	4	0		
+50092	Khinh Khinh Nhi	KillNpc	108	2001	3021	Hoàng Lăng Tây Hạ	3086	1	4	0		
+50093	Mạc Tiểu Tiểu	KillNpc	109	1823	3888	Hoàng Hạc Lâu	3087	1	4	1		
+50094	Phan Thủ An	KillNpc	109	1821	3474	Hoàng Hạc Lâu	3088	1	4	0		
+50095	Tùng Vô Ảnh	KillNpc	109	1886	3327	Hoàng Hạc Lâu	3089	1	4	0		
+50096	Đặng An Khuê	KillNpc	109	1646	3301	Hoàng Hạc Lâu	3090	1	4	0		
+50097	Cố Vô Thường	KillNpc	110	1323	3055	Tiến Cúc Động	3091	1	4	1		
+50098	Cổ Thanh Dương	KillNpc	110	1586	3276	Tiến Cúc Động	3092	1	4	0		
+50099	Quan Tử Mạc	KillNpc	110	1642	2944	Tiến Cúc Động	3093	1	4	0		
+50100	Hà Liên Tố	KillNpc	110	1380	3000	Tiến Cúc Động	3094	1	4	0		
+50101	Chu Trần Phi	KillNpc	111	1709	3209	Kiếm Môn Quan	3095	1	4	1		
+50102	Chu Sở Bá	KillNpc	111	1962	3225	Kiếm Môn Quan	3096	1	4	0		
+50103	Gia Cát Kinh Hồng	KillNpc	111	1938	3698	Kiếm Môn Quan	3097	1	4	0		
+50104	Phong Vô Ngấn	KillNpc	111	1622	3637	Kiếm Môn Quan	3098	1	4	0		
+50105	Cam Chính Cô	KillNpc	112	1598	3720	Thiên Long Tự	3099	1	4	1		
+50106	Cảnh Dung Phục	KillNpc	112	1631	3323	Thiên Long Tự	3100	1	4	0		
+50107	Cô Dự Tẩu	KillNpc	112	1847	3357	Thiên Long Tự	3101	1	4	0		
+50108	Đoạn Lăng Nguyệt	KillNpc	112	1793	3756	Thiên Long Tự	3102	1	4	0		
+50109	Phạm Triều Sương	KillNpc	113	1740	3702	Bang Nguyên Bí Động	3103	1	4	1		
+50110	Phương Đại Châu	KillNpc	113	1750	3198	Bang Nguyên Bí Động	3104	1	4	0		
+50111	Phùng Song Dực	KillNpc	113	1495	3307	Bang Nguyên Bí Động	3105	1	4	0		
+50112	Phó Tu Văn	KillNpc	113	1405	3495	Bang Nguyên Bí Động	3106	1	4	0		
+50113	Húc Nhật Can	KillNpc	114	1617	3744	Sắc Lặc Xuyên	3107	1	5	1		
+50114	Tra Can Ba Lạp	KillNpc	114	1736	3228	Sắc Lặc Xuyên	3108	1	5	0		
+50115	Cáp Nhĩ Ba Lạp	KillNpc	114	1838	3766	Sắc Lặc Xuyên	3109	1	5	0		
+50116	Tô Hách Ba Lỗ	KillNpc	114	1926	3232	Sắc Lặc Xuyên	3110	1	5	0		
+50117	Cuồng Phong Sa	KillNpc	115	1489	2902	Gia Dụ Quan	3111	1	5	1		
+50118	Mã Vạn Cù	KillNpc	115	1512	3177	Gia Dụ Quan	3112	1	5	0		
+50119	Ca Thư Mạc	KillNpc	115	1642	3267	Gia Dụ Quan	3113	1	5	0		
+50120	Sở Phi Ưng	KillNpc	115	1779	2921	Gia Dụ Quan	3114	1	5	0		
+50121	Lệnh Hồ Chiêm	KillNpc	116	1599	3670	Hoa Sơn	3115	1	5	1		
+50122	Nhạc Lãnh Thiền	KillNpc	116	1700	3490	Hoa Sơn	3116	1	5	0		
+50123	Phong Cốc	KillNpc	116	1821	3234	Hoa Sơn	3117	1	5	0		
+50124	Ninh Cán Cán	KillNpc	116	1856	3589	Hoa Sơn	3118	1	5	0		
+50125	Ngưu Chấn Sơn	KillNpc	117	1622	2919	Thục Cương Bí Cảnh	3119	1	5	1		
+50126	Nguyên Thập Nhị	KillNpc	117	1672	3358	Thục Cương Bí Cảnh	3120	1	5	0		
+50127	Diêu Thanh Bình	KillNpc	117	1438	3440	Thục Cương Bí Cảnh	3121	1	5	0		
+50128	Tôn Nguyệt Lâu	KillNpc	117	1536	2937	Thục Cương Bí Cảnh	3122	1	5	0		
+50129	Hắc Vô Thường	KillNpc	118	1457	3597	Phong Đô Quỷ Thành	3123	1	5	1		
+50130	Bạch Vô Thường	KillNpc	118	1617	3849	Phong Đô Quỷ Thành	3124	1	5	0		
+50131	Diêm Thập Điện	KillNpc	118	1860	3784	Phong Đô Quỷ Thành	3125	1	5	0		
+50132	Chung Thần Phán	KillNpc	118	1874	3406	Phong Đô Quỷ Thành	3126	1	5	0		
+50133	Ba Đại Nhi	KillNpc	119	1580	3193	Miêu Lĩnh	3127	1	5	1		
+50134	Kỷ Thiên Thành	KillNpc	119	1606	3653	Miêu Lĩnh	3128	1	5	0		
+50135	Lâu Thiên Thiên	KillNpc	119	1718	3275	Miêu Lĩnh	3129	1	5	0		
+50136	Bạch Viễn Hải	KillNpc	119	1838	3666	Miêu Lĩnh	3130	1	5	0		
+50137	Điền Bất Nhị	KillNpc	120	1843	3469	Vũ Di Sơn	3131	1	5	1		
+50138	Thẩm Ngũ Lang	KillNpc	120	1932	3867	Vũ Di Sơn	3132	1	5	0		
+50139	Sử Thiết Chưởng	KillNpc	120	1690	3802	Vũ Di Sơn	3133	1	5	0		
+50140	Dư Chính Hải	KillNpc	120	1619	3571	Vũ Di Sơn	3134	1	5	0		
+50141	Bùi Thời Uyên	KillNpc	121	1817	3266	Vũ Lăng Sơn	3135	1	5	1		
+50142	Ngô Thái Huyền	KillNpc	121	1682	3456	Vũ Lăng Sơn	3136	1	5	0		
+50143	Hoàng Phủ Kiến	KillNpc	121	1567	3310	Vũ Lăng Sơn	3137	1	5	0		
+50144	Thân Đồ Chân	KillNpc	121	1482	3158	Vũ Lăng Sơn	3138	1	5	0		
+50145	Quỷ Thất Kinh	KillNpc	1742	1638	3182	Vạn Cốt Quật-Si	7040	1	6	1		
+50146	Mộ Dung Yến	KillNpc	1774	1820	3179	Vạn Cốt Quật-Si	7041	1	6	0		
+50147	Thượng Quan Uyển Nhi	KillNpc	1743	1638	3182	Vạn Cốt Quật-Mị	7042	1	6	0		
+50148	Tô Vô Nạp Tà	KillNpc	1775	1820	3179	Vạn Cốt Quật-Mị	7043	1	6	0		
+50149	Yến Thập Bát	KillNpc	1744	1638	3182	Vạn Cốt Quật-Võng	7044	1	6	1		
+50150	Giang Đoạn Thủy	KillNpc	1776	1820	3179	Vạn Cốt Quật-Võng	7045	1	6	0		
+50151	Tân Mạc Thu	KillNpc	1745	1638	3182	Vạn Cốt Quật-Lưỡng	7046	1	6	0		
+50152	Liễu Sương Vân	KillNpc	1777	1820	3179	Vạn Cốt Quật-Lưỡng	7047	1	6	0		
+50153	Đàm Kích Qua	KillNpc	1746	1638	3182	Bái Nguyệt Đàn-Sóc	7048	1	6	1		
+50154	Lưu Tiếu Hổ	KillNpc	1778	1820	3179	Bái Nguyệt Đàn-Sóc	7049	1	6	0		
+50155	Du Tiểu Nhị	KillNpc	1747	1638	3182	Bái Nguyệt Đàn-Vọng	7050	1	6	0		
+50156	Hồ Tam Điều	KillNpc	1779	1820	3179	Bái Nguyệt Đàn-Vọng	7051	1	6	0		
+50157	Cúc Tiểu Thất	KillNpc	1748	1638	3182	Bái Nguyệt Đàn-Tàn	7052	1	6	1		
+50158	Mao Thái Công	KillNpc	1780	1820	3179	Bái Nguyệt Đàn-Tàn	7053	1	6	0		
+50159	Thôi Dã	KillNpc	1749	1638	3182	Bái Nguyệt Đàn-Mi	7054	1	6	0		
+50160	Đồng Thiên Thủy	KillNpc	1781	1820	3179	Bái Nguyệt Đàn-Mi	7055	1	6	0		
+50161	Đậu Mạch Hương	KillNpc	1750	1638	3182	Hỗn Dương Điện-Quang	7061	1	6	1		
+50162	Phỉ Mi Ni	KillNpc	1782	1820	3179	Hỗn Dương Điện-Quang	7062	1	6	0		
+50163	Tề Nghiêu Lưu	KillNpc	1751	1638	3182	Hỗn Dương Điện-Ảnh	7063	1	6	0		
+50164	Tô Na Mông	KillNpc	1783	1820	3179	Hỗn Dương Điện-Ảnh	7064	1	6	0		
+50165	Thanh Tuyền Đạo Nhân	KillNpc	1752	1638	3182	Hỗn Dương Điện-Minh	7065	1	6	1		
+50166	Cảnh Võ	KillNpc	1784	1820	3179	Hỗn Dương Điện-Minh	7066	1	6	0		
+50167	Hồ Uyên	KillNpc	1753	1638	3182	Hỗn Dương Điện-Ám	7067	1	6	0		
+50168	Tiếu Tử Dương	KillNpc	1785	1820	3179	Hỗn Dương Điện-Ám	7068	1	6	0		
+50169	Lật Điện Ý	KillNpc	1754	1638	3182	Phần Minh Đường-Tiêu	7069	1	6	1		
+50170	Hoắc Công Điện	KillNpc	1786	1820	3179	Phần Minh Đường-Tiêu	7070	1	6	0		
+50171	Lưu Thái Dương	KillNpc	1755	1638	3182	Phần Minh Đường-Viêm	7071	1	6	0		
+50172	Sùng Thượng Tùng	KillNpc	1787	1820	3179	Phần Minh Đường-Viêm	7072	1	6	0		
+50173	Xích Diệm	KillNpc	1756	1638	3182	Phần Minh Đường-Trần	7073	1	6	1		
+50174	Triệu Man Điệp	KillNpc	1788	1820	3179	Phần Minh Đường-Trần	7074	1	6	0		
+50175	Văn Hoán Chương	KillNpc	1757	1638	3182	Phần Minh Đường-Thệ	7075	1	6	0		
+50176	Cao Chấn Phi	KillNpc	1789	1820	3179	Phần Minh Đường-Thệ	7076	1	6	0		
+50177	Thượng Quan Na Na	KillNpc	1758	1638	3182	Vẫn Đan Cung-Nhật	7077	1	6	1		
+50178	Công Tôn Khang	KillNpc	1790	1820	3179	Vẫn Đan Cung-Nhật	7078	1	6	0		
+50179	Ngọc Kiều Chi	KillNpc	1759	1638	3182	Vẫn Đan Cung-Nguyệt	7079	1	6	0		
+50180	Gia Luật Quốc Trân	KillNpc	1791	1820	3179	Vẫn Đan Cung-Nguyệt	7080	1	6	0		
+50181	Hứa Khinh Tuyết	KillNpc	1760	1638	3182	Vẫn Đan Cung-Tinh	7081	1	6	1		
+50182	Triệu Thanh Vũ	KillNpc	1792	1820	3179	Vẫn Đan Cung-Tinh	7082	1	6	0		
+50183	Hạng Chi Hiên	KillNpc	1761	1638	3182	Vẫn Đan Cung-Thần	7083	1	6	0		
+50184	Bùi Nguyên Long	KillNpc	1793	1820	3179	Vẫn Đan Cung-Thần	7084	1	6	0		
+50185	Âu Dương Phi	KillNpc	1762	1638	3182	Huyết La Môn-Sơn	7085	1	6	1		
+50186	Lữ Bái Kiệt	KillNpc	1794	1820	3179	Huyết La Môn-Sơn	7086	1	6	0		
+50187	Ngô Kiếm Đạo	KillNpc	1763	1638	3182	Huyết La Môn-Hà	7087	1	6	0		
+50188	Dị Uy Võ	KillNpc	1795	1820	3179	Huyết La Môn-Hà	7088	1	6	0		
+50189	Sở Trung Thiên	KillNpc	1764	1638	3182	Huyết La Môn-Hồ	7089	1	6	1		
+50190	Châu Văn Hạo	KillNpc	1796	1820	3179	Huyết La Môn-Hồ	7090	1	6	0		
+50191	Thượng Di Viễn	KillNpc	1765	1638	3182	Huyết La Môn-Hải	7091	1	6	0		
+50192	Trần Tiếu Ma	KillNpc	1797	1820	3179	Huyết La Môn-Hải	7092	1	6	0		
+50193	Lạt Đầu Hòa Thượng	KillNpc	1766	1638	3182	Ma Long Điện-Vân	7093	1	6	1		
+50194	Ba Nhĩ Hổ	KillNpc	1798	1820	3179	Ma Long Điện-Vân	7094	1	6	0		
+50195	Hải Nhật Hãn	KillNpc	1767	1638	3182	Ma Long Điện-Điện	7095	1	6	0		
+50196	Ba Hách Thổ Mộc	KillNpc	1799	1820	3179	Ma Long Điện-Điện	7096	1	6	0		
+50197	Ô Nhĩ Ba Đồ	KillNpc	1768	1638	3182	Ma Long Điện-Nghê	7097	1	6	1		
+50198	Cáp Tư Ca	KillNpc	1800	1820	3179	Ma Long Điện-Nghê	7098	1	6	0		
+50199	Đái Trạch	KillNpc	1769	1638	3182	Ma Long Điện-Phong	7099	1	6	0		
+50200	Phụng Phi Phi	KillNpc	1801	1820	3179	Ma Long Điện-Phong	7100	1	6	0		
+50201	Huỳnh Thất Tà	KillNpc	1770	1638	3182	Thị Hồn Ốc-Linh	7101	1	6	1		
+50202	Hoa Vô Ảnh	KillNpc	1802	1820	3179	Thị Hồn Ốc-Linh	7102	1	6	0		
+50203	Sở Tây Nguyệt	KillNpc	1771	1638	3182	Thị Hồn Ốc-Phách	7103	1	6	0		
+50204	Mộ Tuấn	KillNpc	1803	1820	3179	Thị Hồn Ốc-Phách	7104	1	6	0		
+50205	Tử Đại Bội	KillNpc	1772	1638	3182	Thị Hồn Ốc-Minh	7105	1	6	1		
+50206	Hàn Vũ Yên	KillNpc	1804	1820	3179	Thị Hồn Ốc-Minh	7106	1	6	0		
+50207	Ban Cổ Nhi	KillNpc	1773	1638	3182	Thị Hồn Ốc-Khu	7107	1	6	0		
+50208	Tô Cát	KillNpc	1805	1820	3179	Thị Hồn Ốc-Khu	7108	1	6	0		

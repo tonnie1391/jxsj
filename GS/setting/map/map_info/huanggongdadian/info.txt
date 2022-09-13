@@ -1,0 +1,18 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_exit523	1															\setting\map\map_info\huanggongdadian\trap\to_exit523.txt			
+Triệu Nhữ Nhu	0	1195	3	5	60	1	20	20	20	20	20	3		51712	103328		1		0
+Hàn Thác Trụ	0	1194	3	5	60	1	20	20	20	20	20	3		51392	103200		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51104	103488		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51008	103584		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		50912	103680		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51104	104000		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51488	103072		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51296	103296		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51200	103392		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51616	103456		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51392	103712		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51296	103808		1		
+Đại Thần	0	1197	3	5	60	1	20	20	20	20	20	3		51200	103904		1		
+Ngô Thị	0	1191	3	5	60	1	20	20	20	20	20	3		51680	102976		1		
+Triệu Khoách	0	1192	3	5	60	1	20	20	20	20	20	1		51776	102976		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50336	104512		1		

@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quan Khu Chuẩn Bị	0	4702	3	5	100	1	20	20	20	20	20	1		53536	103680				
+Quan Khu Chuẩn Bị	0	4702	3	5	100	1	20	20	20	20	20	1		53504	104416				
+Quan Khu Chuẩn Bị	0	4702	3	5	100	1	20	20	20	20	20	1		54176	104416				
+Quan Khu Chuẩn Bị	0	4702	3	5	100	1	20	20	20	20	20	1		54144	103712				

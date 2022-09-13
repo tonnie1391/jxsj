@@ -1,0 +1,12 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đao Khách Nam Man	0	2219	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\nanyibuluo\npc\area1.txt			1
+Vu Nữ Nam Man	0	2220	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\nanyibuluo\npc\area2.txt			1
+Hắc Tâm Khuyển	0	2048	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\nanyibuluo\npc\area3.txt			
+Thợ Săn Nam Man	0	2047	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\nanyibuluo\npc\area4.txt			3
+Hàn Phá Sơn	0	349	3	5	90	1	20	20	20	20	20	1		52896	115008				
+to_wudujiao	1															\setting\map\map_info\nanyibuluo\trap\to_wudujiao.txt			
+to_yuanshisenlin_1	1															\setting\map\map_info\nanyibuluo\trap\to_yuanshisenlin_1.txt			
+to_mingjiao	1															\setting\map\map_info\nanyibuluo\trap\to_mingjiao.txt			
+Ngũ Độc Giáo	0	2525	4	5	1	1	20	20	20	20	20	1		58784	102240				
+Đông Rừng Nguyên Sinh	0	2525	4	5	1	1	20	20	20	20	20	1		54400	117856				
+Minh Giáo	0	2525	4	5	1	1	20	20	20	20	20	1		51200	107040				

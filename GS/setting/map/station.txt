@@ -1,0 +1,16 @@
+MapName	MapId	MapType	Sect1	Sect2	Sect3	Sect4
+Dương Châu Phủ	26	city	1514:3123	1472:3286	1642:3338	1641:3129
+Tương Dương Phủ	25	city	1726:3245	1542:3215	1530:2982	1739:3037
+Lâm An Phủ	29	city	1718:4090	1533:4122	1755:3825	
+Phượng Tường Phủ	24	city	1954:3571	1700:3578	1669:3369	1919:3367
+Đại Lý Phủ	28	city	1602:3359	1439:3366	1427:3257	1621:3192
+Thành Đô Phủ	27	city	1666:3260	1572:3331	1541:3148	1665:3139
+Biện Kinh Phủ	23	city	1648:3185	1486:3179	1502:3025	1570:2956
+Vân Trung Trấn	1	country	1549:3249	1398:3017		
+Vĩnh Lạc Trấn	3	country	1693:3288	1594:3155	1779:3171	
+Thạch Cổ Trấn	6	country	1704:3010	1528:3285		
+Long Tuyền Thôn	7	country	1605:3345	1481:3305		
+Long Môn Trấn	2	country	1688:3373	1689:3614		
+Giang Tân Thôn	5	country	1629:3164	1579:3032		
+Đạo Hương Thôn	4	country	1625:3318	1559:3152		
+Ba Lăng Huyện	8	country	1642:3265	1769:3487		

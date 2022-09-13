@@ -1,0 +1,29 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cuồng Phong Sa	0	3111	0	5	95	1	20	20	20	20	20	16		47648	92864				3
+Mã Vạn Cù	0	3112	0	5	95	1	20	20	20	20	20	16		48384	101664				2
+Ca Thư Mạc	0	3113	0	5	95	1	20	20	20	20	20	16		52544	104544				1
+Sở Phi Ưng	0	3114	0	5	95	1	20	20	20	20	20	16		56928	93472				0
+to_longmenzhen	1															\setting\map\map_info\jiayuguan\trap\to_longmenzhen.txt			
+to_juyanze	1															\setting\map\map_info\jiayuguan\trap\to_juyanze.txt			
+Long Môn Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		57536	103584		1		
+Cư Diên Trạch	0	2525	4	5	1	1	20	20	20	20	20	1		57408	99072		1		
+Quân Sĩ Tây Hạ	0	2257	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\area1.txt			
+Mật Bộ Sĩ Binh	0	2258	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\area2.txt			
+Thủ Quân Gia Dụ Quan	0	2259	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\area3.txt			
+Tái Ngoại Hào Lang	0	2260	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\area4.txt			
+Quân sĩ của Lý An Toàn	0	1860	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\junshi.txt			
+Cảm tử của Lý An Toàn	0	1861	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\jiayuguan\npc\sishi.txt			
+Lý An Toàn	0	1865	3	5	150	1	20	20	20	20	20	1		50656	98208		1		
+Đạo Sĩ Huyền Hiệp	0	1868	3	5	150	1	20	20	20	20	20	1		50528	98304		1		
+Tiều Phu Tây Hạ	0	1862	3	5	60	1	20	20	20	20	20	1		54624	94432		1		
+Thôn Cô Tây Hạ	0	1863	3	5	60	1	20	20	20	20	20	1		55232	93920		1		
+Bán Ngựa Tây Hạ	0	1864	3	5	60	1	20	20	20	20	20	1		54912	94208		1		
+Thủ Lĩnh Đội Thần Bí	0	1870	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt	56864	103680				
+Thôi Hạt Tử	0	1867	3	5	90	1	20	20	20	20	20	1		54272	96288		1		
+Hộp Trang Sức Gỗ Lim	0	1645	3	5	90	1	20	20	20	20	20	1		48768	100000		1		
+to_dunhuanggucheng	1															\setting\map\map_info\jiayuguan\trap\to_dunhuanggucheng.txt			
+Đôn Hoàng Cổ Thành	0	2525	4	5	1	1	20	20	20	20	20	1		45600	103168		1		
+to_mengguwangting	1															\setting\map\map_info\jiayuguan\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	1	1	20	20	20	20	20	1		56736	92064		1		
+to_yueyaquan	1															\setting\map\map_info\jiayuguan\trap\to_yueyaquan.txt			
+Nguyệt Nha Tuyền	0	2525	4	5	1	1	20	20	20	20	20	1		46656	95136		1		

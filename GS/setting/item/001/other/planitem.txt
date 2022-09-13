@@ -1,0 +1,21 @@
+Name	Kind	Genre	DetailType	ParticularType	Level	Icon	View	ObjID	Intro	Help	Series	Price	Stack	ItemValue	MakeCost	BindType	Valuable	ReqLevel	ClassName	ForbidType	CanBeOffer	Shortcut	CDType	PlanID
+仙灵木制作图	仙灵木制作图	23	1	1	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作仙灵木方法的卷册，使用可学会如何制作仙灵木。		0	5000	1	1		1	0		planitem					1349
+灵兽皮制作图	灵兽皮制作图	23	1	2	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作灵兽皮方法的卷册，使用可学会如何制作仙灵兽皮。		0	5000	1	1		1	0		planitem					1350
+空白灵符制作图	空白灵符制作图	23	1	3	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作空白灵符方法的卷册，使用可学会如何制作空白灵符。		0	5000	1	1		1	0		planitem					1351
+紫晶石制作图	紫晶石制作图	23	1	4	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作紫晶石方法的卷册，使用可学会如何制作紫晶石。		0	5000	1	1		1	0		planitem					1352
+仙灵果粉制作图	仙灵果粉制作图	23	1	5	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作仙灵果粉方法的卷册，使用可学会如何制作仙灵果粉。		0	5000	1	1		1	0		planitem					1353
+血影枪制作图	血影枪制作图	23	1	6	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作血影枪方法的卷册，使用可学会如何制作血影枪。		0	10000	1	1		1	0		planitem					1354
+灵兽战靴制作图	灵兽战靴制作图	23	1	7	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作灵兽战靴方法的卷册，使用可学会如何制作灵兽战靴。		0	10000	1	1		1	0		planitem					1355
+遁甲灵符制作图	遁甲灵符制作图	23	1	8	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作遁甲灵符方法的卷册，使用可学会如何制作遁甲灵符。		0	10000	1	1		1	0		planitem					1356
+紫晶幻佩制作图	紫晶幻佩制作图	23	1	9	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作紫晶幻佩方法的卷册，使用可学会如何制作紫晶幻佩。		0	10000	1	1		1	0		planitem					1357
+七彩仙丹制作图	七彩仙丹制作图	23	1	10	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作七彩仙丹方法的卷册，使用可学会如何制作七彩仙丹。		0	10000	1	1		1	0		planitem					1358
+玄铁木制作图	玄铁木制作图	23	1	11	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作玄铁木方法的卷册，使用可学会如何制作玄铁木。		0	5000	1	1		1	0		planitem					1369
+战虎皮制作图	战虎皮制作图	23	1	12	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作战虎皮方法的卷册，使用可学会如何制作战虎皮。		0	5000	1	1		1	0		planitem					1370
+绛黄符纸制作图	绛黄符纸制作图	23	1	13	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作绛黄符纸方法的卷册，使用可学会如何制作绛黄符纸。		0	5000	1	1		1	0		planitem					1371
+镇魄石制作图	镇魄石制作图	23	1	14	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作镇魄石方法的卷册，使用可学会如何制作镇魄石。		0	5000	1	1		1	0		planitem					1372
+黄梅果汁制作图	黄梅果汁制作图	23	1	15	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作黄梅果汁方法的卷册，使用可学会如何制作黄梅果汁。		0	5000	1	1		1	0		planitem					1373
+百步穿杨弓制作图	百步穿杨弓制作图	23	1	16	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作百步穿杨弓方法的卷册，使用可学会如何制作百步穿杨弓。		0	10000	1	1		1	0		planitem					1374
+刑天战袍制作图	刑天战袍制作图	23	1	17	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作刑天战袍方法的卷册，使用可学会如何制作刑天战袍。		0	10000	1	1		1	0		planitem					1375
+行军符咒制作图	行军符咒制作图	23	1	18	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作行军符咒方法的卷册，使用可学会如何制作行军符咒。		0	10000	1	1		1	0		planitem					1376
+游子护身符制作图	游子护身符制作图	23	1	19	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作游子护身符方法的卷册，使用可学会如何制作游子护身符。		0	10000	1	1		1	0		planitem					1377
+千里止渴丹制作图	千里止渴丹制作图	23	1	20	1	\image\item\other\scriptitem\scrolltask_s.spr		34	记载着制作千里止渴丹方法的卷册，使用可学会如何制作千里止渴丹。		0	10000	1	1		1	0		planitem					1378

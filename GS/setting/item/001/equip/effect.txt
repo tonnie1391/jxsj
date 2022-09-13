@@ -1,0 +1,46 @@
+Series	Category	EffectRes	EffectName
+1	12	1	Đơn Thủ Kiếm Kim melee
+2	12	2	Đơn Thủ Kiếm Mộc melee
+3	12	3	Đơn Thủ Kiếm Thủy melee
+4	12	4	Đơn Thủ Kiếm Hỏa melee
+5	12	5	Đơn Thủ Kiếm Thổ melee
+1	13	1	Đơn Đao Kim melee
+2	13	2	Đơn Đao Mộc melee
+3	13	3	Đơn Đao Thủy melee
+4	13	4	Đơn Đao Hỏa melee
+5	13	5	Đơn Đao Thổ melee
+1	14	11	Trường Côn Kim range
+2	14	12	Trường Côn Mộc range
+3	14	13	Trường Côn Thủy range
+4	14	14	Trường Côn Hỏa range
+5	14	15	Trường Côn Thổ range
+1	15	11	Trường Thương Kim range
+2	15	12	Trường Thương Mộc range
+3	15	13	Trường Thương Thủy range
+4	15	14	Trường Thương Hỏa range
+5	15	15	Trường Thương Thổ range
+1	11	6	Triền Thủ Kim free
+2	11	7	Triền Thủ Mộc free
+3	11	8	Triền Thủ Thủy free
+4	11	9	Triền Thủ Hỏa free
+5	11	10	Triền Thủ Thổ free
+1	16	16	Song Chùy Kim double
+2	16	17	Song Chùy Mộc double
+3	16	18	Song Chùy Thủy double
+4	16	19	Song Chùy Hỏa double
+5	16	20	Song Chùy Thổ double
+1	21	6	Phi Tiêu Kim free
+2	21	7	Phi Tiêu Mộc free
+3	21	8	Phi Tiêu Thủy free
+4	21	9	Phi Tiêu Hỏa free
+5	21	10	Phi Tiêu Thổ free
+1	22	6	Phi Đao Kim free
+2	22	7	Phi Đao Mộc free
+3	22	8	Phi Đao Thủy free
+4	22	9	Phi Đao Hỏa free
+5	22	10	Phi Đao Thổ free
+1	23	6	Tụ Tiễn Kim free
+2	23	7	Tụ Tiễn Mộc free
+3	23	8	Tụ Tiễn Thủy free
+4	23	9	Tụ Tiễn Hỏa free
+5	23	10	Tụ Tiễn Thổ free

@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	3	100000 		Huyền tinh cấp 3
+		18	1	1	4	100000 		Huyền tinh cấp 4
+		18	1	1	5	200000 		Huyền tinh cấp 5
+		18	1	1	6	150000 		Huyền tinh cấp 6
+		18	1	111	2	200000 		Lệnh bài thương hội
+	800					150000 		
+	8000					100000 		

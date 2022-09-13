@@ -1,0 +1,28 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đoạt Mệnh Hoa Khôi	0	2334	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\shennvfeng\npc\area1.txt	1		1
+Mị Ảnh	0	2335	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\shennvfeng\npc\area2.txt	1		0
+Mê Hồn Thủ	0	2336	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\shennvfeng\npc\area3.txt	1		4
+Nhiếp Tâm Mi	0	2337	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\shennvfeng\npc\area4.txt	1		0
+to_fengduguicheng	1															\setting\map\map_info\shennvfeng\trap\to_fengduguicheng.txt			
+to_hanshuigudu	1															\setting\map\map_info\shennvfeng\trap\to_hanshuigudu.txt			
+to_sanxiazhandao	1															\setting\map\map_info\shennvfeng\trap\to_sanxiazhandao.txt			
+to_wulingshan	1															\setting\map\map_info\shennvfeng\trap\to_wulingshan.txt			
+Phong Đô Quỷ Thành	0	2525	4	5	1	1	20	20	20	20	20	1		50240	112864		1		
+Hán Thủy Cổ Độ	0	2525	4	5	1	1	20	20	20	20	20	1		56832	101408		1		
+Tam Hiệp Sạn Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		51360	102944		1		
+Vũ Lăng Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		50208	122688		1		
+Dương Thái Hoa	0	4390	3	5	150	1	20	20	20	20	20	1		58912	105824		1		
+Trâu Khang	0	4388	3	5	150	1	20	20	20	20	20	1		50656	122240		1		
+Hồ Bạng Tử	0	4389	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt	54400	117472		1		
+La Tuyết	0	4438	3	5	150	1	20	20	20	20	20	1		60416	100736		1		
+Đoàn Trí Hưng	0	4439	3	5	150	1	20	20	20	20	20	1		60256	100736		1		
+Cổ Trùng	0	4434	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\shennvfeng\npc\guchong1.txt	1		0
+Long Trụ Thí Luyện	0	4449	0	5	80	1	20	20	20	20	20	2		59776	105504		1		
+to_molongdianyun1	1															\setting\map\map_info\shennvfeng\trap\to_molongdianyun1.txt			
+Ma Long Điện-Vân	0	2525	4	5	1	1	20	20	20	20	20	1		57984	104928		1		
+to_molongdianyun2	1															\setting\map\map_info\shennvfeng\trap\to_molongdianyun2.txt			
+Ma Long Điện-Vân	0	2525	4	5	1	1	20	20	20	20	20	1		52736	109344		1		
+to_molongdiandian1	1															\setting\map\map_info\shennvfeng\trap\to_molongdiandian1.txt			
+Ma Long Điện-Điện	0	2525	4	5	1	1	20	20	20	20	20	1		56064	118880		1		
+to_molongdiandian2	1															\setting\map\map_info\shennvfeng\trap\to_molongdiandian2.txt			
+Ma Long Điện-Điện	0	2525	4	5	1	1	20	20	20	20	20	1		58720	117216		1		

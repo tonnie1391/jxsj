@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Phạm Giới Tăng Nhân	0	2054	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\houshanjindi\npc\area1.txt	1		
+Phạm Giới Tăng Nhân	0	2054	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\houshanjindi\npc\area2.txt	1		
+Phạm Giới Đầu Đà	0	2055	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\houshanjindi\npc\area3.txt	1		2
+Phạm Giới Đầu Đà	0	2055	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\houshanjindi\npc\area4.txt	1		2
+Huyền Bi	0	394	3	5	90	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt	57632	111424		1		
+to_shaolinpai	1															\setting\map\map_info\houshanjindi\trap\to_shaolinpai.txt			
+to_talin_1	1															\setting\map\map_info\houshanjindi\trap\to_talin_1.txt			
+Thiếu Lâm Phái	0	2525	4	5	1	1	20	20	20	20	20	1		64384	105696		1		
+Đông Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		51744	125248		1		

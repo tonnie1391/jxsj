@@ -1,0 +1,8 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Xích Luyện Xà Vương	0	90	0	5	35	1	20	20	20	20	20	1		52256	98720		1		
+Họa Sư Nhát Gan	0	1441	3	5	35	1	20	20	20	20	20	1		51520	103168				
+Xích Luyện Xà	0	1442	0	5	35	1	20	20	20	20	20	1				\setting\map\map_info\yuanshisenlin_2_chlshd\npc\chilianshe.txt	1		
+Đến Tây Rừng Nguyên Sinh	0	2525	4	5	35	1	20	20	20	20	20	1		51200	103424				
+chlshd2yuanshisenlin	1															\setting\map\map_info\yuanshisenlin_2_chlshd\trap\to_yuanshisenlin.txt			
+Ân Đồng	0	92	3	5	60	1	20	20	20	20	20	1		52384	98144		1		
+Ân Phương	0	91	3	5	60	1	20	20	20	20	20	1		52192	98112		1		

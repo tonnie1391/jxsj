@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	备注
+1	2953	61216	97888	开启天地日月

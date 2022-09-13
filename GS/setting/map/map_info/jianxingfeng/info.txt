@@ -1,0 +1,67 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đệ Tử Thủ Đài	0	145	3	5	60	1	20	20	20	20	20	1		53024	115552		1		
+Tạ Vũ Điền	0	146	3	5	90	1	20	20	20	20	20	1		53568	114592		1		
+Hoang Hành Tử	0	147	3	5	60	1	20	20	20	20	20	1		53440	114496		1		
+Phi Quang Tử	0	149	3	5	60	1	20	20	20	20	20	1		53248	114688		1		
+Long Khiếu Thiên	0	150	3	5	60	1	20	20	20	20	20	1		53056	114880		1		
+Tuyệt Trần Tử	0	151	3	5	60	1	20	20	20	20	20	1		53152	114784		1		
+Bạt Sơn Tử	0	152	3	5	60	1	20	20	20	20	20	1		53344	114592		1		
+Phiêu Bình Kiếm Khách	0	153	3	5	60	1	20	20	20	20	20	1		56736	110208		1		
+Đệ Tử Tuần Sơn	0	163	3	5	60	1	20	20	20	20	20	1		56928	110944		1		
+Võ Sĩ Thủ Quan	0	164	3	5	60	1	20	20	20	20	20	1		55008	106144		1		
+Võ Sĩ Tây Hạ	0	164	3	5	60	1	20	20	20	20	20	1		57152	118080		1		
+Võ Sĩ Tây Hạ	0	164	3	5	60	1	20	20	20	20	20	1		57280	117920		1		
+Mã Tặc	0	165	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\mazei.txt	1		
+Tạ Tùng Nhai	0	166	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55008	104672		1		0
+Lâu Tây Phạm	0	167	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	54912	105216		1		1
+Tẩy Hải Thanh	0	168	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	54848	104192		1		2
+Dư Trường Hận	0	169	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55328	104800		1		3
+Kiếm Vệ	0	170	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55968	103296		1		0
+Đao Vệ	0	171	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55584	103232		1		1
+Thương Vệ	0	172	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55904	103808		1		3
+Quyền Vệ	0	173	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	55488	103744		1		0
+Phiêu Bình Kiếm Khách	0	174	3	5	60	1	20	20	20	20	20	1		57760	104768		1		
+Thiết Vệ Nhất Phẩm Đường	0	178	3	5	60	1	20	20	20	20	20	1		56224	102240		1		0
+Thủ Lĩnh Mã Tặc	0	179	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\mazeishuoling.txt	1		
+Võ Sĩ Nhất Phẩm Đường	0	180	3	5	60	1	20	20	20	20	20	1		56096	109536		1		1
+Tạ Vũ Điền	0	372	3	5	90	1	20	20	20	20	20	1		52704	104480		1		
+Tề Tứ	0	373	3	5	60	1	20	20	20	20	20	1		52000	106688		1		
+Mộ Dung Lão Bát	0	374	3	5	60	1	20	20	20	20	20	1		54016	103296		1		2
+Tiết Bách Sách	0	375	3	5	60	1	20	20	20	20	20	1		54016	105888		1		
+Diệp Bội Bội	0	376	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	52192	108896		1		
+Yên Bà Bà	0	379	3	5	60	1	20	20	20	20	20	1		59488	114944		1		
+Du Thanh Tố	0	381	3	5	60	1	20	20	20	20	20	1		56288	110656		1		
+Hộ Phần Tả Tướng	0	383	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	59360	105856		1		
+Hộ Phần Hữu Tướng	0	384	0	5	25	1	20	20	20	20	20	2	\setting\npc\droprate\droprate003.txt	59424	105472		1		
+Tuần Dạ Nhân	0	385	3	5	60	1	20	20	20	20	20	1		52384	111680		1		
+Đệ Tử Côn Lôn Phái	0	1450	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\jianxingfeng\npc\kunlundizi.txt	1		
+Đao Nhân	0	1452	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\daidaoren.txt			
+Tuyết Viên	0	1453	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\xueyuan.txt			
+Nữ Đệ Tử Tuyết Sơn Phái	0	1454	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\nvdizi.txt			
+Thư của Tạ Vũ Điền	0	1546	3	5	1	1	20	20	20	20	20	1		59712	106080		1		
+Tượng đá 1	0	1573	3	5	1	1	20	20	20	20	20	1		57312	104640		1		
+Tượng đá 2	0	1574	3	5	1	1	20	20	20	20	20	1		57152	105344		1		
+Tượng đá 3	0	1575	3	5	60	1	20	20	20	20	20	1		57760	105664		1		
+Đến Biệt Viện Âm Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		56416	110432		1		
+Đến nhà của Tuần Dạ Nhân	0	2525	4	5	1	1	20	20	20	20	20	1		52416	111552		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		56608	110720				2
+to_yinshan	1															\setting\map\map_info\jianxingfeng\trap\to_yinshan.txt			
+Tham Khách	0	2051	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\area1.txt			1
+Vô Danh Đao Khách	0	2052	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\area2.txt			1
+Đệ Tử Trục Xuất Tuyết Sơn	0	2053	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\area3.txt			
+Tuyết Viên Già	0	2223	0	5	25	1	20	20	20	20	20	1	\setting\npc\droprate\droprate003.txt			\setting\map\map_info\jianxingfeng\npc\area4.txt			
+to_kunlunpai	1															\setting\map\map_info\jianxingfeng\trap\to_kunlunpai.txt			
+to_bingxuemigong_1	1															\setting\map\map_info\jianxingfeng\trap\to_bingxuemigong_1.txt			
+Côn Lôn Phái	0	2525	4	5	1	1	20	20	20	20	20	1		60416	119296		1		
+Mê Cung Băng Huyệt 1	0	2525	4	5	1	1	20	20	20	20	20	1		60224	109952		1		
+Thường Thanh Tùng	0	4582	3	5	1	1	20	20	20	20	20	1		59360	115680		1		
+Thường Thanh Tùng	0	4582	3	5	1	1	20	20	20	20	20	1		59104	116576		1		
+Thường Thanh Tùng	0	4582	3	5	1	1	20	20	20	20	20	1		58944	116448		1		
+Thường Thanh Tùng	0	4582	3	5	1	1	20	20	20	20	20	1		59232	116928		1		
+Thường Thanh Tùng	0	4582	3	5	1	1	20	20	20	20	20	1		59200	117344		1		
+Ma Y Thần Tướng	0	4594	3	5	130	1	20	20	20	20	20	1		56576	106784		1		
+Dị Thú	0	4595	0	5	130	1	20	20	20	20	20	1		60000	103584		1		
+Dạ Minh Châu	0	4596	3	5	1	1	20	20	20	20	20	1		60192	103552		1		
+to_fight	1															\setting\map\map_info\jianxingfeng\trap\to_fight.txt			
+to_peace	1															\setting\map\map_info\jianxingfeng\trap\to_peace.txt			
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		56608	110304				2

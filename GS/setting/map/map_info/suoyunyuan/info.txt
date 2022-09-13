@@ -1,0 +1,52 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Tà Đồng	0	2309	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\suoyunyuan\npc\area1.txt			
+Cô Tẩu	0	2310	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\suoyunyuan\npc\area2.txt			
+Cổ Tâm Linh Tử	0	2311	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\suoyunyuan\npc\area3.txt			
+Cổ Tâm Linh Nữ	0	2312	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\suoyunyuan\npc\area4.txt			
+to_wuyishan	1															\setting\map\map_info\suoyunyuan\trap\to_wuyishan.txt			
+to_chenjichang	1															\setting\map\map_info\suoyunyuan\trap\to_chenjichang.txt			
+to_wanyanguang	1															\setting\map\map_info\suoyunyuan\trap\to_wanyanguang.txt			
+to_tianwangbang	1															\setting\map\map_info\suoyunyuan\trap\to_tianwangbang.txt			
+Vũ Di Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		62400	108832		1		
+Nhà tù Hoàn Nhan Quang	0	2525	4	5	1	1	20	20	20	20	20	1		59488	110144		1		
+Phòng Trần Quý Thường	0	2525	4	5	1	1	20	20	20	20	20	1		58912	110272		1		
+Sư Gia Kiểm Tra	0	4363	3	5	150	1	20	20	20	20	20	1		58592	111392				
+Lý Thiên Chính	0	4351	3	5	150	1	20	20	20	20	20	1		59136	111808				
+to_gulangyu	1															\setting\map\map_info\suoyunyuan\trap\to_gulangyu.txt			
+Cổ Lãng Dữ	0	2525	4	5	1	1	20	20	20	20	20	1		62528	121664		1		
+to_taohuayuan	1															\setting\map\map_info\suoyunyuan\trap\to_taohuayuan.txt			
+Đào Hoa Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		50848	116192		1		
+Thiên Vương Bang	0	2525	4	5	1	1	20	20	20	20	20	1		61792	100256		1		
+Miết Lạp Tra	0	4639	3	5	130	1	20	20	20	20	20	1		56032	107648		1	1755	3365
+Xe hàng Mã Bang	0	4650	3	5	130	1	20	20	20	20	20	1		55968	107680		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		59360	121440		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		59712	121248		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		59936	120672		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		60096	120128		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		60320	120640		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		60384	121248		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		60032	121344		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		60480	120288		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		61248	120704		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		61056	121536		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		61024	121088		1		
+Hổ đói	0	4640	0	5	130	1	20	20	20	20	20	1		61504	121216		1		
+Hổ Chúa	0	4641	0	5	130	1	20	20	20	20	20	1		54336	99712		1		
+Trà Phổ Nhĩ	0	4642	3	5	1	1	20	20	20	20	20	1		61888	119264		1		
+Trà Phổ Nhĩ	0	4642	3	5	1	1	20	20	20	20	20	1		61824	119392		1		
+Trà Phổ Nhĩ	0	4642	3	5	1	1	20	20	20	20	20	1		62048	119488		1		
+Trà Phổ Nhĩ	0	4642	3	5	1	1	20	20	20	20	20	1		62112	119520		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		61920	119616		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		61760	119488		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		61760	119200		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		61920	119040		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		62112	119744		1		
+Trùng Độc	0	4638	0	5	130	1	20	20	20	20	20	1		61984	119808		1		
+to_fenmingtangjiao1	1															\setting\map\map_info\suoyunyuan\trap\to_fenmingtangjiao1.txt			
+Phần Minh Đường-Tiêu	0	2525	4	5	1	1	20	20	20	20	20	1		57376	120352		1		
+to_fenmingtangjiao2	1															\setting\map\map_info\suoyunyuan\trap\to_fenmingtangjiao2.txt			
+Phần Minh Đường-Tiêu	0	2525	4	5	1	1	20	20	20	20	20	1		56064	114368		1		
+to_fenmingtangyan1	1															\setting\map\map_info\suoyunyuan\trap\to_fenmingtangyan1.txt			
+Phần Minh Đường-Viêm	0	2525	4	5	1	1	20	20	20	20	20	1		53408	106240		1		
+to_fenmingtangyan2	1															\setting\map\map_info\suoyunyuan\trap\to_fenmingtangyan2.txt			
+Phần Minh Đường-Viêm	0	2525	4	5	1	1	20	20	20	20	20	1		58944	103584		1		

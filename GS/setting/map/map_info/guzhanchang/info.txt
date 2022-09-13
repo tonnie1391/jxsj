@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hổ Vàng	0	2009	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\guzhanchang\npc\area1.txt			
+Gấu Con	0	2010	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\guzhanchang\npc\area2.txt			
+Hươu Thuần Dưỡng	0	2201	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\guzhanchang\npc\area3.txt			
+Khỉ Hoang Con	0	2202	0	5	5	1	20	20	20	20	20	1	\setting\npc\droprate\droprate001.txt			\setting\map\map_info\guzhanchang\npc\area4.txt			
+to_yunzhongzhen	1															\setting\map\map_info\guzhanchang\trap\to_yunzhongzhen.txt			
+Vân Trung Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		51552	130016				
+Thẩm Thiết Thạch	0	3582	3	5	60	1	20	20	20	20	20	1		55296	124032		1		
+Hứa Sĩ Vĩ	0	3583	3	5	60	1	20	20	20	20	20	1		55104	123840		1		
+Điểm tìm đường Hươu Thuần Dưỡng	0	3597	5	5	1	1	20	20	20	20	20	1		54560	124576		1		
+Điểm tìm đường Khỉ Hoang Con	0	3598	5	5	1	1	20	20	20	20	20	1		54048	116128		1		
+Điểm tìm đường Hổ Vàng	0	3599	5	5	1	1	20	20	20	20	20	1		58496	118336		1		
+Điểm tìm đường Gấu Con	0	3600	5	5	1	1	20	20	20	20	20	1		58336	121984		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 1	0	4675	5	5	1	1	20	20	20	20	20	1		53088	125696		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 2	0	4676	5	5	1	1	20	20	20	20	20	1		52992	119520		1		
+Hươu Thuần Dưỡng-Điểm tìm đường 3	0	4677	5	5	1	1	20	20	20	20	20	1		56768	120640		1

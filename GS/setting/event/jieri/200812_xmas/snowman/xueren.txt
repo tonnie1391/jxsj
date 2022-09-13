@@ -1,0 +1,8 @@
+Index	MapId	bOpen	TRAPX	TRAPY	File
+1	25	0	52800	100416	1_xiangyang.txt
+2	26	0	51232	101824	2_yangzhou.txt
+3	23	0	50720	98816	3_bianjing.txt
+4	27	0	51616	103456	4_chengdu.txt
+5	29	1	52736	125472	5_linan.txt
+6	24	1	57536	111904	6_fengxiang.txt
+7	28	1	48480	104672	7_dali.txt

@@ -1,0 +1,8 @@
+Win	Tie	Lost	Desc	RankType1	RankType2	RankType3	RankType4	RankDesc
+单场胜奖励	单场平奖励	单场负奖励	奖励描述	排名类型1	排名类型2	排名类型3	排名类型4	奖励描述
+expbase=45	expbase=30	expbase=30	基准经验	item=18,1,215,3	item=18,1,215,2	binditem=18,1,215,1	binditem=18,1,215,1	武林联赛令牌
+honor=6	honor=3	honor=0	荣誉点	exp=1200	exp=1000	exp=800	exp=600	经验
+repute=10	repute=5	repute=5	声望	honor=1500	honor=1000	honor=800	honor=500	荣誉
+prestige=3	prestige=1	prestige=0	江湖威望	title=8,1,2,0	title=8,1,12,0	title=8,1,11,0		称号
+	binditem=18,1,80,1	binditem=18,1,80,1	福袋					
+stock=50	stock=0	stock=0	股份					

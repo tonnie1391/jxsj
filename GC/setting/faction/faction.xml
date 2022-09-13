@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!-- edited with XMLSpy v2007 sp1 (http://www.altova.com) by  liukuo (EMBRACE) -->
+<factions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faction.xsd">
+	<faction id="0" name="无门派" series="0" camp="新手" sexlimit="-1">
+		<route id="0" name="无门派"/>
+	</faction>
+	<faction id="1" name="少林" series="1" camp="justice" sexlimit="0">
+		<route id="1" name="刀少林" desc="刀少林">
+			<skill id="21" name="伏魔刀法"/>
+			<skill id="22" name="少林刀法"/>
+			<skill id="23" name="易骨经"/>
+			<skill id="25" name="阿罗汉神功"/>
+			<skill id="24" name="破戒刀法"/>
+			<skill id="250" name="降龙伏虎"/>
+			<skill id="26" name="菩提心法"/>
+			<skill id="28" name="混元一气"/>
+			<skill id="27" name="天竺绝刀"/>
+			<skill id="252" name="如来千叶"/>
+			<skill id="819" name="禅圆功"/>
+			<skill id="820" name="120级技能"/>
+		</route>
+		<route id="2" name="棍少林" desc="棍少林">
+			<skill id="29" name="普渡棍法"/>
+			<skill id="30" name="少林棍法"/>
+			<skill id="31" name="狮子吼"/>
+			<skill id="25" name="阿罗汉神功"/>
+			<skill id="33" name="伏魔棍法"/>
+			<skill id="34" name="不动明王"/>
+			<skill id="254" name="易骨经"/>
+			<skill id="37" name="达摩武经"/>
+			<skill id="36" name="七星罗刹棍"/>
+			<skill id="255" name="无相神功"/>
+			<skill id="821" name="醉八仙棍"/>
+			<skill id="822" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="2" name="天王" series="1" camp="balance" sexlimit="-1">
+		<route id="1" name="枪天王" desc="枪天王">
+			<skill id="38" name="回风落雁"/>
+			<skill id="40" name="天王枪法"/>
+			<skill id="41" name="断魂刺"/>
+			<skill id="45" name="静心诀"/>
+			<skill id="43" name="阳关三叠"/>
+			<skill id="256" name="惊雷破天"/>
+			<skill id="46" name="天王战意"/>
+			<skill id="49" name="天罡战气"/>
+			<skill id="47" name="追星逐月"/>
+			<skill id="259" name="血战八方"/>
+			<skill id="823" name="奔雷钻龙枪"/>
+			<skill id="824" name="120级技能"/>
+		</route>
+		<route id="2" name="锤天王" desc="锤天王">
+			<skill id="50" name="行云诀"/>
+			<skill id="52" name="天王锤法"/>
+			<skill id="41" name="断魂刺"/>
+			<skill id="781" name="静心术"/>
+			<skill id="53" name="追风诀"/>
+			<skill id="260" name="天王本生"/>
+			<skill id="55" name="金钟罩"/>
+			<skill id="58" name="倒虚天"/>
+			<skill id="56" name="乘龙诀"/>
+			<skill id="262" name="不灭杀意"/>
+			<skill id="825" name="斩龙诀"/>
+			<skill id="826" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="3" name="唐门" series="2" camp="balance" sexlimit="-1">
+		<route id="1" name="陷阱唐门" desc="陷阱唐门">
+			<skill id="69" name="毒刺骨"/>
+			<skill id="70" name="唐门陷阱"/>
+			<skill id="64" name="迷影纵"/>
+			<skill id="71" name="勾魂阱"/>
+			<skill id="72" name="小李飞刀"/>
+			<skill id="263" name="吸星阵"/>
+			<skill id="73" name="缠身刺"/>
+			<skill id="75" name="心魄"/>
+			<skill id="74" name="乱环击"/>
+			<skill id="265" name="蚀骨血刃"/>
+			<skill id="827" name="机关秘术"/>
+			<skill id="828" name="120级技能"/>
+		</route>
+		<route id="2" name="袖箭唐门" desc="袖箭唐门">
+			<skill id="59" name="追心箭"/>
+			<skill id="60" name="唐门袖箭"/>
+			<skill id="64" name="迷影纵"/>
+			<skill id="61" name="淬毒术"/>
+			<skill id="62" name="天罗地网"/>
+			<skill id="266" name="断筋刃"/>
+			<skill id="65" name="驭毒术"/>
+			<skill id="68" name="心魔"/>
+			<skill id="66" name="暴雨梨花"/>
+			<skill id="268" name="心眼"/>
+			<skill id="829" name="七绝煞光"/>
+			<skill id="830" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="4" name="五毒" series="2" camp="evil" sexlimit="-1">
+		<route id="1" name="刀五毒" desc="刀五毒">
+			<skill id="76" name="血刀毒杀"/>
+			<skill id="77" name="五毒刀法"/>
+			<skill id="78" name="无形蛊"/>
+			<skill id="81" name="施毒术"/>
+			<skill id="80" name="百毒穿心"/>
+			<skill id="269" name="瘟蛊之气"/>
+			<skill id="82" name="万蛊蚀心"/>
+			<skill id="85" name="五毒奇经"/>
+			<skill id="83" name="玄阴斩"/>
+			<skill id="271" name="千蛛万毒"/>
+			<skill id="831" name="朱蛤青冥"/>
+			<skill id="832" name="120级技能"/>
+		</route>
+		<route id="2" name="掌五毒" desc="掌五毒">
+			<skill id="86" name="毒砂掌"/>
+			<skill id="87" name="五毒掌法"/>
+			<skill id="92" name="穿心毒刺"/>
+			<skill id="91" name="银丝飞蛛"/>
+			<skill id="90" name="天罡地煞"/>
+			<skill id="272" name="驱毒术"/>
+			<skill id="88" name="悲魔血光"/>
+			<skill id="95" name="百蛊毒经"/>
+			<skill id="93" name="阴风蚀骨"/>
+			<skill id="274" name="断筋腐骨"/>
+			<skill id="833" name="化骨绵掌"/>
+			<skill id="834" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="5" name="峨嵋" series="3" camp="justice" sexlimit="1">
+		<route id="1" name="掌峨嵋" desc="掌峨嵋">
+			<skill id="96" name="飘雪穿云"/>
+			<skill id="97" name="峨嵋掌法"/>
+			<skill id="98" name="慈航普渡"/>
+			<skill id="101" name="佛心慈佑"/>
+			<skill id="99" name="四象同归"/>
+			<skill id="479" name="不灭不绝"/>
+			<skill id="782" name="流水心法"/>
+			<skill id="105" name="佛法无边"/>
+			<skill id="103" name="风霜碎影"/>
+			<skill id="280" name="万佛归宗"/>
+			<skill id="835" name="佛光战气"/>
+			<skill id="836" name="120级技能"/>
+		</route>
+		<route id="2" name="辅助峨嵋" desc="辅助峨嵋">
+			<skill id="107" name="佛音战意"/>
+			<skill id="106" name="梦蝶"/>
+			<skill id="98" name="慈航普渡"/>
+			<skill id="101" name="佛心慈佑"/>
+			<skill id="109" name="千佛千叶"/>
+			<skill id="110" name="佛光普照"/>
+			<skill id="102" name="流水诀"/>
+			<skill id="481" name="波罗心经"/>
+			<skill id="108" name="清音梵唱"/>
+			<skill id="482" name="普渡众生"/>
+			<skill id="837" name="剑影佛光"/>
+			<skill id="838" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="6" name="翠烟" series="3" camp="balance" sexlimit="-1">
+		<route id="1" name="剑翠烟" desc="剑翠烟">
+			<skill id="111" name="风卷残雪"/>
+			<skill id="112" name="翠烟剑法"/>
+			<skill id="113" name="护体寒冰"/>
+			<skill id="115" name="雪影"/>
+			<skill id="114" name="碧海潮生"/>
+			<skill id="483" name="玄冰无息"/>
+			<skill id="116" name="雪映红尘"/>
+			<skill id="119" name="冰骨雪心"/>
+			<skill id="117" name="冰心仙子"/>
+			<skill id="485" name="浮云散雪"/>
+			<skill id="839" name="十面埋伏"/>
+			<skill id="840" name="120级技能"/>
+		</route>
+		<route id="2" name="刀翠烟" desc="刀翠烟">
+			<skill id="120" name="风花雪月"/>
+			<skill id="121" name="翠烟刀法"/>
+			<skill id="122" name="御雪隐"/>
+			<skill id="812" name="流风回雪"/>
+			<skill id="123" name="牧野流星"/>
+			<skill id="483" name="玄冰无息"/>
+			<skill id="124" name="冰心倩影"/>
+			<skill id="127" name="冰肌玉骨"/>
+			<skill id="125" name="冰踪无影"/>
+			<skill id="486" name="千里冰封"/>
+			<skill id="841" name="归去来兮"/>
+			<skill id="842" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="7" name="丐帮" series="4" camp="justice" sexlimit="-1">
+		<route id="1" name="掌丐帮" desc="掌丐帮">
+			<skill id="128" name="见人伸手"/>
+			<skill id="129" name="丐帮掌法"/>
+			<skill id="130" name="化险为夷"/>
+			<skill id="132" name="滑不溜手"/>
+			<skill id="131" name="亢龙有悔"/>
+			<skill id="489" name="时乘六龙"/>
+			<skill id="133" name="醉蝶狂舞"/>
+			<skill id="136" name="潜龙在渊"/>
+			<skill id="134" name="飞龙在天"/>
+			<skill id="487" name="降龙掌"/>
+			<skill id="843" name="擒龙功"/>
+			<skill id="844" name="120级技能"/>
+		</route>
+		<route id="2" name="棍丐帮" desc="棍丐帮">
+			<skill id="137" name="沿门托钵"/>
+			<skill id="138" name="丐帮棒法"/>
+			<skill id="139" name="逍遥功"/>
+			<skill id="132" name="滑不溜手"/>
+			<skill id="140" name="棒打恶狗"/>
+			<skill id="491" name="恶狗拦路"/>
+			<skill id="238" name="混天气功"/>
+			<skill id="142" name="奔流到海"/>
+			<skill id="141" name="天下无狗"/>
+			<skill id="488" name="打狗棒法"/>
+			<skill id="845" name="打狗阵法"/>
+			<skill id="846" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="8" name="天忍" series="4" camp="evil" sexlimit="-1">
+		<route id="1" name="战天忍" desc="战天忍">
+			<skill id="143" name="残阳如血"/>
+			<skill id="144" name="天忍矛法"/>
+			<skill id="492" name="幻影追魂枪"/>
+			<skill id="145" name="金蝉脱壳"/>
+			<skill id="146" name="烈火情天"/>
+			<skill id="147" name="悲酥清风"/>
+			<skill id="148" name="魔音噬魄"/>
+			<skill id="150" name="天魔解体"/>
+			<skill id="149" name="云龙击"/>
+			<skill id="493" name="魔炎在天"/>
+			<skill id="847" name="飞鸿无迹"/>
+			<skill id="848" name="120级技能"/>
+		</route>
+		<route id="2" name="魔天忍" desc="魔天忍">
+			<skill id="151" name="弹指烈焰"/>
+			<skill id="152" name="天忍刀法"/>
+			<skill id="154" name="厉魔夺魂"/>
+			<skill id="145" name="金蝉脱壳"/>
+			<skill id="153" name="推山填海"/>
+			<skill id="494" name="火莲焚华"/>
+			<skill id="155" name="慑魂乱心"/>
+			<skill id="158" name="炽空魔焰"/>
+			<skill id="156" name="天外流星"/>
+			<skill id="496" name="魔焰七杀"/>
+			<skill id="849" name="束缚咒"/>
+			<skill id="850" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="9" name="武当" series="5" camp="justice" sexlimit="-1">
+		<route id="1" name="气武当" desc="气武当">
+			<skill id="159" name="剥及而复"/>
+			<skill id="160" name="武当拳法"/>
+			<skill id="161" name="坐忘无我"/>
+			<skill id="163" name="梯云纵"/>
+			<skill id="162" name="无我无剑"/>
+			<skill id="497" name="纯阳无极"/>
+			<skill id="164" name="真武七截"/>
+			<skill id="166" name="太极无意"/>
+			<skill id="165" name="天地无极"/>
+			<skill id="498" name="太极神功"/>
+			<skill id="851" name="武当九阳功"/>
+			<skill id="852" name="120级技能"/>
+		</route>
+		<route id="2" name="剑武当" desc="剑武当">
+			<skill id="167" name="剑飞惊天"/>
+			<skill id="168" name="武当剑法"/>
+			<skill id="783" name="无我心法"/>
+			<skill id="163" name="梯云纵"/>
+			<skill id="169" name="三环套月"/>
+			<skill id="499" name="太一真气"/>
+			<skill id="170" name="七星诀"/>
+			<skill id="174" name="剑气纵横"/>
+			<skill id="171" name="人剑合一"/>
+			<skill id="500" name="太极剑法"/>
+			<skill id="853" name="迷踪幻影"/>
+			<skill id="854" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="10" name="昆仑" series="5" camp="balance" sexlimit="-1">
+		<route id="1" name="刀昆仑" desc="刀昆仑">
+			<skill id="175" name="呼风法"/>
+			<skill id="176" name="昆仑刀法"/>
+			<skill id="179" name="玄天无极"/>
+			<skill id="177" name="清风符"/>
+			<skill id="178" name="狂风骤电"/>
+			<skill id="697" name="开神术"/>
+			<skill id="180" name="一气三清"/>
+			<skill id="183" name="天清地浊"/>
+			<skill id="181" name="傲雪啸风"/>
+			<skill id="698" name="霜傲昆仑"/>
+			<skill id="855" name="无人无我"/>
+			<skill id="856" name="120级技能"/>
+		</route>
+		<route id="2" name="剑昆仑" desc="剑昆仑">
+			<skill id="188" name="狂雷震地"/>
+			<skill id="189" name="昆仑剑法"/>
+			<skill id="179" name="玄天无极"/>
+			<skill id="177" name="清风符"/>
+			<skill id="190" name="天际迅雷"/>
+			<skill id="699" name="醉仙错骨"/>
+			<skill id="191" name="道骨仙风"/>
+			<skill id="193" name="五雷正法"/>
+			<skill id="192" name="雷动九天"/>
+			<skill id="767" name="混元乾坤"/>
+			<skill id="857" name="雷霆诀"/>
+			<skill id="858" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="11" name="明教" series="2" camp="balance" sexlimit="-1">
+		<route id="1" name="锤明教" desc="锤明教">
+			<skill id="194" name="开天式"/>
+			<skill id="196" name="明教锤法"/>
+			<skill id="199" name="困虎云啸"/>
+			<skill id="768" name="烈阳功"/>
+			<skill id="198" name="劈地势"/>
+			<skill id="201" name="金戈铁马"/>
+			<skill id="197" name="驭马术"/>
+			<skill id="204" name="镇狱破天劲"/>
+			<skill id="202" name="龙吞式"/>
+			<skill id="769" name="空绝心法"/>
+			<skill id="859" name="九曦混阳"/>
+			<skill id="860" name="120级技能"/>
+		</route>
+		<route id="2" name="剑明教" desc="剑明教">
+			<skill id="205" name="圣火焚心"/>
+			<skill id="206" name="明教剑法"/>
+			<skill id="207" name="弥气飘踪"/>
+			<skill id="209" name="飘翼身法"/>
+			<skill id="208" name="万物俱焚"/>
+			<skill id="210" name="乾坤大挪移"/>
+			<skill id="770" name="偷天换日"/>
+			<skill id="212" name="离火大法"/>
+			<skill id="211" name="圣火燎原"/>
+			<skill id="772" name="圣火神功"/>
+			<skill id="861" name="圣火令法"/>
+			<skill id="862" name="120级技能"/>
+		</route>
+	</faction>
+	<faction id="12" name="大理段氏" series="3" camp="balance" sexlimit="-1">
+		<route id="1" name="指段氏" desc="指段氏">
+			<skill id="213" name="神指点穴"/>
+			<skill id="215" name="段氏指法"/>
+			<skill id="216" name="一阳指"/>
+			<skill id="219" name="凌波微步"/>
+			<skill id="217" name="一指乾坤"/>
+			<skill id="773" name="慈悲诀"/>
+			<skill id="220" name="弑元诀"/>
+			<skill id="225" name="金玉指法"/>
+			<skill id="223" name="乾阳神指"/>
+			<skill id="775" name="乾天指法"/>
+			<skill id="863" name="妙谛指"/>
+			<skill id="864" name="120级技能"/>
+		</route>
+		<route id="2" name="气段氏" desc="气段氏">
+			<skill id="226" name="风云变幻"/>
+			<skill id="227" name="段氏心法"/>
+			<skill id="228" name="北冥神功"/>
+			<skill id="230" name="天南步法"/>
+			<skill id="229" name="金玉满堂"/>
+			<skill id="776" name="六剑齐发"/>
+			<skill id="231" name="枯荣禅功"/>
+			<skill id="233" name="天龙神功"/>
+			<skill id="232" name="六脉神剑"/>
+			<skill id="778" name="段家气剑"/>
+			<skill id="865" name="惊天一剑"/>
+			<skill id="1662" name="暗香"/>
+			<skill id="866" name="疏影"/>
+		</route>
+	</faction>
+	<faction id="13" name="古墓" series="5" camp="balance" sexlimit="-1">
+		<route id="1" name="剑古墓" desc="剑古墓">
+			<!--<skill id="2800" name="剑古墓2闪_10"/>-->
+			<skill id="2803" name="秋雁彷徨"/>
+			<skill id="2812" name="古墓剑法"/>
+			<skill id="2806" name="红袖缠"/>
+			<skill id="2808" name="静影沉璧"/>
+			<!--<skill id="2801" name="剑古墓2闪_50"/>-->
+			<skill id="2804" name="白云回望"/>
+			<skill id="2809" name="暮云凝碧"/>
+			<skill id="2807" name="寒山独立"/>
+			<skill id="2813" name="玉女剑法"/>
+			<!--<skill id="2802" name="剑古墓2闪_90"/>-->
+			<skill id="2805" name="孤月徘徊"/>
+			<skill id="2814" name="玉女心经"/>
+			<skill id="2811" name="终南晚照"/>
+			<skill id="2810" name="飞天舞"/>
+		</route>
+		<route id="2" name="针古墓" desc="针古墓">
+			<skill id="2821" name="别绪"/>
+			<skill id="2834" name="古墓针法"/>
+			<skill id="2827" name="惊鸿照影"/>
+			<skill id="2822" name="冰魄银针"/>
+			<skill id="2837" name="看朱成碧"/>
+			<skill id="2823" name="孤影"/>
+			<skill id="2831" name="蓄势待发"/>
+			<skill id="2824" name="玉蜂针"/>
+			<skill id="2835" name="流云法"/>
+			<skill id="2830" name="行云带雨"/>
+			<skill id="2825" name="离恨"/>
+			<skill id="2836" name="御雷决"/>
+			<skill id="2828" name="风流云散"/>
+			<skill id="2832" name="五内如焚"/>
+			<skill id="2829" name="雾集云合"/>
+		</route>
+	</faction>
+</factions>

@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme		
+Vào Điểm Hồi Sinh	0	6815	3	5	70	1	20	20	20	20	20	1		61248	107520						Điểm Hồi Sinh 1
+Vào Chiến Trường	0	6816	3	5	70	1	20	20	20	20	20	1		61536	107744						Điểm Hồi Sinh 1
+Vào Điểm Hồi Sinh	0	6817	3	5	70	1	20	20	20	20	20	1		52224	109152						Điểm Hồi Sinh 2
+Vào Chiến Trường	0	6818	3	5	70	1	20	20	20	20	20	1		52000	108864						Điểm Hồi Sinh 2
+Vào Thiết Phù Thành	0	6821	3	5	70	1	20	20	20	20	20	1		59488	104768						
+Tiệm thuốc	0	6837	3	5	70	1	20	20	20	20	20	1		62560	108320						Điểm Hồi Sinh 1
+Xa Phu	0	6836	3	5	70	1	20	20	20	20	20	1		62464	109728						Điểm Hồi Sinh 1
+Tiệm thuốc	0	6837	3	5	70	1	20	20	20	20	20	1		51200	108256						Điểm Hồi Sinh 2
+Xa Phu	0	6836	3	5	70	1	20	20	20	20	20	1		50848	110048						Điểm Hồi Sinh 2
+Tiệm thuốc	0	6837	3	5	70	1	20	20	20	20	20	1		54176	106752						Điểm Hồi Sinh 3
+Xa Phu	0	6836	3	5	70	1	20	20	20	20	20	1		54400	106400						Điểm Hồi Sinh 3
+Điểm Hồi Sinh-Cờ	0	6842	3	5	70	1	20	20	20	20	20	1		56000	107200						Điểm Hồi Sinh 3

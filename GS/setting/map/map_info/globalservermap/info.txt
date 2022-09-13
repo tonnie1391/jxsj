@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Báo Danh (quy mô nhỏ)	0	3695	3	5	10	1	20	20	20	20	20	1		54368	112032		1		
+Báo Danh Đoàn Thể (quy mô lớn)	0	3701	3	5	10	1	20	20	20	20	20	1		56320	113984		1		
+Thủ Khố	0	2599	3	5	10	1	20	20	20	20	20	1		57600	109376		1		
+Xa Phu	0	3698	3	5	10	1	20	20	20	20	20	1		57376	110560		1		
+Tiếp Dẫn	0	3703	3	5	10	1	20	20	20	20	20	1		54752	113312		1		
+Thương Nhân Võ Lâm	0	3705	3	5	10	1	20	20	20	20	20	1		58784	110688		1		
+Quan liên đấu liên server (cao)	0	3719	3	5	10	1	20	20	20	20	20	1		56000	109504		1		
+Liên đấu liên server hoàng kim	0	3720	3	5	10	1	20	20	20	20	20	1		58688	111712		1		
+Truyền Tống Thiết Phù	0	7136	3	5	10	1	20	20	20	20	20	1		58848	109024		1		
+Sứ giả Cuộc thi Nữ anh hùng	0	7121	3	5	10	1	20	20	20	20	20	1		59488	109600		1		
+Mộ Dung Phi Kiếm	0	4701	3	5	10	1	20	20	20	20	20	1		56192	111776		1		
+Lý Nhược Thủy	0	2473	3	5	10	1	20	20	20	20	20	1		58272	108576		1		
+Liêu Nguyên Hỏa	0	20261	3	5	10	1	20	20	20	20	20	1		58144	108448		1		

@@ -1,0 +1,9 @@
+Name	MapLinkType	MemberCount	PlayerCount	Sex	Camp	Series	Faction	Teacher	WaitMap	ReadyMap	MacthMap	MacthMapPatch	Desc
+类型名	地图类型	战队人数	比赛人数	性别判断	阵营判断	五行判断	门派判断	师徒判断	初级会场地图	初级准备场地图	初级比赛场地图	初级比赛后备图	描述
+三人赛	1	3	3	0	0	0	0	0	1549	1561	1597		本届武林联赛比赛类型为<color=yellow>三人赛<color>，特意考察三人合击之术，各位可以自由组合战队，勤加习练，届时定可脱颖而出。
+									1550	1562	1598		
+									1551				
+									1552				
+									1553				
+									1554				
+									1555				

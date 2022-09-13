@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đường Nhã	0	704	3	5	35	1	20	20	20	20	20	1		49312	99424		1		
+Đường Nhu	0	705	3	5	35	1	20	20	20	20	20	1		49184	99552		1		
+Đường Hiểu	0	706	3	5	35	1	20	20	20	20	20	1		49472	99584		1		
+Đến Nội Viện Biệt Nhã Tiểu Trúc	0	2525	4	5	45	1	20	20	20	20	20	1		48768	100128		1		
+byxzh2hupanzhulin	1															\setting\map\map_info\hupanzhulin_1_byxzhx\trap\to_bieyaxiaozhu.txt			

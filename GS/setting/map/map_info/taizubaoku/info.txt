@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Dương Thiết Tâm	0	1070	3	5	150	1	20	20	20	20	20	1		52000	99168		1		
+Thạch Hiên Viên	0	1071	3	5	150	1	20	20	20	20	20	1		52128	99328		1		
+Cổ Yên Nhiên	0	1088	3	5	150	1	20	20	20	20	20	1		52096	99168		1		
+Bảo Khố Tổng Khu	0	1566	3	5	150	1	20	20	20	20	20	1		53152	97888		1		
+to_exit553	1															\setting\map\map_info\taizubaoku\trap\to_exit553.txt			
+Rời khỏi	0	2525	4	5	85	1	20	20	20	20	20	1		48992	102976				
+Đệ Tử Thiên Vương Bang	0	938	3	5	85	1	20	20	20	20	20	2				\setting\map\map_info\taizubaoku\npc\tianwangbangdizi.txt	1		
+Đệ Tử Cái Bang	0	939	3	5	85	1	20	20	20	20	20	2				\setting\map\map_info\taizubaoku\npc\gaibangdizi.txt	1		
+Đệ Tử Ngũ Độc Giáo	0	936	0	0	85	1	20	20	20	20	20	2				\setting\map\map_info\taizubaoku\npc\wudujiaodizi.txt	1		

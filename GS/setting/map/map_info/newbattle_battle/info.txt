@@ -1,0 +1,23 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+daying1_yewai1	1															\setting\map\map_info\newbattle_battle\trap\daying1_yewai1.txt			
+daying1_yewai2	1															\setting\map\map_info\newbattle_battle\trap\daying1_yewai2.txt			
+daying3_yewai1	1															\setting\map\map_info\newbattle_battle\trap\daying3_yewai1.txt			
+daying3_yewai2	1															\setting\map\map_info\newbattle_battle\trap\daying3_yewai2.txt			
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		67456	100160				
+Đại Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		52416	118624				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		65792	103168				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		64896	102432				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		56160	116736				
+Hậu Doanh	0	2525	4	5	99	1	20	20	20	20	20	1		54048	115872				
+Chiến thương của lão binh	0	1623	3	5	1	1	20	20	20	20	20	1		59104	107040		1		
+Thương Hội (chiến trường)	0	2962	3	5	1	1	20	20	20	20	20	1		61856	111520		1		
+Thủ Khố	0	2599	3	5	1	1	20	20	20	20	20	1		51712	118688		1		
+Thủ Khố	0	2599	3	5	1	1	20	20	20	20	20	1		67296	99520		1		
+Quan Quân Nhu Mông Cổ	0	2504	3	5	1	1	20	20	20	20	20	1		52032	118752		1		
+Quan Quân Nhu (Tây Hạ)	0	2507	3	5	1	1	20	20	20	20	20	1		67392	99680		1		
+daying1_houying1_1	1															\setting\map\map_info\newbattle_battle\trap\daying1_houying1_1.txt			
+daying1_houying1_2	1															\setting\map\map_info\newbattle_battle\trap\daying1_houying1_2.txt			
+daying3_houying3_1	1															\setting\map\map_info\newbattle_battle\trap\daying3_houying3_1.txt			
+daying3_houying3_2	1															\setting\map\map_info\newbattle_battle\trap\daying3_houying3_2.txt			
+houying1_daying1	1															\setting\map\map_info\newbattle_battle\trap\houying1_daying1.txt			
+houying3_daying3	1															\setting\map\map_info\newbattle_battle\trap\houying3_daying3.txt			

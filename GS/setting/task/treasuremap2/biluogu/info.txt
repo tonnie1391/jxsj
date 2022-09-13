@@ -1,0 +1,4 @@
+InstanceLevel	Desc	RequirePlayerLevel	Favor	NpcFile	AwardFile
+1	Cấp 25 trở lên	25	20	\setting\task\treasuremap2\biluogu\npc_level1.txt	\setting\task\treasuremap2\biluogu\award_level1.txt
+2	Cấp 50 trở lên	50	30	\setting\task\treasuremap2\biluogu\npc_level2.txt	\setting\task\treasuremap2\biluogu\award_level2.txt
+3	Cấp 130 trở lên	130	50	\setting\task\treasuremap2\biluogu\npc_level3.txt	\setting\task\treasuremap2\biluogu\award_level3.txt

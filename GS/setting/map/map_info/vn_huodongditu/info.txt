@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Sắc Lặc Xuyên	0	20224	3	5	60	1	20	20	20	20	20	1		50112	95744		1		
+Thiên Tử Tỳ Nữ	0	20225	0	5	155	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\vn_huodongditu\npc\tianzishinv.txt			
+Quản lý Đảo Thiên Tử	0	20260	3	5	60	1	20	20	20	20	20	1		49888	95744		1		

@@ -1,0 +1,3 @@
+NpcName	TemplateId	NpcLevel	NpcScore	NpcCount	XPos	YPos	NpcPosFile
+Quan Tiểu Đao	7016	107			50688	105920	
+Lộ Trình Phi	9818	107			51072	105632	

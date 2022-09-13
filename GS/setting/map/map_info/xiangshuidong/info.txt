@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hưởng Thủy Tử Sĩ	0	2146	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\area1.txt			
+Hưởng Thủy Thần Xạ Thủ	0	2144	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\area2.txt			
+Hưởng Thủy Khoái Đao	0	2145	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\area3.txt			
+Hưởng Thủy Thần Xạ Thủ	0	2144	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\area4.txt			
+to_huanhuaxi	1															\setting\map\map_info\xiangshuidong\trap\to_huanhuaxi.txt			
+to_jiangeshudao	1															\setting\map\map_info\xiangshuidong\trap\to_jiangeshudao.txt			
+Cán Hoa Khê	0	2525	4	5	65	1	20	20	20	20	20	1		54816	121952				
+Kiếm Các Thục Đạo	0	2525	4	5	65	1	20	20	20	20	20	1		62464	116000				
+Miêu Thú	0	922	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\maoshou.txt			
+Băng xà	0	593	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\xiangshuidong\npc\bingshe.txt			
+Cam Thượng Hổ 	0	613	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt	52352	117088				
+Vạn Tiêu Sơn	0	3039	0	5	65	1	20	20	20	20	20	16		52352	111648				0
+Uông Thệ Thủy	0	3040	0	5	65	1	20	20	20	20	20	16		57440	104832				1
+Vương Bá Thiên	0	3041	0	5	65	1	20	20	20	20	20	16		60096	106336				2
+Vu Cửu Đồ	0	3042	0	5	65	1	20	20	20	20	20	16		60672	117376				3

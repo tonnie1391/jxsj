@@ -1,0 +1,594 @@
+Name	Kind	kind3	kind2	kind7	kind4	kind5	kind6	SuiteID	bVN	b2	Category	Genre	DetailType	ParticularType	Level
+Yển Nguyệt Đao	Trang bị xanh_Yển Nguyệt Đao (Đao Thiếu)	Hệ ngoại công		Hệ Kim		3	pve				13	2	1	11	10
+Kim Cô Bổng	Trang bị xanh_Kim Cô Bổng (Côn Thiếu)	Hệ ngoại công		Hệ Kim		3	pve				14	2	1	21	10
+Phá Thiên Kích	Trang bị xanh_Phá Thiên Kích (Thương Thiên)	Hệ cách đấu		Hệ Kim		3	pve				15	2	1	31	10
+Phá Thiên Chùy	Trang bị xanh_Phá Thiên Chùy (Chùy Thiên)	Hệ cách đấu		Hệ Kim		3	pve				16	2	1	41	10
+Yển Nguyệt Đao	Trang bị xanh_Yển Nguyệt Đao (Đao Độc)	Hệ ngoại công		Hệ Mộc		3	pve				13	2	1	51	10
+Thanh Long Triền Thủ	Trang bị xanh_Thanh Long Triền Thủ (Chưởng Độc)	Hệ nội công		Hệ Mộc		3	pve				11	2	1	61	10
+Yển Nguyệt Đao	Trang bị xanh_Yển Nguyệt Đao (Đao Thúy)	Hệ ngoại công		Hệ Thủy		3	pve				13	2	1	71	10
+Thanh Long Triền Thủ	Trang bị xanh_Thanh Long Triền Thủ (Chỉ Đoàn)	Hệ cách đấu		Hệ Thủy		3	pve				11	2	1	81	10
+Thanh Long Triền Thủ	Trang bị xanh_Thanh Long Triền Thủ (Chưởng Nga)	Hệ nội công		Hệ Thủy		3	pve				11	2	1	91	10
+Long Uyên Kiếm	Trang bị xanh_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	Hệ nội công		Hệ Thủy		3	pve				12	2	1	101	10
+Kim Cô Bổng	Trang bị xanh_Kim Cô Bổng (Côn Cái)	Hệ ngoại công		Hệ Hỏa		3	pve				14	2	1	111	10
+Phá Thiên Kích	Trang bị xanh_Phá Thiên Kích (Chiến Nhẫn)	Hệ ngoại công		Hệ Hỏa		3	pve				15	2	1	121	10
+Thanh Long Triền Thủ	Trang bị xanh_Thanh Long Triền Thủ (Chưởng Cái)	Hệ nội công		Hệ Hỏa		3	pve				11	2	1	131	10
+Yển Nguyệt Đao	Trang bị xanh_Yển Nguyệt Đao (Ma Nhẫn)	Hệ nội công		Hệ Hỏa		3	pve				13	2	1	141	10
+Yển Nguyệt Đao	Trang bị xanh_Yển Nguyệt Đao (Đao Côn)	Hệ ngoại công		Hệ Thổ		3	pve				13	2	1	151	10
+Long Uyên Kiếm	Trang bị xanh_Long Uyên Kiếm (Kiếm Võ)	Hệ ngoại công		Hệ Thổ		3	pve				12	2	1	161	10
+Long Uyên Kiếm	Trang bị xanh_Long Uyên Kiếm (Khí Võ)	Hệ nội công		Hệ Thổ		3	pve				12	2	1	171	10
+Long Uyên Kiếm	Trang bị xanh_Long Uyên Kiếm (Kiếm Côn)	Hệ nội công		Hệ Thổ		3	pve				12	2	1	181	10
+Yển Nguyệt Đao	Trang bị tím PVE_Yển Nguyệt Đao (Đao Thiếu)	Hệ ngoại công		Hệ Kim		4	pve				13	2	1	191	10
+Kim Cô Bổng	Trang bị tím PVE_Kim Cô Bổng (Côn Thiếu)	Hệ ngoại công		Hệ Kim		4	pve				14	2	1	201	10
+Phá Thiên Kích	Trang bị tím PVE_Phá Thiên Kích (Thương Thiên)	Hệ cách đấu		Hệ Kim		4	pve				15	2	1	211	10
+Phá Thiên Chùy	Trang bị tím PVE_Phá Thiên Chùy (Chùy Thiên)	Hệ cách đấu		Hệ Kim		4	pve				16	2	1	221	10
+Yển Nguyệt Đao	Trang bị tím PVE_Yển Nguyệt Đao (Đao Độc)	Hệ ngoại công		Hệ Mộc		4	pve				13	2	1	231	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Thanh Long Triền Thủ (Chưởng Độc)	Hệ nội công		Hệ Mộc		4	pve				11	2	1	241	10
+Yển Nguyệt Đao	Trang bị tím PVE_Yển Nguyệt Đao (Đao Thúy)	Hệ ngoại công		Hệ Thủy		4	pve				13	2	1	251	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Thanh Long Triền Thủ (Chỉ Đoàn)	Hệ cách đấu		Hệ Thủy		4	pve				11	2	1	261	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Thanh Long Triền Thủ (Chưởng Nga)	Hệ nội công		Hệ Thủy		4	pve				11	2	1	271	10
+Long Uyên Kiếm	Trang bị tím PVE_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	Hệ nội công		Hệ Thủy		4	pve				12	2	1	281	10
+Kim Cô Bổng	Trang bị tím PVE_Kim Cô Bổng (Côn Cái)	Hệ ngoại công		Hệ Hỏa		4	pve				14	2	1	291	10
+Phá Thiên Kích	Trang bị tím PVE_Phá Thiên Kích (Chiến Nhẫn)	Hệ ngoại công		Hệ Hỏa		4	pve				15	2	1	301	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Thanh Long Triền Thủ (Chưởng Cái)	Hệ nội công		Hệ Hỏa		4	pve				11	2	1	311	10
+Yển Nguyệt Đao	Trang bị tím PVE_Yển Nguyệt Đao (Ma Nhẫn)	Hệ nội công		Hệ Hỏa		4	pve				13	2	1	321	10
+Yển Nguyệt Đao	Trang bị tím PVE_Yển Nguyệt Đao (Đao Côn)	Hệ ngoại công		Hệ Thổ		4	pve				13	2	1	331	10
+Long Uyên Kiếm	Trang bị tím PVE_Long Uyên Kiếm (Kiếm Võ)	Hệ ngoại công		Hệ Thổ		4	pve				12	2	1	341	10
+Long Uyên Kiếm	Trang bị tím PVE_Long Uyên Kiếm (Khí Võ)	Hệ nội công		Hệ Thổ		4	pve				12	2	1	351	10
+Long Uyên Kiếm	Trang bị tím PVE_Long Uyên Kiếm (Kiếm Côn)	Hệ nội công		Hệ Thổ		4	pve				12	2	1	361	10
+Yển Nguyệt Đao	Trang bị tím PVP_Yển Nguyệt Đao (Đao Thiếu)	Hệ ngoại công		Hệ Kim		4	pvp				13	2	1	371	10
+Kim Cô Bổng	Trang bị tím PVP_Kim Cô Bổng (Côn Thiếu)	Hệ ngoại công		Hệ Kim		4	pvp				14	2	1	381	10
+Phá Thiên Kích	Trang bị tím PVP_Phá Thiên Kích (Thương Thiên)	Hệ cách đấu		Hệ Kim		4	pvp				15	2	1	391	10
+Phá Thiên Chùy	Trang bị tím PVP_Phá Thiên Chùy (Chùy Thiên)	Hệ cách đấu		Hệ Kim		4	pvp				16	2	1	401	10
+Yển Nguyệt Đao	Trang bị tím PVP_Yển Nguyệt Đao (Đao Độc)	Hệ ngoại công		Hệ Mộc		4	pvp				13	2	1	411	10
+Thanh Long Triền Thủ	Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Độc)	Hệ nội công		Hệ Mộc		4	pvp				11	2	1	421	10
+Yển Nguyệt Đao	Trang bị tím PVP_Yển Nguyệt Đao (Đao Thúy)	Hệ ngoại công		Hệ Thủy		4	pvp				13	2	1	431	10
+Thanh Long Triền Thủ	Trang bị tím PVP_Thanh Long Triền Thủ (Chỉ Đoàn)	Hệ cách đấu		Hệ Thủy		4	pvp				11	2	1	441	10
+Thanh Long Triền Thủ	Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Nga)	Hệ nội công		Hệ Thủy		4	pvp				11	2	1	451	10
+Long Uyên Kiếm	Trang bị tím PVP_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	Hệ nội công		Hệ Thủy		4	pvp				12	2	1	461	10
+Kim Cô Bổng	Trang bị tím PVP_Kim Cô Bổng (Côn Cái)	Hệ ngoại công		Hệ Hỏa		4	pvp				14	2	1	471	10
+Phá Thiên Kích	Trang bị tím PVP_Phá Thiên Kích (Chiến Nhẫn)	Hệ ngoại công		Hệ Hỏa		4	pvp				15	2	1	481	10
+Thanh Long Triền Thủ	Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Cái)	Hệ nội công		Hệ Hỏa		4	pvp				11	2	1	491	10
+Yển Nguyệt Đao	Trang bị tím PVP_Yển Nguyệt Đao (Ma Nhẫn)	Hệ nội công		Hệ Hỏa		4	pvp				13	2	1	501	10
+Yển Nguyệt Đao	Trang bị tím PVP_Yển Nguyệt Đao (Đao Côn)	Hệ ngoại công		Hệ Thổ		4	pvp				13	2	1	511	10
+Long Uyên Kiếm	Trang bị tím PVP_Long Uyên Kiếm (Kiếm Võ)	Hệ ngoại công		Hệ Thổ		4	pvp				12	2	1	521	10
+Long Uyên Kiếm	Trang bị tím PVP_Long Uyên Kiếm (Khí Võ)	Hệ nội công		Hệ Thổ		4	pvp				12	2	1	531	10
+Long Uyên Kiếm	Trang bị tím PVP_Long Uyên Kiếm (Kiếm Côn)	Hệ nội công		Hệ Thổ		4	pvp				12	2	1	541	10
+Yển Nguyệt Đao	Trang bị cam PVE_Yển Nguyệt Đao (Đao Thiếu)	Hệ ngoại công		Hệ Kim		5	pve				13	2	1	551	10
+Kim Cô Bổng	Trang bị cam PVE_Kim Cô Bổng (Côn Thiếu)	Hệ ngoại công		Hệ Kim		5	pve				14	2	1	561	10
+Phá Thiên Kích	Trang bị cam PVE_Phá Thiên Kích (Thương Thiên)	Hệ cách đấu		Hệ Kim		5	pve				15	2	1	571	10
+Phá Thiên Chùy	Trang bị cam PVE_Phá Thiên Chùy (Chùy Thiên)	Hệ cách đấu		Hệ Kim		5	pve				16	2	1	581	10
+Yển Nguyệt Đao	Trang bị cam PVE_Yển Nguyệt Đao (Đao Độc)	Hệ ngoại công		Hệ Mộc		5	pve				13	2	1	591	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Thanh Long Triền Thủ (Chưởng Độc)	Hệ nội công		Hệ Mộc		5	pve				11	2	1	601	10
+Yển Nguyệt Đao	Trang bị cam PVE_Yển Nguyệt Đao (Đao Thúy)	Hệ ngoại công		Hệ Thủy		5	pve				13	2	1	611	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Thanh Long Triền Thủ (Chỉ Đoàn)	Hệ cách đấu		Hệ Thủy		5	pve				11	2	1	621	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Thanh Long Triền Thủ (Chưởng Nga)	Hệ nội công		Hệ Thủy		5	pve				11	2	1	631	10
+Long Uyên Kiếm	Trang bị cam PVE_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	Hệ nội công		Hệ Thủy		5	pve				12	2	1	641	10
+Kim Cô Bổng	Trang bị cam PVE_Kim Cô Bổng (Côn Cái)	Hệ ngoại công		Hệ Hỏa		5	pve				14	2	1	651	10
+Phá Thiên Kích	Trang bị cam PVE_Phá Thiên Kích (Chiến Nhẫn)	Hệ ngoại công		Hệ Hỏa		5	pve				15	2	1	661	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Thanh Long Triền Thủ (Chưởng Cái)	Hệ nội công		Hệ Hỏa		5	pve				11	2	1	671	10
+Yển Nguyệt Đao	Trang bị cam PVE_Yển Nguyệt Đao (Ma Nhẫn)	Hệ nội công		Hệ Hỏa		5	pve				13	2	1	681	10
+Yển Nguyệt Đao	Trang bị cam PVE_Yển Nguyệt Đao (Đao Côn)	Hệ ngoại công		Hệ Thổ		5	pve				13	2	1	691	10
+Long Uyên Kiếm	Trang bị cam PVE_Long Uyên Kiếm (Kiếm Võ)	Hệ ngoại công		Hệ Thổ		5	pve				12	2	1	701	10
+Long Uyên Kiếm	Trang bị cam PVE_Long Uyên Kiếm (Khí Võ)	Hệ nội công		Hệ Thổ		5	pve				12	2	1	711	10
+Long Uyên Kiếm	Trang bị cam PVE_Long Uyên Kiếm (Kiếm Côn)	Hệ nội công		Hệ Thổ		5	pve				12	2	1	721	10
+Yển Nguyệt Đao	Trang bị cam PVP_Yển Nguyệt Đao (Đao Thiếu)	Hệ ngoại công		Hệ Kim		5	pvp				13	2	1	731	10
+Kim Cô Bổng	Trang bị cam PVP_Kim Cô Bổng (Côn Thiếu)	Hệ ngoại công		Hệ Kim		5	pvp				14	2	1	741	10
+Phá Thiên Kích	Trang bị cam PVP_Phá Thiên Kích (Thương Thiên)	Hệ cách đấu		Hệ Kim		5	pvp				15	2	1	751	10
+Phá Thiên Chùy	Trang bị cam PVP_Phá Thiên Chùy (Chùy Thiên)	Hệ cách đấu		Hệ Kim		5	pvp				16	2	1	761	10
+Yển Nguyệt Đao	Trang bị cam PVP_Yển Nguyệt Đao (Đao Độc)	Hệ ngoại công		Hệ Mộc		5	pvp				13	2	1	771	10
+Thanh Long Triền Thủ	Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Độc)	Hệ nội công		Hệ Mộc		5	pvp				11	2	1	781	10
+Yển Nguyệt Đao	Trang bị cam PVP_Yển Nguyệt Đao (Đao Thúy)	Hệ ngoại công		Hệ Thủy		5	pvp				13	2	1	791	10
+Thanh Long Triền Thủ	Trang bị cam PVP_Thanh Long Triền Thủ (Chỉ Đoàn)	Hệ cách đấu		Hệ Thủy		5	pvp				11	2	1	801	10
+Thanh Long Triền Thủ	Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Nga)	Hệ nội công		Hệ Thủy		5	pvp				11	2	1	811	10
+Long Uyên Kiếm	Trang bị cam PVP_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	Hệ nội công		Hệ Thủy		5	pvp				12	2	1	821	10
+Kim Cô Bổng	Trang bị cam PVP_Kim Cô Bổng (Côn Cái)	Hệ ngoại công		Hệ Hỏa		5	pvp				14	2	1	831	10
+Phá Thiên Kích	Trang bị cam PVP_Phá Thiên Kích (Chiến Nhẫn)	Hệ ngoại công		Hệ Hỏa		5	pvp				15	2	1	841	10
+Thanh Long Triền Thủ	Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Cái)	Hệ nội công		Hệ Hỏa		5	pvp				11	2	1	851	10
+Yển Nguyệt Đao	Trang bị cam PVP_Yển Nguyệt Đao (Ma Nhẫn)	Hệ nội công		Hệ Hỏa		5	pvp				13	2	1	861	10
+Yển Nguyệt Đao	Trang bị cam PVP_Yển Nguyệt Đao (Đao Côn)	Hệ ngoại công		Hệ Thổ		5	pvp				13	2	1	871	10
+Long Uyên Kiếm	Trang bị cam PVP_Long Uyên Kiếm (Kiếm Võ)	Hệ ngoại công		Hệ Thổ		5	pvp				12	2	1	881	10
+Long Uyên Kiếm	Trang bị cam PVP_Long Uyên Kiếm (Khí Võ)	Hệ nội công		Hệ Thổ		5	pvp				12	2	1	891	10
+Long Uyên Kiếm	Trang bị cam PVP_Long Uyên Kiếm (Kiếm Côn)	Hệ nội công		Hệ Thổ		5	pvp				12	2	1	901	10
+Phá Thiên Chùy	Trang bị xanh_Phá Thiên Chùy (Chùy Minh)	Hệ ngoại công		Hệ Mộc		3	pve				16	2	1	911	10
+Long Uyên Kiếm	Trang bị xanh_Long Uyên Kiếm (Kiếm Minh)	Hệ nội công		Hệ Mộc		3	pve				12	2	1	921	10
+Phá Thiên Chùy	Trang bị tím PVE_Phá Thiên Chùy (Chùy Minh)	Hệ ngoại công		Hệ Mộc		4	pve				16	2	1	931	10
+Long Uyên Kiếm	Trang bị tím PVE_Long Uyên Kiếm (Kiếm Minh)	Hệ nội công		Hệ Mộc		4	pve				12	2	1	941	10
+Phá Thiên Chùy	Trang bị tím PVP_Phá Thiên Chùy (Chùy Minh)	Hệ ngoại công		Hệ Mộc		4	pvp				16	2	1	951	10
+Long Uyên Kiếm	Trang bị tím PVP_Long Uyên Kiếm (Kiếm Minh)	Hệ nội công		Hệ Mộc		4	pvp				12	2	1	961	10
+Phá Thiên Chùy	Trang bị cam PVE_Phá Thiên Chùy (Chùy Minh)	Hệ ngoại công		Hệ Mộc		5	pve				16	2	1	971	10
+Long Uyên Kiếm	Trang bị cam PVE_Long Uyên Kiếm (Kiếm Minh)	Hệ nội công		Hệ Mộc		5	pve				12	2	1	981	10
+Phá Thiên Chùy	Trang bị cam PVP_Phá Thiên Chùy (Chùy Minh)	Hệ ngoại công		Hệ Mộc		5	pvp				16	2	1	991	10
+Long Uyên Kiếm	Trang bị cam PVP_Long Uyên Kiếm (Kiếm Minh)	Hệ nội công		Hệ Mộc		5	pvp				12	2	1	1001	10
+Kim Cô Bổng	Trang bị xanh_hệ cách đấu_Kim_Côn	Hệ cách đấu		Hệ Kim		3	pve				14	2	1	1002	10
+Yển Nguyệt Đao	Trang bị xanh_hệ cách đấu_Kim_Đao	Hệ cách đấu		Hệ Kim		3	pve				13	2	1	1003	10
+Long Uyên Kiếm	Trang bị xanh_hệ cách đấu_Kim_Kiếm	Hệ cách đấu		Hệ Kim		3	pve				12	2	1	1004	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		3	pve				11	2	1	1005	10
+Kim Cô Bổng	Trang bị xanh_hệ cách đấu_Mộc_Côn	Hệ cách đấu		Hệ Mộc		3	pve				14	2	1	1006	10
+Yển Nguyệt Đao	Trang bị xanh_hệ cách đấu_Mộc_Đao	Hệ cách đấu		Hệ Mộc		3	pve				13	2	1	1007	10
+Long Uyên Kiếm	Trang bị xanh_hệ cách đấu_Mộc_Kiếm	Hệ cách đấu		Hệ Mộc		3	pve				12	2	1	1008	10
+Phá Thiên Kích	Trang bị xanh_hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		3	pve				15	2	1	1009	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		3	pve				11	2	1	1010	10
+Kim Cô Bổng	Trang bị xanh_hệ cách đấu_Thủy_Côn	Hệ cách đấu		Hệ Thủy		3	pve				14	2	1	1011	10
+Yển Nguyệt Đao	Trang bị xanh_hệ cách đấu_Thủy_Đao	Hệ cách đấu		Hệ Thủy		3	pve				13	2	1	1012	10
+Long Uyên Kiếm	Trang bị xanh_hệ cách đấu_Thủy_Kiếm	Hệ cách đấu		Hệ Thủy		3	pve				12	2	1	1013	10
+Phá Thiên Kích	Trang bị xanh_hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		3	pve				15	2	1	1014	10
+Phá Thiên Chùy	Trang bị xanh_hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		3	pve				16	2	1	1015	10
+Kim Cô Bổng	Trang bị xanh_hệ cách đấu_Hỏa_Côn	Hệ cách đấu		Hệ Hỏa		3	pve				14	2	1	1016	10
+Yển Nguyệt Đao	Trang bị xanh_hệ cách đấu_Hỏa_Đao	Hệ cách đấu		Hệ Hỏa		3	pve				13	2	1	1017	10
+Long Uyên Kiếm	Trang bị xanh_hệ cách đấu_Hỏa_Kiếm	Hệ cách đấu		Hệ Hỏa		3	pve				12	2	1	1018	10
+Phá Thiên Kích	Trang bị xanh_hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		3	pve				15	2	1	1019	10
+Phá Thiên Chùy	Trang bị xanh_hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		3	pve				16	2	1	1020	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		3	pve				11	2	1	1021	10
+Kim Cô Bổng	Trang bị xanh_hệ cách đấu_Thổ_Côn	Hệ cách đấu		Hệ Thổ		3	pve				14	2	1	1022	10
+Yển Nguyệt Đao	Trang bị xanh_hệ cách đấu_Thổ_Đao	Hệ cách đấu		Hệ Thổ		3	pve				13	2	1	1023	10
+Long Uyên Kiếm	Trang bị xanh_hệ cách đấu_Thổ_Kiếm	Hệ cách đấu		Hệ Thổ		3	pve				12	2	1	1024	10
+Phá Thiên Kích	Trang bị xanh_hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		3	pve				15	2	1	1025	10
+Phá Thiên Chùy	Trang bị xanh_hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		3	pve				16	2	1	1026	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		3	pve				11	2	1	1027	10
+Long Uyên Kiếm	Trang bị xanh_hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		3	pve				12	2	1	1028	10
+Phá Thiên Kích	Trang bị xanh_hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		3	pve				15	2	1	1029	10
+Phá Thiên Chùy	Trang bị xanh_hệ ngoại công_Kim_Chùy	Hệ ngoại công		Hệ Kim		3	pve				16	2	1	1030	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ ngoại công_Kim_Thủ	Hệ ngoại công		Hệ Kim		3	pve				11	2	1	1031	10
+Kim Cô Bổng	Trang bị xanh_hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		3	pve				14	2	1	1032	10
+Long Uyên Kiếm	Trang bị xanh_hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		3	pve				12	2	1	1033	10
+Phá Thiên Kích	Trang bị xanh_hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		3	pve				15	2	1	1034	10
+Phá Thiên Chùy	Trang bị xanh_hệ ngoại công_Mộc_Chùy	Hệ ngoại công		Hệ Mộc		3	pve				16	2	1	1035	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ ngoại công_Mộc_Thủ	Hệ ngoại công		Hệ Mộc		3	pve				11	2	1	1036	10
+Kim Cô Bổng	Trang bị xanh_hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		3	pve				14	2	1	1037	10
+Long Uyên Kiếm	Trang bị xanh_hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		3	pve				12	2	1	1038	10
+Phá Thiên Kích	Trang bị xanh_hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		3	pve				15	2	1	1039	10
+Phá Thiên Chùy	Trang bị xanh_hệ ngoại công_Thủy_Chùy	Hệ ngoại công		Hệ Thủy		3	pve				16	2	1	1040	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ ngoại công_Thủy_Thủ	Hệ ngoại công		Hệ Thủy		3	pve				11	2	1	1041	10
+Yển Nguyệt Đao	Trang bị xanh_hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		3	pve				13	2	1	1042	10
+Long Uyên Kiếm	Trang bị xanh_hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		3	pve				12	2	1	1043	10
+Phá Thiên Chùy	Trang bị xanh_hệ ngoại công_Hỏa_Chùy	Hệ ngoại công		Hệ Hỏa		3	pve				16	2	1	1044	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ ngoại công_Hỏa_Thủ	Hệ ngoại công		Hệ Hỏa		3	pve				11	2	1	1045	10
+Kim Cô Bổng	Trang bị xanh_hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		3	pve				14	2	1	1046	10
+Phá Thiên Kích	Trang bị xanh_hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		3	pve				15	2	1	1047	10
+Phá Thiên Chùy	Trang bị xanh_hệ ngoại công_Thổ_Chùy	Hệ ngoại công		Hệ Thổ		3	pve				16	2	1	1048	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ ngoại công_Thổ_Thủ	Hệ ngoại công		Hệ Thổ		3	pve				11	2	1	1049	10
+Kim Cô Bổng	Trang bị xanh_hệ nội công_Kim_Côn	Hệ nội công		Hệ Kim		3	pve				14	2	1	1050	10
+Yển Nguyệt Đao	Trang bị xanh_hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		3	pve				13	2	1	1051	10
+Long Uyên Kiếm	Trang bị xanh_hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		3	pve				12	2	1	1052	10
+Phá Thiên Kích	Trang bị xanh_hệ nội công_Kim_Thương	Hệ nội công		Hệ Kim		3	pve				15	2	1	1053	10
+Phá Thiên Chùy	Trang bị xanh_hệ nội công_Kim_Chùy	Hệ nội công		Hệ Kim		3	pve				16	2	1	1054	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		3	pve				11	2	1	1055	10
+Kim Cô Bổng	Trang bị xanh_hệ nội công_Mộc_Côn	Hệ nội công		Hệ Mộc		3	pve				14	2	1	1056	10
+Yển Nguyệt Đao	Trang bị xanh_hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		3	pve				13	2	1	1057	10
+Phá Thiên Kích	Trang bị xanh_hệ nội công_Mộc_Thương	Hệ nội công		Hệ Mộc		3	pve				15	2	1	1058	10
+Phá Thiên Chùy	Trang bị xanh_hệ nội công_Mộc_Chùy	Hệ nội công		Hệ Mộc		3	pve				16	2	1	1059	10
+Kim Cô Bổng	Trang bị xanh_hệ nội công_Thủy_Côn	Hệ nội công		Hệ Thủy		3	pve				14	2	1	1060	10
+Yển Nguyệt Đao	Trang bị xanh_hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		3	pve				13	2	1	1061	10
+Phá Thiên Kích	Trang bị xanh_hệ nội công_Thủy_Thương	Hệ nội công		Hệ Thủy		3	pve				15	2	1	1062	10
+Phá Thiên Chùy	Trang bị xanh_hệ nội công_Thủy_Chùy	Hệ nội công		Hệ Thủy		3	pve				16	2	1	1063	10
+Kim Cô Bổng	Trang bị xanh_hệ nội công_Hỏa_Côn	Hệ nội công		Hệ Hỏa		3	pve				14	2	1	1064	10
+Long Uyên Kiếm	Trang bị xanh_hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		3	pve				12	2	1	1065	10
+Phá Thiên Kích	Trang bị xanh_hệ nội công_Hỏa_Thương	Hệ nội công		Hệ Hỏa		3	pve				15	2	1	1066	10
+Phá Thiên Chùy	Trang bị xanh_hệ nội công_Hỏa_Chùy	Hệ nội công		Hệ Hỏa		3	pve				16	2	1	1067	10
+Kim Cô Bổng	Trang bị xanh_hệ nội công_Thổ_Côn	Hệ nội công		Hệ Thổ		3	pve				14	2	1	1068	10
+Yển Nguyệt Đao	Trang bị xanh_hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		3	pve				13	2	1	1069	10
+Phá Thiên Kích	Trang bị xanh_hệ nội công_Thổ_Thương	Hệ nội công		Hệ Thổ		3	pve				15	2	1	1070	10
+Phá Thiên Chùy	Trang bị xanh_hệ nội công_Thổ_Chùy	Hệ nội công		Hệ Thổ		3	pve				16	2	1	1071	10
+Thanh Long Triền Thủ	Trang bị xanh_hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		3	pve				11	2	1	1072	10
+Kim Cô Bổng	Trang bị tím PVE_hệ cách đấu_Kim_Côn	Hệ cách đấu		Hệ Kim		4	pve				14	2	1	1073	10
+Yển Nguyệt Đao	Trang bị tím PVE_hệ cách đấu_Kim_Đao	Hệ cách đấu		Hệ Kim		4	pve				13	2	1	1074	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ cách đấu_Kim_Kiếm	Hệ cách đấu		Hệ Kim		4	pve				12	2	1	1075	10
+Thanh Long Triền Thủ	Trang bị tím PVE_hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		4	pve				11	2	1	1076	10
+Kim Cô Bổng	Trang bị tím PVE_hệ cách đấu_Mộc_Côn	Hệ cách đấu		Hệ Mộc		4	pve				14	2	1	1077	10
+Yển Nguyệt Đao	Trang bị tím PVE_hệ cách đấu_Mộc_Đao	Hệ cách đấu		Hệ Mộc		4	pve				13	2	1	1078	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ cách đấu_Mộc_Kiếm	Hệ cách đấu		Hệ Mộc		4	pve				12	2	1	1079	10
+Phá Thiên Kích	Trang bị tím PVE_hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		4	pve				15	2	1	1080	10
+Thanh Long Triền Thủ	Trang bị tím PVE_hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		4	pve				11	2	1	1081	10
+Kim Cô Bổng	Trang bị tím PVE_hệ cách đấu_Thủy_Côn	Hệ cách đấu		Hệ Thủy		4	pve				14	2	1	1082	10
+Yển Nguyệt Đao	Trang bị tím PVE_hệ cách đấu_Thủy_Đao	Hệ cách đấu		Hệ Thủy		4	pve				13	2	1	1083	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ cách đấu_Thủy_Kiếm	Hệ cách đấu		Hệ Thủy		4	pve				12	2	1	1084	10
+Phá Thiên Kích	Trang bị tím PVE_hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		4	pve				15	2	1	1085	10
+Phá Thiên Chùy	Trang bị tím PVE_hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		4	pve				16	2	1	1086	10
+Kim Cô Bổng	Trang bị tím PVE_hệ cách đấu_Hỏa_Côn	Hệ cách đấu		Hệ Hỏa		4	pve				14	2	1	1087	10
+Yển Nguyệt Đao	Trang bị tím PVE_hệ cách đấu_Hỏa_Đao	Hệ cách đấu		Hệ Hỏa		4	pve				13	2	1	1088	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ cách đấu_Hỏa_Kiếm	Hệ cách đấu		Hệ Hỏa		4	pve				12	2	1	1089	10
+Phá Thiên Kích	Trang bị tím PVE_hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		4	pve				15	2	1	1090	10
+Phá Thiên Chùy	Trang bị tím PVE_hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		4	pve				16	2	1	1091	10
+Thanh Long Triền Thủ	Trang bị tím PVE_hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		4	pve				11	2	1	1092	10
+Kim Cô Bổng	Trang bị tím PVE_hệ cách đấu_Thổ_Côn	Hệ cách đấu		Hệ Thổ		4	pve				14	2	1	1093	10
+Yển Nguyệt Đao	Trang bị tím PVE_hệ cách đấu_Thổ_Đao	Hệ cách đấu		Hệ Thổ		4	pve				13	2	1	1094	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ cách đấu_Thổ_Kiếm	Hệ cách đấu		Hệ Thổ		4	pve				12	2	1	1095	10
+Phá Thiên Kích	Trang bị tím PVE_hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		4	pve				15	2	1	1096	10
+Phá Thiên Chùy	Trang bị tím PVE_hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		4	pve				16	2	1	1097	10
+Thanh Long Triền Thủ	Trang bị tím PVE_hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		4	pve				11	2	1	1098	10
+Long Uyên Kiếm	Trang bị tím PVE_hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		4	pve				12	2	1	1099	10
+Phá Thiên Kích	Trang bị tím PVE_hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		4	pve				15	2	1	1100	10
+Phá Thiên Chùy	Trang bị tím PVE_hệ ngoại công_Kim_Chùy	Hệ ngoại công		Hệ Kim		4	pve				16	2	1	1101	10
+Thanh Long Triền Thủ	Trang bị tím PVE_hệ ngoại công_Kim_Thủ	Hệ ngoại công		Hệ Kim		4	pve				11	2	1	1102	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		4	pve				14	2	1	1103	10
+Long Uyên Kiếm	Trang bị tím PVE_Hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		4	pve				12	2	1	1104	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		4	pve				15	2	1	1105	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ ngoại công_Mộc_Chùy	Hệ ngoại công		Hệ Mộc		4	pve				16	2	1	1106	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ ngoại công_Mộc_Thủ	Hệ ngoại công		Hệ Mộc		4	pve				11	2	1	1107	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		4	pve				14	2	1	1108	10
+Long Uyên Kiếm	Trang bị tím PVE_Hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		4	pve				12	2	1	1109	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		4	pve				15	2	1	1110	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ ngoại công_Thủy_Chùy	Hệ ngoại công		Hệ Thủy		4	pve				16	2	1	1111	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ ngoại công_Thủy_Thủ	Hệ ngoại công		Hệ Thủy		4	pve				11	2	1	1112	10
+Yển Nguyệt Đao	Trang bị tím PVE_Hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		4	pve				13	2	1	1113	10
+Long Uyên Kiếm	Trang bị tím PVE_Hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		4	pve				12	2	1	1114	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ ngoại công_Hỏa_Chùy	Hệ ngoại công		Hệ Hỏa		4	pve				16	2	1	1115	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ ngoại công_Hỏa_Thủ	Hệ ngoại công		Hệ Hỏa		4	pve				11	2	1	1116	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		4	pve				14	2	1	1117	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		4	pve				15	2	1	1118	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ ngoại công_Thổ_Chùy	Hệ ngoại công		Hệ Thổ		4	pve				16	2	1	1119	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ ngoại công_Thổ_Thủ	Hệ ngoại công		Hệ Thổ		4	pve				11	2	1	1120	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ nội công_Kim_Côn	Hệ nội công		Hệ Kim		4	pve				14	2	1	1121	10
+Yển Nguyệt Đao	Trang bị tím PVE_Hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		4	pve				13	2	1	1122	10
+Long Uyên Kiếm	Trang bị tím PVE_Hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		4	pve				12	2	1	1123	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ nội công_Kim_Thương	Hệ nội công		Hệ Kim		4	pve				15	2	1	1124	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ nội công_Kim_Chùy	Hệ nội công		Hệ Kim		4	pve				16	2	1	1125	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		4	pve				11	2	1	1126	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ nội công_Mộc_Côn	Hệ nội công		Hệ Mộc		4	pve				14	2	1	1127	10
+Yển Nguyệt Đao	Trang bị tím PVE_Hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		4	pve				13	2	1	1128	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ nội công_Mộc_Thương	Hệ nội công		Hệ Mộc		4	pve				15	2	1	1129	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ nội công_Mộc_Chùy	Hệ nội công		Hệ Mộc		4	pve				16	2	1	1130	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ nội công_Thủy_Côn	Hệ nội công		Hệ Thủy		4	pve				14	2	1	1131	10
+Yển Nguyệt Đao	Trang bị tím PVE_Hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		4	pve				13	2	1	1132	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ nội công_Thủy_Thương	Hệ nội công		Hệ Thủy		4	pve				15	2	1	1133	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ nội công_Thủy_Chùy	Hệ nội công		Hệ Thủy		4	pve				16	2	1	1134	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ nội công_Hỏa_Côn	Hệ nội công		Hệ Hỏa		4	pve				14	2	1	1135	10
+Long Uyên Kiếm	Trang bị tím PVE_Hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		4	pve				12	2	1	1136	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ nội công_Hỏa_Thương	Hệ nội công		Hệ Hỏa		4	pve				15	2	1	1137	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ nội công_Hỏa_Chùy	Hệ nội công		Hệ Hỏa		4	pve				16	2	1	1138	10
+Kim Cô Bổng	Trang bị tím PVE_Hệ nội công_Thổ_Côn	Hệ nội công		Hệ Thổ		4	pve				14	2	1	1139	10
+Yển Nguyệt Đao	Trang bị tím PVE_Hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		4	pve				13	2	1	1140	10
+Phá Thiên Kích	Trang bị tím PVE_Hệ nội công_Thổ_Thương	Hệ nội công		Hệ Thổ		4	pve				15	2	1	1141	10
+Phá Thiên Chùy	Trang bị tím PVE_Hệ nội công_Thổ_Chùy	Hệ nội công		Hệ Thổ		4	pve				16	2	1	1142	10
+Thanh Long Triền Thủ	Trang bị tím PVE_Hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		4	pve				11	2	1	1143	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ cách đấu_Kim_Côn	Hệ cách đấu		Hệ Kim		5	pve				14	2	1	1144	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ cách đấu_Kim_Đao	Hệ cách đấu		Hệ Kim		5	pve				13	2	1	1145	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ cách đấu_Kim_Kiếm	Hệ cách đấu		Hệ Kim		5	pve				12	2	1	1146	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		5	pve				11	2	1	1147	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ cách đấu_Mộc_Côn	Hệ cách đấu		Hệ Mộc		5	pve				14	2	1	1148	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ cách đấu_Mộc_Đao	Hệ cách đấu		Hệ Mộc		5	pve				13	2	1	1149	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ cách đấu_Mộc_Kiếm	Hệ cách đấu		Hệ Mộc		5	pve				12	2	1	1150	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		5	pve				15	2	1	1151	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		5	pve				11	2	1	1152	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ cách đấu_Thủy_Côn	Hệ cách đấu		Hệ Thủy		5	pve				14	2	1	1153	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ cách đấu_Thủy_Đao	Hệ cách đấu		Hệ Thủy		5	pve				13	2	1	1154	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ cách đấu_Thủy_Kiếm	Hệ cách đấu		Hệ Thủy		5	pve				12	2	1	1155	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		5	pve				15	2	1	1156	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		5	pve				16	2	1	1157	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ cách đấu_Hỏa_Côn	Hệ cách đấu		Hệ Hỏa		5	pve				14	2	1	1158	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ cách đấu_Hỏa_Đao	Hệ cách đấu		Hệ Hỏa		5	pve				13	2	1	1159	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ cách đấu_Hỏa_Kiếm	Hệ cách đấu		Hệ Hỏa		5	pve				12	2	1	1160	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		5	pve				15	2	1	1161	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		5	pve				16	2	1	1162	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		5	pve				11	2	1	1163	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ cách đấu_Thổ_Côn	Hệ cách đấu		Hệ Thổ		5	pve				14	2	1	1164	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ cách đấu_Thổ_Đao	Hệ cách đấu		Hệ Thổ		5	pve				13	2	1	1165	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ cách đấu_Thổ_Kiếm	Hệ cách đấu		Hệ Thổ		5	pve				12	2	1	1166	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		5	pve				15	2	1	1167	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		5	pve				16	2	1	1168	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		5	pve				11	2	1	1169	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		5	pve				12	2	1	1170	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		5	pve				15	2	1	1171	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ ngoại công_Kim_Chùy	Hệ ngoại công		Hệ Kim		5	pve				16	2	1	1172	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ ngoại công_Kim_Thủ	Hệ ngoại công		Hệ Kim		5	pve				11	2	1	1173	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		5	pve				14	2	1	1174	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		5	pve				12	2	1	1175	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		5	pve				15	2	1	1176	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ ngoại công_Mộc_Chùy	Hệ ngoại công		Hệ Mộc		5	pve				16	2	1	1177	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ ngoại công_Mộc_Thủ	Hệ ngoại công		Hệ Mộc		5	pve				11	2	1	1178	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		5	pve				14	2	1	1179	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		5	pve				12	2	1	1180	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		5	pve				15	2	1	1181	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ ngoại công_Thủy_Chùy	Hệ ngoại công		Hệ Thủy		5	pve				16	2	1	1182	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ ngoại công_Thủy_Thủ	Hệ ngoại công		Hệ Thủy		5	pve				11	2	1	1183	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		5	pve				13	2	1	1184	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		5	pve				12	2	1	1185	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ ngoại công_Hỏa_Chùy	Hệ ngoại công		Hệ Hỏa		5	pve				16	2	1	1186	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ ngoại công_Hỏa_Thủ	Hệ ngoại công		Hệ Hỏa		5	pve				11	2	1	1187	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		5	pve				14	2	1	1188	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		5	pve				15	2	1	1189	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ ngoại công_Thổ_Chùy	Hệ ngoại công		Hệ Thổ		5	pve				16	2	1	1190	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ ngoại công_Thổ_Thủ	Hệ ngoại công		Hệ Thổ		5	pve				11	2	1	1191	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ nội công_Kim_Côn	Hệ nội công		Hệ Kim		5	pve				14	2	1	1192	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		5	pve				13	2	1	1193	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		5	pve				12	2	1	1194	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ nội công_Kim_Thương	Hệ nội công		Hệ Kim		5	pve				15	2	1	1195	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ nội công_Kim_Chùy	Hệ nội công		Hệ Kim		5	pve				16	2	1	1196	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		5	pve				11	2	1	1197	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ nội công_Mộc_Côn	Hệ nội công		Hệ Mộc		5	pve				14	2	1	1198	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		5	pve				13	2	1	1199	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ nội công_Mộc_Thương	Hệ nội công		Hệ Mộc		5	pve				15	2	1	1200	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ nội công_Mộc_Chùy	Hệ nội công		Hệ Mộc		5	pve				16	2	1	1201	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ nội công_Thủy_Côn	Hệ nội công		Hệ Thủy		5	pve				14	2	1	1202	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		5	pve				13	2	1	1203	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ nội công_Thủy_Thương	Hệ nội công		Hệ Thủy		5	pve				15	2	1	1204	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ nội công_Thủy_Chùy	Hệ nội công		Hệ Thủy		5	pve				16	2	1	1205	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ nội công_Hỏa_Côn	Hệ nội công		Hệ Hỏa		5	pve				14	2	1	1206	10
+Long Uyên Kiếm	Trang bị cam PVE_Hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		5	pve				12	2	1	1207	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ nội công_Hỏa_Thương	Hệ nội công		Hệ Hỏa		5	pve				15	2	1	1208	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ nội công_Hỏa_Chùy	Hệ nội công		Hệ Hỏa		5	pve				16	2	1	1209	10
+Kim Cô Bổng	Trang bị cam PVE_Hệ nội công_Thổ_Côn	Hệ nội công		Hệ Thổ		5	pve				14	2	1	1210	10
+Yển Nguyệt Đao	Trang bị cam PVE_Hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		5	pve				13	2	1	1211	10
+Phá Thiên Kích	Trang bị cam PVE_Hệ nội công_Thổ_Thương	Hệ nội công		Hệ Thổ		5	pve				15	2	1	1212	10
+Phá Thiên Chùy	Trang bị cam PVE_Hệ nội công_Thổ_Chùy	Hệ nội công		Hệ Thổ		5	pve				16	2	1	1213	10
+Thanh Long Triền Thủ	Trang bị cam PVE_Hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		5	pve				11	2	1	1214	10
+Long Vương Thương	Bạch ngân PVE_Hệ cách đấu_Kim_Thương	Hệ cách đấu		Hệ Kim		6	pve				15	2	1	1215	10
+Cổ Chùy Trấn Ma	Bạch ngân PVE_Hệ cách đấu_Kim_Chùy	Hệ cách đấu		Hệ Kim		6	pve				16	2	1	1216	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		6	pve				11	2	1	1217	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVE_Hệ ngoại công_Kim_Côn	Hệ ngoại công		Hệ Kim		6	pve				14	2	1	1218	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ ngoại công_Kim_Đao	Hệ ngoại công		Hệ Kim		6	pve				13	2	1	1219	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		6	pve				12	2	1	1220	10
+Long Vương Thương	Bạch ngân PVE_Hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		6	pve				15	2	1	1221	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		6	pve				13	2	1	1222	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		6	pve				12	2	1	1223	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		6	pve				11	2	1	1224	10
+Long Vương Thương	Bạch ngân PVE_Hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		6	pve				15	2	1	1225	10
+Cổ Chùy Trấn Ma	Bạch ngân PVE_Hệ cách đấu_Mộc_Chùy	Hệ cách đấu		Hệ Mộc		6	pve				16	2	1	1226	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		6	pve				11	2	1	1227	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVE_Hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		6	pve				14	2	1	1228	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ ngoại công_Mộc_Đao	Hệ ngoại công		Hệ Mộc		6	pve				13	2	1	1229	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		6	pve				12	2	1	1230	10
+Long Vương Thương	Bạch ngân PVE_Hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		6	pve				15	2	1	1231	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		6	pve				13	2	1	1232	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ nội công_Mộc_Kiếm	Hệ nội công		Hệ Mộc		6	pve				12	2	1	1233	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ nội công_Mộc_Thủ	Hệ nội công		Hệ Mộc		6	pve				11	2	1	1234	10
+Long Vương Thương	Bạch ngân PVE_Hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		6	pve				15	2	1	1235	10
+Cổ Chùy Trấn Ma	Bạch ngân PVE_Hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		6	pve				16	2	1	1236	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ cách đấu_Thủy_Thủ	Hệ cách đấu		Hệ Thủy		6	pve				11	2	1	1237	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVE_Hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		6	pve				14	2	1	1238	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ ngoại công_Thủy_Đao	Hệ ngoại công		Hệ Thủy		6	pve				13	2	1	1239	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		6	pve				12	2	1	1240	10
+Long Vương Thương	Bạch ngân PVE_Hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		6	pve				15	2	1	1241	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		6	pve				13	2	1	1242	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ nội công_Thủy_Kiếm	Hệ nội công		Hệ Thủy		6	pve				12	2	1	1243	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ nội công_Thủy_Thủ	Hệ nội công		Hệ Thủy		6	pve				11	2	1	1244	10
+Long Vương Thương	Bạch ngân PVE_Hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		6	pve				15	2	1	1245	10
+Cổ Chùy Trấn Ma	Bạch ngân PVE_Hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		6	pve				16	2	1	1246	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		6	pve				11	2	1	1247	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVE_Hệ ngoại công_Hỏa_Côn	Hệ ngoại công		Hệ Hỏa		6	pve				14	2	1	1248	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		6	pve				13	2	1	1249	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		6	pve				12	2	1	1250	10
+Long Vương Thương	Bạch ngân PVE_Hệ ngoại công_Hỏa_Thương	Hệ ngoại công		Hệ Hỏa		6	pve				15	2	1	1251	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ nội công_Hỏa_Đao	Hệ nội công		Hệ Hỏa		6	pve				13	2	1	1252	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		6	pve				12	2	1	1253	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ nội công_Hỏa_Thủ	Hệ nội công		Hệ Hỏa		6	pve				11	2	1	1254	10
+Long Vương Thương	Bạch ngân PVE_Hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		6	pve				15	2	1	1255	10
+Cổ Chùy Trấn Ma	Bạch ngân PVE_Hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		6	pve				16	2	1	1256	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		6	pve				11	2	1	1257	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVE_Hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		6	pve				14	2	1	1258	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ ngoại công_Thổ_Đao	Hệ ngoại công		Hệ Thổ		6	pve				13	2	1	1259	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ ngoại công_Thổ_Kiếm	Hệ ngoại công		Hệ Thổ		6	pve				12	2	1	1260	10
+Long Vương Thương	Bạch ngân PVE_Hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		6	pve				15	2	1	1261	10
+Cửu Luyện Thần Đao	Bạch ngân PVE_Hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		6	pve				13	2	1	1262	10
+Long Hình Bá Kiếm	Bạch ngân PVE_Hệ nội công_Thổ_Kiếm	Hệ nội công		Hệ Thổ		6	pve				12	2	1	1263	10
+Phọc Hồn Triền Thủ	Bạch ngân PVE_Hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		6	pve				11	2	1	1264	10
+Cửu Luyện Thần Đao	Bạch ngân PVP_Đao Thiếu	Hệ ngoại công		Hệ Kim		6	pvp				13	2	1	1265	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVP_Côn Thiếu	Hệ ngoại công		Hệ Kim		6	pvp				14	2	1	1266	10
+Long Vương Thương	Bạch ngân PVP_Thương Thiên	Hệ cách đấu		Hệ Kim		6	pvp				15	2	1	1267	10
+Cổ Chùy Trấn Ma	Bạch ngân PVP_Chùy Thiên	Hệ cách đấu		Hệ Kim		6	pvp				16	2	1	1268	10
+Cửu Luyện Thần Đao	Bạch ngân PVP_Đao Độc	Hệ ngoại công		Hệ Mộc		6	pvp				13	2	1	1269	10
+Phọc Hồn Triền Thủ	Bạch ngân PVP_Chưởng Độc	Hệ nội công		Hệ Mộc		6	pvp				11	2	1	1270	10
+Cửu Luyện Thần Đao	Bạch ngân PVP_Đao Thúy	Hệ ngoại công		Hệ Thủy		6	pvp				13	2	1	1271	10
+Phọc Hồn Triền Thủ	Bạch ngân PVP_Chỉ Đoàn	Hệ cách đấu		Hệ Thủy		6	pvp				11	2	1	1272	10
+Phọc Hồn Triền Thủ	Bạch ngân PVP_Chưởng Nga	Hệ nội công		Hệ Thủy		6	pvp				11	2	1	1273	10
+Long Hình Bá Kiếm	Bạch ngân PVP_Kiếm Thúy, Khí Đoạn, Phổ Nga	Hệ nội công		Hệ Thủy		6	pvp				12	2	1	1274	10
+Phong Lôi Long Bàn Côn	Bạch ngân PVP_Côn Cái	Hệ ngoại công		Hệ Hỏa		6	pvp				14	2	1	1275	10
+Long Vương Thương	Bạch ngân PVP_Chiến Nhẫn	Hệ ngoại công		Hệ Hỏa		6	pvp				15	2	1	1276	10
+Phọc Hồn Triền Thủ	Bạch ngân PVP_Chưởng Cái	Hệ nội công		Hệ Hỏa		6	pvp				11	2	1	1277	10
+Cửu Luyện Thần Đao	Bạch ngân PVP_Ma Nhẫn	Hệ nội công		Hệ Hỏa		6	pvp				13	2	1	1278	10
+Cửu Luyện Thần Đao	Bạch ngân PVP_Đao Côn	Hệ ngoại công		Hệ Thổ		6	pvp				13	2	1	1279	10
+Long Hình Bá Kiếm	Bạch ngân PVP_Kiếm Võ	Hệ ngoại công		Hệ Thổ		6	pvp				12	2	1	1280	10
+Long Hình Bá Kiếm	Bạch ngân PVP_Khí Võ	Hệ nội công		Hệ Thổ		6	pvp				12	2	1	1281	10
+Long Hình Bá Kiếm	Bạch ngân PVP_Kiếm Côn	Hệ nội công		Hệ Thổ		6	pvp				12	2	1	1282	10
+Cổ Chùy Trấn Ma	Bạch ngân PVP_Chùy Minh	Hệ ngoại công		Hệ Mộc		6	pvp				16	2	1	1283	10
+Long Hình Bá Kiếm	Bạch ngân PVP_Kiếm Minh	Hệ nội công		Hệ Mộc		6	pvp				12	2	1	1284	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ cách đấu_Kim_Thương	Hệ cách đấu		Hệ Kim		7	pve				15	2	1	1285	10
+Thần Chùy Kinh Lôi	Hoàng kim PVE_Hệ cách đấu_Kim_Chùy	Hệ cách đấu		Hệ Kim		7	pve				16	2	1	1286	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		7	pve				11	2	1	1287	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVE_Hệ ngoại công_Kim_Côn	Hệ ngoại công		Hệ Kim		7	pve				14	2	1	1288	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ ngoại công_Kim_Đao	Hệ ngoại công		Hệ Kim		7	pve				13	2	1	1289	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		7	pve				12	2	1	1290	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		7	pve				15	2	1	1291	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		7	pve				13	2	1	1292	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		7	pve				12	2	1	1293	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		7	pve				11	2	1	1294	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		7	pve				15	2	1	1295	10
+Thần Chùy Kinh Lôi	Hoàng kim PVE_Hệ cách đấu_Mộc_Chùy	Hệ cách đấu		Hệ Mộc		7	pve				16	2	1	1296	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		7	pve				11	2	1	1297	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVE_Hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		7	pve				14	2	1	1298	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ ngoại công_Mộc_Đao	Hệ ngoại công		Hệ Mộc		7	pve				13	2	1	1299	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		7	pve				12	2	1	1300	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		7	pve				15	2	1	1301	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		7	pve				13	2	1	1302	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ nội công_Mộc_Kiếm	Hệ nội công		Hệ Mộc		7	pve				12	2	1	1303	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ nội công_Mộc_Thủ	Hệ nội công		Hệ Mộc		7	pve				11	2	1	1304	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		7	pve				15	2	1	1305	10
+Thần Chùy Kinh Lôi	Hoàng kim PVE_Hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		7	pve				16	2	1	1306	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ cách đấu_Thủy_Thủ	Hệ cách đấu		Hệ Thủy		7	pve				11	2	1	1307	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVE_Hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		7	pve				14	2	1	1308	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ ngoại công_Thủy_Đao	Hệ ngoại công		Hệ Thủy		7	pve				13	2	1	1309	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		7	pve				12	2	1	1310	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		7	pve				15	2	1	1311	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		7	pve				13	2	1	1312	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ nội công_Thủy_Kiếm	Hệ nội công		Hệ Thủy		7	pve				12	2	1	1313	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ nội công_Thủy_Thủ	Hệ nội công		Hệ Thủy		7	pve				11	2	1	1314	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		7	pve				15	2	1	1315	10
+Thần Chùy Kinh Lôi	Hoàng kim PVE_Hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		7	pve				16	2	1	1316	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		7	pve				11	2	1	1317	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVE_Hệ ngoại công_Hỏa_Côn	Hệ ngoại công		Hệ Hỏa		7	pve				14	2	1	1318	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		7	pve				13	2	1	1319	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		7	pve				12	2	1	1320	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ ngoại công_Hỏa_Thương	Hệ ngoại công		Hệ Hỏa		7	pve				15	2	1	1321	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ nội công_Hỏa_Đao	Hệ nội công		Hệ Hỏa		7	pve				13	2	1	1322	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		7	pve				12	2	1	1323	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ nội công_Hỏa_Thủ	Hệ nội công		Hệ Hỏa		7	pve				11	2	1	1324	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		7	pve				15	2	1	1325	10
+Thần Chùy Kinh Lôi	Hoàng kim PVE_Hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		7	pve				16	2	1	1326	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		7	pve				11	2	1	1327	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVE_Hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		7	pve				14	2	1	1328	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ ngoại công_Thổ_Đao	Hệ ngoại công		Hệ Thổ		7	pve				13	2	1	1329	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ ngoại công_Thổ_Kiếm	Hệ ngoại công		Hệ Thổ		7	pve				12	2	1	1330	10
+Liệt Hồn Kích	Hoàng kim PVE_Hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		7	pve				15	2	1	1331	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVE_Hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		7	pve				13	2	1	1332	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVE_Hệ nội công_Thổ_Kiếm	Hệ nội công		Hệ Thổ		7	pve				12	2	1	1333	10
+Viêm Phượng Triền Thủ	Hoàng kim PVE_Hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		7	pve				11	2	1	1334	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVP_Đao Thiếu	Hệ ngoại công		Hệ Kim		7	pvp				13	2	1	1335	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVP_Côn Thiếu	Hệ ngoại công		Hệ Kim		7	pvp				14	2	1	1336	10
+Liệt Hồn Kích	Hoàng kim PVP_Thương Thiên	Hệ cách đấu		Hệ Kim		7	pvp				15	2	1	1337	10
+Thần Chùy Kinh Lôi	Hoàng kim PVP_Chùy Thiên	Hệ cách đấu		Hệ Kim		7	pvp				16	2	1	1338	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVP_Đao Độc	Hệ ngoại công		Hệ Mộc		7	pvp				13	2	1	1339	10
+Viêm Phượng Triền Thủ	Hoàng kim PVP_Chưởng Độc	Hệ nội công		Hệ Mộc		7	pvp				11	2	1	1340	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVP_Đao Thúy	Hệ ngoại công		Hệ Thủy		7	pvp				13	2	1	1341	10
+Viêm Phượng Triền Thủ	Hoàng kim PVP_Chỉ Đoàn	Hệ cách đấu		Hệ Thủy		7	pvp				11	2	1	1342	10
+Viêm Phượng Triền Thủ	Hoàng kim PVP_Chưởng Nga	Hệ nội công		Hệ Thủy		7	pvp				11	2	1	1343	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVP_Kiếm Thúy, Khí Đoạn, Phổ Nga	Hệ nội công		Hệ Thủy		7	pvp				12	2	1	1344	10
+Dao Quang Quân Thiên Côn	Hoàng kim PVP_Côn Cái	Hệ ngoại công		Hệ Hỏa		7	pvp				14	2	1	1345	10
+Liệt Hồn Kích	Hoàng kim PVP_Chiến Nhẫn	Hệ ngoại công		Hệ Hỏa		7	pvp				15	2	1	1346	10
+Viêm Phượng Triền Thủ	Hoàng kim PVP_Chưởng Cái	Hệ nội công		Hệ Hỏa		7	pvp				11	2	1	1347	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVP_Ma Nhẫn	Hệ nội công		Hệ Hỏa		7	pvp				13	2	1	1348	10
+Đoạn Quang Tà Nhẫn	Hoàng kim PVP_Đao Côn	Hệ ngoại công		Hệ Thổ		7	pvp				13	2	1	1349	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVP_Kiếm Võ	Hệ ngoại công		Hệ Thổ		7	pvp				12	2	1	1350	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVP_Khí Võ	Hệ nội công		Hệ Thổ		7	pvp				12	2	1	1351	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVP_Kiếm Côn	Hệ nội công		Hệ Thổ		7	pvp				12	2	1	1352	10
+Thần Chùy Kinh Lôi	Hoàng kim PVP_Chùy Minh	Hệ ngoại công		Hệ Mộc		7	pvp				16	2	1	1353	10
+Kiếp Diệm Hoan Kiếm	Hoàng kim PVP_Kiếm Minh	Hệ nội công		Hệ Mộc		7	pvp				12	2	1	1354	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ cách đấu_Kim_Thương	Hệ cách đấu		Hệ Kim		10	pve				15	2	1	1355	10
+Chiến Chùy Bát Hoang	Thanh đồng PVE_Hệ cách đấu_Kim_Chùy	Hệ cách đấu		Hệ Kim		10	pve				16	2	1	1356	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ cách đấu_Kim_Thủ	Hệ cách đấu		Hệ Kim		10	pve				11	2	1	1357	10
+U Nhật Li Hỏa Côn	Thanh đồng PVE_Hệ ngoại công_Kim_Côn	Hệ ngoại công		Hệ Kim		10	pve				14	2	1	1358	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ ngoại công_Kim_Đao	Hệ ngoại công		Hệ Kim		10	pve				13	2	1	1359	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ ngoại công_Kim_Kiếm	Hệ ngoại công		Hệ Kim		10	pve				12	2	1	1360	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ ngoại công_Kim_Thương	Hệ ngoại công		Hệ Kim		10	pve				15	2	1	1361	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ nội công_Kim_Đao	Hệ nội công		Hệ Kim		10	pve				13	2	1	1362	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ nội công_Kim_Kiếm	Hệ nội công		Hệ Kim		10	pve				12	2	1	1363	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ nội công_Kim_Thủ	Hệ nội công		Hệ Kim		10	pve				11	2	1	1364	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ cách đấu_Mộc_Thương	Hệ cách đấu		Hệ Mộc		10	pve				15	2	1	1365	10
+Chiến Chùy Bát Hoang	Thanh đồng PVE_Hệ cách đấu_Mộc_Chùy	Hệ cách đấu		Hệ Mộc		10	pve				16	2	1	1366	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ cách đấu_Mộc_Thủ	Hệ cách đấu		Hệ Mộc		10	pve				11	2	1	1367	10
+U Nhật Li Hỏa Côn	Thanh đồng PVE_Hệ ngoại công_Mộc_Côn	Hệ ngoại công		Hệ Mộc		10	pve				14	2	1	1368	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ ngoại công_Mộc_Đao	Hệ ngoại công		Hệ Mộc		10	pve				13	2	1	1369	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ ngoại công_Mộc_Kiếm	Hệ ngoại công		Hệ Mộc		10	pve				12	2	1	1370	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ ngoại công_Mộc_Thương	Hệ ngoại công		Hệ Mộc		10	pve				15	2	1	1371	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ nội công_Mộc_Đao	Hệ nội công		Hệ Mộc		10	pve				13	2	1	1372	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ nội công_Mộc_Kiếm	Hệ nội công		Hệ Mộc		10	pve				12	2	1	1373	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ nội công_Mộc_Thủ	Hệ nội công		Hệ Mộc		10	pve				11	2	1	1374	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ cách đấu_Thủy_Thương	Hệ cách đấu		Hệ Thủy		10	pve				15	2	1	1375	10
+Chiến Chùy Bát Hoang	Thanh đồng PVE_Hệ cách đấu_Thủy_Chùy	Hệ cách đấu		Hệ Thủy		10	pve				16	2	1	1376	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ cách đấu_Thủy_Thủ	Hệ cách đấu		Hệ Thủy		10	pve				11	2	1	1377	10
+U Nhật Li Hỏa Côn	Thanh đồng PVE_Hệ ngoại công_Thủy_Côn	Hệ ngoại công		Hệ Thủy		10	pve				14	2	1	1378	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ ngoại công_Thủy_Đao	Hệ ngoại công		Hệ Thủy		10	pve				13	2	1	1379	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ ngoại công_Thủy_Kiếm	Hệ ngoại công		Hệ Thủy		10	pve				12	2	1	1380	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ ngoại công_Thủy_Thương	Hệ ngoại công		Hệ Thủy		10	pve				15	2	1	1381	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ nội công_Thủy_Đao	Hệ nội công		Hệ Thủy		10	pve				13	2	1	1382	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ nội công_Thủy_Kiếm	Hệ nội công		Hệ Thủy		10	pve				12	2	1	1383	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ nội công_Thủy_Thủ	Hệ nội công		Hệ Thủy		10	pve				11	2	1	1384	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ cách đấu_Hỏa_Thương	Hệ cách đấu		Hệ Hỏa		10	pve				15	2	1	1385	10
+Chiến Chùy Bát Hoang	Thanh đồng PVE_Hệ cách đấu_Hỏa_Chùy	Hệ cách đấu		Hệ Hỏa		10	pve				16	2	1	1386	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ cách đấu_Hỏa_Thủ	Hệ cách đấu		Hệ Hỏa		10	pve				11	2	1	1387	10
+U Nhật Li Hỏa Côn	Thanh đồng PVE_Hệ ngoại công_Hỏa_Côn	Hệ ngoại công		Hệ Hỏa		10	pve				14	2	1	1388	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ ngoại công_Hỏa_Đao	Hệ ngoại công		Hệ Hỏa		10	pve				13	2	1	1389	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ ngoại công_Hỏa_Kiếm	Hệ ngoại công		Hệ Hỏa		10	pve				12	2	1	1390	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ ngoại công_Hỏa_Thương	Hệ ngoại công		Hệ Hỏa		10	pve				15	2	1	1391	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ nội công_Hỏa_Đao	Hệ nội công		Hệ Hỏa		10	pve				13	2	1	1392	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ nội công_Hỏa_Kiếm	Hệ nội công		Hệ Hỏa		10	pve				12	2	1	1393	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ nội công_Hỏa_Thủ	Hệ nội công		Hệ Hỏa		10	pve				11	2	1	1394	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ cách đấu_Thổ_Thương	Hệ cách đấu		Hệ Thổ		10	pve				15	2	1	1395	10
+Chiến Chùy Bát Hoang	Thanh đồng PVE_Hệ cách đấu_Thổ_Chùy	Hệ cách đấu		Hệ Thổ		10	pve				16	2	1	1396	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ cách đấu_Thổ_Thủ	Hệ cách đấu		Hệ Thổ		10	pve				11	2	1	1397	10
+U Nhật Li Hỏa Côn	Thanh đồng PVE_Hệ ngoại công_Thổ_Côn	Hệ ngoại công		Hệ Thổ		10	pve				14	2	1	1398	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ ngoại công_Thổ_Đao	Hệ ngoại công		Hệ Thổ		10	pve				13	2	1	1399	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ ngoại công_Thổ_Kiếm	Hệ ngoại công		Hệ Thổ		10	pve				12	2	1	1400	10
+Quỷ Liệt Thương	Thanh đồng PVE_Hệ ngoại công_Thổ_Thương	Hệ ngoại công		Hệ Thổ		10	pve				15	2	1	1401	10
+Càn Khôn Hoài Đao	Thanh đồng PVE_Hệ nội công_Thổ_Đao	Hệ nội công		Hệ Thổ		10	pve				13	2	1	1402	10
+Băng Phách Hóa Kiếm	Thanh đồng PVE_Hệ nội công_Thổ_Kiếm	Hệ nội công		Hệ Thổ		10	pve				12	2	1	1403	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVE_Hệ nội công_Thổ_Thủ	Hệ nội công		Hệ Thổ		10	pve				11	2	1	1404	10
+Càn Khôn Hoài Đao	Thanh đồng PVP_Đao Thiếu	Hệ ngoại công		Hệ Kim		10	pvp				13	2	1	1405	10
+U Nhật Li Hỏa Côn	Thanh đồng PVP_Côn Thiếu	Hệ ngoại công		Hệ Kim		10	pvp				14	2	1	1406	10
+Quỷ Liệt Thương	Thanh đồng PVP_Thương Thiên	Hệ cách đấu		Hệ Kim		10	pvp				15	2	1	1407	10
+Chiến Chùy Bát Hoang	Thanh đồng PVP_Chùy Thiên	Hệ cách đấu		Hệ Kim		10	pvp				16	2	1	1408	10
+Càn Khôn Hoài Đao	Thanh đồng PVP_Đao Độc	Hệ ngoại công		Hệ Mộc		10	pvp				13	2	1	1409	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVP_Chưởng Độc	Hệ nội công		Hệ Mộc		10	pvp				11	2	1	1410	10
+Càn Khôn Hoài Đao	Thanh đồng PVP_Đao Thúy	Hệ ngoại công		Hệ Thủy		10	pvp				13	2	1	1411	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVP_Chỉ Đoàn	Hệ cách đấu		Hệ Thủy		10	pvp				11	2	1	1412	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVP_Chưởng Nga	Hệ nội công		Hệ Thủy		10	pvp				11	2	1	1413	10
+Băng Phách Hóa Kiếm	Thanh đồng PVP_Kiếm Thúy, Khí Đoạn, Phổ Nga	Hệ nội công		Hệ Thủy		10	pvp				12	2	1	1414	10
+U Nhật Li Hỏa Côn	Thanh đồng PVP_Côn Cái	Hệ ngoại công		Hệ Hỏa		10	pvp				14	2	1	1415	10
+Quỷ Liệt Thương	Thanh đồng PVP_Chiến Nhẫn	Hệ ngoại công		Hệ Hỏa		10	pvp				15	2	1	1416	10
+Ngưng Ngọc Triền Thủ	Thanh đồng PVP_Chưởng Cái	Hệ nội công		Hệ Hỏa		10	pvp				11	2	1	1417	10
+Càn Khôn Hoài Đao	Thanh đồng PVP_Ma Nhẫn	Hệ nội công		Hệ Hỏa		10	pvp				13	2	1	1418	10
+Càn Khôn Hoài Đao	Thanh đồng PVP_Đao Côn	Hệ ngoại công		Hệ Thổ		10	pvp				13	2	1	1419	10
+Băng Phách Hóa Kiếm	Thanh đồng PVP_Kiếm Võ	Hệ ngoại công		Hệ Thổ		10	pvp				12	2	1	1420	10
+Băng Phách Hóa Kiếm	Thanh đồng PVP_Khí Võ	Hệ nội công		Hệ Thổ		10	pvp				12	2	1	1421	10
+Băng Phách Hóa Kiếm	Thanh đồng PVP_Kiếm Côn	Hệ nội công		Hệ Thổ		10	pvp				12	2	1	1422	10
+Chiến Chùy Bát Hoang	Thanh đồng PVP_Chùy Minh	Hệ ngoại công		Hệ Mộc		10	pvp				16	2	1	1423	10
+Băng Phách Hóa Kiếm	Thanh đồng PVP_Kiếm Minh	Hệ nội công		Hệ Mộc		10	pvp				12	2	1	1424	10
+Long Hành Đao	Trang bị xanh_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Mộc		3	pve				22	2	2	10	10
+Thiên Ngoại Phi Tiên	Trang bị xanh_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Mộc		3	pve				23	2	2	20	10
+Long Hành Đao	Trang bị tím PVE_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Mộc		4	pve				22	2	2	30	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVE_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Mộc		4	pve				23	2	2	40	10
+Long Hành Đao	Trang bị tím PVP_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Mộc		4	pvp				22	2	2	50	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVP_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Mộc		4	pvp				23	2	2	60	10
+Long Hành Đao	Trang bị cam PVE_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Mộc		5	pve				22	2	2	70	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVE_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Mộc		5	pve				23	2	2	80	10
+Long Hành Đao	Trang bị cam PVP_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Mộc		5	pvp				22	2	2	90	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVP_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Mộc		5	pvp				23	2	2	100	10
+Long Hành Đao	Trang bị xanh_Kim_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Kim		3	pve				22	2	2	101	10
+Thiên Ngoại Phi Tiên	Trang bị xanh_Kim_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Kim		3	pve				23	2	2	102	10
+Long Hành Đao	Trang bị tím PVE_Kim_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Kim		4	pve				22	2	2	103	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVE_Kim_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Kim		4	pve				23	2	2	104	10
+Long Hành Đao	Trang bị cam PVE_Kim_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Kim		5	pve				22	2	2	105	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVE_Kim_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Kim		5	pve				23	2	2	106	10
+Long Hành Đao	Trang bị xanh_Thủy_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thủy		3	pve				22	2	2	107	10
+Thiên Ngoại Phi Tiên	Trang bị xanh_Thủy_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thủy		3	pve				23	2	2	108	10
+Long Hành Đao	Trang bị tím PVE_Thủy_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thủy		4	pve				22	2	2	109	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVE_Thủy_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thủy		4	pve				23	2	2	110	10
+Long Hành Đao	Trang bị cam PVE_Thủy_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thủy		5	pve				22	2	2	111	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVE_Thủy_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thủy		5	pve				23	2	2	112	10
+Long Hành Đao	Trang bị xanh_Hỏa_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Hỏa		3	pve				22	2	2	113	10
+Thiên Ngoại Phi Tiên	Trang bị xanh_Hỏa_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Hỏa		3	pve				23	2	2	114	10
+Long Hành Đao	Trang bị tím PVE_Hỏa_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Hỏa		4	pve				22	2	2	115	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVE_Hỏa_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Hỏa		4	pve				23	2	2	116	10
+Long Hành Đao	Trang bị cam PVE_Hỏa_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Hỏa		5	pve				22	2	2	117	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVE_Hỏa_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Hỏa		5	pve				23	2	2	118	10
+Long Hành Đao	Trang bị xanh_Thổ_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thổ		3	pve				22	2	2	119	10
+Thiên Ngoại Phi Tiên	Trang bị xanh_Thổ_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thổ		3	pve				23	2	2	120	10
+Long Hành Đao	Trang bị tím PVE_Thổ_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thổ		4	pve				22	2	2	121	10
+Thiên Ngoại Phi Tiên	Trang bị tím PVE_Thổ_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thổ		4	pve				23	2	2	122	10
+Long Hành Đao	Trang bị cam PVE_Thổ_Long Hành Đao (Đao Đường)	Hệ ngoại công		Hệ Thổ		5	pve				22	2	2	123	10
+Thiên Ngoại Phi Tiên	Trang bị cam PVE_Thổ_Thiên Ngoại Phi Tiên (Nỏ Đường)	Hệ ngoại công		Hệ Thổ		5	pve				23	2	2	124	10
+Tử Mẫu Li Hồn Đao	Hệ kim PVE_Phi đao bạch ngân	Hệ ngoại công		Hệ Kim		6	pve				22	2	2	125	10
+Tử Mẫu Li Hồn Đao	Hệ mộc PVE_Phi đao bạch ngân	Hệ ngoại công		Hệ Mộc		6	pve				22	2	2	126	10
+Tử Mẫu Li Hồn Đao	Hệ thủy PVE_Phi đao bạch ngân	Hệ ngoại công		Hệ Thủy		6	pve				22	2	2	127	10
+Tử Mẫu Li Hồn Đao	Hệ hỏa PVE_Phi đao bạch ngân	Hệ ngoại công		Hệ Hỏa		6	pve				22	2	2	128	10
+Tử Mẫu Li Hồn Đao	Hệ thổ PVE_Phi đao bạch ngân	Hệ ngoại công		Hệ Thổ		6	pve				22	2	2	129	10
+Hồng Liên Tiễn	Hệ kim PVE_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Kim		6	pve				23	2	2	130	10
+Hồng Liên Tiễn	Hệ mộc PVE_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Mộc		6	pve				23	2	2	131	10
+Hồng Liên Tiễn	Hệ thủy PVE_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Thủy		6	pve				23	2	2	132	10
+Hồng Liên Tiễn	Hệ hỏa PVE_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Hỏa		6	pve				23	2	2	133	10
+Hồng Liên Tiễn	Hệ thổ PVE_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Thổ		6	pve				23	2	2	134	10
+Âm Dương Băng Viêm Đao	Hệ kim PVE_Phi đao hoàng kim	Hệ ngoại công		Hệ Kim		7	pve				22	2	2	135	10
+Âm Dương Băng Viêm Đao	Hệ mộc PVE_Phi đao hoàng kim	Hệ ngoại công		Hệ Mộc		7	pve				22	2	2	136	10
+Âm Dương Băng Viêm Đao	Hệ thủy PVE_Phi đao hoàng kim	Hệ ngoại công		Hệ Thủy		7	pve				22	2	2	137	10
+Âm Dương Băng Viêm Đao	Hệ hỏa PVE_Phi đao hoàng kim	Hệ ngoại công		Hệ Hỏa		7	pve				22	2	2	138	10
+Âm Dương Băng Viêm Đao	Hệ thổ PVE_Phi đao hoàng kim	Hệ ngoại công		Hệ Thổ		7	pve				22	2	2	139	10
+U Minh Tiễn	Hệ kim PVE_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Kim		7	pve				23	2	2	140	10
+U Minh Tiễn	Hệ mộc PVE_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Mộc		7	pve				23	2	2	141	10
+U Minh Tiễn	Hệ thủy PVE_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Thủy		7	pve				23	2	2	142	10
+U Minh Tiễn	Hệ hỏa PVE_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Hỏa		7	pve				23	2	2	143	10
+U Minh Tiễn	Hệ thổ PVE_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Thổ		7	pve				23	2	2	144	10
+Tử Mẫu Li Hồn Đao	Hệ mộc PVP_Phi đao bạch ngân	Hệ ngoại công		Hệ Mộc		6	pvp				22	2	2	145	10
+Hồng Liên Tiễn	Hệ mộc PVP_Tụ tiễn bạch ngân	Hệ ngoại công		Hệ Mộc		6	pvp				23	2	2	146	10
+Âm Dương Băng Viêm Đao	Hệ mộc PVP_Phi đao hoàng kim	Hệ ngoại công		Hệ Mộc		7	pvp				22	2	2	147	10
+U Minh Tiễn	Hệ mộc PVP_Tụ tiễn hoàng kim	Hệ ngoại công		Hệ Mộc		7	pvp				23	2	2	148	10
+Tam Sách Đoạn Hầu Đao	Hệ kim PVE_Phi đao thanh đồng	Hệ ngoại công		Hệ Kim		10	pve				22	2	2	149	10
+Tam Sách Đoạn Hầu Đao	Hệ mộc PVE_Phi đao thanh đồng	Hệ ngoại công		Hệ Mộc		10	pve				22	2	2	150	10
+Tam Sách Đoạn Hầu Đao	Hệ thủy PVE_Phi đao thanh đồng	Hệ ngoại công		Hệ Thủy		10	pve				22	2	2	151	10
+Tam Sách Đoạn Hầu Đao	Hệ hỏa PVE_Phi đao thanh đồng	Hệ ngoại công		Hệ Hỏa		10	pve				22	2	2	152	10
+Tam Sách Đoạn Hầu Đao	Hệ thổ PVE_Phi đao thanh đồng	Hệ ngoại công		Hệ Thổ		10	pve				22	2	2	153	10
+Hắc Vũ Tiễn	Hệ kim PVE_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Kim		10	pve				23	2	2	154	10
+Hắc Vũ Tiễn	Hệ mộc PVE_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Mộc		10	pve				23	2	2	155	10
+Hắc Vũ Tiễn	Hệ thủy PVE_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Thủy		10	pve				23	2	2	156	10
+Hắc Vũ Tiễn	Hệ hỏa PVE_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Hỏa		10	pve				23	2	2	157	10
+Hắc Vũ Tiễn	Hệ thổ PVE_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Thổ		10	pve				23	2	2	158	10
+Tam Sách Đoạn Hầu Đao	Hệ mộc PVP_Phi đao thanh đồng	Hệ ngoại công		Hệ Mộc		10	pvp				22	2	2	159	10
+Hắc Vũ Tiễn	Hệ mộc PVP_Tụ tiễn thanh đồng	Hệ ngoại công		Hệ Mộc		10	pvp				23	2	2	160	10

@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme		
+Vào khoáng (ngoài)	0	6822	3	5	70	1	20	20	20	20	20	1		52032	116768						Truyền Tống (dưới)
+Vào khoáng (ngoài)	0	6823	3	5	70	1	20	20	20	20	20	1		53920	106496						Truyền Tống (trái)
+Vào khoáng (ngoài)	0	6824	3	5	70	1	20	20	20	20	20	1		60896	114848						Truyền Tống (phải)
+Vào ngai vàng	0	6825	3	5	70	1	20	20	20	20	20	1		60480	106080						Lầu chính (giữa)
+Vào ngai vàng	0	6827	3	5	70	1	20	20	20	20	20	1		61728	106656						Lầu chính (phải)

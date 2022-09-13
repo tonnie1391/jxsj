@@ -1,0 +1,1 @@
+TempletLevel	NpcId

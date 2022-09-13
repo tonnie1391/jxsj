@@ -1,0 +1,40 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_join	1															\setting\map\map_info\chenchongzhen\trap\trap_join.txt			
+trap_machine1	1															\setting\map\map_info\chenchongzhen\trap\trap_machine_1.txt			
+trap_machine2	1															\setting\map\map_info\chenchongzhen\trap\trap_machine_2.txt			
+trap_machine3	1															\setting\map\map_info\chenchongzhen\trap\trap_machine_3.txt			
+trap_machine4	1															\setting\map\map_info\chenchongzhen\trap\trap_machine_4.txt			
+trap_room2	1															\setting\map\map_info\chenchongzhen\trap\trap_enter_room2.txt			
+trap_room3	1															\setting\map\map_info\chenchongzhen\trap\trap_enter_room3.txt			
+trap_room4	1															\setting\map\map_info\chenchongzhen\trap\trap_enter_room4.txt			
+trap_room5	1															\setting\map\map_info\chenchongzhen\trap\trap_enter_room5.txt			
+trap_room5_trans	1															\setting\map\map_info\chenchongzhen\trap\trap_trans_room5.txt			
+trap_back5	1															\setting\map\map_info\chenchongzhen\trap\trap_back5.txt			
+路人1	0	4110	8	6	1	1	20	20	20	20	20	1		52672	99296				
+路人2	0	6042	8	6	1	1	20	20	20	20	20	1		52640	100064				
+路人3	0	6043	8	6	1	1	20	20	20	20	20	1		52320	100416				
+路人4	0	6044	8	6	1	1	20	20	20	20	20	1		52960	99040				
+路人5	0	6045	8	6	1	1	20	20	20	20	20	1		53152	98976				
+路人6	0	6047	8	6	1	1	20	20	20	20	20	1		52768	99712				
+路人7	0	6048	8	6	1	1	20	20	20	20	20	1		52960	99808				
+路人8	0	6052	8	6	1	1	20	20	20	20	20	1		52960	99392				
+路人9	0	6064	8	6	1	1	20	20	20	20	20	1		52864	100096				
+路人10	0	6067	8	6	1	1	20	20	20	20	20	1		52896	99616				
+路人11	0	6074	8	6	1	1	20	20	20	20	20	1		53120	101216				
+路人12	0	6075	8	6	1	1	20	20	20	20	20	1		53696	99136				
+路人13	0	6076	8	6	1	1	20	20	20	20	20	1		53344	99040				
+路人14	0	6083	8	6	1	1	20	20	20	20	20	1		53632	101248				
+路人15	0	6084	8	6	1	1	20	20	20	20	20	1		53376	100544				
+路人16	0	6085	8	6	1	1	20	20	20	20	20	1		53312	101152				
+路人17	0	6086	8	6	1	1	20	20	20	20	20	1		54016	100000				
+路人18	0	6089	8	6	1	1	20	20	20	20	20	1		54176	101216				
+路人19	0	6096	8	6	1	1	20	20	20	20	20	1		53952	100832				
+路人20	0	6100	8	6	1	1	20	20	20	20	20	1		54080	101056				
+路人21	0	6101	8	6	1	1	20	20	20	20	20	1		54752	99616				
+路人22	0	6102	8	6	1	1	20	20	20	20	20	1		54496	100352				
+路人23	0	6104	8	6	1	1	20	20	20	20	20	1		54304	100608				
+路人24	0	6105	8	6	1	1	20	20	20	20	20	1		54688	100768				
+路人25	0	9913	8	6	1	1	20	20	20	20	20	1		54368	100864				
+易晓风	0	9674	3	5	120	1	20	20	20	20	20	1		48256	106304				
+路路通	0	10024	3	5	120	1	20	20	20	20	20	1		48320	106144				
+路路通	0	10024	3	5	120	1	20	20	20	20	20	1		45216	101824				

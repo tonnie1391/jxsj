@@ -1,0 +1,2 @@
+FromMapId	FromPosX	FromPosY	Type	Name	ToMapId	ToPosX	ToPosY
+836	1595	497	trap	trap_tolongquancunyewai	836	1723	3559

@@ -1,0 +1,16 @@
+Session	LeagueType	AwardFile	AwardSegFile	PrimRank	AdvRank	PreMaxLeague	Desc	ExInfo	OpenTime
+联赛届数	联赛类型	奖励表	奖励类型表	高级联赛中排名靠前的玩家下一届必须参加黄金联赛	参加黄金联赛要求名次	每个准备场最大队伍(有替补场上限400人，无200人)	描述	备注	开启时间点
+1	1	award_session_1	award_session_1_type.txt	5	1500	200	混合双人赛	2010年1月	201001
+2	5	award_session_2	award_session_2_type.txt	5	1500	200	门派单人赛	2010年4月	201004
+3	8	award_session_3	award_session_3_type.txt	5	1500	200	三人单人赛	2010年7月	201007
+4	2	award_session_4	award_session_4_type.txt	5	1500	200	三人赛	2010年10月	201010
+5	6	award_session_8	award_session_8_type.txt	5	1500	200	五行相克双人赛	2011年1月	201101
+6	1	award_session_5	award_session_5_type.txt	5	300	200	混合双人赛	2011年4月	201104
+7	8	award_session_6	award_session_6_type.txt	5	1500	200	三人单人赛	2011年10月	201110
+8	1	award_session_7	award_session_7_type.txt	5	1500	200	混合双人赛	2012年1月	201201
+9	1	award_session_7	award_session_7_type.txt	5	1500	200	混合双人赛	2012年4月	201204
+10	8	award_session_6	award_session_6_type.txt	5	1500	200	三人单人赛	2012年7月	201207
+11	6	award_session_8	award_session_8_type.txt	5	1500	200	五行相克双人赛	2012年10月	201210
+12	2	award_session_4	award_session_4_type.txt	5	1500	200	三人赛	2013年1月	201301
+13	1	award_session_7	award_session_7_type.txt	5	1500	200	混合双人赛	2013年4月	201304
+14	8	award_session_6	award_session_6_type.txt	5	1500	200	三人单人赛	2013年7月	201307

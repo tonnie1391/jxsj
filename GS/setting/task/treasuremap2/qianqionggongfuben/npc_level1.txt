@@ -1,0 +1,10 @@
+NpcName	TemplateId	NpcLevel	NpcScore	NpcCount	XPos	YPos	NpcPosFile
+Tố Y Vệ	6955	100	1				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_1.txt
+Vũ Y Vệ	6956	100	1				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_2.txt
+Điện Vệ	6957	100	1				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_3.txt
+Quái nhỏ Thiên Quỳnh Cung 1_Rương	6976	100	2				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_1_box.txt
+Quái nhỏ Thiên Quỳnh Cung 2_Rương	6977	100	2				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_2_box.txt
+Quái nhỏ Thiên Quỳnh Cung 3_Rương	6978	100	2				\setting\task\treasuremap2\qianqionggongfuben\npc\enemy_3_box.txt
+Thiên Kiếp	6958	100	6		52128	101536	
+Tiểu Linh	6967	100	29		52416	98176	
+Quan Tiểu Đao	7016	100			49024	104512	

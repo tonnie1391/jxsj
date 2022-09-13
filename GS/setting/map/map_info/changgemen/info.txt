@@ -1,0 +1,47 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lục Toàn	0	3481	3	5	90	1	20	20	20	20	20	1		51456	107936				
+Chu Tốn	0	3482	3	5	90	1	20	20	20	20	20	1		56000	107424				
+Triệu Thịnh	0	3483	3	5	90	1	20	20	20	20	20	1		53600	109760				
+Diệp Nhiên	0	3484	3	5	90	1	20	20	20	20	20	1		53408	105088				
+Đậu Hạo	0	3485	3	5	150	1	20	20	20	20	20	1		53856	106944				
+Thư sinh chuyển lời	0	4329	3	5	100	1	20	20	20	20	20	1		53088	108512				
+Hầu Đình	0	4333	0	5	105	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	56000	113472		1		
+Lục Tuấn	0	4334	0	5	105	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	57376	110144		1		
+Hoàng Đằng Phi	0	4335	0	5	105	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt	57664	113152		1		
+Sĩ Tử Trường Ca Môn	0	1834	0	5	105	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\changgemen\npc\changgemenshizi.txt	1		
+Rương cổ cũ	0	1639	3	5	90	1	20	20	20	20	20	1		50528	108416				
+Rương cổ cũ	0	1640	3	5	90	1	20	20	20	20	20	1		52416	104256				
+Rương cổ cũ	0	1641	3	5	90	1	20	20	20	20	20	1		52544	109856				
+to_longquancun	1															\setting\map\map_info\changgemen\trap\to_longquancun.txt			
+to_gulangyu	1															\setting\map\map_info\changgemen\trap\to_gulangyu.txt			
+xizuo	1															\setting\map\map_info\changgemen\trap\xizuo.txt			
+qiehuan	1															\setting\map\map_info\changgemen\trap\qiehuan.txt			
+Long Tuyền Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		49888	103200				
+Cổ Lãng Dữ	0	2525	4	5	1	1	20	20	20	20	20	1		49248	110176				
+6001		6001	5	5	1	1	20	20	20	20	20	1		56672	111168				
+6002		6002	5	5	1	1	20	20	20	20	20	1		56256	111200				
+6002		6002	5	5	1	1	20	20	20	20	20	1		56736	109952				
+6002		6002	5	5	1	1	20	20	20	20	20	1		56672	110976				
+6002		6002	5	5	1	1	20	20	20	20	20	1		56608	111328				
+6007		6007	5	5	1	1	20	20	20	20	20	1		56640	109248				
+6013		6013	5	5	1	1	20	20	20	20	20	1		54944	111136				
+6013		6013	5	5	1	1	20	20	20	20	20	1		56160	110816				
+6014		6014	5	5	1	1	20	20	20	20	20	1		55904	111392				
+6014		6014	5	5	1	1	20	20	20	20	20	1		55968	111968				
+6029		6029	5	5	1	1	20	20	20	20	20	1		55360	111040				
+6031		6031	5	5	1	1	20	20	20	20	20	1		51904	105024				
+6035		6035	5	5	1	1	20	20	20	20	20	1		51904	105440				
+6043		6043	5	5	1	1	20	20	20	20	20	1		53792	102368				
+6044		6044	5	5	1	1	20	20	20	20	20	1		52384	106080				
+6046		6046	5	5	1	1	20	20	20	20	20	1		56896	110944				
+6051		6051	5	5	1	1	20	20	20	20	20	1		56640	112960				
+6053		6053	5	5	1	1	20	20	20	20	20	1		56352	110208				
+6054		6054	5	5	1	1	20	20	20	20	20	1		56192	110592				
+6055		6055	5	5	1	1	20	20	20	20	20	1		51680	107680				
+6059		6059	5	5	1	1	20	20	20	20	20	1		52864	104544				
+6074		6074	5	5	1	1	20	20	20	20	20	1		57088	111296				
+6100		6100	5	5	1	1	20	20	20	20	20	1		50368	106144				
+6106		6106	5	5	1	1	20	20	20	20	20	1		55552	106752				
+6108		6108	5	5	1	1	20	20	20	20	20	1		51648	108992				
+6110		6110	5	5	1	1	20	20	20	20	20	1		55424	106752				
+6111		6111	5	5	1	1	20	20	20	20	20	1		55520	106880				

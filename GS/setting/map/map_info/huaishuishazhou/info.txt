@@ -1,0 +1,33 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Nghĩa Quân Phản Đồ	0	2204	0	5	15	1	20	20	20	20	20	1	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area1.txt			5
+Cường Tặc	0	2203	0	5	15	1	20	20	20	20	20	1	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area2.txt			0
+Cơ Quan Nhân Thô	0	2025	0	5	15	1	20	20	20	20	20	1	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area3.txt			0
+Tiểu Cơ Quan Thú	0	2026	0	5	15	1	20	20	20	20	20	1	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area4.txt			
+Võ Sĩ Mông Cổ	0	3586	0	5	15	1	20	20	20	20	20	2	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area5.txt			3
+Võ Sĩ Tây Hạ	0	3587	0	5	15	1	20	20	20	20	20	2	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area6.txt			0
+Võ Sĩ Kim Quốc	0	3588	0	5	15	1	20	20	20	20	20	2	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area7.txt			1
+Võ Sĩ Nam Tống	0	3589	0	5	15	1	20	20	20	20	20	2	\setting\npc\droprate\droprate002.txt			\setting\map\map_info\huaishuishazhou\npc\area8.txt			0
+to_daoxiangcun	1															\setting\map\map_info\huaishuishazhou\trap\to_daoxiangcun.txt			
+Đạo Hương Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		63808	108128				
+Bạch Cương	0	3585	3	5	60	1	20	20	20	20	20	1		55712	121056		1		0
+Cao Thăng	0	3590	3	5	60	1	20	20	20	20	20	1		56032	121088		1		
+Thôi Kiếm	0	3591	3	5	60	1	20	20	20	20	20	1		55680	121472		1		
+Giới Sơn Tông	0	3584	3	5	60	1	20	20	20	20	20	1		59744	114720		1		
+Nghĩa Quân Tinh Nhuệ	0	3592	0	0	60	1	20	20	20	20	20	1		56192	121184		1		
+Nghĩa Quân Tinh Nhuệ	0	3592	0	0	60	1	20	20	20	20	20	1		56352	121120		1		
+Nghĩa Quân Tinh Nhuệ	0	3592	0	0	60	1	20	20	20	20	20	1		56128	121792		1		
+Nghĩa Quân Tinh Nhuệ	0	3592	0	0	60	1	20	20	20	20	20	1		55456	121632		1		
+Điểm tìm đường Nghĩa Quân Phản Đồ	0	2615	5	5	1	1	20	20	20	20	20	1		62560	108992		1		
+Điểm tìm đường Nghĩa Quân Phản Đồ 2	0	2616	5	5	1	1	20	20	20	20	20	1		62688	112480		1		
+Điểm tìm đường Cường Tặc	0	2617	5	5	1	1	20	20	20	20	20	1		60544	113280		1		
+Điểm tìm đường Cơ Quan Nhân Thô	0	2618	5	5	1	1	20	20	20	20	20	1		52832	106720		1		
+Điểm tìm đường Tiểu Cơ Quan Thú	0	2619	5	5	1	1	20	20	20	20	20	1		55264	105568		1		
+Điểm tìm đường Võ Sĩ Mông Cổ	0	2620	5	5	1	1	20	20	20	20	20	1		55680	116160		1		
+Điểm tìm đường Võ Sĩ Tây Hạ	0	2621	5	5	1	1	20	20	20	20	20	1		56160	120096		1		
+Điểm tìm đường Võ Sĩ Kim Quốc	0	2622	5	5	1	1	20	20	20	20	20	1		53632	119232		1		
+Điểm tìm đường Võ Sĩ Nam Tống	0	2623	5	5	1	1	20	20	20	20	20	1		54144	114848		1		
+Thêm tìm đường Nghĩa Quân Phản Đồ 1	0	3651	5	5	1	1	20	20	20	20	20	1		62656	114432		1		
+Thêm tìm đường Nghĩa Quân Phản Đồ 2	0	3652	5	5	1	1	20	20	20	20	20	1		62208	103552		1		
+Thêm tìm đường Nghĩa Quân Phản Đồ 3	0	3653	5	5	1	1	20	20	20	20	20	1		59168	102848		1		
+Cường Tặc-Điểm tìm đường 2	0	4678	5	5	1	1	20	20	20	20	20	1		57344	114432		1		
+Cường Tặc-Điểm tìm đường 3	0	4679	5	5	1	1	20	20	20	20	20	1		59456	109952		1		

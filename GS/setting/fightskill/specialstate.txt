@@ -1,0 +1,19 @@
+StateName	MaxFrame	HeadWord	StateSpecialId	StatePriority	Desc
+hurt	36	Thương	0	0	Thọ thương
+weak	1080	Yếu	1	200	Suy yếu
+slowall	108	Chậm	2	200	Làm chậm
+burn	108	Bỏng	3	200	Bỏng
+stun	72	Ngất	5	200	Choáng
+fixed	90	Định 	6	200	Bất động 
+palsy	90	Tê	7	200	Tê liệt
+slowrun	90	Chậm	8	200	Giảm tốc
+freeze	1080	Đông 	9	200	Đóng băng
+confuse	90	Loạn	10	200	Hỗn loạn
+knock	90	Lui	0	0	Đánh lui
+poison	0	Độc	4	200	Trúng độc
+hide	0	Ẩn	33	200	Ẩn thân
+drag	90	Kéo	0	200	Kéo lại
+silence	1080	Mặc	129	200	Bất lực
+shield	0	Thuẫn	137	200	Thuần Dương Vô Cực
+zhican	1080	Tàn	415	200	Chí Tàn
+float	1080	Phù	414	200	Phù Không

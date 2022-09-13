@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đào Mộc Kiếm	0	1684	3	5	115	1	20	20	20	20	20	1		51136	101792				
+Tự Họa	0	1685	3	5	115	1	20	20	20	20	20	1		51840	100992				
+Tiểu Kim Tỏa	0	1686	3	5	115	1	20	20	20	20	20	1		52608	101664				
+to_huanggong	1															\setting\map\map_info\dalifu_huanggongh\trap\to_huanggong.txt			
+Về Hoàng Cung Đại Lý	0	2525	4	5	1	1	20	20	20	20	20	1		51648	103456		1		

@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Tố Y Vệ	0	2732	0	5	76	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_1.txt	1		
+Vũ Y Vệ	0	2733	0	5	78	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_2.txt	1		
+Điện Vệ	0	2734	0	5	80	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_3.txt	1		
+Thống Lĩnh Tố Y Vệ	0	2753	0	5	86	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_1_box.txt	1		
+Thống Lĩnh Vũ Y Vệ	0	2754	0	5	86	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_2_box.txt	1		
+Thống Lĩnh Điện Vệ	0	2755	0	5	86	1	20	20	20	20	20	1				\setting\map\map_info\qianqionggongfuben\npc\enemy_3_box.txt	1		
+Thiên Kiếp	0	2735	0	5	93	1	20	20	20	20	20	1		52128	101536		1		
+Tiểu Linh	0	2744	3	5	20	1	20	20	20	20	20	1		52416	98176		1		
+trap_1	1															\setting\map\map_info\qianqionggongfuben\trap\trap_1.txt			
+trap_2	1															\setting\map\map_info\qianqionggongfuben\trap\trap_2.txt			
+trap_3	1															\setting\map\map_info\qianqionggongfuben\trap\trap_3.txt			
+trap_4	1															\setting\map\map_info\qianqionggongfuben\trap\trap_4.txt			
+trap_start	1															\setting\map\map_info\qianqionggongfuben\trap\trap_start.txt			

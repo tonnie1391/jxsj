@@ -1,0 +1,7 @@
+NpcName	TemplateId	NpcLevel	NpcCount	NpcScore	XPos	YPos	NpcPosFile
+古旧的宝箱	6929	119		14			\setting\task\treasuremap2\bainiantianlao\npc\gujiudebaoxiang.txt
+狱卒	6921	119		6			\setting\task\treasuremap2\bainiantianlao\npc\area1.txt
+牢头	6922	119		4			\setting\task\treasuremap2\bainiantianlao\npc\area2.txt
+娄乙	6923	119		140	52992	103648	
+史道凌	6924	119		100	51936	100672	
+关小刀	7016	119			51328	105184	

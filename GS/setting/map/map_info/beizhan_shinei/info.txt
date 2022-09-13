@@ -1,0 +1,3 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vô Ảnh Tặc	0	4370	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\beizhan_shinei\npc\wuyingzei.txt			
+Vương Thương Ân	0	4042	3	5	150	1	20	20	20	20	20	1		51456	102176		1		

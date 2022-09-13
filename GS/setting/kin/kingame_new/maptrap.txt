@@ -1,0 +1,9 @@
+RoomId	TrapName	TRPOSX	TRPOSY	Direction
+1	trap_enter	53536	115104	0
+4	trap_4th_left	51552	109184	1
+4	trap_4th_right	58912	117280	2
+5	trap_5th_left	53984	107456	1
+5	trap_5th_right	59872	112352	2
+6	trap_6th_left	56032	106144	1
+6	trap_6th_right	58368	108640	2
+7	trap_7th	58048	104480	0

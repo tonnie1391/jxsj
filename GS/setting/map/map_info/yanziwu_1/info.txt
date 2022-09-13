@@ -1,0 +1,77 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thạch Hiên Viên	0	30	3	5	150	1	20	20	20	20	20	1		47392	94880		1		
+Cầu Chỉ Thủy	0	31	3	5	90	1	20	20	20	20	20	1		47264	95008		1		
+La Phong	0	32	3	5	90	1	20	20	20	20	20	1		47520	94752		1		2
+Môn đồ Không Động	0	33	3	5	60	1	20	20	20	20	20	1		47680	95424		1		0
+Môn đồ Thanh Thành	0	34	3	5	60	1	20	20	20	20	20	1		47584	95520		1		
+Môn đồ Tích Lịch Hỏa Lôi	0	35	3	5	60	1	20	20	20	20	20	1		47488	95616		1		
+Đệ Tử Chấp Sự Cái Bang	0	36	3	5	60	1	20	20	20	20	20	1		48736	92192		1		
+Tô Hữu Tưởng	0	43	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	50016	96992		1		3
+Củng Thiếu Trăn	0	50	3	5	90	1	20	20	20	20	20	1		45952	87584		1		3
+La Phong	0	51	3	5	90	1	20	20	20	20	20	1		45824	87680		1		2
+Lãnh Thu Vân	0	52	3	5	90	1	20	20	20	20	20	1		46112	87680		1		
+Bạch Hổ Vương	0	57	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	43296	92160		1		
+Gấu Đen	0	59	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	45344	90080		1		
+Sài Cẩu	0	60	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	45248	88768		1		
+La Phong	0	66	3	5	90	1	20	20	20	20	20	1		47424	97152		1		2
+Đệ Tử Thủ Sơn	0	48	3	5	60	1	20	20	20	20	20	1		46112	92736		1		
+Trác Hành Phương	0	330	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	48032	86240		1		
+Tiêu Nhất Phàm	0	331	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	48192	87072		1		
+Chư Trường An	0	332	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	48576	86400		1		
+Cận Đào	0	333	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	48288	86592		1		
+Thạch Hiên Viên	0	69	3	5	150	1	20	20	20	20	20	1		47712	101056		1		
+Thái Lão Đầu	0	70	3	5	60	1	20	20	20	20	20	1		43904	96384		1		
+Hãn Huyết Bảo Mã	0	71	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	42112	89408		1		
+Hoắc Tứ	0	336	3	5	60	1	20	20	20	20	20	1		43616	100352		1		
+Anh Cửu Vấn	0	338	3	5	60	1	20	20	20	20	20	1		46688	100064		1		
+Thủ Thương Nam Tử	0	340	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt	41600	98976		1		4
+Đệ Tử Chấp Pháp	0	44	3	5	60	1	20	20	20	20	20	1		47808	94976		1		
+Túy Hán	0	45	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\zuihan.txt	1		3
+Cơ Quan Thú	0	55	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\jiguanshou.txt	1		
+Bạch Hổ	0	56	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\baihu.txt	1		
+Đái Kiếm Dị Giả	0	58	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\daijianyizhe.txt	1		4
+Sói Vàng	0	73	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\huanglang.txt	1		
+Hươu	0	74	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\milu.txt	1		
+Thái Nông	0	341	0	5	35	1	20	20	20	20	20	2	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\hudiecao.txt	1		
+Đệ Tử Cái Bang	0	1413	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\yanziwu_1\npc\zhanlidizi.txt	1		
+Chiến Mã	0	1414	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\yanziwu_1\npc\zhanma.txt	1		
+Thợ Rèn Bảo Thủ	0	1435	3	5	60	1	20	20	20	20	20	1		43616	93632		1		
+Đồ Đệ Thái Lão Đầu	0	1436	3	5	60	1	20	20	20	20	20	1		42528	88992		1		
+Thi Thể Lâm Đông Sơn	0	1606	3	5	1	1	20	20	20	20	20	1		43456	87840		1		
+Hộp quà Thần Thương Phương Thị	0	1504	3	5	1	1	20	20	20	20	20	1		47008	95168		1		
+Hộp quà Thúy Yên Môn	0	1505	3	5	1	1	20	20	20	20	20	1		46816	95168		1		
+Hộp quà Thiếu Lâm Phái	0	1506	3	5	1	1	20	20	20	20	20	1		46912	95072		1		
+Hộp quà Võ Đang Phái	0	1507	3	5	1	1	20	20	20	20	20	1		46912	95264		1		
+Hộp quà Diêm Bang	0	1508	3	5	1	1	20	20	20	20	20	1		47104	95072		1		
+Tàng Vân Hiên	0	2525	4	5	1	1	20	20	20	20	20	1		49216	96448		1		
+Trích Thủy Động	0	2525	4	5	1	1	20	20	20	20	20	1		43616	87008		1		
+Mãnh Hổ Hạng	0	2525	4	5	1	1	20	20	20	20	20	1		45408	86528		1		
+Biệt Viện Trường Giang	0	2525	4	5	1	1	20	20	20	20	20	1		46176	99584		1		
+Hầu Động	0	2525	4	5	1	1	20	20	20	20	20	1		41088	102432		1		
+Ngoại Chủng	0	2525	4	5	1	1	20	20	20	20	20	1		47776	94848		1		
+Ưng Chuẩn Giác	0	2525	4	5	1	1	20	20	20	20	20	1		47392	104800		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		47776	95328				2
+to_baishan1	1															\setting\map\map_info\yanziwu_1\trap\to_baishan1.txt			
+to_baishan2	1															\setting\map\map_info\yanziwu_1\trap\to_baishan2.txt			
+to_cangyunxuan	1															\setting\map\map_info\yanziwu_1\trap\to_cangyunxuan.txt			
+to_dishuidong	1															\setting\map\map_info\yanziwu_1\trap\to_dishuidong.txt			
+to_fengyan	1															\setting\map\map_info\yanziwu_1\trap\to_fengyan.txt			
+to_houdao	1															\setting\map\map_info\yanziwu_1\trap\to_houdao.txt			
+to_huweipo	1															\setting\map\map_info\yanziwu_1\trap\to_huweipo.txt			
+to_liugui	1															\setting\map\map_info\yanziwu_1\trap\to_liugui.txt			
+to_menghuxiang1	1															\setting\map\map_info\yanziwu_1\trap\to_menghuxiang1.txt			
+to_tingtaoge	1															\setting\map\map_info\yanziwu_1\trap\to_tingtaoge.txt			
+to_waizhong	1															\setting\map\map_info\yanziwu_1\trap\to_waizhong.txt			
+to_xiaojing	1															\setting\map\map_info\yanziwu_1\trap\to_xiaojing.txt			
+to_yingsunjiao	1															\setting\map\map_info\yanziwu_1\trap\to_yingsunjiao.txt			
+Đường Lang Quyền Sư	0	2232	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\area1.txt	1		2
+Mật Thám Kim Quốc 	0	2233	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\area2.txt	1		3
+Bang Chúng Diêm Bang	0	2064	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\area3.txt	1		1
+Võ Sĩ Đánh Thuê	0	2065	0	5	35	1	20	20	20	20	20	1	\setting\npc\droprate\droprate004.txt			\setting\map\map_info\yanziwu_1\npc\area4.txt	1		3
+to_gusushuixie	1															\setting\map\map_info\yanziwu_1\trap\to_gusushuixie.txt			
+to_yanziwu_2	1															\setting\map\map_info\yanziwu_1\trap\to_yanziwu_2.txt			
+Cô Tô Thủy Tạ	0	2525	4	5	1	1	20	20	20	20	20	1		51776	85856		1		
+Giữa Yến Tử Ổ	0	2525	4	5	1	1	20	20	20	20	20	1		42624	105824		1		
+to_yewai	1															\setting\map\map_info\yanziwu_1\trap\to_yewai.txt			
+to_anquanqu	1															\setting\map\map_info\yanziwu_1\trap\to_anquanqu.txt			
+Tiệm thuốc	0	9636	3	5	60	1	20	20	20	20	20	1		47872	95200				2

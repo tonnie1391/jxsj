@@ -1,0 +1,17 @@
+nIndex	nTemplateMapId1	nTemplateMapId2	nTemplateMapId3	nTemplateMapId4	nTemplateMapId5	nTemplateMapId6	nTemplateMapId7	nTemplateMapId8	nTemplateMapId9	nTemplateMapId10	nTemplateMapId11	nTemplateMapId12	nTemplateMapId13	nTemplateMapId14	nTemplateMapId15	nTemplateMapId16	nTemplateMapId17	nTemplateMapId18	nTemplateMapId19	nTemplateMapId20	nCount
+1	1507																				1
+2	1535																				1
+3	586																				1
+4	241	242	243	244	245	246	247	248	249	250	251	252									1
+5	241	242	243	244	245	246	247	248	249	250	251	252									8
+6	241	242	243	244	245	246	247	248	249	250	251	252									16
+7	241	242	243	244	245	246	247	248	249	250	251	252									32
+8	241	242	243	244	245	246	247	248	249	250	251	252									64
+9	1536																				1
+10	1537																				1
+11	1538																				1
+12	1539																				1
+13	1540																				1
+14	226	227	228	229	275	276	277	278	334	335	336	337	234	235	236	237	822	823	824	825	1
+15	230	231	279	280	338	339	238	239	826	827											1
+16	232	281	340	240	828																1

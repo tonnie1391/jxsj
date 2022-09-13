@@ -1,0 +1,19 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+La Thành	0	1097	3	5	75	1	20	20	20	20	20	1		40832	99936		1		
+Bốc Sư Tà Giáo	0	2164	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiguandong\npc\area1.txt			
+Nam Đệ Tử Tà Giáo	0	2162	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiguandong\npc\area2.txt			
+Bốc Sư Tà Giáo	0	2164	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiguandong\npc\area3.txt			
+Nữ Đệ Tử Tà Giáo	0	2163	0	5	75	1	20	20	20	20	20	1	\setting\npc\droprate\droprate008.txt			\setting\map\map_info\jiguandong\npc\area4.txt			
+to_funiushan	1															\setting\map\map_info\jiguandong\trap\to_funiushan.txt			
+Phục Ngưu Sơn	0	2525	4	5	75	1	20	20	20	20	20	1		51488	102624				
+Tiền Hải	0	898	3	5	75	1	20	20	20	20	20	1		50880	102688		1		
+Huyết Ảnh Thế Thân	0	1004	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	45472	94752		1		
+Huyết Ảnh Thế Thân	0	1004	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	45216	95360		1		
+Huyết Ảnh Thế Thân	0	1004	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	45632	95200		1		
+Huyết Ảnh Thế Thân	0	1004	0	5	75	1	20	20	20	20	20	2	\setting\npc\droprate\droprate008.txt	45632	95840		1		
+Tam Bạng Tử	0	1041	3	5	75	1	20	20	20	20	20	1		40640	99904		1		
+Ngô Tẩu	0	1042	3	5	75	1	20	20	20	20	20	1		36768	96000		1		
+Tang An Nhi	0	3059	0	5	75	1	20	20	20	20	20	16		51712	99904				
+Tăng A Ngưu	0	3060	0	5	75	1	20	20	20	20	20	16		52288	90944				4
+Chiêm Phúc Vân	0	3061	0	5	75	1	20	20	20	20	20	16		38816	94560				3
+Trương Trấn Phi	0	3062	0	5	75	1	20	20	20	20	20	16		44800	87168				2

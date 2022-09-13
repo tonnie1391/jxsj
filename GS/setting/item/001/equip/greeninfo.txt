@@ -1,0 +1,7 @@
+SuiteID	Name	SuiteNum1	SuiteMA1Name	SuiteMA1PA1	SuiteMA1PA2	SuiteMA1PA3	SuiteNum2	SuiteMA2Name	SuiteMA2PA1	SuiteMA2PA2	SuiteMA2PA3	SuiteNum3	SuiteMA3Name	SuiteMA3PA1	SuiteMA3PA2	SuiteMA3PA3	SuiteNum4	SuiteMA4Name	SuiteMA4PA1	SuiteMA4PA2	SuiteMA4PA3	Head	Body	Belt	Weapon	Foot	Cuff	Amulet	Ring	Necklace	Pendant	Horse	Mask	Book
+1	Bộ Tiêu Dao	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Ngoa	Tiêu Dao Hộ Uyển				Tiêu Dao Ngọc Bội			
+2	Bộ Tiêu Dao (Nữ)	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Đạp Lãng Ngoa	Tiêu Dao Tường Phượng Thủ Trạc				Tiêu Dao Băng Nguyệt Hương Nang			
+3	Bộ Võ Lâm Liên Đấu	2	lifemax_v	150	0	0	3	damage_all_resist	45	0	0												Vũ Uy Y					Vũ Uy Hộ Thân Phù	Vũ Uy Giới					
+4	Bộ Tranh đoạt lãnh thổ	2	lifemax_p	8	0	0	3	deadlystrikedamageenhance_p	15	0	0											Trục Lộc Thương Khung Quán		Trục Lộc Hoàng Long Triền Yêu						Trục Lộc Thiên Hựu Liên				
+5	Bộ Thủy Hoàng	2	allseriesstateresisttime	50	0	0	3	damage_all_resist	45	0	0												Thủy Hoàng Y				Thủy Hoàng Hộ Uyển				Thủy Hoàng Yêu Trụy			
+6	Bộ Long Hồn	2	damage_all_resist	95	0	0	3	autoskill	111	1	0												Long Hồn Y					Long Hồn Hộ Phù	Long Hồn Giới					

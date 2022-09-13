@@ -1,0 +1,13 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Phi Long Tiên Sinh	0	807	3	5	60	1	20	20	20	20	20	1		50976	110048		1		
+Cấm Quân Bị Nhốt	0	945	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\huanhuaxi_shinei\npc\muren.txt	1		
+Mộc Nhân Điên	0	946	0	0	55	1	20	20	20	20	20	1		55296	109952		1		
+to_murenzhen	1															\setting\map\map_info\huanhuaxi_shinei\trap\to_murenzhen.txt			
+to_murenzhenchukou	1															\setting\map\map_info\huanhuaxi_shinei\trap\to_murenzhenchukou.txt			
+to_exit8	1															\setting\map\map_info\huanhuaxi_shinei\trap\to_exit8.txt			
+to_exit9	1															\setting\map\map_info\huanhuaxi_shinei\trap\to_exit9.txt			
+to_exit27	1															\setting\map\map_info\huanhuaxi_shinei\trap\to_exit27.txt			
+Phi Long Trận	0	2525	4	5	1	1	20	20	20	20	20	1		52224	110304		1		
+Lối ra Phi Long Trận	0	2525	4	5	1	1	20	20	20	20	20	1		55424	109632		1		
+Rời khỏi Phi Long Cốc	0	2525	4	5	1	1	20	20	20	20	20	1		50592	110848		1		
+Rời khỏi Nhà	0	2525	4	5	1	1	20	20	20	20	20	1		53280	126432		1		

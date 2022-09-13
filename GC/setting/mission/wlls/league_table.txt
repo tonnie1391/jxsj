@@ -1,0 +1,79 @@
+Session	LeagueType	AwardFile	AwardSegFile	AdvRank	PreMaxLeague	Desc	ExInfo	OpenTime
+Số đợt liên đấu	Hình thức liên đấu	Bảng phần thưởng	Bảng các loại phần thưởng	Yêu cầu thứ hạng thi đấu (cao)	Đội ngũ tối đa trong mỗi khu chuẩn bị (Đấu trường dự bị cao nhất 400 người, thấp nhất 200 người)	Miêu tả	Ghi chú 	Tháng mở
+1	1	award_session_1	award_session_1_type.txt	1500	200	Song đấu	2008-11-01	200811
+2	2	award_session_2	award_session_2_type.txt	1500	200	Tam đấu	2008-12-01	200812
+3	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2009-01-01	200901
+4	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2009-02-01	200902
+5	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2009-03-01	200903
+6	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2009-04-01	200904
+7	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2009-05-01	200905
+8	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2009-06-01	200906
+9	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2009-07-01	200907
+10	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2009-08-01	200908
+11	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2009-09-01	200909
+12	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2009-10-01	200910
+13	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2009-11-01	200911
+14	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2009-12-01	200912
+15	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2010-01-01	201001
+16	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2010-02-01	201002
+17	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2010-03-01	201003
+18	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2010-04-01	201004
+19	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2010-05-01	201005
+20	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2010-06-01	201006
+21	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2010-07-01	201007
+22	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2010-08-01	201008
+23	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2010-09-01	201009
+24	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2010-10-01	201010
+25	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2010-11-01	201011
+26	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2010-12-01	201012
+27	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2011-01-01	201101
+28	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2011-02-01	201102
+29	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2011-03-01	201103
+30	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2011-04-01	201104
+31	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2011-05-01	201105
+32	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2011-06-01	201106
+33	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2011-07-01	201107
+34	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2011-08-01	201108
+35	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2011-09-01	201109
+36	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2011-10-01	201110
+37	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2011-11-01	201111
+38	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2011-12-01	201112
+39	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2012-01-01	201201
+40	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2012-02-01	201202
+41	8	award_session_6	award_session_6_type.txt	1500	200	Đơn đấu 3 người	2012-03-01	201203
+42	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2012-04-01	201204
+43	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2012-05-01	201205
+44	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2012-06-01	201206
+45	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2012-07-01	201207
+46	5	award_session_7	award_session_7_type.txt	3000	200	Đơn đấu môn phái	2012-08-01	201208
+47	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2012-09-01	201209
+48	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2012-10-01	201210
+49	8	award_session_6	award_session_6_type.txt	1500	200	Đơn đấu 3 người	2012-11-01	201211
+50	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2012-12-01	201212
+51	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2013-01-01	201301
+52	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2013-02-01	201302
+53	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2013-03-01	201303
+54	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2013-04-01	201304
+55	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2013-05-01	201305
+56	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2013-06-01	201306
+57	8	award_session_6	award_session_6_type.txt	1500	200	Đơn đấu 3 người	2013-07-01	201307
+58	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2013-08-01	201308
+59	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2013-09-01	201309
+60	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2013-10-01	201310
+61	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2013-11-01	201311
+62	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2013-12-01	201312
+63	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2014-01-01	201401
+64	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2014-02-01	201402
+65	8	award_session_6	award_session_6_type.txt	1500	200	Đơn đấu 3 người	2014-03-01	201403
+66	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2014-04-01	201404
+67	3	award_session_3	award_session_3_type.txt	1500	200	Tứ đấu	2014-05-01	201405
+68	4	award_session_5	award_session_5_type.txt	3000	400	Đơn đấu phối hợp	2014-06-01	201406
+69	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2014-07-01	201407
+70	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2014-08-01	201408
+71	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2014-09-01	201409
+72	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2014-10-01	201410
+73	8	award_session_6	award_session_6_type.txt	1500	200	Đơn đấu 3 người	2014-11-01	201411
+74	7	award_session_9	award_session_9_type.txt	1500	200	Song đấu cùng hệ	2014-12-01	201412
+75	1	award_session_4	award_session_4_type.txt	1500	200	Song đấu	2022-07-01	202207
+76	6	award_session_8	award_session_8_type.txt	1500	200	Song đấu ngũ hành tương khắc	2022-08-01	202208
+77	2	award_session_6	award_session_6_type.txt	1500	200	Tam đấu	2022-09-01	202209

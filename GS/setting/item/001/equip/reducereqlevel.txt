@@ -1,0 +1,37 @@
+SkillId	Type	EquipId	DelLevel	Desc
+buf sửa cấp yêu cầu của trang bị	Loại trang bị: 0 chỉ toàn bộ trang bị, 100 chỉ trang bị cụ thể, 6 chỉ trang bị Bạch Ngân, 7 chỉ trang bị Hoàng Kim (giá trị phẩm chất Bạch Ngân và Hoàng Kim và phẩm chất trang bị là như nhau)	Căn cứ định nghĩa type phía trước điền số tương ứng, trang bị cụ thể điền gdpl, nếu là Hoàng Kim hoặc Bạch Ngân điền vị trí trang bị	Giảm bao nhiêu cấp yêu cầu	Ghi chú
+2859	3	4,9	10	Luyện hóa nón
+2859	4	4,9	10	Luyện hóa nón
+2859	5	4,9	10	Luyện hóa nón
+2859	7	4,9	10	Nón Hoàng Kim
+2859	6	4,3	10	Y phục Bạch Ngân
+2859	7	4,3	20	Y phục Hoàng Kim
+2859	3	4,8	10	Luyện hóa lưng
+2859	4	4,8	10	Luyện hóa lưng
+2859	5	4,8	10	Luyện hóa lưng
+2859	7	2,8	10	Lưng Hoàng Kim
+2859	6	2,10	10	Tay Bạch Ngân
+2859	7	2,10	20	Tay Hoàng Kim
+2859	6	2,7	30	Giày Bạch Ngân
+2859	7	2,7	40	Giày Hoàng Kim
+2859	3	4,5	10	Luyện hóa liên
+2859	4	4,5	10	Luyện hóa liên
+2859	5	4,5	10	Luyện hóa liên
+2859	6	2,5	28	Liên Bạch Ngân
+2859	7	2,5	38	Liên Hoàng Kim
+2859	7	2,4	8	Nhẫn Hoàng Kim
+2859	6	2,11	34	Bội Bạch Ngân
+2859	7	2,11	44	Bội Hoàng Kim
+2859	7	2,6	10	Hộ phù Hoàng Kim
+2859	6	4,10	10	Luyện hóa Bạch Ngân Tay
+2859	6	4,7	30	Luyện hóa Bạch Ngân Giày
+2859	6	4,5	28	Luyện hóa Bạch Ngân Liên
+2859	6	4,11	34	Luyện hóa Bạch Ngân Bội
+2859	7	4,8	10	Luyện hóa Hoàng Kim Lưng
+2859	7	4,10	20	Luyện hóa Hoàng Kim Tay
+2859	7	4,7	40	Luyện hóa Hoàng Kim Giày
+2859	7	4,5	38	Luyện hóa Hoàng Kim Liên
+2859	7	4,4	8	Luyện hóa Hoàng Kim Nhẫn
+2859	7	4,11	44	Luyện hóa Hoàng Kim Bội
+2859	7	4,6	10	Luyện hóa Hoàng Kim Hộ thân phù
+2859	0	1,24	10	Chân Nguyên

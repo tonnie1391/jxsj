@@ -1,0 +1,135 @@
+MAP_CLASS	MAP_INFO	MAP_ID	MAP_X	MAP_Y	TO_FIGHTSTATE
+Tân Thủ Thôn	Vân Trung Trấn	1	1389	3102	
+Tân Thủ Thôn	Vĩnh Lạc Trấn	3	1693	3288	
+Tân Thủ Thôn	Thạch Cổ Trấn	6	1572	3106	
+Tân Thủ Thôn	Long Tuyền Thôn	7	1510	3268	
+Tân Thủ Thôn	Long Môn Trấn	2	1785	3586	
+Tân Thủ Thôn	Giang Tân Thôn	5	1597	3131	
+Tân Thủ Thôn	Đạo Hương Thôn	4	1624	3253	
+Tân Thủ Thôn	Ba Lăng Huyện	8	1721	3381	
+Thành thị	Dương Châu Phủ	26	1641	3129	
+Thành thị	Tương Dương Phủ	25	1630	3169	
+Thành thị	Lâm An Phủ	29	1605	3946	
+Thành thị	Phượng Tường Phủ	24	1767	3540	
+Thành thị	Đại Lý Phủ	28	1439	3366	
+Thành thị	Thành Đô Phủ	27	1666	3260	
+Thành thị	Biện Kinh Phủ	23	1486	3179	
+Môn phái	Võ Đang Phái	14	1435	2991	
+Môn phái	Ngũ Độc Giáo	20	1574	3145	
+Môn phái	Thiên Vương Bang	22	1663	3039	
+Môn phái	Thiên Nhẫn Giáo	10	1658	3324	
+Môn phái	Đường Môn	18	1633	3179	
+Môn phái	Thiếu Lâm Phái	9	1702	3093	
+Môn phái	Côn Lôn Phái	12	1700	3080	
+Môn phái	Cái Bang	15	1606	3245	
+Môn phái	Nga My Phái	16	1584	3041	
+Môn phái	Thúy Yên Môn	17	1487	3093	
+Môn phái	Đại Lý Đoàn Thị	19	1618	3120	
+Môn phái	Minh Giáo	224	1625	3181	
+Bạch Hổ Đường	Báo danh Dương Châu	26	1454	3220	
+Bạch Hổ Đường	Báo danh Tương Dương	25	1596	3258	
+Bạch Hổ Đường	Báo danh Lâm An Phủ	29	1691	3899	
+Bạch Hổ Đường	Báo danh Phượng Tường	24	1841	3395	
+Bạch Hổ Đường	Báo danh Đại Lý	28	1549	3242	
+Bạch Hổ Đường	Báo danh Thành Đô	27	1593	3117	
+Bạch Hổ Đường	Báo danh Biện Kinh	23	1568	3162	
+Tiêu Dao Cốc	Báo danh Biện Kinh	23	1447	3160	
+Khu vực luyện công\Cấp 5	 Chiến Trường Cổ	30	1623	4041	1
+Khu vực luyện công\Cấp 5	 Quán Trọ Long Môn	31	2034	3550	1
+Khu vực luyện công\Cấp 5	 Quân Mã Trường	32	1611	3966	1
+Khu vực luyện công\Cấp 5	 Mai Hoa Lĩnh	33	1988	4048	1
+Khu vực luyện công\Cấp 5	 Trường Giang Hà Cốc	34	1689	3407	1
+Khu vực luyện công\Cấp 5	 Thị Trấn Bạch Tộc	35	2024	3979	1
+Khu vực luyện công\Cấp 5	 Nhạn Đãng Long Thu	36	1613	3938	1
+Khu vực luyện công\Cấp 5	 Bờ Hồ Động Đình	37	1788	3255	1
+Khu vực luyện công\Cấp 15	 Trấn Đông Mộ Viên	38	1569	3529	1
+Khu vực luyện công\Cấp 15	 Kỳ Liên Sơn	39	2035	3252	1
+Khu vực luyện công\Cấp 15	 Đồng Quan	40	1816	3883	1
+Khu vực luyện công\Cấp 15	 Hoài Thủy Sa Châu	41	1973	3377	1
+Khu vực luyện công\Cấp 15	 Thục Nam Trúc Hải	42	2028	3430	1
+Khu vực luyện công\Cấp 15	 Trà Mã Cổ Đạo	43	1958	3830	1
+Khu vực luyện công\Cấp 15	 Phường Đúc Kiếm	44	1556	3509	1
+Khu vực luyện công\Cấp 15	 Nhạc Dương Lâu	45	1615	3823	1
+Khu vực luyện công\Cấp 25	 Cấm Địa Hậu Sơn	46	2006	3306	1
+Khu vực luyện công\Cấp 25	 Cấm Địa Thiên Nhẫn	47	1661	3679	1
+Khu vực luyện công\Cấp 25	 Kiến Tính Phong	48	1875	3725	1
+Khu vực luyện công\Cấp 25	 Thiên Trụ Phong	49	1618	3927	1
+Khu vực luyện công\Cấp 25	 Cô Tô Thủy Tạ	50	1833	3140	1
+Khu vực luyện công\Cấp 25	 Cửu Lão Phong	51	1776	3133	1
+Khu vực luyện công\Cấp 25	 Bách Hoa Cốc	52	1957	3738	1
+Khu vực luyện công\Cấp 25	 Hồ Phỉ Thúy	53	1861	3207	1
+Khu vực luyện công\Cấp 25	 Bộ Lạc Nam Di	54	1824	3201	1
+Khu vực luyện công\Cấp 25	 Thanh Loa Đảo	55	1726	3640	1
+Khu vực luyện công\Cấp 35	 Đông Tháp Lâm	56	1995	3287	1
+Khu vực luyện công\Cấp 35	 Hoàng Lăng Kim Quốc 1	57	1442	3484	1
+Khu vực luyện công\Cấp 35	 Mê Cung Băng Huyệt 1	58	1633	3368	1
+Khu vực luyện công\Cấp 35	 Đông Long Hổ Huyễn Cảnh	59	1588	3170	1
+Khu vực luyện công\Cấp 35	 Ngoài Yến Tử Ổ	60	1612	2699	1
+Khu vực luyện công\Cấp 35	 Cửu Lão Động 1	61	1638	3828	1
+Khu vực luyện công\Cấp 35	 Ngoài Bách Hoa Trận	62	2378	3768	1
+Khu vực luyện công\Cấp 35	 Đông Bờ Hồ Trúc Lâm	63	1775	3241	1
+Khu vực luyện công\Cấp 35	 Đông Rừng Nguyên Sinh	64	1882	3234	1
+Khu vực luyện công\Cấp 35	 Đông Nam Lư Vĩ Đãng	65	1974	3724	1
+Khu vực luyện công\Cấp 45	 Tây Tháp Lâm	66	1995	3287	1
+Khu vực luyện công\Cấp 45	 Hoàng Lăng Kim Quốc 2	67	1439	3485	1
+Khu vực luyện công\Cấp 45	 Mê Cung Băng Huyệt 2	68	1633	3368	1
+Khu vực luyện công\Cấp 45	 Tây Long Hổ Huyễn Cảnh	69	1588	3170	1
+Khu vực luyện công\Cấp 45	 Giữa Yến Tử Ổ	70	1612	2699	1
+Khu vực luyện công\Cấp 45	 Cửu Lão Động 2	71	1638	3828	1
+Khu vực luyện công\Cấp 45	 Trong Bách Hoa Trận	72	2378	3768	1
+Khu vực luyện công\Cấp 45	 Tây Bờ Hồ Trúc Lâm	73	1775	3241	1
+Khu vực luyện công\Cấp 45	 Tây Rừng Nguyên Sinh	74	1882	3234	1
+Khu vực luyện công\Cấp 45	 Tây Bắc Lư Vĩ Đãng	75	1974	3724	1
+Khu vực luyện công\Cấp 55	 Thái Hành Cổ Kính	86	1951	3913	1
+Khu vực luyện công\Cấp 55	 Đại Tán Quan	87	1596	3382	1
+Khu vực luyện công\Cấp 55	 Hán Thủy Cổ Độ	88	1612	3218	1
+Khu vực luyện công\Cấp 55	 Hàn Sơn Cổ Sát	89	1528	3386	1
+Khu vực luyện công\Cấp 55	 Cán Hoa Khê	90	1963	3559	1
+Khu vực luyện công\Cấp 55	 Nhĩ Hải Ma Nham	91	1794	3834	1
+Khu vực luyện công\Cấp 55	 Thái Thạch Cơ	92	2069	3447	1
+Khu vực luyện công\Cấp 65	 Dược Vương Động	93	1913	3717	1
+Khu vực luyện công\Cấp 65	 Cư Diên Trạch	94	1786	3958	1
+Khu vực luyện công\Cấp 65	 Phục Ngưu Sơn	95	1759	3241	1
+Khu vực luyện công\Cấp 65	 Hổ Khâu Kiếm Trì	96	1798	3971	1
+Khu vực luyện công\Cấp 65	 Hưởng Thủy Động	97	1720	3793	1
+Khu vực luyện công\Cấp 65	 Điểm Thương Sơn	98	1926	3801	1
+Khu vực luyện công\Cấp 65	 Bành Lãi Cổ Trạch	99	1626	2433	1
+Khu vực luyện công\Cấp 75	 Phong Lăng Độ	100	1974	3264	1
+Khu vực luyện công\Cấp 75	 Mê Cung Sa Mạc	101	1624	3877	1
+Khu vực luyện công\Cấp 75	 Kê Quán Động	102	1599	3208	1
+Khu vực luyện công\Cấp 75	 Thục Cương Sơn	103	1802	3907	1
+Khu vực luyện công\Cấp 75	 Kiếm Các Thục Đạo	104	1546	3717	1
+Khu vực luyện công\Cấp 75	 Hoàng Lăng Đoàn Thị	105	1397	3544	1
+Khu vực luyện công\Cấp 75	 Cửu Nghi Khê	106	1929	3324	1
+Khu vực luyện công\Cấp 85	 Long Môn Thạch Quật	107	1987	3415	1
+Khu vực luyện công\Cấp 85	 Hoàng Lăng Tây Hạ	108	1670	3214	1
+Khu vực luyện công\Cấp 85	 Hoàng Hạc Lâu	109	1929	3545	1
+Khu vực luyện công\Cấp 85	 Tiến Cúc Động	110	1382	3279	1
+Khu vực luyện công\Cấp 85	 Kiếm Môn Quan	111	1956	3549	1
+Khu vực luyện công\Cấp 85	 Thiên Long Tự	112	1913	3537	1
+Khu vực luyện công\Cấp 85	 Bang Nguyên Bí Động	113	1893	3383	1
+Khu vực luyện công\Cấp 95	 Sắc Lặc Xuyên	114	1924	3808	1
+Khu vực luyện công\Cấp 95	 Gia Du Quan	115	1789	3211	1
+Khu vực luyện công\Cấp 95	 Hoa Sơn	116	1889	3821	1
+Khu vực luyện công\Cấp 95	 Thục Cương Bí Cảnh	117	1772	3358	1
+Khu vực luyện công\Cấp 95	 Phong Đô Quỷ Thành	118	1607	3910	1
+Khu vực luyện công\Cấp 95	 Miêu Lĩnh	119	1547	3723	1
+Khu vực luyện công\Cấp 95	 Vũ Di Sơn	120	1784	3326	1
+Khu vực luyện công\Cấp 95	 Vũ Lăng Sơn	121	1800	3349	1
+Khu vực luyện công\Cấp 105	 Mạc Bắc Thảo Nguyên	122	1797	3757	1
+Khu vực luyện công\Cấp 105	 Đôn Hoàng Cổ Thành	123	1902	3910	1
+Khu vực luyện công\Cấp 105	 Hoạt Tử Nhân Mộ	124	1734	3326	1
+Khu vực luyện công\Cấp 105	 Đại Vũ Đài	125	1750	3855	1
+Khu vực luyện công\Cấp 105	 Tam Hiệp Sạn Đạo	126	1523	3592	1
+Khu vực luyện công\Cấp 105	 Xi Vưu Động	127	1605	3227	1
+Khu vực luyện công\Cấp 105	 Tỏa Vân Uyên	128	1935	3406	1
+Khu vực luyện công\Cấp 105	 Phục Lưu Động	129	1897	3586	1
+Khu vực luyện công\Cấp 115	 Mông Cổ Vương Đình	130	1779	3716	1
+Khu vực luyện công\Cấp 115	 Nguyệt Nha Tuyền	131	1938	3621	1
+Khu vực luyện công\Cấp 115	 Tàn Tích Cung A Phòng	132	1973	3764	1
+Khu vực luyện công\Cấp 115	 Lương Sơn Bạc	133	1570	3296	1
+Khu vực luyện công\Cấp 115	 Thần Nữ Phong	134	1777	3194	1
+Khu vực luyện công\Cấp 115	 Tàn Tích Dạ Lang	135	1603	3687	1
+Khu vực luyện công\Cấp 115	 Cổ Lãng Dữ	136	1588	3169	1
+Khu vực luyện công\Cấp 115	 Đào Hoa Nguyên	137	1848	3261	1
+Môn phái	Cổ Mộ	2261	1689	3042	

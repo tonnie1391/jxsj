@@ -1,0 +1,34 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Điềm Tửu Thúc	0	3561	3	5	60	1	20	20	20	20	20	1		54496	105344		1		
+Trương Trảm Kinh	0	3564	3	5	60	1	20	20	20	20	20	1		55136	105376		1		
+Bất Động Tiên Sinh	0	3565	3	5	60	1	20	20	20	20	20	1		54560	106304		1		
+Đại Lão Bạch	0	3566	3	5	60	1	20	20	20	20	20	1		55392	106592		1		
+Xa Phu	0	2597	3	5	60	1	20	20	20	20	20	3		52256	100416		1		
+Xa Phu	0	2597	3	5	60	1	20	20	20	20	20	3		53504	106592		1		
+A Xuân Tẩu	0	4055	3	5	60	1	20	20	20	20	20	3		49184	102624		1		
+Bát Thúc Công	0	4056	3	5	60	1	20	20	20	20	20	3		55968	107392		1		
+Đại Thông Thiền Sư	0	4049	3	5	60	1	20	20	20	20	20	3		45600	95584		1		
+Phòng Thiếu Long	0	4057	3	5	60	1	20	20	20	20	20	3		54080	95552		1		
+Quy Ngô	0	4052	3	5	60	1	20	20	20	20	20	3		55136	94112		1		
+Hộ Vệ	0	4053	3	5	60	1	20	20	20	20	20	3				\setting\map\map_info\funiushanjunying\npc\huwei.txt	1		
+Thợ Cơ Quan	0	4058	3	5	60	1	20	20	20	20	20	3				\setting\map\map_info\funiushanjunying\npc\jiguanqiaojiang.txt	1		
+Giới Không	0	4050	3	5	60	1	20	20	20	20	20	1		46016	95296		1		
+Giới Vọng	0	4051	3	5	60	1	20	20	20	20	20	1		46976	96832		1		
+Lư Tất Khắc	0	4041	3	5	60	1	20	20	20	20	20	1		53024	102368		1		
+Nhà Nông	0	4045	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\funiushanjunying\npc\nonghu.txt	1		
+Nông Phụ	0	4046	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\funiushanjunying\npc\nongfu.txt	1		3
+Thương Kiến Sơ	0	4036	3	5	60	1	20	20	20	20	20	1		53984	93920		1		3
+Thiên Cơ Tử	0	4033	3	5	60	1	20	20	20	20	20	1		53056	102816		1		3
+Ngụy Kỳ Phong	0	4040	3	5	60	1	20	20	20	20	20	1		52864	104768		1		3
+Trâu Đức Khoái	0	2599	3	5	60	1	20	20	20	20	20	1		52640	100576		1		3
+Trâu Đức Khoái	0	2599	3	5	60	1	20	20	20	20	20	1		53888	106368		1		3
+Tú Cô	0	4054	3	5	60	1	20	20	20	20	20	1		51392	108448		1		3
+Dương Cảnh	0	4039	3	5	60	1	20	20	20	20	20	1		53760	103776		1		3
+Nghĩa Quân Tiêu Binh	0	4048	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\funiushanjunying\npc\yijunshaobing.txt	1		3
+Nghĩa Quân Tinh Nhuệ	0	4047	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\funiushanjunying\npc\yijunjingrui.txt	1		3
+Dịch Phàm	0	4031	3	5	60	1	20	20	20	20	20	1		46176	97408				3
+Dịch Châu	0	4032	3	5	60	1	20	20	20	20	20	1		52192	97472		1		3
+Ngu Hiếu	0	4035	3	5	60	1	20	20	20	20	20	1		55648	99136		1		3
+Trịnh Bát Cô	0	4038	3	5	60	1	20	20	20	20	20	1		51200	102368		1		3
+Từ Tường Nga	0	4037	3	5	60	1	20	20	20	20	20	1		52704	102496		1		3
+Hộ Viện	0	4060	3	5	60	1	20	20	20	20	20	3				\setting\map\map_info\funiushanjunying\npc\huyuan.txt	1		

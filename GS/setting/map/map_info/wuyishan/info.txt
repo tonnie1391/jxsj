@@ -1,0 +1,32 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Điền Bất Nhị	0	3131	0	5	95	1	20	20	20	20	20	16		58976	111008				2
+Thẩm Ngũ Lang	0	3132	0	5	95	1	20	20	20	20	20	16		61824	123744				3
+Sử Thiết Chưởng	0	3133	0	5	95	1	20	20	20	20	20	16		54080	121664				1
+Dư Chính Hải	0	3134	0	5	95	1	20	20	20	20	20	16		51808	114272				0
+to_longquancun	1															\setting\map\map_info\wuyishan\trap\to_longquancun.txt			
+to_wuyishanjingshe	1															\setting\map\map_info\wuyishan\trap\to_wuyishanjingshe.txt			
+to_jiuyixi	1															\setting\map\map_info\wuyishan\trap\to_jiuyixi.txt			
+Long Tuyền Thôn	0	2525	4	5	1	1	20	20	20	20	20	1		57600	104384		1		
+Vũ Di Sơn Tinh Xá	0	2525	4	5	1	1	20	20	20	20	20	1		54496	104576		1		
+Cửu Nghi Khê	0	2525	4	5	1	1	20	20	20	20	20	1		49248	116480		1		
+Sĩ Tử Trường Ca Môn	0	2277	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\area1.txt			
+Lâu La Hồng Y	0	2278	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\area2.txt			
+Lâu La Tử Y	0	2279	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\area3.txt			
+Hổ Hoang Hoa Nam	0	2280	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\area4.txt			
+Tân Khí Tật	0	1829	3	5	60	1	20	20	20	20	20	1		56128	120448		1		
+Lục Du	0	1830	3	5	60	1	20	20	20	20	20	1		56256	120320		1		
+Chu Hy	0	1831	3	5	60	1	20	20	20	20	20	1		56384	120288		1		
+Đậu Hạo	0	1832	3	5	60	1	20	20	20	20	20	1		56480	120448		1		
+Thư Sinh Thần Bí	0	1878	3	5	60	1	20	20	20	20	20	1		57088	118624		1		
+Trương Hổ Bang Hung	0	1879	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\zhanghu.txt			
+Nhuận Ngọc Mặc 	0	1642	3	5	60	1	20	20	20	20	20	1		54112	115008		1		
+Lạc Phách Tướng Sĩ	0	1833	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt	58752	113600				
+Thủ Lĩnh Hồng Y	0	4323	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\hongyitoumu.txt			
+Thủ Lĩnh Tử Y	0	4324	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\ziyitoumu.txt			
+Trộm Sách	0	4325	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\toushuzei.txt			
+Thủ Lĩnh Trộm Sách	0	4326	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\toushuzeitoumu.txt			
+Thị Vệ Triều Đình	0	4371	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\wuyishan\npc\chaotingshiwei.txt			
+to_suoyunyuan	1															\setting\map\map_info\wuyishan\trap\to_suoyunyuan.txt			
+Tỏa Vân Uyên	0	2525	4	5	1	1	20	20	20	20	20	1		50144	123328		1		
+to_gulangyu	1															\setting\map\map_info\wuyishan\trap\to_gulangyu.txt			
+Cổ Lãng Dữ	0	2525	4	5	1	1	20	20	20	20	20	1		59584	125888		1		

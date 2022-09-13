@@ -1,0 +1,5 @@
+CountryId	CountryName
+1	西夏、蒙古
+2	金国
+3	大理国
+4	宋国

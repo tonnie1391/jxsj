@@ -1,0 +1,28 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lăng Nhược Hư	0	273	3	5	60	1	20	20	20	20	20	1		50720	122880		1		
+Như Ý	0	277	3	5	60	1	20	20	20	20	20	1		53152	122688		1		1
+Thích Khách Mặc Giáp	0	297	0	5	25	1	20	20	20	20	20	1				\setting\map\map_info\jiulaofeng_shinei\npc\zhaojiacike.txt	1		
+Vô Tưởng Sư Thái	0	298	3	5	150	1	20	20	20	20	20	1		55520	123264		1		
+Lăng Nhược Hư	0	299	3	5	60	1	20	20	20	20	20	1		55328	123104		1		
+Ngô Hy	0	671	3	5	60	1	20	20	20	20	20	1		55488	123072		1		
+Ngô Hy	0	674	0	5	25	1	20	20	20	20	20	1		57824	123488		1		
+Ngô Hy	0	672	3	5	60	1	20	20	20	20	20	1		60320	122944		1	1885	3842
+Cừu Tuyết	0	470	3	5	90	1	20	20	20	20	20	1		60544	122976		1		
+Cừu Tuyết	0	677	3	5	90	1	20	20	20	20	20	1		54144	118848		1		
+Vô Tâm Sư Thái	0	463	3	5	60	1	20	20	20	20	20	1		55584	123360		1		
+Vô Niệm Sư Thái	0	467	3	5	90	1	20	20	20	20	20	1		55680	123424		1		
+Ngô Hy Thân Binh	0	1402	0	0	25	1	20	20	20	20	20	1				\setting\map\map_info\jiulaofeng_shinei\npc\wuxiqinbingz.txt	1		
+Đến Cổng Hành Tại	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Đến Cửu Lão Phong	0	2525	4	5	1	1	20	20	20	20	20	1		53344	119584		1		
+Đến Cửu Lão Phong	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360		1		
+Đến Cửu Lão Phong	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136		1		
+Đến Hành Tại Ngô Đại Nhân	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648		1		
+Đến Cửu Lão Phong	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872		1		
+Đến Cửu Lão Phong	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456		1		
+to_exit17	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit17.txt			
+to_exit18	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit18.txt			
+to_exit21	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\jiulaofeng_shinei\trap\to_exit25.txt			

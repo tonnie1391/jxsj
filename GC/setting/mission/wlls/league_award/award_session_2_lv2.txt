@@ -1,0 +1,11 @@
+Win	Tie	Lost	Desc	RankType1	RankType2	RankType3	RankType4	RankType5	RankType6	RankType7	RankType8	RankType9	RankType10	RankType11	RankDesc
+单场胜奖励	单场平奖励	单场负奖励	奖励描述	排名类型1	排名类型2	排名类型3	排名类型4	排名类型5	排名类型6	排名类型7	排名类型8	排名类型9	排名类型10	排名类型11	奖励描述
+expbase=60	expbase=40	expbase=40	基准经验	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,3"	"item=18,1,215,2"	"item=18,1,215,2"	"item=18,1,215,1"	"item=18,1,215,1"	武林联赛令牌
+honor=6	honor=3	honor=0	荣誉点	exp=5000	exp=4500	exp=4000	exp=3500	exp=3000	exp=2500	exp=2000	exp=1500	exp=1200	exp=1000	exp=1000	经验
+repute=10	repute=5	repute=5	声望	honor=5000	honor=4800	honor=4700	honor=4600	honor=4000	honor=3000	honor=2000	honor=1500	honor=1200	honor=1000	honor=500	荣誉
+prestige=3	prestige=1	prestige=1	江湖威望	"title=8,2,10,0"	"title=8,2,9,0"	"title=8,2,8,0"	"title=8,2,7,0"	"title=8,2,6,0"	"title=8,2,5,0"	"title=8,2,4,0"	"title=8,2,3,0"	"stone_stackitem=18,1,1315,1,3,1"	"stone_stackitem=18,1,1315,1,2,1"		称号
+	"binditem=18,1,80,1"	"binditem=18,1,80,1"	福袋	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"stone_stackitem=18,1,1315,1,6,1"	"stone_stackitem=18,1,1315,1,5,1"	"stone_stackitem=18,1,1315,1,4,1"				武林联赛令牌
+stock=50	stock=0	stock=0	股份	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"item=18,1,215,4"	"stone_stackitem=18,1,1315,1,7,1"							武林联赛令牌
+				"item=18,1,215,4"	"stone_stackitem=18,1,1315,1,10,1"	"stone_stackitem=18,1,1315,1,10,1"	"stone_stackitem=18,1,1315,1,10,1"								武林联赛令牌
+				"item=18,1,215,4"											武林联赛令牌
+				"stone_stackitem=18,1,1315,1,10,1"											高级联赛白金宝箱

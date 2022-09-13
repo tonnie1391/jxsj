@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_1st	1															\setting\map\map_info\longmenfeijian\trap\trap1.txt			
+trap_2nd	1															\setting\map\map_info\longmenfeijian\trap\trap2.txt			
+trap_3rd	1															\setting\map\map_info\longmenfeijian\trap\trap3.txt			
+trap_4th	1															\setting\map\map_info\longmenfeijian\trap\trap4.txt			
+trap_5th	1															\setting\map\map_info\longmenfeijian\trap\trap5.txt			
+trap_6th	1															\setting\map\map_info\longmenfeijian\trap\trap6.txt			

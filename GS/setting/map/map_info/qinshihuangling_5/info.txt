@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_f4_1	1															\setting\map\map_info\qinshihuangling_5\trap\trap_f4_1.txt	1		
+trap_f4_2	1															\setting\map\map_info\qinshihuangling_5\trap\trap_f4_2.txt	1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		49024	103488		1		
+Điểm rời bản đồ	0	2525	4	5	45	1	20	20	20	20	20	1		50016	101952		1		

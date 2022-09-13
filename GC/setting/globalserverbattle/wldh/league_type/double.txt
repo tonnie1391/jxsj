@@ -1,0 +1,9 @@
+Name	MapLinkType	MemberCount	PlayerCount	Sex	Camp	Series	Faction	Teacher	WaitMap	ReadyMap	MacthMap	MacthMapPatch	Desc
+类型名	地图类型	战队人数	比赛人数	性别判断	阵营判断	五行判断	门派判断	师徒判断	会场地图	准备场地图	比赛场地图	比赛后备图	描述
+双人赛	1	2	2	0	0	0	0	0	1549	1561	1573	1585	武林大会比赛类型为<color=yellow>双人赛<color>，特意考察双人合击之术，各位可以自由组合战队，勤加习练，达至<color=yellow>“二人同心，其利断金”<color>之境界，届时定可脱颖而出。
+									1550	1562	1574	1586	
+									1551				
+									1552				
+									1553				
+									1554				
+									1555				

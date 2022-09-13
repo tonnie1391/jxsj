@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Gia Đinh Bành Phủ	0	1889	3	5	60	1	20	20	20	20	20	3		56736	126784		1		
+Thương Thủ Thần Bí	0	1894	0	5	95	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\linanfu_houyuan\npc\qiangshou.txt	1		
+Tiễn Sĩ Thần Bí	0	1895	0	5	95	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\linanfu_houyuan\npc\jianshi.txt	1		
+Thủ Lĩnh Người Thần Bí	0	1896	0	5	95	1	20	20	20	20	20	2	\setting\npc\droprate\droprate010.txt	57824	132192		1		
+Phủ đệ Bành Quy Niên	0	2525	4	5	1	1	20	20	20	20	20	1		57344	126144		1		
+to_pengfu	1															\setting\map\map_info\linanfu_houyuan\trap\to_pengfu.txt			
+trappeng1	1															\setting\map\map_info\linanfu_houyuan\trap\trappeng1.txt			
+trappeng2	1															\setting\map\map_info\linanfu_houyuan\trap\trappeng2.txt			
+trappeng3	1															\setting\map\map_info\linanfu_houyuan\trap\trappeng3.txt			

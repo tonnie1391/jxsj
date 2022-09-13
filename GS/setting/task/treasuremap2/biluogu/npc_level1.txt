@@ -1,0 +1,5 @@
+NpcName	TemplateId	NpcLevel	NpcScore	NpcCount	XPos	YPos	NpcPosFile
+Phệ Hồn Đăng	11041	25	2				\setting\task\treasuremap2\biluogu\npc\shuinpc.txt
+Quan Tiểu Đao	7016	25			51520	112096
+Thuyền Phu	11040	25			56928	113024
+Lộ Lộ Thông	11027	25			51648	112224

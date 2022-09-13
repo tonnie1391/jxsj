@@ -1,0 +1,30 @@
+Group	Name	Genre	Detail	Particular	Level	Five	Value	Bind	Rate
+Thuộc nhóm	Tên đạo cụ	Loại Đạo Cụ	Loại cụ thể	Loại chi tiết	Cấp	Ngũ hành	Giá trị 	Loại khóa	Tỷ lệ
+1	Huyền Tinh cấp 1	18	1	1	3	0	100	1	10000
+2	Huyền Tinh cấp 1	18	1	1	3	0	100	1	6500
+2	Huyền Tinh cấp 2	18	1	1	4	0	360	1	3400
+2	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	100
+3	Huyền Tinh cấp 1	18	1	1	3	0	100	1	2739
+3	Huyền Tinh cấp 2	18	1	1	4	0	360	1	7141
+3	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	120
+4	Huyền Tinh cấp 1	18	1	1	3	0	100	1	800
+4	Huyền Tinh cấp 2	18	1	1	4	0	360	1	8016
+4	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	1184
+5	Huyền Tinh cấp 2	18	1	1	4	0	360	1	7795
+5	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	2105
+5	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	100
+6	Huyền Tinh cấp 2	18	1	1	4	0	360	1	5839
+6	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	4011
+6	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	150
+7	Huyền Tinh cấp 2	18	1	1	4	0	360	1	4026
+7	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	5734
+7	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	240
+8	Huyền Tinh cấp 2	18	1	1	4	0	360	1	2000
+8	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	7580
+8	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	420
+9	Huyền Tinh cấp 2	18	1	1	4	0	360	1	1200
+9	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	7860
+9	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	940
+10	Huyền Tinh cấp 3	18	1	1	5	0	1296	1	8864
+10	Huyền Tinh cấp 4	18	1	1	6	0	4665	1	1036
+10	Huyền Tinh cấp 5	18	1	1	7	0	16796	1	100

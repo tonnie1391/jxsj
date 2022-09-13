@@ -1,0 +1,20 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cẩm Y Vệ	0	1086	0	5	90	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\bangyuanmidong\npc\jinyiwei.txt			
+Giang Nam Nghĩa Sĩ	0	2192	0	5	85	1	20	20	20	20	20	3	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\bangyuanmidong\npc\area1.txt			
+Đông Nam Nghĩa Sĩ	0	2193	0	5	85	1	20	20	20	20	20	3	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\bangyuanmidong\npc\area2.txt			
+Giang Bắc Nghĩa Sĩ	0	2194	0	5	85	1	20	20	20	20	20	3	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\bangyuanmidong\npc\area3.txt			
+Giang Nam Nghĩa Sĩ	0	2192	0	5	85	1	20	20	20	20	20	3	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\bangyuanmidong\npc\area4.txt			
+to_jiuyixi	1															\setting\map\map_info\bangyuanmidong\trap\to_jiuyixi.txt			
+to_longquancun	1															\setting\map\map_info\bangyuanmidong\trap\to_longquancun.txt			
+Cửu Nghi Khê	0	2525	4	5	85	1	20	20	20	20	20	3		61280	102688				
+Long Tuyền Thôn	0	2525	4	5	85	1	20	20	20	20	20	3		60832	107744				
+Lôi Lão Cửu	0	1083	3	5	85	1	20	20	20	20	20	3		60672	108352				
+Trưởng Thị Vệ	0	1126	0	5	85	1	20	20	20	20	20	3		58944	111296				
+Trưởng Thị Vệ	0	1126	0	5	85	1	20	20	20	20	20	3		59424	112832				
+Trưởng Thị Vệ	0	1126	0	5	85	1	20	20	20	20	20	3		60160	112448				
+Trưởng Thị Vệ	0	1126	0	5	85	1	20	20	20	20	20	3		60576	112320				
+Trưởng Thị Vệ	0	1126	0	5	85	1	20	20	20	20	20	3		61248	112896				
+Phạm Triều Sương	0	3103	0	5	85	1	20	20	20	20	20	16		55680	118464				0
+Phương Đại Châu	0	3104	0	5	85	1	20	20	20	20	20	16		56000	102336				2
+Phùng Song Dực	0	3105	0	5	85	1	20	20	20	20	20	16		47840	105824				3
+Phó Tu Văn	0	3106	0	5	85	1	20	20	20	20	20	16		44960	111840				4

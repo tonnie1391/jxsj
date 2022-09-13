@@ -1,0 +1,27 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Huyền Từ Đại Sư	0	211	3	5	150	1	20	20	20	20	20	1		50720	122848		1		
+Huyền Từ Phương Trượng	0	218	3	5	150	1	20	20	20	20	20	1		53152	122592		1		
+Huyền Từ Phương Trượng	0	219	3	5	150	1	20	20	20	20	20	1		55520	123168		1		
+Trừng Huệ	0	213	3	5	90	1	20	20	20	20	20	1		53024	122592		1		
+Trừng Quang	0	220	3	5	90	1	20	20	20	20	20	1		55424	123008		1		
+Huyền Từ Phương Trượng	0	223	3	5	150	1	20	20	20	20	20	1		57696	123360		1		
+Trịnh Hảo	0	225	3	5	60	1	20	20	20	20	20	1		57920	123360		1		
+Chu Tự Lực	0	226	3	5	60	1	20	20	20	20	20	1		58016	123456		1		
+Gián Điệp Thiên Nhẫn	0	236	0	5	45	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_shinei\npc\tianrenxizuo.txt	1		
+Hoàn Nhan Tôn Thân	0	290	3	5	60	1	20	20	20	20	20	1		60384	122880		1		
+Hoàn Nhan Thị	0	291	3	5	60	1	20	20	20	20	20	1		60512	122976		1		
+Đệ Tử Thiếu Lâm	0	1420	0	0	45	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_shinei\npc\shaolindiziz.txt	1		
+Đệ Tử Thiếu Lâm	0	1419	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_shinei\npc\shaolindizis.txt	1		
+Cơ Dân	0	224	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\talin_2_shinei\npc\jimins.txt	1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360		1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136		1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648		1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872		1		
+Đến Tây Tháp Lâm	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456		1		
+to_exit17	1															\setting\map\map_info\talin_2_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\talin_2_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\talin_2_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\talin_2_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\talin_2_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\talin_2_shinei\trap\to_exit25.txt			

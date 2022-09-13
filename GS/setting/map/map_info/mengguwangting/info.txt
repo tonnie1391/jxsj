@@ -1,0 +1,28 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Tê Giác Khôi	0	2318	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mengguwangting\npc\area1.txt	1		1
+Thiết Đôn	0	2319	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mengguwangting\npc\area2.txt	1		0
+Bạch Vũ Tiễn Sứ	0	2320	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mengguwangting\npc\area3.txt	1		4
+Thiết Mã Tướng	0	2321	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mengguwangting\npc\area4.txt	1		0
+to_chilechuan	1															\setting\map\map_info\mengguwangting\trap\to_chilechuan.txt			
+to_jiayuguan	1															\setting\map\map_info\mengguwangting\trap\to_jiayuguan.txt			
+to_juyanze	1															\setting\map\map_info\mengguwangting\trap\to_juyanze.txt			
+to_mobeicaoyuan	1															\setting\map\map_info\mengguwangting\trap\to_mobeicaoyuan.txt			
+to_shamomigong	1															\setting\map\map_info\mengguwangting\trap\to_shamomigong.txt			
+to_samanjiao	1															\setting\map\map_info\mengguwangting\trap\to_samanjiao.txt			
+Tát Mãn Giáo	0	2525	4	5	1	1	20	20	20	20	20	1		56960	119328		1		
+Sắc Lặc Xuyên	0	2525	4	5	1	1	20	20	20	20	20	1		60384	118816		1		
+Gia Dụ Quan	0	2525	4	5	1	1	20	20	20	20	20	1		50112	111328		1		
+Cư Diên Trạch	0	2525	4	5	1	1	20	20	20	20	20	1		51296	119872		1		
+Mạc Bắc Thảo Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		60192	106432		1		
+Mê Cung Sa Mạc	0	2525	4	5	1	1	20	20	20	20	20	1		53696	119840		1		
+Vương Khải	0	4372	3	5	150	1	20	20	20	20	20	1		54336	117088				
+Ba Trác Cách	0	4373	0	5	115	1	20	20	20	20	20	1		51360	112768				1
+Đằng Cách Mộc Hợp	0	5048	3	5	115	1	20	20	20	20	20	1		51744	103680				
+Vẫn Đan Cung-Nhật	0	2525	4	5	1	1	20	20	20	20	20	1		54752	116160		1		
+to_yundangongri1	1															\setting\map\map_info\mengguwangting\trap\to_yundangongri1.txt			
+Vẫn Đan Cung-Nhật	0	2525	4	5	1	1	20	20	20	20	20	1		58656	115200		1		
+to_yundangongri2	1															\setting\map\map_info\mengguwangting\trap\to_yundangongri2.txt			
+Vẫn Đan Cung-Nguyệt	0	2525	4	5	1	1	20	20	20	20	20	1		59936	104032		1		
+to_yundangongyue1	1															\setting\map\map_info\mengguwangting\trap\to_yundangongyue1.txt			
+Vẫn Đan Cung-Nguyệt	0	2525	4	5	1	1	20	20	20	20	20	1		55616	108192		1		
+to_yundangongyue2	1															\setting\map\map_info\mengguwangting\trap\to_yundangongyue2.txt			

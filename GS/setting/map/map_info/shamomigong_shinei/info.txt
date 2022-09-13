@@ -1,0 +1,22 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Lý Thăng Dương	0	908	0	5	75	1	20	20	20	20	20	1		51136	110048		1		1
+Đa Ma	0	896	3	5	75	1	20	20	20	20	20	1		60672	126240		1		1
+Thanh Thập Lục	0	900	0	5	75	1	20	20	20	20	20	1		59552	125824		1		1
+Người làm thuê	0	901	0	5	75	1	20	20	20	20	20	1				\setting\map\map_info\shamomigong_shinei\npc\huoji.txt	1		1
+to_exit8	1															\setting\map\map_info\shamomigong_shinei\trap\to_exit8.txt			
+to_exit27	1															\setting\map\map_info\shamomigong_shinei\trap\to_exit27.txt			
+to_exit28	1															\setting\map\map_info\shamomigong_shinei\trap\to_exit28.txt			
+to_exit29	1															\setting\map\map_info\shamomigong_shinei\trap\to_exit29.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50560	110816		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		59424	126752		1		
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		50560	109920		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		50848	109440		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51616	110368		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51392	109792		1		1
+Võ Sĩ Nhất Phẩm Đường	0	971	0	5	75	1	20	20	20	20	20	1		51264	110848		1		1
+Dương Thiết Tâm	0	1184	0	0	150	1	20	20	20	20	20	1		50848	109920		1		1
+Thạch Hiên Viên	0	1185	0	0	150	1	20	20	20	20	20	1		51264	110368		1		1
+Cổ Yên Nhiên	0	1110	0	0	150	1	20	20	20	20	20	1		51072	110464		1		1
+Bạch Thu Lâm	0	1111	0	0	150	1	20	20	20	20	20	1		50848	110272		1		1
+Thi Thể	0	893	3	5	75	1	20	20	20	20	20	1		59840	126912		1		1
+Du Long Giác	0	1502	3	5	75	1	20	20	20	20	20	1		51456	109664		1		1

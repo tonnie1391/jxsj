@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2007 sp1 (http://www.altova.com) by  liukuo (EMBRACE) -->
+<factions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faction.xsd">
+	<faction id="0" name="Chưa" series="0" camp=" Tân Thủ" sexlimit="-1">
+		<route id="0" name="Chưa"/>
+	</faction>
+	<faction id="1" name=" Thiếu Lâm" series="1" camp="justice" sexlimit="0">
+		<route id="1" name=" Đao Thiếu" desc=" Đao Thiếu">
+			<skill id="21" name=" Phục Ma Đao Pháp"/>
+			<skill id="22" name=" Thiếu Lâm Đao Pháp"/>
+			<skill id="23" name=" Dịch Cốt Kinh"/>
+			<skill id="25" name=" A La Hán Thần Công"/>
+			<skill id="24" name=" Phá Giới Đao Pháp"/>
+			<skill id="250" name=" Hàng Long Phục Hổ"/>
+			<skill id="26" name=" Bồ Đề Tâm Pháp"/>
+			<skill id="28" name=" Hỗn Nguyên Nhất Khí"/>
+			<skill id="27" name=" Thiên Trúc Tuyệt Đao"/>
+			<skill id="252" name=" Như Lai Thiên Diệp"/>
+			<skill id="819" name=" Thiền Nguyên Công"/>
+			<skill id="820" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Côn Thiếu" desc=" Côn Thiếu">
+			<skill id="29" name=" Phổ Độ Côn Pháp"/>
+			<skill id="30" name=" Thiếu Lâm Côn Pháp"/>
+			<skill id="31" name=" Sư Tử Hống"/>
+			<skill id="25" name=" A La Hán Thần Công"/>
+			<skill id="33" name=" Phục Ma Côn Pháp"/>
+			<skill id="34" name=" Bất Động Minh Vương"/>
+			<skill id="254" name=" Dịch Cốt Kinh"/>
+			<skill id="28" name=" Hỗn Nguyên Nhất Khí"/>
+			<skill id="36" name=" Thất Tinh La Sát Côn"/>
+			<skill id="255" name=" Vô Tướng Thần Công"/>
+			<skill id="821" name=" Túy Bát Tiên Côn"/>
+			<skill id="822" name=" Kỹ năng cấp 120"/>
+		</route>
+		<!-- <route id="3" name=" Quyền Thiếu" desc=" Quyền Thiếu"> -->
+			<!-- <skill id="2993" name=" Hàng Long Quyết"/> -->
+			<!-- <skill id="2994" name=" Thiếu Lâm Quyền Pháp"/> -->
+			<!-- <skill id="2996" name=" Vô Tướng Trảm Chỉ"/> -->
+			<!-- <skill id="25" name=" A La Hán Thần Công"/> -->
+			<!-- <skill id="2995" name=" Long Trảo Hổ Trảo"/> -->
+			<!-- <skill id="34" name=" Bất Động Minh Vương"/> -->
+			<!-- <skill id="254" name=" Dịch Cốt Kinh"/> -->
+			<!-- <skill id="37" name=" Đạt Ma Vũ Kinh"/> -->
+			<!-- <skill id="2997" name=" Đạt Ma Độ Giang"/> -->
+			<!-- <skill id="255" name=" Vô Tướng Thần Công"/> -->
+			<!-- <skill id="3000" name=" Nhuyễn Huyền Công"/> -->
+			<!-- <skill id="2998" name=" Kỹ năng cấp 120"/> -->
+		<!-- </route> -->
+	</faction>
+	<faction id="2" name=" Thiên Vương" series="1" camp="balance" sexlimit="-1">
+		<route id="1" name=" Thương Thiên" desc=" Thương Thiên">
+			<skill id="38" name=" Hồi Phong Lạc Nhạn"/>
+			<skill id="40" name=" Thiên Vương Thương Pháp"/>
+			<skill id="41" name=" Đoạn Hồn Thích"/>
+			<skill id="45" name=" Tĩnh Tâm Quyết"/>
+			<skill id="43" name=" Dương Quan Tam Điệp"/>
+			<skill id="256" name=" Kinh Lôi Phá Thiên"/>
+			<skill id="46" name=" Thiên Vương Chiến Ý"/>
+			<skill id="49" name=" Thiên Canh Chiến Khí"/>
+			<skill id="47" name=" Truy Tinh Trục Nguyệt"/>
+			<skill id="259" name=" Huyết Chiến Bát Phương"/>
+			<skill id="823" name=" Bôn Lôi Toàn Long Thương"/>
+			<skill id="824" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Chùy Thiên" desc=" Chùy Thiên">
+			<skill id="50" name=" Hành Vân Quyết"/>
+			<skill id="52" name=" Thiên Vương Chùy Pháp"/>
+			<skill id="41" name=" Đoạn Hồn Thích"/>
+			<skill id="781" name=" Tĩnh Tâm Thuật"/>
+			<skill id="53" name=" Truy Phong Quyết"/>
+			<skill id="260" name=" Thiên Vương Bản Sinh"/>
+			<skill id="55" name=" Kim Chung Tráo"/>
+			<skill id="58" name=" Đảo Hư Thiên"/>
+			<skill id="56" name=" Thừa Long Quyết"/>
+			<skill id="262" name=" Bất Diệt Sát Ý"/>
+			<skill id="825" name=" Trảm Long Quyết"/>
+			<skill id="826" name=" Kỹ năng cấp 120"/>
+		</route>
+		<!-- <route id="3" name=" Đao Thiên" desc=" Đao Thiên"> -->
+			<!-- <skill id="2979" name=" Bát Phong Trảm"/> -->
+			<!-- <skill id="2987" name=" Thiên Vương Đao Pháp"/> -->
+			<!-- <skill id="2985" name=" Đoạn Hồn Thích"/> -->
+			<!-- <skill id="781" name=" Tĩnh Tâm Thuật"/> -->
+			<!-- <skill id="2981" name=" Vô Tâm Trảm"/> -->
+			<!-- <skill id="256" name=" Kinh Lôi Phá Thiên"/> -->
+			<!-- <skill id="55" name=" Kim Chung Tráo"/> -->
+			<!-- <skill id="49" name=" Thiên Canh Chiến Khí"/> -->
+			<!-- <skill id="2983" name=" Phá Thiên Trảm"/> -->
+			<!-- <skill id="262" name=" Bất Diệt Sát Ý"/> -->
+			<!-- <skill id="2988" name=" Chinh Chiến Bát Phương"/> -->
+			<!-- <skill id="826" name=" Kỹ năng cấp 120"/> -->
+		<!-- </route>   -->
+	</faction>
+	<faction id="3" name=" Đường Môn" series="2" camp="balance" sexlimit="-1">
+		<route id="1" name=" Hãm Tĩnh" desc=" Hãm Tĩnh">
+			<skill id="69" name=" Độc Thích Cốt"/>
+			<skill id="70" name=" Đường Môn Hãm Tĩnh"/>
+			<skill id="64" name=" Mê Ảnh Tung"/>
+			<skill id="71" name=" Câu Hồn Tĩnh"/>
+			<skill id="72" name=" Tiểu Lý Phi Đao"/>
+			<skill id="263" name=" Hấp Tinh Trận"/>
+			<skill id="73" name=" Triền Thân Thích"/>
+			<skill id="75" name=" Tâm Phách"/>
+			<skill id="74" name=" Loạn Hoàn Kích"/>
+			<skill id="265" name=" Thực Cốt Huyết Nhẫn"/>
+			<skill id="827" name=" Cơ Quan Bí Thuật"/>
+			<skill id="828" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Tụ Tiễn" desc=" Tụ Tiễn">
+			<skill id="59" name=" Truy Tâm Tiễn"/>
+			<skill id="60" name=" Đường Môn Tụ Tiễn"/>
+			<skill id="64" name=" Mê Ảnh Tung"/>
+			<skill id="61" name=" Tôi Độc Thuật"/>
+			<skill id="62" name=" Thiên La Địa Võng"/>
+			<skill id="266" name=" Đoạn Cân Nhẫn"/>
+			<skill id="65" name=" Ngự Độc Thuật"/>
+			<skill id="68" name=" Tâm Ma"/>
+			<skill id="66" name=" Bạo Vũ Lê Hoa"/>
+			<skill id="268" name=" Tâm Nhãn"/>
+			<skill id="829" name=" Thất Tuyệt Sát Quang"/>
+			<skill id="830" name=" Kỹ năng cấp 120"/>
+		</route>
+		<!-- <route id="3" name=" Phi Tiêu" desc=" Phi Tiêu"> -->
+			<!-- <skill id="3006" name=" Đoạt Hồn Tiêu"/> -->
+			<!-- <skill id="60" name=" Đường Môn Tụ Tiễn"/> -->
+			<!-- <skill id="64" name=" Mê Ảnh Tung"/> -->
+			<!-- <skill id="61" name=" Tôi Độc Thuật"/> -->
+			<!-- <skill id="3007" name=" Tán Hoa Tiêu"/> -->
+			<!-- <skill id="266" name=" Đoạn Cân Nhẫn"/> -->
+			<!-- <skill id="65" name=" Ngự Độc Thuật"/> -->
+			<!-- <skill id="68" name=" Tâm Ma"/> -->
+			<!-- <skill id="3008" name=" Cửu Cung Phi Tinh"/> -->
+			<!-- <skill id="268" name=" Tâm Nhãn"/> -->
+			<!-- <skill id="829" name=" Thất Tuyệt Sát Quang"/> -->
+			<!-- <skill id="830" name=" Kỹ năng cấp 120"/> -->
+		<!-- </route> -->
+		
+	</faction>
+	<faction id="4" name=" Ngũ Độc" series="2" camp="evil" sexlimit="-1">
+		<route id="1" name=" Đao Độc" desc=" Đao Độc">
+			<skill id="76" name=" Huyết Đao Độc Sát"/>
+			<skill id="77" name=" Ngũ Độc Đao Pháp"/>
+			<skill id="78" name=" Vô Hình Cổ"/>
+			<skill id="81" name=" Thí Độc Thuật"/>
+			<skill id="80" name=" Bách Độc Xuyên Tâm"/>
+			<skill id="269" name=" Ôn Cổ Chi Khí"/>
+			<skill id="82" name=" Vạn Cổ Thực Tâm"/>
+			<skill id="85" name=" Ngũ Độc Kỳ Kinh"/>
+			<skill id="83" name=" Huyền Âm Trảm"/>
+			<skill id="271" name=" Thiên Thù Vạn Độc"/>
+			<skill id="831" name=" Chu Cáp Thanh Minh"/>
+			<skill id="832" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Chưởng Độc" desc=" Chưởng Độc">
+			<skill id="86" name=" Độc Sa Chưởng"/>
+			<skill id="87" name=" Ngũ Độc Chưởng Pháp"/>
+			<skill id="92" name=" Xuyên Tâm Độc Thích"/>
+			<skill id="91" name=" Ngân Ti Phi Thù"/>
+			<skill id="90" name=" Thiên Canh Địa Sát"/>
+			<skill id="272" name=" Khu Độc Thuật"/>
+			<skill id="88" name=" Bi Ma Huyết Quang"/>
+			<skill id="95" name=" Bách Cổ Độc Kinh"/>
+			<skill id="93" name=" Âm Phong Thực Cốt"/>
+			<skill id="274" name=" Đoạn Cân Hủ Cốt"/>
+			<skill id="833" name=" Hóa Cốt Miên Chưởng"/>
+			<skill id="834" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="5" name=" Nga My" series="3" camp="justice" sexlimit="1">
+		<route id="1" name=" Chưởng Nga" desc=" Chưởng Nga">
+			<skill id="96" name=" Phiêu Tuyết Xuyên Vân"/>
+			<skill id="97" name=" Nga My Chưởng Pháp"/>
+			<skill id="98" name=" Từ Hàng Phổ Độ"/>
+			<skill id="101" name=" Phật Tâm Từ Hựu"/>
+			<skill id="99" name=" Tứ Tượng Đồng Quy"/>
+			<skill id="479" name=" Bất Diệt Bất Tuyệt"/>
+			<skill id="782" name=" Lưu Thủy Tâm Pháp"/>
+			<skill id="105" name=" Phật Pháp Vô Biên"/>
+			<skill id="103" name=" Phong Sương Toái Ảnh"/>
+			<skill id="280" name=" Vạn Phật Quy Tông"/>
+			<skill id="835" name=" Phật Quang Chiến Khí"/>
+			<skill id="836" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Phụ Trợ" desc=" Phụ Trợ">
+			<skill id="107" name=" Phật Âm Chiến Ý"/>
+			<skill id="106" name=" Mộng Điệp"/>
+			<skill id="98" name=" Từ Hàng Phổ Độ"/>
+			<skill id="101" name=" Phật Tâm Từ Hựu"/>
+			<skill id="109" name=" Thiên Phật Thiên Diệp"/>
+			<skill id="110" name=" Phật Quang Phổ Chiếu"/>
+			<skill id="102" name=" Lưu Thủy Quyết"/>
+			<skill id="481" name=" Ba La Tâm Kinh"/>
+			<skill id="108" name=" Thanh Âm Phạn Xướng"/>
+			<skill id="482" name=" Phổ Độ Chúng Sinh"/>
+			<skill id="837" name=" Kiếm Ảnh Phật Quang"/>
+			<skill id="838" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="6" name=" Thúy Yên" series="3" camp="balance" sexlimit="-1">
+		<route id="1" name=" Kiếm Thúy" desc=" Kiếm Thúy">
+			<skill id="111" name=" Phong Quyển Tàn Tuyết"/>
+			<skill id="112" name=" Thúy Yên Kiếm Pháp"/>
+			<skill id="113" name=" Hộ Thể Hàn Băng"/>
+			<skill id="115" name=" Tuyết Ảnh"/>
+			<skill id="114" name=" Bích Hải Triều Sinh"/>
+			<skill id="483" name=" Huyền Băng Vô Tức"/>
+			<skill id="116" name=" Tuyết Ánh Hồng Trần"/>
+			<skill id="119" name=" Băng Cốt Tuyết Tâm"/>
+			<skill id="117" name=" Băng Tâm Tiên Tử"/>
+			<skill id="485" name=" Phù Vân Tán Tuyết"/>
+			<skill id="839" name=" Thập Diện Mai Phục"/>
+			<skill id="840" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Đao Thúy" desc=" Đao Thúy">
+			<skill id="120" name=" Phong Hoa Tuyết Nguyệt"/>
+			<skill id="121" name=" Thúy Yên Đao Pháp"/>
+			<skill id="122" name=" Ngự Tuyết Ẩn"/>
+			<skill id="812" name="Lưu Phong Hồi Tuyết"/>
+			<skill id="123" name=" Mục Dã Lưu Tinh"/>
+			<skill id="483" name=" Huyền Băng Vô Tức"/>
+			<skill id="124" name=" Băng Tâm Thiến Ảnh"/>
+			<skill id="127" name=" Băng Cơ Ngọc Cốt"/>
+			<skill id="125" name=" Băng Tung Vô Ảnh"/>
+			<skill id="486" name=" Thiên Lý Băng Phong"/>
+			<skill id="841" name=" Quy Khứ Lai Hề"/>
+			<skill id="842" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="7" name=" Cái Bang" series="4" camp="justice" sexlimit="-1">
+		<route id="1" name=" Chưởng Cái" desc=" Chưởng Cái">
+			<skill id="128" name=" Kiến Nhân Thân Thủ"/>
+			<skill id="129" name=" Cái Bang Chưởng Pháp"/>
+			<skill id="130" name=" Hóa Hiểm Vi Di"/>
+			<skill id="132" name=" Hoạt Bất Lưu Thủ"/>
+			<skill id="131" name=" Hàng Long Hữu Hối"/>
+			<skill id="489" name=" Thời Thừa Lục Long"/>
+			<skill id="133" name=" Túy Điệp Cuồng Vũ"/>
+			<skill id="136" name=" Tiềm Long Tại Uyên"/>
+			<skill id="134" name=" Phi Long Tại Thiên"/>
+			<skill id="487" name=" Giáng Long Chưởng"/>
+			<skill id="843" name=" Trảo Long Công"/>
+			<skill id="844" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Côn Cái" desc=" Côn Cái">
+			<skill id="137" name=" Duyên Môn Thác Bát"/>
+			<skill id="138" name=" Cái Bang Bổng Pháp"/>
+			<skill id="139" name=" Tiêu Dao Công"/>
+			<skill id="132" name=" Hoạt Bất Lưu Thủ"/>
+			<skill id="140" name=" Bổng Đả Ác Cẩu"/>
+			<skill id="491" name=" Ác Cẩu Lan Lộ"/>
+			<skill id="238" name=" Hỗn Thiên Khí Công"/>
+			<skill id="142" name=" Bôn Lưu Đáo Hải"/>
+			<skill id="141" name=" Thiên Hạ Vô Cẩu"/>
+			<skill id="488" name=" Đả Cẩu Bổng Pháp"/>
+			<skill id="845" name=" Đả Cẩu Trận Pháp"/>
+			<skill id="846" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="8" name=" Thiên Nhẫn" series="4" camp="evil" sexlimit="-1">
+		<route id="1" name=" Chiến Nhẫn" desc=" Chiến Nhẫn">
+			<skill id="143" name=" Tàn Dương Như Huyết"/>
+			<skill id="144" name=" Thiên Nhẫn Mâu Pháp"/>
+			<skill id="492" name=" Huyễn Ảnh Truy Hồn Thương"/>
+			<skill id="145" name=" Kim Thiền Thoát Xác"/>
+			<skill id="146" name=" Liệt Hỏa Tình Thiên"/>
+			<skill id="147" name=" Bi Tô Thanh Phong"/>
+			<skill id="148" name=" Ma Âm Phệ Phách"/>
+			<skill id="150" name=" Thiên Ma Giải Thể"/>
+			<skill id="149" name=" Vân Long Kích"/>
+			<skill id="493" name=" Ma Viêm Tại Thiên"/>
+			<skill id="847" name=" Phi Hồng Vô Tích"/>
+			<skill id="848" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Ma Nhẫn" desc=" Ma Nhẫn">
+			<skill id="151" name=" Đạn Chỉ Liệt Diệm"/>
+			<skill id="152" name=" Thiên Nhẫn Đao Pháp"/>
+			<skill id="154" name=" Lệ Ma Đoạt Hồn"/>
+			<skill id="145" name=" Kim Thiền Thoát Xác"/>
+			<skill id="153" name=" Thôi Sơn Điền Hải"/>
+			<skill id="494" name=" Hỏa Liên Phần Hoa"/>
+			<skill id="155" name=" Nhiếp Hồn Loạn Tâm"/>
+			<skill id="158" name=" Xí Không Ma Diệm"/>
+			<skill id="156" name=" Thiên Ngoại Lưu Tinh"/>
+			<skill id="496" name=" Ma Diệm Thất Sát"/>
+			<skill id="849" name=" Thúc Phọc Chú"/>
+			<skill id="850" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="9" name=" Võ Đang" series="5" camp="justice" sexlimit="-1">
+		<route id="1" name=" Khí Võ" desc=" Khí Võ">
+			<skill id="159" name=" Bác Cập Nhi Phục"/>
+			<skill id="160" name=" Võ Đang Quyền Pháp"/>
+			<skill id="161" name=" Tọa Vọng Vô Ngã"/>
+			<skill id="163" name=" Thê Vân Tung"/>
+			<skill id="162" name=" Vô Ngã Vô Kiếm"/>
+			<skill id="497" name=" Thuần Dương Vô Cực"/>
+			<skill id="164" name=" Chân Vũ Thất Tiệt"/>
+			<skill id="166" name=" Thái Cực Vô Ý"/>
+			<skill id="165" name=" Thiên Địa Vô Cực"/>
+			<skill id="498" name=" Thái Cực Thần Công"/>
+			<skill id="851" name=" Võ Đang Cửu Dương"/>
+			<skill id="852" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Kiếm Võ" desc=" Kiếm Võ">
+			<skill id="167" name=" Kiếm Phi Kinh Thiên"/>
+			<skill id="168" name=" Võ Đang Kiếm Pháp"/>
+			<skill id="783" name=" Vô Ngã Tâm Pháp"/>
+			<skill id="163" name=" Thê Vân Tung"/>
+			<skill id="169" name=" Tam Hoàn Sáo Nguyệt"/>
+			<skill id="499" name=" Thái Nhất Chân Khí"/>
+			<skill id="170" name=" Thất Tinh Quyết"/>
+			<skill id="174" name=" Kiếm Khí Tung Hoành"/>
+			<skill id="171" name=" Nhân Kiếm Hợp Nhất"/>
+			<skill id="500" name=" Thái Cực Kiếm Pháp"/>
+			<skill id="853" name=" Mê Tung Huyễn Ảnh"/>
+			<skill id="854" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="10" name=" Côn Lôn" series="5" camp="balance" sexlimit="-1">
+		<route id="1" name=" Đao Côn" desc=" Đao Côn">
+			<skill id="175" name=" Hô Phong Pháp"/>
+			<skill id="176" name=" Côn Lôn Đao Pháp"/>
+			<skill id="179" name=" Huyền Thiên Vô Cực"/>
+			<skill id="177" name=" Thanh Phong Phù"/>
+			<skill id="178" name=" Cuồng Phong Sậu Điện"/>
+			<skill id="697" name=" Khai Thần Thuật"/>
+			<skill id="180" name=" Nhất Khí Tam Thanh"/>
+			<skill id="183" name=" Thiên Thanh Địa Trọc"/>
+			<skill id="181" name=" Ngạo Tuyết Tiếu Phong"/>
+			<skill id="698" name=" Sương Ngạo Côn Lôn"/>
+			<skill id="855" name=" Vô Nhân Vô Ngã"/>
+			<skill id="856" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Kiếm Côn" desc=" Kiếm Côn">
+			<skill id="188" name=" Cuồng Lôi Chấn Địa"/>
+			<skill id="189" name=" Côn Lôn Kiếm Pháp"/>
+			<skill id="179" name=" Huyền Thiên Vô Cực"/>
+			<skill id="177" name=" Thanh Phong Phù"/>
+			<skill id="190" name=" Thiên Tế Tấn Lôi"/>
+			<skill id="699" name=" Túy Tiên Thác Cốt"/>
+			<skill id="191" name=" Đạo Cốt Tiên Phong"/>
+			<skill id="193" name=" Ngũ Lôi Chánh Pháp"/>
+			<skill id="192" name=" Lôi Động Cửu Thiên"/>
+			<skill id="767" name=" Hỗn Nguyên Càn Khôn"/>
+			<skill id="857" name=" Lôi Đình Quyết"/>
+			<skill id="858" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="11" name=" Minh Giáo" series="2" camp="balance" sexlimit="-1">
+		<route id="1" name=" Chùy Minh" desc=" Chùy Minh">
+			<skill id="194" name=" Khai Thiên Thức"/>
+			<skill id="196" name=" Minh Giáo Chùy Pháp"/>
+			<skill id="199" name=" Khốn Hổ Vân Tiếu"/>
+			<skill id="768" name=" Huyền Dương Công"/>
+			<skill id="198" name=" Phách Địa Thế"/>
+			<skill id="201" name=" Kim Qua Thiết Mã"/>
+			<skill id="197" name=" Ngự Mã Thuật"/>
+			<skill id="204" name=" Trấn Ngục Phá Thiên Kình"/>
+			<skill id="202" name=" Long Thôn Thức"/>
+			<skill id="769" name=" Không Tuyệt Tâm Pháp"/>
+			<skill id="859" name=" Cửu Hi Hỗn Dương"/>
+			<skill id="860" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Kiếm Minh" desc=" Kiếm Minh">
+			<skill id="205" name=" Thánh Hỏa Phần Tâm"/>
+			<skill id="206" name=" Minh Giáo Kiếm Pháp"/>
+			<skill id="207" name=" Di Khí Phiêu Tung"/>
+			<skill id="209" name=" Phiêu Dực Thân Pháp"/>
+			<skill id="208" name=" Vạn Vật Câu Phần"/>
+			<skill id="210" name=" Càn Khôn Đại Na Di"/>
+			<skill id="770" name=" Thâu Thiên Hoán Nhật"/>
+			<skill id="212" name=" Ly Hỏa Đại Pháp"/>
+			<skill id="211" name=" Thánh Hỏa Liêu Nguyên"/>
+			<skill id="772" name=" Thánh Hỏa Thần Công"/>
+			<skill id="861" name=" Thánh Hỏa Lệnh Pháp"/>
+			<skill id="862" name=" Kỹ năng cấp 120"/>
+		</route>
+	</faction>
+	<faction id="12" name=" Đoàn Thị" series="3" camp="balance" sexlimit="-1">
+		<route id="1" name=" Chỉ Đoàn" desc=" Chỉ Đoàn">
+			<skill id="213" name=" Thần Chỉ Điểm Huyệt"/>
+			<skill id="215" name=" Đoàn Thị Chỉ Pháp"/>
+			<skill id="216" name=" Nhất Dương Chỉ"/>
+			<skill id="219" name=" Lăng Ba Vi Bộ"/>
+			<skill id="217" name=" Nhất Chỉ Càn Khôn"/>
+			<skill id="773" name=" Từ Bi Quyết"/>
+			<skill id="220" name=" Thí Nguyên Quyết"/>
+			<skill id="225" name=" Kim Ngọc Chỉ Pháp"/>
+			<skill id="223" name=" Càn Dương Thần Chỉ"/>
+			<skill id="775" name=" Càn Thiên Chỉ Pháp"/>
+			<skill id="863" name=" Diệu Đề Chỉ"/>
+			<skill id="864" name=" Kỹ năng cấp 120"/>
+		</route>
+		<route id="2" name=" Khí Đoàn" desc=" Khí Đoàn">
+			<skill id="226" name=" Phong Vân Biến Huyễn"/>
+			<skill id="227" name=" Đoàn Thị Tâm Pháp"/>
+			<skill id="228" name=" Bắc Minh Thần Công"/>
+			<skill id="230" name=" Thiên Nam Bộ Pháp"/>
+			<skill id="229" name=" Kim Ngọc Mãn Đường"/>
+			<skill id="776" name=" Lục Kiếm Tề Phát"/>
+			<skill id="231" name=" Khô Vinh Thiền Công"/>
+			<skill id="233" name=" Thiên Long Thần Công"/>
+			<skill id="232" name=" Lục Mạch Thần Kiếm"/>
+			<skill id="778" name=" Đoàn Gia Khí Kiếm"/>
+			<skill id="865" name=" Kinh Thiên Nhất Kiếm"/>
+			<skill id="1662" name="Ám Hương"/>
+			<skill id="866" name="Sơ Ảnh"/>
+		</route>
+	</faction>
+	<faction id="13" name=" Cổ Mộ" series="5" camp="balance" sexlimit="-1">
+		<route id="1" name=" Kiếm Mộ" desc="Kiếm Mộ">
+			<!--<skill id="2800" name="剑古墓2闪_10"/>-->
+			<skill id="2803" name="Thu Nhạn Bàng Hoàng"/>
+			<skill id="2812" name="Kiếm Mộ Pháp"/>
+			<skill id="2806" name="Hồng Tụ Triền"/>
+			<skill id="2808" name="Tịnh Ảnh Trầm Bích"/>
+			<!--<skill id="2801" name="剑古墓2闪_50"/>-->
+			<skill id="2804" name="Bạch Vân Hồi Vọng"/>
+			<skill id="2809" name="Mộ Vân Ngưng Bích"/>
+			<skill id="2807" name="Hàn Sơn Độc Lập"/>
+			<skill id="2813" name="Ngọc Nữ Kiếm Pháp"/>
+			<!--<skill id="2802" name="剑古墓2闪_90"/>-->
+			<skill id="2805" name="Cô Nguyệt Bồi Hồi"/>
+			<skill id="2814" name="Ngọc Nữ Tâm Kinh"/>
+			<skill id="2811" name="Chung Nam Vãn Chiếu"/>
+			<skill id="2810" name="Phi Thiên Vũ"/>
+		</route>
+		<route id="2" name=" Châm Mộ" desc="Châm Mộ">
+			<skill id="2821" name="Biệt Tự"/>
+			<skill id="2834" name="Mộ Châm Pháp"/>
+			<skill id="2827" name="Kinh Hồng Chiếu Ảnh"/>
+			<skill id="2822" name="Băng Phách Ngân Châm"/>
+			<skill id="2837" name="Khán Chu Thành Bích"/>
+			<skill id="2823" name="Cô Ảnh"/>
+			<skill id="2831" name="Súc Thế Đãi Phát"/>
+			<skill id="2824" name="Ngọc Phong Châm"/>
+			<skill id="2835" name="Lưu Vân Pháp"/>
+			<skill id="2830" name="Hành Vân Đới Vũ"/>
+			<skill id="2825" name="Ly Hận"/>
+			<skill id="2836" name="Ngự Lôi Quyết"/>
+			<skill id="2828" name="Phong Lưu Vân Tán"/>
+			<skill id="2832" name="Ngũ Nội Như Phần"/>
+			<skill id="2829" name="Vụ Tập Vân Hợp"/>
+		</route>
+	</faction>
+</factions>

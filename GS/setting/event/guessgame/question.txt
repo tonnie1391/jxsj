@@ -1,0 +1,46 @@
+QID	Use	Kind	Question	Answer	Select1	Setect2
+1	0	Thao Tác	Cách gia nhập nhóm?	Nhấn giữ Ctrl và nhấp chuột phải vào người chơi là đội trưởng,chọn “nhập nhóm”.	Nhấn giữ Alt và nhấp chuột phải vào người chơi là đội trưởng,chọn “nhập nhóm”.	Nhấn giữ Shift và nhấp chuột phải vào người chơi là đội trưởng,chọn “nhập nhóm”.
+2	0	Thao Tác	Cách rời khỏi nhóm?	Mở giao diện tổ đội, nhấp nút rời nhóm.	Mở giao diện tổ đội, nhấp nút mời nhóm.	Mở giao diện tổ đội, nhấp nút tham gia nhóm.
+3	0	Thao Tác	Phím tắt để Giao Dịch với người chơi khác?	Nhấn giữ Ctrl và nhấp chuột phải vào người chơi khác,chọn “giao dịch”.	Nhấn giữ Alt và nhấp chuột phải vào người chơi khác,chọn “giao dịch”.	Nhấn giữ Shift và nhấp chuột phải vào người chơi khác,chọn “giao dịch”.
+4	0	Thao Tác	Làm thế nào để trở thành hảo hữu của nhau?	Nhấn Giữ Ctrl và nhấp chuột phải vào người chơi khác,chọn “hảo hữu”.	Nhấn Giữ Alt và nhấp chuột phải vào người chơi khác,chọn “hảo hữu”.	Nhấn Giữ Shift và nhấp chuột phải vào người chơi khác,chọn “hảo hữu”.
+5	0	Thao Tác	Làm thế nào để tiến hành tương tác trong giao diện hảo hữu?	Trong giao diện hảo hữu, nhấp chuột trái vào tên người chơi sẽ xuất hiện giao diện hảo hữu.	Trong giao diện hảo hữu, nhấp chuột phải vào tên người chơi sẽ xuất hiện giao diện hảo hữu.	Trong giao diện hảo hữu, nhấp chuột giữa vào tên người chơi sẽ xuất hiện giao diện hảo hữu.
+6	0	Thao Tác	Nhấn Phím nào để thay đổi Trạng thái chiến Đấu?	Ctrl +H	Ctrl +J	Ctrl +K
+7	0	Thao Tác	Phím tắt để lên xuống ngựa?	Phím M	Phím O	Phím N
+8	0	Thao Tác	Phím tắt để mở hộp thư?	Phím I	Phím J	Phím O
+9	0	Thao Tác	Làm sao bầu chọn đại sư huynh (đại sư tỉ) của môn phái?	Mở Tu Luyện Châu tiến hành bầu chọn.	Mở Túi Tân Thủ tiến hành bầu chọn.	Mở Cẩm Nang Trưởng Thành tiến hành bầu chọn.
+10	0	Chiến trường	Hai bên phải có ít nhất bao nhiêu người chơi mới mở được chiến trường Dương Châu?	6 Người	8 Người	12 Người
+11	0	Chiến trường	Hai bên phải có ít nhất bao nhiêu người chơi mới mở được chiến trường Phượng Tường?	8 Người	6 Người	12 Người
+12	0	Chiến trường	Hai bên phải có ít nhất bao nhiêu người chơi mới mở được chiến trường Tương Dương?	12 Người	6 Người	8 Người
+13	0	Chiến trường	Hình thức bảo vệ nguyên soái trên chiến trường Tống Kim, cách nói nào là sai?	Phe mình có ít hơn 50 đại tướng xuất hiện.	Mỗi bên có 1 Nguyên Soái	Bảo vệ Nguyên Soái được điểm tích lũy
+14	0	Chiến trường	Cách nào ghi danh vào chiến trường Tống Kim?	Đăng ký vào tại chiêu mộ sứ Tống Kim tại các thành thị lớn…	Dùng ngựa Phiên Vũ phi thẳng vào Tống Kim	Gọi Hảo hữu có độ thân mật cao nhất đưa vào
+15	0	Chiến trường	Danh vọng chiến trường có thể tích lũy không?	Được	Không	Không biết nữa
+16	0	Chiến trường	Cách nói về tổ đội trong chiến trường, cái nào đúng?	Được tự do tổ đội với người chơi cùng phe.	Được tự do tổ đội với người chơi khác phe.	Không được tổ đội
+17	0	Chiến trường	Danh vọng chiến trường được khen thưởng theo tiêu chuẩn nào?	Căn cứ xếp hạng và tích lũy sau mỗi trận chiến.	Căn cứ xếp hạng và tích lũy sau mỗi giây.	Căn cứ xếp hạng và tích lũy sau mỗi phút.
+18	0	Chiến trường	Tích Lũy chiến trường có tác dụng gì?	Có thể đổi thưởng kinh nghiệm, tích lũy vinh dự Tống Kim.	Có thể đổi thưởng bạc, đồng.	Có thể đổi thưởng Kinh nghiệm, bạc.
+19	0	Kỳ Trân Các	Làm thế nào để có được thời gian ủy thác rời mạng?	Dùng Bạch Cầu Hoàn	Dùng Kinh Nghiệm Đơn	Dùng Càn Khôn Phù
+20	0	Kỳ Trân Các	Làm thế nào để có Bạch Cầu Hoàn?	Mua ở “Kỳ Trân Các”.	Mua ở Tiệm tạp hóa.	Mua ở Tiệm Trang sức.
+21	0	Kỳ Trân Các	Tiền đồng là gì?	Tiền đồng là loại tiền tệ đặc biệt, có thể dùng để mua các loại đạo cụ….	Tiền đồng là đồng tiền.	Tiền đồng là đồng tiền có thể mua được tất cả mọi thứ.
+22	0	Kỳ Trân Các	Làm thế nào để có tiền đồng?	Nạp thẻ.	Ăn cướp.	Ăn trộm.
+23	0	Kỳ Trân Các	Công dụng của đồng khóa?	Mua đạo cụ tại “khu đồng khóa” trong Kỳ Trân Các.	Mua đạo cụ tại “khu đồng” trong Kỳ Trân Các.	Mua đạo cụ tại “khu bạc” trong Kỳ Trân Các.
+24	0	Tổ đội	Ai có thể quyết định cách phân chia vật phẩm trong nhóm?	Chỉ có đội trưởng có quyền.	Chỉ có thành viên có quyền.	Các thành viên trong nhóm đều có quyền.
+25	0	Tổ đội	Dạng bảo vệ cá nhân trong nhóm, vật phẩm có được khi đánh quái được chia thế nào?	Người giết chết con quái có quyền lấy.	Chỉ cần đứng nhìn là có quyền lấy.	Người thấy con quái chết có quyền lấy
+26	0	Tổ đội	Rượu lâu năm có tác dụng gì?	Tăng kinh nghiệm lửa trại	Tăng kinh nghiệm đánh quái	Tăng kinh nghiệm chơi game
+27	0	Sư đồ	Người chơi cấp mấy được phép nhận đệ tử?	Đạt cấp 69	Đạt cấp 50	Đạt cấp 20
+28	0	Sư đồ	Cấp mấy mới được bái sư?	Cấp 20	Cấp 50	Cấp 69
+29	0	Sư đồ	Mỗi người chơi được phép đồng thời có bao nhiêu đệ tử chưa xuất sư?	5	3	1
+30	0	Các câu hỏi khác	Hoa đăng trong hoạt động đoán hoa đăng xuất hiện ở những bản đồ nào?	8 Tân Thủ Thôn	7 Thành Thị	12 Thập Đại Phái
+31	0	Các câu hỏi khác	Người chơi cấp mấy được tham gia hoạt động Bạch Hổ Đường?	Cấp 50 trở lên	Cấp 30 trở lên	Cấp 80 trở lên
+32	0	Các câu hỏi khác	Lôi đài cho phép hai bên có bao nhiêu người chơi?	Đối chiến 1V1-8V8	Đối chiến 1V1-3V3	Đối chiến 1V1-6V6
+33	0	Các câu hỏi khác	Mỗi Tuần Người chơi được nhận bao nhiêu bạc miễn Thuế?	80 vạn lượng	100 vạn lượng	120 vạn lượng
+34	0	Các câu hỏi khác	Những cách nói về kỹ năng nộ khí cách nào đúng?	Kỹ năng nộ khí vô hiệu với người chơi, trạng thái PK không sử dụng được.	Kỹ năng nộ khí có tác dụng với người chơi, trạng thái PK có thể sử dụng.	Kỹ năng nộ khí vô hiệu với người chơi, trạng thái PK có thể sử dụng.
+35	0	Các câu hỏi khác	NPC nào có chức năng trở thành mật hữu chỉ định?	Diệp Chi Lâm.	Bạch Thu Lâm.	Long Ngũ Thái Gia
+36	0	Các câu hỏi khác	Kiếm Thế có bao nhiêu thành?	7	6	8
+37	0	Các câu hỏi khác	Kiếm Thế có bao nhiêu tân thủ thôn?	8	7	6
+38	0	Các câu hỏi khác	Làm thế nào có được Nguyên liệu dùng cho kỹ năng sống?	Mua ở cửa hàng hoặc lấy trong quá trình tách trang bị.	Trộm của người khác	Đánh quái thường có thể nhặt được
+39	0	Các câu hỏi khác	Hoạt lực có tác dụng gì?	Vật phẩm cần để gia công kỹ năng sống.	Vật phẩm cần để chế tạo kỹ năng sống.
+40	0	Các câu hỏi khác	Tinh lực có tác dụng gì?	Vật phẩm cần để chế tạo kỹ năng sống.	Vật phẩm cần để gia công kỹ năng sống.
+41	0	Các câu hỏi khác	Cường hóa trang bị cần những nguyên liệu gì?	Bạc và huyền tinh	Đồng và kinh nghiệm	Huyền tinh và Đồng
+42	0	Các câu hỏi khác	Những cách nói về tách trang bị, cái nào đúng?	Chỉ tách được những trang bị khóa.	Chỉ tách được những trang bị đã khóa.	Có thể tách được cả trang bị khóa và trang bị đã khóa
+43	0	Các câu hỏi khác	Trong trường hợp nào người chơi cùng Gia Tộc, Cùng bang hội, liên minh bang hội, Cùng nhóm có thể tấn công lẫn nhau?	Khi thiết lập quan hệ tỷ thí và cừu sát.	Khi thiết lập quan hệ hảo hữu	Khi thiết lập quan hệ mật hữu
+44	0	Các câu hỏi khác	Gặp NPC nào để tự thú?	Nha Dịch Lâm An và Biện Kinh.	Nha Dịch Lâm An và Tương Dương	Nha Dịch Tương Dương và Biện Kinh
+45	0	Các câu hỏi khác	Người chơi đang ngồi tù, có thể sử dụng đạo cụ gì để rời tù?	Lệnh bài Hình Bộ.	Lệnh bài Tẩy Tủy.	Lệnh bài Danh vọng.

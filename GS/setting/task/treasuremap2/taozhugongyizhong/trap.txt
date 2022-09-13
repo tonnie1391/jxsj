@@ -1,0 +1,3 @@
+TrapName	TrapPosFile
+to_level2	\setting\task\treasuremap2\taozhugongyizhong\trap\to_level2.txt
+to_level3	\setting\task\treasuremap2\taozhugongyizhong\trap\to_level3.txt

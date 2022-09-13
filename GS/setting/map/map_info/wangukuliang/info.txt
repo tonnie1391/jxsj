@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_sanxiazhandao	1															\setting\map\map_info\wangukuliang\trap\to_sanxiazhandao.txt			
+Tam Hiệp Sạn Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		53920	103328		1		
+to_fuliudong	1															\setting\map\map_info\wangukuliang\trap\to_fuliudong.txt			
+Phục Lưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		59296	100928		1		
+Lật Điện Ý	0	6888	0	5	120	1	20	20	20	20	20	16		52416	101824				
+Tô Vô Nạp Tà	0	6891	0	5	120	1	20	20	20	20	20	16		58240	101728				

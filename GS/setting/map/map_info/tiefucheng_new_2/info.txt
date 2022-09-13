@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vào ngai vàng	0	7132	3	5	70	1	20	20	20	20	20	1		56480	109056				
+Quay lại vòng ngoài	0	7147	3	5	70	1	20	20	20	20	20	1		60448	107584				
+Quay lại vòng ngoài	0	7147	3	5	70	1	20	20	20	20	20	1		56864	113600				
+Quay lại vòng ngoài	0	7147	3	5	70	1	20	20	20	20	20	1		53664	107872				

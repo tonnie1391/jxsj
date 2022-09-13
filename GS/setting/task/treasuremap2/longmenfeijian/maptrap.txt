@@ -1,0 +1,7 @@
+TrapId	TrapName	TRPOSX	TRPOSY
+1	trap_1st	50656	104032
+2	trap_2nd	49120	102208
+3	trap_3rd	47456	99808
+4	trap_4th	46304	98080
+5	trap_5th	48032	91648
+6	trap_6th	49920	91936

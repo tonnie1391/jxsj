@@ -1,0 +1,8 @@
+nGenre	nDetail	nParticular	nLevel	nCount	szTip	name
+18	1	541	1	1	请放入<color=yellow>1<color>块月影之石，您将获得一张<color=yellow>镶边帛帖<color>。您若想说服野外地图的人形怪成为您的同伴，它必不可少。	镶边帛帖
+18	1	541	2	10	请放入<color=yellow>10<color>块月影之石，您将获得一张<color=yellow>穿珠银帖<color>。您若想说服逍遥谷里的NPC成为您的同伴，它必不可少。	穿珠银帖
+18	1	544	1	1	请放入<color=yellow>1<color>块月影之石，您将获得一个<color=yellow>普通的精魄<color>。它可以将您和您的某位同伴的亲密度提高一点儿。	普通的精魄
+18	1	544	2	10	请放入<color=yellow>10<color>块月影之石，您将获得一个<color=yellow>特别的精魄<color>。它可以将您和您的某位同伴的亲密度提高一些。	特别的精魄
+18	1	544	3	100	请放入<color=yellow>100<color>块月影之石，您将获得一个<color=yellow>奇妙的精魄<color>。它可以将您和您的某位同伴的亲密度提高许多。	奇妙的精魄
+18	1	564	1	50	请放入<color=yellow>50<color>块月影之石，您将获得一个<color=yellow>菩提果<color>。它可以使您的某位120级的同伴重生。	一个菩提果
+18	1	566	1	1	请放入<color=yellow>1<color>块月影之石，您将获得一封<color=yellow>推荐信<color>。可以用来将1级的同伴介绍给其他玩家。	推荐信

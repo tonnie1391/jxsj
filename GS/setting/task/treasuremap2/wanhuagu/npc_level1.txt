@@ -1,0 +1,2 @@
+NpcName	TemplateId	NpcLevel	NpcCount	XPos	YPos	NpcPosFile
+Quan Tiểu Đao	7016	20		50048	102368		

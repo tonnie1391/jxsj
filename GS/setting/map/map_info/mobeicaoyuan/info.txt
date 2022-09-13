@@ -1,0 +1,37 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Quái Khấu	0	2285	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mobeicaoyuan\npc\area1.txt			
+Mịch Độc Tăng	0	2286	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mobeicaoyuan\npc\area2.txt			
+Lãnh Diện Khôi	0	2287	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mobeicaoyuan\npc\area3.txt			
+Khổ Tu Lãng Nhân	0	2288	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mobeicaoyuan\npc\area4.txt			
+to_chilechuan	1															\setting\map\map_info\mobeicaoyuan\trap\to_chilechuan.txt			
+Sắc Lặc Xuyên	0	2525	4	5	1	1	20	20	20	20	20	1		57504	121024		1		
+Chung Khuê	0	4342	3	5	150	1	20	20	20	20	20	1		61024	115712		1		
+Lan Lộ Mâu Tặc	0	4343	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\mobeicaoyuan\npc\lanlumaozei.txt			
+to_mengguwangting	1															\setting\map\map_info\mobeicaoyuan\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	1	1	20	20	20	20	20	1		51648	114144		1		
+to_wanglongshan	1															\setting\map\map_info\mobeicaoyuan\trap\to_wanglongshan.txt			
+Vọng Long Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		63360	112064		1		
+Thiết Mộc Chân	0	4627	3	5	130	1	20	20	20	20	20	1		60800	104000				
+Lý Khất Vương	0	4628	0	5	130	1	20	20	20	20	20	3		54016	115264				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53440	114592				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53728	115360				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53248	115808				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53376	117696				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53824	114976				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54016	115968				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54208	116096				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		53952	117504				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54240	117760				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54656	115424				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54432	115776				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54656	116000				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54400	117280				
+Thủ Vệ Lý Khất Bộ	0	4631	0	5	130	1	20	20	20	20	20	1		54624	117568				
+Vạn Cốt Quật-Si	0	2525	4	5	1	1	20	20	20	20	20	1		54240	120384		1		
+to_wangukuchi1	1															\setting\map\map_info\mobeicaoyuan\trap\to_wangukuchi1.txt			
+Vạn Cốt Quật-Si	0	2525	4	5	1	1	20	20	20	20	20	1		54880	104768		1		
+to_wangukuchi2	1															\setting\map\map_info\mobeicaoyuan\trap\to_wangukuchi2.txt			
+Vạn Cốt Quật-Mị	0	2525	4	5	1	1	20	20	20	20	20	1		62528	106368		1		
+to_wangukumei1	1															\setting\map\map_info\mobeicaoyuan\trap\to_wangukumei1.txt			
+Vạn Cốt Quật-Mị	0	2525	4	5	1	1	20	20	20	20	20	1		60032	114272		1		
+to_wangukumei2	1															\setting\map\map_info\mobeicaoyuan\trap\to_wangukumei2.txt			

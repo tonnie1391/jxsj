@@ -1,0 +1,13 @@
+RefineId	Desc	Detail	RequirRefineLev	ResRefineLev	AddValue	Desc2	AddFightPower	Fee
+1	Bộ Tiêu Dao_Thủ Trạc	10	0	1	2250000	Luyện hóa trang bị ban đầu mỗi lần là 150, 300, 450, nhưng trang bị hiện tại có thể bị hệ số trang bị khuếch đại, vì thế toàn bộ đều 150%	1	10000
+2	Bộ Tiêu Dao_Hương Nang Bội	11	0	1	4500000		1	10000
+3	Bộ Tiêu Dao_Giày	7	0	1	6750000		1	10000
+4	Bộ Liên Đấu_Áo	3	0	1	2250000		1	10000
+5	Bộ Liên Đấu_Hộ Thân Phù	6	0	1	4500000		1	10000
+6	Bộ Liên Đấu_Nhẫn	4	0	1	6750000		1	10000
+7	Bộ Lãnh Thổ_Nón	9	0	1	2250000		1	10000
+8	Bộ Lãnh Thổ_Liên	5	0	1	6750000		1	10000
+9	Bộ Lãnh Thổ_Lưng	8	0	1	4500000		1	10000
+10	Bộ Thủy Hoàng_Thủ Trạc	10	1	2	4500000		2	10000
+11	Bộ Thủy Hoàng_Hương Nang Bội	11	1	2	9000000		2	10000
+12	Bộ Thủy Hoàng_Áo	3	1	2	9000000		2	10000

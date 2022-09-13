@@ -1,0 +1,39 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vương Trùng Dương	0	190	3	5	150	1	20	20	20	20	20	1		55520	123200		1		
+Vương Trùng Dương	0	204	3	5	150	1	20	20	20	20	20	1		53440	125952		1		
+Không Vô Đại Sư	0	205	3	5	60	1	20	20	20	20	20	1		53600	126176		1		
+Không Vô Đại Sư	0	206	0	5	35	1	20	20	20	20	20	1		56352	126272		1		
+Không Vô Đại Sư	0	200	3	5	60	1	20	20	20	20	20	1		50720	125888		1		
+Ngụy Trường Phong	0	177	3	5	60	1	20	20	20	20	20	1		60512	122976		1		2
+Đào Vĩnh Xương	0	207	3	5	60	1	20	20	20	20	20	1		59904	126048		1		
+Đào Vĩnh Xương	0	183	3	5	60	1	20	20	20	20	20	1		58400	94880		1		
+Đào Vĩnh Xương	0	188	3	5	60	1	20	20	20	20	20	1		53184	122720		1		
+Đào Vĩnh Xương	0	201	3	5	60	1	20	20	20	20	20	1		50528	125696		1		
+Đào Vĩnh Xương	0	193	3	5	60	1	20	20	20	20	20	1		57856	123296		1		
+Nhất Diệp Chân Nhân	0	788	3	5	90	1	20	20	20	20	20	1		50752	122880				
+Nhất Diệp Chân Nhân	0	189	3	5	90	1	20	20	20	20	20	1		53024	122528		1		
+Nhất Diệp Chân Nhân	0	208	3	5	90	1	20	20	20	20	20	1		58592	95104		1		
+Truyền Nhân Thiên Long Môn	0	191	3	5	60	1	20	20	20	20	20	1		50240	118784		1		0
+Liên Châu Tiễn Khách	0	194	3	5	60	1	20	20	20	20	20	1				\setting\map\map_info\longhuhuanjing_1_shinei\npc\lianzhujianke.txt	1		2
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		58240	95488		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123360		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123136		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123648		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		57504	123872		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		60160	123456		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		50336	126368		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		53248	126528		1		
+Đến Vân Lộc Thủy Cư	0	2525	4	5	1	1	20	20	20	20	20	1		56032	126752		1		
+Đến Đông Long Hổ Huyễn Cảnh	0	2525	4	5	1	1	20	20	20	20	20	1		59360	126848		1		
+to_exit3	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit3.txt			
+to_exit17	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit25.txt			
+to_exit26	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit26.txt			
+to_exit27	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit27.txt			
+to_exit28	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit28.txt			
+to_exit29	1															\setting\map\map_info\longhuhuanjing_1_shinei\trap\to_exit29.txt			

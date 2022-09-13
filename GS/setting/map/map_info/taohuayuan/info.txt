@@ -1,0 +1,27 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ma Cổ Đồng	0	2346	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\taohuayuan\npc\area1.txt	1		1
+Vô Tâm Thú	0	2347	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\taohuayuan\npc\area2.txt	1		0
+Lang Nha Mãnh Sĩ	0	2348	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\taohuayuan\npc\area3.txt	1		4
+Thất Tâm Nho	0	2349	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\taohuayuan\npc\area4.txt	1		0
+to_fuliudong	1															\setting\map\map_info\taohuayuan\trap\to_fuliudong.txt			
+to_miaoling	1															\setting\map\map_info\taohuayuan\trap\to_miaoling.txt			
+to_suoyunyuan	1															\setting\map\map_info\taohuayuan\trap\to_suoyunyuan.txt			
+to_wulingshan	1															\setting\map\map_info\taohuayuan\trap\to_wulingshan.txt			
+to_yelangjiuxu	1															\setting\map\map_info\taohuayuan\trap\to_yelangjiuxu.txt			
+Phục Lưu Động	0	2525	4	5	1	1	20	20	20	20	20	1		52960	109760		1		
+Miêu Lĩnh	0	2525	4	5	1	1	20	20	20	20	20	1		55168	124576		1		
+Tỏa Vân Uyên	0	2525	4	5	1	1	20	20	20	20	20	1		64832	115584		1		
+Vũ Lăng Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		59328	103712		1		
+Tàn Tích Dạ Lang	0	2525	4	5	1	1	20	20	20	20	20	1		51200	115808		1		
+Cổ Trùng	0	4434	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\taohuayuan\npc\guchong2.txt	1		0
+Tiết Thường	0	4621	0	5	130	1	20	20	20	20	20	1		52480	112576		1		
+Tiết Ly	0	4622	0	5	130	1	20	20	20	20	20	1		51744	112576		1		
+Tiết Thiên	0	4623	0	5	130	1	20	20	20	20	20	1		51872	111712		1		
+to_shihunwuming1	1															\setting\map\map_info\taohuayuan\trap\to_shihunwuming1.txt			
+Thị Hồn Ốc-Minh	0	2525	4	5	1	1	20	20	20	20	20	1		56128	108192		1		
+to_shihunwuming2	1															\setting\map\map_info\taohuayuan\trap\to_shihunwuming2.txt			
+Thị Hồn Ốc-Minh	0	2525	4	5	1	1	20	20	20	20	20	1		58400	112768		1		
+to_shihunwushu1	1															\setting\map\map_info\taohuayuan\trap\to_shihunwushu1.txt			
+Thị Hồn Ốc-Khu	0	2525	4	5	1	1	20	20	20	20	20	1		57152	123776		1		
+to_shihunwushu2	1															\setting\map\map_info\taohuayuan\trap\to_shihunwushu2.txt			
+Thị Hồn Ốc-Khu	0	2525	4	5	1	1	20	20	20	20	20	1		61600	123680		1		

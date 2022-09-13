@@ -1,0 +1,60 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Quân Lâm An	0	2130	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\area1.txt			
+Thủ Quân Lâm An	0	2130	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\area2.txt			
+Võ Sư Mã Bang	0	2131	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\area3.txt			1
+Bang Chúng Tào Bang	0	2129	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\area4.txt			0
+to_linanfu	1															\setting\map\map_info\caishiji\trap\to_linanfu.txt			
+to_jiuyixi	1															\setting\map\map_info\caishiji\trap\to_jiuyixi.txt			
+to_pengliguze	1															\setting\map\map_info\caishiji\trap\to_pengliguze.txt			
+to_huqiujianchi	1															\setting\map\map_info\caishiji\trap\to_huqiujianchi.txt			
+to_huanghelou	1															\setting\map\map_info\caishiji\trap\to_huanghelou.txt			
+to_dukou1	1															\setting\map\map_info\caishiji\trap\to_dukou1.txt			
+to_dukou2	1															\setting\map\map_info\caishiji\trap\to_dukou2.txt			
+to_dukou3	1															\setting\map\map_info\caishiji\trap\to_dukou3.txt			
+to_dukou4	1															\setting\map\map_info\caishiji\trap\to_dukou4.txt			
+Lâm An Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		66560	110112				
+Cửu Nghi Khê	0	2525	4	5	1	1	20	20	20	20	20	1		60128	121792				
+Bành Lãi Cổ Trạch	0	2525	4	5	1	1	20	20	20	20	20	1		49920	120992				
+Hổ Khâu Kiếm Trì	0	2525	4	5	1	1	20	20	20	20	20	1		66144	103328				
+Hoàng Hạc Lâu	0	2525	4	5	1	1	20	20	20	20	20	1		50048	111648				
+Bến đò	0	2525	4	5	1	1	20	20	20	20	20	1		56576	109664				
+Bến đò	0	2525	4	5	1	1	20	20	20	20	20	1		55872	108896				
+Bến đò	0	2525	4	5	1	1	20	20	20	20	20	1		54400	113952				
+Bến đò	0	2525	4	5	1	1	20	20	20	20	20	1		55104	112288				
+Lưu Trọng Lân	0	554	3	5	60	1	20	20	20	20	20	1		63712	113440				
+Thân Nhược Niên	0	563	3	5	60	1	20	20	20	20	20	1		55232	115200				
+Ôn Túy Sơn	0	555	0	5	60	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt	64608	107200				
+Thần Xạ Thủ	0	435	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\shensheshou.txt			
+Giám Quân	0	436	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\jianjun.txt			
+Đốc quân	0	1222	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt	51232	107808				
+Thủ vệ	0	434	3	5	60	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\shouwei.txt			
+Đạo Mộ Mâu Tặc	0	1805	0	5	60	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\caishiji\npc\daomubaozei.txt			
+Dưỡng Tâm Thảo	0	1626	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\caishiji\npc\yangxincao.txt			
+Thiên Tinh Thảo	0	1627	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\caishiji\npc\tianxingcao.txt			
+Xa Phu	0	1882	3	5	60	1	20	20	20	20	20	1		62848	110080				
+Chu Hy	0	1875	3	5	60	1	20	20	20	20	20	1		57024	109728				
+Thái Nguyên Định	0	1876	3	5	60	1	20	20	20	20	20	1		56896	109760				
+Ngô Tranh Tranh	0	3019	0	5	55	1	20	20	20	20	20	16		64416	121408				3
+Vũ Nhất Đao	0	3020	0	5	55	1	20	20	20	20	20	16		58336	102688				0
+Tây Môn Vô Danh	0	3021	0	5	55	1	20	20	20	20	20	16		51296	102656				2
+Hạng Lệnh Thành	0	3022	0	5	55	1	20	20	20	20	20	16		54496	117728				4
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61280	111200				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61408	111424				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61344	111648				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61216	111968				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61472	111936				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61344	111072				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		61760	110688				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		62784	111744				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		62656	112064				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		62400	112160				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		62560	112448				
+Kẻ Bịt Mặt	0	4557	0	5	130	1	20	20	20	20	20	1		62048	112384				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		61728	110880				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		61024	109088				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		60960	108896				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		62368	112576				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		61472	111552				
+Thủ Lĩnh Bịt Mặt	0	4558	0	5	130	1	20	20	20	20	20	1		62656	112448				
+Xe ngựa	0	4572	3	5	130	1	20	20	20	20	20	1		60896	111456		1		
+Trương Danh Thực	0	4569	3	5	130	1	20	20	20	20	20	1		57984	108800				

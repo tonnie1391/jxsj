@@ -1,0 +1,49 @@
+ID vật phẩm	Mô tả vật phẩm
+522	Nhàn Vân Dã Hạc
+523	Yến Ngữ Oanh Đề
+527	Anh hùng dân gian
+528	Anh hùng vô danh
+529	Anh hùng quả cảm
+530	Anh hùng cái thế
+531	Anh hùng loạn thế
+524	Dĩnh Tảo Nghi
+525	Quốc sắc thiên hương
+526	Khuynh thành khuynh quốc
+532	Long Câu Phượng Sồ
+533	Bích Huyết Đơn Tâm
+534	Bé trai vui vẻ
+535	Bé gái vui vẻ
+536	Nhị A
+537	Bảo Quả Tử
+538	Tân Niên Hiệp Khách
+539	Tân Niên Hiệp Nữ
+540	Đậu Hạo
+541	Khuynh Thế
+542	Đường Bá Hổ
+543	Thu Hương
+544	Ốc Đức Ca Phổ
+545	Thần Tài
+546	Tần Thủy Hoàng
+547	Xích Thố-Rương
+548	Hổ Cát Tường-Rương
+549	Tuyết Hồn-Rương
+550	Lam Kỳ Lân-Rương
+551	Ức Vân-Rương
+552	Hỏa Kỳ Lân-Rương
+553	Trang bị 20% cấp 8
+554	Trang bị 20% cấp 9
+555	Trang bị 20% cấp 10
+556	Trang bị 4% cấp 10
+557	Huyền Tinh cấp 5
+558	Huyền Tinh cấp 6
+559	Huyền Tinh cấp 7
+560	Huyền Tinh cấp 8
+561	Huyền Tinh cấp 9
+562	Huyền Tinh cấp 10
+563	Tiền Du Long (100)
+564	Rương Hồn Thạch (500)
+565	Trang Bị Truyền Phù
+566	Trang Bị Trọng Chú Phù
+581	Mảnh Lôi Đình Ấn
+582	Lôi Đình Ấn
+626	Yến Tiểu Lâu

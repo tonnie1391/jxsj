@@ -1,0 +1,39 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Mâu Cổ Sứ	0	2322	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yueyaquan\npc\area1.txt	1		1
+Thiết Thủ Đao Khách	0	2323	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yueyaquan\npc\area2.txt	1		0
+Bách Độc Thủ	0	2324	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yueyaquan\npc\area3.txt	1		4
+Bạch Tu Tẩu	0	2325	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\yueyaquan\npc\area4.txt	1		0
+to_dunhuanggucheng	1															\setting\map\map_info\yueyaquan\trap\to_dunhuanggucheng.txt			
+to_jiayuguan	1															\setting\map\map_info\yueyaquan\trap\to_jiayuguan.txt			
+to_longmenzhen	1															\setting\map\map_info\yueyaquan\trap\to_longmenzhen.txt			
+to_kunlunpai	1															\setting\map\map_info\yueyaquan\trap\to_kunlunpai.txt			
+Đôn Hoàng Cổ Thành	0	2525	4	5	1	1	20	20	20	20	20	1		62912	107392		1		
+Gia Dụ Quan	0	2525	4	5	1	1	20	20	20	20	20	1		56288	100832		1		
+Long Môn Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		62656	116000		1		
+Côn Lôn Phái	0	2525	4	5	1	1	20	20	20	20	20	1		56736	119840		1		
+La Nhật Vượng	0	4429	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt	53632	101376		1		0
+Hồ Lai	0	4386	0	5	115	1	20	20	20	20	20	1	\setting\npc\droprate\droprate011.txt	54880	104192		1		0
+Doãn Tiêu Vũ	0	4387	3	5	150	1	20	20	20	20	20	1		53568	103168				
+Hoàng Bà Bà	0	5046	3	5	125	1	20	20	20	20	20	1		54176	113536		1		
+Ông của Tiểu Kha	0	5069	3	5	125	1	20	20	20	20	20	1		54784	114400		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54208	101280		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54176	101600		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54080	101504		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		53920	101440		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54272	101536		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54368	101536		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54464	101440		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		54752	101312		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		55008	101184		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		55072	101504		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		55104	101152		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		55200	101408		1		
+Sói Hoang	0	5071	0	5	125	1	20	20	20	20	20	1		55136	101088				
+Vẫn Đan Cung-Tinh	0	2525	4	5	1	1	20	20	20	20	20	1		57984	102048		1		
+to_yundangongxing1	1															\setting\map\map_info\yueyaquan\trap\to_yundangongxing1.txt			
+Vẫn Đan Cung-Tinh	0	2525	4	5	1	1	20	20	20	20	20	1		58784	110208		1		
+to_yundangongxing2	1															\setting\map\map_info\yueyaquan\trap\to_yundangongxing2.txt			
+Vẫn Đan Cung-Thần	0	2525	4	5	1	1	20	20	20	20	20	1		59776	113056		1		
+to_yundangongchen1	1															\setting\map\map_info\yueyaquan\trap\to_yundangongchen1.txt			
+Vẫn Đan Cung-Thần	0	2525	4	5	1	1	20	20	20	20	20	1		56576	114560		1		
+to_yundangongchen2	1															\setting\map\map_info\yueyaquan\trap\to_yundangongchen2.txt			

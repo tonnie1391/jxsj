@@ -1,0 +1,11 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme		
+song_in	1															\setting\map\map_info\kuafuzhanchang_1\trap\song_in.txt	1				
+song_out	1															\setting\map\map_info\kuafuzhanchang_1\trap\song_out.txt	1				
+jin_in	1															\setting\map\map_info\kuafuzhanchang_1\trap\jin_in.txt	1				
+jin_out	1															\setting\map\map_info\kuafuzhanchang_1\trap\jin_out.txt	1				
+Tiệm thuốc	0	4705	3	5	70	1	20	20	20	20	20	1		49024	130272						Điểm Hồi Sinh 1
+Xa Phu	0	4707	3	5	70	1	20	20	20	20	20	1		49344	130560						Điểm Hồi Sinh 1
+Tiệm thuốc	0	4706	3	5	70	1	20	20	20	20	20	1		67072	107200						Điểm Hồi Sinh 1
+Xa Phu	0	4708	3	5	70	1	20	20	20	20	20	1		67488	107616						Điểm Hồi Sinh 1
+Lộ Lộ Thông	0	4704	3	5	70	1	20	20	20	20	20	1		66848	107968						
+Lộ Lộ Thông	0	4703	3	5	70	1	20	20	20	20	20	1		50240	129504						

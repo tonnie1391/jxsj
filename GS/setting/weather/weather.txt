@@ -1,0 +1,4 @@
+WEATHER_ID	DESC	STATE	MAPRATE_FILE	TOTLE_WEIGTH	START_L	START_R	END_L	END_R
+1	ÏÂÓê×´Ì¬	1	rain.txt	10000	0	55	5	15
+2	ÏÂÑ©×´Ì¬	0	snow.txt	10000	0	0	0	0
+3	¿ñ·ç×´Ì¬	0	wind.txt	10000	0	0	0	0

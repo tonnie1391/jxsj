@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Triệu Nhữ Nhu	0	813	3	5	60	1	20	20	20	20	20	3		49216	99200		1		0
+Triệu Thịnh	0	827	3	5	90	1	20	20	20	20	20	3		49376	99264		1		
+to_exit515	1															\setting\map\map_info\zhaofudating\trap\to_exit515.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		49856	99904		1		

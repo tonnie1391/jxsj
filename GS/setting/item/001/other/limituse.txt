@@ -1,0 +1,23 @@
+ItemForbitType	ForbiddenMap	ProperMap
+callboss	village|faction|city|tasksafe|xisuidao|xisuidao_shandong|battle_signup|battle|dalao|baihutang|factionbattle|common_fb|cangbaotu_fb|mijing|leitai|tasktip|taskarmy_fb|xoyogame|taskarmy|liansai|taoyuanrukou|esportwait|dragonboatwait|globalservermap|globalservermapshandong|youlongmishi|jiehun_fb|yulucun|pingjia|atlantis|qinshihuangling|xoyogame_baoming|homeland|village_mini|fight_mini|battle_wild	
+chuansong	xisuidao|xisuidao_shandong|battle|dalao|baihutang|factionbattle|common_fb|cangbaotu_fb|mijing|shenmibaoku_fb|leitai|taskarmy_fb|xoyogame|liansai|taoyuanrukou|esportwait|dragonboatwait|globalservermap|globalservermapshandong|youlongmishi|jiehun_fb|pingjia|kinbattle|kinbattlezhunbei|atlantis|qinshihuangling|kingame_new|yinyangshiguangdian|shilianshanzhuang|biluogu|village_mini|fight_mini|battle_wild|taoxizhen|huadengluan1	
+smartstick	taskarmy_fb|xoyogame|taskarmy|liansai|taoyuanrukou|esportwait|dragonboatwait|globalservermap|globalservermapshandong|youlongmishi|common_fb|cangbaotu_fb|mijing|jiehun_fb|pingjia	
+yaoxiang	liansai	
+songjin		battle
+shenmibaoku		shenmibaoku_fb
+xoyomedicine		xoyogame
+mentoritem		common_fb|cangbaotu_fb|mijing
+towerdefence		towerdefence
+ALL_ITEM	esport|dragonboat|towerdefence|castlefight|roletransfer	
+castlefight_building		castlefight
+castlefight_update		castlefight
+castlefight_skill		castlefight
+REMOTE_MERCHXUAN	castlefight|xisuidao|xisuidao_shandong|battle_signup|battle|dalao|factionbattle|leitai|tasktip|liansai|taoyuanrukou|esportwait|esport|dragonboatwait|dragonboat|globalservermap|globalservermapshandong|common_fb|jiehun_fb|towerdefence|yulucun|pingjia|tongpkmap|kinbattle|kinbattlezhunbei|kuafubaihu|atlantis	
+REMOTE_AUCTION	castlefight|xisuidao|xisuidao_shandong|battle_signup|battle|dalao|factionbattle|leitai|tasktip|liansai|taoyuanrukou|esportwait|esport|dragonboatwait|dragonboat|globalservermap|globalservermapshandong|common_fb|jiehun_fb|towerdefence|yulucun|pingjia|tongpkmap|kinbattle|kinbattlezhunbei|kuafubaihu|atlantis|armycamp	
+REMOTE_TASKEXP	castlefight|xisuidao|xisuidao_shandong|battle_signup|battle|dalao|factionbattle|leitai|tasktip|liansai|taoyuanrukou|esportwait|esport|dragonboatwait|dragonboat|globalservermap|globalservermapshandong|common_fb|jiehun_fb|towerdefence|yulucun|pingjia|tongpkmap|kinbattle|kinbattlezhunbei|kuafubaihu|atlantis	
+REMOTE_ITEMROOM	castlefight|xisuidao|xisuidao_shandong|battle_signup|battle|dalao|factionbattle|leitai|tasktip|liansai|esportwait|esport|dragonboatwait|dragonboat|globalservermap|globalservermapshandong|common_fb|jiehun_fb|towerdefence|yulucun|pingjia|tongpkmap|kinbattle|kinbattlezhunbei|kuafubaihu|atlantis|armycamp	
+REMOTE_CHUANGSONG	castlefight|xisuidao|xisuidao_shandong|battle|dalao|factionbattle|common_fb|shenmibaoku_fb|leitai|liansai|taoyuanrukou|esportwait|dragonboatwait|globalservermap|globalservermapshandong|youlongmishi|jiehun_fb|pingjia|kinbattle|kinbattlezhunbei|atlantis	
+REMOTE_GETMEDICINE	castlefight|xisuidao|xisuidao_shandong|dalao|factionbattle|leitai|tasktip|liansai|taoyuanrukou|esportwait|esport|dragonboatwait|dragonboat|globalservermap|globalservermapshandong|common_fb|jiehun_fb|towerdefence|yulucun|pingjia|tongpkmap|kinbattle|kinbattlezhunbei|kuafubaihu|atlantis|armycamp	
+gbmedicine		battle
+kingame_medicine		kingame_new
+fulimedicine		xoyogame|cangbaotu_fb|battle|taskarmy_fb|kingame_new|fight

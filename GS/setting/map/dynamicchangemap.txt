@@ -1,0 +1,3 @@
+ID	MAPTYPE	DISCHENGE_MAPTYPE	DEFAUTMAP	DEFLEVEL
+1	yuanshisenlinxibu	chilianshedong|ganlugu1|ganlugu2|ganluguendm|dengshakou|ganluguendf|wenxingem|wenxingef|jvyiting|nvwuwopeng|yintongfangjian|yinfangfangjian|dengshakouganglou|mushijvsuo|gexialingendm|gexialingendf	74	50
+2	yanziwuwaiwei	waiyingxiongzhong|yingshunjiao|menghuxiang|houdao|dishuidong|cangyunxuan|changjiangbieyuan	60	50

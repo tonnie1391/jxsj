@@ -1,0 +1,34 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Quân Kiếm Môn	0	2186	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\area1.txt	1		
+Hắc Thủy Vân Kỵ Binh	0	2188	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\area2.txt			
+Hộ Quan Thiết Kỵ Binh	0	2187	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\area3.txt			
+Thủ Quân Kiếm Môn	0	2186	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\area4.txt			
+to_dasanguan	1															\setting\map\map_info\jianmenguan\trap\to_dasanguan.txt	1		
+to_jiangeshudao	1															\setting\map\map_info\jianmenguan\trap\to_jiangeshudao.txt			
+to_xiangyangfu	1															\setting\map\map_info\jianmenguan\trap\to_xiangyangfu.txt			
+Đại Tán Quan	0	2525	4	5	85	1	20	20	20	20	20	1		51104	103936				
+Kiếm Các Thục Đạo	0	2525	4	5	85	1	20	20	20	20	20	1		51328	113312				
+Tương Dương Phủ	0	2525	4	5	85	1	20	20	20	20	20	1		62912	113568				
+to_xiaoshigu	1															\setting\map\map_info\jianmenguan\trap\to_xiaoshigu.txt	1		
+Tiêu Thạch Cốc	0	2525	4	5	85	1	20	20	20	20	20	1		62208	102304				
+Lò Lửa	0	1060	3	5	85	1	20	20	20	20	20	1		55168	120736				
+Nhiếp Văn Thành	0	1007	3	5	85	1	20	20	20	20	20	1		54752	121856				
+Hứa Lão Bá	0	1012	3	5	85	1	20	20	20	20	20	1		55008	120576				
+Tiểu Mã Ca	0	1014	3	5	85	1	20	20	20	20	20	1		57280	106528				
+Hộ Quan Nghĩa Quân	0	1063	0	0	85	1	20	20	20	20	20	1				\setting\map\map_info\jianmenguan\npc\huguanyijun.txt			
+Phó Soái Thiết Lưu Quân	0	1059	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	58464	102624				
+Thân Vệ Binh	0	1061	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\qinweibing.txt			
+Thiết Lưu Quân Tiên Phong	0	1062	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\jianmenguan\npc\tieliujunxianfeng.txt			
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	58688	123392				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	58400	124480				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	58752	125312				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	59040	124416				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	59136	125280				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	59584	124160				
+Thống Lĩnh Kỵ Binh	0	1091	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt	59904	124960				
+Chu Trần Phi	0	3095	0	5	85	1	20	20	20	20	20	16		54688	102688				4
+Chu Sở Bá	0	3096	0	5	85	1	20	20	20	20	20	16		62784	103200				3
+Gia Cát Kinh Hồng	0	3097	0	5	85	1	20	20	20	20	20	16		62016	118336				2
+Phong Vô Ngấn	0	3098	0	5	85	1	20	20	20	20	20	16		51904	116384				1
+to_afanggongfeixu	1															\setting\map\map_info\jianmenguan\trap\to_afanggongfeixu.txt			
+Tàn Tích Cung A Phòng	0	2525	4	5	85	1	20	20	20	20	20	1		58240	102176				

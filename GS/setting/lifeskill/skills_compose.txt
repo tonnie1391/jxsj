@@ -1,0 +1,12 @@
+ID	Name	Gene	Belong	Icon	Desc	LevelExp	BGM				MaxLevel
+1	Khoáng	1	1	\image\icon\lifeskill\kuangwujiagong.spr	Kỹ năng gia công, gia công khoáng thô thành thỏi khoáng hoặc bảo thạch.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\kuangwujiagong.wav				120
+2	Vải	1	2	\image\icon\lifeskill\buliaojiagong.spr	Kỹ năng gia công, gia công tằm, ma thành vải, gấm vóc.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\buliaojiagong.wav				120
+3	Thuốc	1	3	\image\icon\lifeskill\yaocaijiagong.spr	Kỹ năng gia công, gia công thảo dược thành bột thuốc.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\yaocaijiagong.wav				120
+4	Gỗ	1	4	\image\icon\lifeskill\yuanmujiagong.spr	Kỹ năng gia công, gia công gỗ thành tấm gỗ.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\yuanmujiagong.wav				120
+5	Da	1	5	\image\icon\lifeskill\maopijiagong.spr	Kỹ năng gia công, gia công da thành sản phẩm da.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\maopijiagong.wav				120
+6	Vũ khí	0	6	\image\icon\lifeskill\wuqizhizao.spr	Kỹ năng chế tạo, chế tạo đao, kiếm, thương, chùy…và Ma Đao Thạch.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\wuqizhizao.wav				120
+7	Phòng cụ	0	7	\image\icon\lifeskill\fangjuzhizao.spr	Kỹ năng chế tạo, chế tạo thiết giáp, bì giáp, bố y…và Hộ Giáp Phiến.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\fangjuzhizao.wav				120
+8	Chế thuốc	0	8	\image\icon\lifeskill\yaopinzhizao.spr	Kỹ năng chế tạo, chế tạo các loại đơn dược.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\yaopinzhizao.wav				120
+9	Trang sức	0	9	\image\icon\lifeskill\shoushizhizao.spr	Kỹ năng chế tạo, chế tạo hạng liên, giới chỉ… và Ngũ Hành Thạch.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\shoushizhizao.wav				120
+10	Thủ công	0	10	\image\icon\lifeskill\zahuozhizao.spr	Kỹ năng chế tạo, chế tạo các loại tạp hóa như Truyền Tống Phù, hành trang…	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\zahuozhizao.wav				120
+11	Tách đồ	1	11	\image\icon\lifeskill\zhuangbeichaijie.spr	Kỹ năng gia công, có thể tách trang bị thành nguyên liệu.	\setting\lifeskill\skills_compose_exp.txt	\audio\lifeskill\zahuozhizao.wav				120

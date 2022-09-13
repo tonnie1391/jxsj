@@ -1,0 +1,2 @@
+Index	Genre	DetailType	ParticularType	Level	szName	Per	PerEx	Buy_Genre	Buy_DetailType	Buy_ParticularType	Buy_Level	GenreEx	DetailTypeEx	ParticularTypeEx	LevelEx	szNameEx	Rate	CheckMaker	CheckTask	TaskGroup	TaskId	MaxCount
+1	18	1	668	3	心得书	100	5	18	1	668	4	18	1	668	1	空白心得书	1000	1	1	2130	6	100

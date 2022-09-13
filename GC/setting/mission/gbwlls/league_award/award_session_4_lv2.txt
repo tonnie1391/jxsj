@@ -1,0 +1,12 @@
+Win	Tie	Lost	Desc	RankType1	RankType2	RankType3	RankType4	RankType5	RankType6	RankType7	RankType8	RankType9	RankType10	RankDesc
+单场胜奖励	单场平奖励	单场负奖励	奖励描述	排名类型1	排名类型2	排名类型3	排名类型4	排名类型5	排名类型6	排名类型7	排名类型8	排名类型9	排名类型10	奖励描述
+expbase=90	expbase=60	expbase=60	基准经验	exp=10000	exp=9000	exp=8000	exp=7000	exp=6000	exp=5000	exp=4000	exp=3000	exp=2400	exp=2000	经验
+honor=10	honor=5	honor=2	荣誉点	honor=6000	honor=5600	honor=5400	honor=5200	honor=5000	honor=4500	honor=4000	honor=3500	honor=3000	honor=2500	荣誉
+repute=15	repute=8	repute=3	声望	title=12,12,1,0	title=12,12,2,0	title=12,12,3,0	title=12,12,4,0	title=12,12,5,0	title=12,12,6,0	title=12,12,7,0				称号
+prestige=4	prestige=2	prestige=2	江湖威望		item=18,1,215,4	item=18,1,215,4	item=18,1,215,4	item=18,1,215,4	item=18,1,215,4	item=18,1,215,1	item=18,1,215,3	item=18,1,215,2	item=18,1,215,1	武林联赛令牌
+stock=100	stock=0	stock=0	股份		item=18,1,215,4	item=18,1,215,4	item=18,1,215,4	item=18,1,215,4		item=18,1,215,3				武林联赛令牌
+					item=18,1,215,4	item=18,1,215,4	item=18,1,215,4							武林联赛令牌
+					item=18,1,215,4	item=18,1,215,4								武林联赛令牌
+					item=18,1,215,4									武林联赛令牌
+				statuary=2002										雕像
+				itemex=18,1,915,1,48,0	itemex=18,1,915,1,36,0	itemex=18,1,915,1,24,0	itemex=18,1,915,1,18,0	itemex=18,1,915,1,15,0	itemex=18,1,915,1,10,0	itemex=18,1,915,1,5,0	itemex=18,1,915,1,3,0	itemex=18,1,915,1,1,0	itemex=18,1,915,1,1,0	五色石

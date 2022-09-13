@@ -1,0 +1,85 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Điền Thập Sơn	0	804	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	51616	108320		1		0
+Điền Bách Sơn	0	805	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	51904	108000		1		2
+Điền Vạn Sơn	0	806	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	51360	107360		1		0
+Sát Hồn Phiêu	0	941	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\caobangdizi.txt	1		4
+Lục Tâm Nõ	0	943	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\caobangdaoling.txt	1		4
+Cấm Quân	0	810	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\heiyijianke.txt	1		
+Kết Doanh Binh	0	835	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\guanbing.txt	1		
+Vương Giáo Đầu	0	861	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	55520	107520		1		
+Miếu Chúc	0	942	3	5	60	1	20	20	20	20	20	2		60128	122688		1		
+to_gaibangfenduo1	1															\setting\map\map_info\hanshuigudu\trap\to_gaibangfenduo1.txt			
+to_gaibangfenduo3	1															\setting\map\map_info\hanshuigudu\trap\to_gaibangfenduo3.txt			
+to_junyingneibu	1															\setting\map\map_info\hanshuigudu\trap\to_junyingneibu.txt			
+to_kouruixiaowu	1															\setting\map\map_info\hanshuigudu\trap\to_kouruixiaowu.txt			
+to_shanshenmiao	1															\setting\map\map_info\hanshuigudu\trap\to_shanshenmiao.txt			
+to_yusoujia	1															\setting\map\map_info\hanshuigudu\trap\to_yusoujia.txt			
+to_zeixue	1															\setting\map\map_info\hanshuigudu\trap\to_zeixue.txt			
+Đà Thủ Tào Bang	0	2120	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\area2.txt	1		3
+Đà Thủ Tào Bang	0	2120	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\area4.txt	1		3
+Thủ Lĩnh Tào Bang	0	2121	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\area3.txt	1		3
+Quan Binh Tương Dương	0	2122	0	5	55	1	20	20	20	20	20	1	\setting\npc\droprate\droprate006.txt			\setting\map\map_info\hanshuigudu\npc\area1.txt	1		
+to_funiushan	1															\setting\map\map_info\hanshuigudu\trap\to_funiushan.txt			
+to_huanghelou	1															\setting\map\map_info\hanshuigudu\trap\to_huanghelou.txt			
+to_xiangyangfu	1															\setting\map\map_info\hanshuigudu\trap\to_xiangyangfu.txt			
+Mạc Chư Niên	0	548	0	5	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	52608	109920		1		
+Ẩn Sở	0	2525	4	5	1	1	20	20	20	20	20	1		61120	115936		1		
+Long Vương Miếu	0	2525	4	5	1	1	20	20	20	20	20	1		60288	122464		1		
+Phân Đà Cái Bang	0	2525	4	5	1	1	20	20	20	20	20	1		52160	118528		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		53440	121408		1		
+Nhà tranh	0	2525	4	5	1	1	20	20	20	20	20	1		54592	111392		1		
+Soái Trướng Hổ Sư	0	2525	4	5	1	1	20	20	20	20	20	1		55712	107136		1		
+Phục Ngưu Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		61504	106144		1		
+Hoàng Hạc Lâu	0	2525	4	5	1	1	20	20	20	20	20	1		62848	120640		1		
+Tương Dương	0	2525	4	5	1	1	20	20	20	20	20	1		51456	102624		1		
+Sơn Động	0	2525	4	5	1	1	20	20	20	20	20	1		59232	102528		1		
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	52096	118848		1		3
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	52320	118560		1		3
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	60960	116608		1		3
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	2	\setting\npc\droprate\droprate006.txt	61120	116768		1		3
+Tường Tẩu	0	1204	3	5	60	1	20	20	20	20	20	2		54656	111712		1		1
+Toàn Thúc	0	1205	3	5	60	1	20	20	20	20	20	2		50816	109344		1		
+Thiên Lí Hương	0	1624	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\hanshuigudu\npc\qianlixiang.txt			
+Nhất Phẩm Hồng	0	1625	3	5	1	1	20	20	20	20	20	1				\setting\map\map_info\hanshuigudu\npc\yipinhong.txt			
+Giả Thiện Nhân	0	3003	0	5	55	1	20	20	20	20	20	16		61440	124000				3
+Giang Trầm Nhạn	0	3004	0	5	55	1	20	20	20	20	20	16		51264	115328				0
+Khương Tự Dao	0	3005	0	5	55	1	20	20	20	20	20	16		60416	105024				1
+Giải Qui Nam	0	3006	0	5	55	1	20	20	20	20	20	16		61600	113632				2
+to_shennvfeng	1															\setting\map\map_info\hanshuigudu\trap\to_shennvfeng.txt			
+Thần Nữ Phong	0	2525	4	5	1	1	20	20	20	20	20	1		53632	124192		1		
+Trương Đức Tùng	0	4597	0	5	130	1	20	20	20	20	20	1		53664	121952		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56320	113920		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56544	114208		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56608	114656		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56896	115168		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56448	115168		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56800	115552		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		56224	114784		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		55136	115520		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		55392	115968		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		55776	116160		1		
+Bang Chúng Bắc Ảnh	0	4598	0	5	130	1	20	20	20	20	20	1		55104	114496		1		
+Thạch cao	0	4601	3	5	1	1	20	20	20	20	20	1		51008	119584		1		
+Thạch cao	0	4601	3	5	1	1	20	20	20	20	20	1		50976	120224		1		
+Thạch cao	0	4601	3	5	1	1	20	20	20	20	20	1		51232	120288		1		
+Thạch cao	0	4601	3	5	1	1	20	20	20	20	20	1		51296	120704		1		
+Thạch cao	0	4601	3	5	1	1	20	20	20	20	20	1		51328	118944		1		
+Đất sét	0	4602	3	5	1	1	20	20	20	20	20	1		60640	112864		1		
+Đất sét	0	4602	3	5	1	1	20	20	20	20	20	1		60896	113408		1		
+Đất sét	0	4602	3	5	1	1	20	20	20	20	20	1		60512	112992		1		
+Đất sét	0	4602	3	5	1	1	20	20	20	20	20	1		59936	112864		1		
+Đất sét	0	4602	3	5	1	1	20	20	20	20	20	1		61472	113184		1		
+Tần Trọng	0	4606	0	5	130	1	20	20	20	20	20	1		57088	116256		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55072	115296		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55712	113504		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55680	114464		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55328	115584		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55872	113280		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56128	114496		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		55872	115328		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56160	114944		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56480	114336		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56320	113920		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56576	115008		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56384	115456		1		
+Hậu Nhân Tần Cối	0	4609	0	5	130	1	20	20	20	20	20	1		56768	115392		1		

@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vạn Lý Đạt	0	6512	3	5	150	1	20	20	20	20	20	1		46816	105504				
+Vạn Lộc	0	6515	3	5	150	1	20	20	20	20	20	1		51232	101536				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		49248	100416				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		47520	104992				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		47136	104992				
+Tỳ Nữ	0	6522	3	5	150	1	20	20	20	20	20	1		47424	104800				
+Tỳ Nữ	0	6522	3	5	150	1	20	20	20	20	20	1		47232	105248				
+Tỳ Nữ	0	6523	3	5	150	1	20	20	20	20	20	1		47232	104800				
+Tỳ Nữ	0	6523	3	5	150	1	20	20	20	20	20	1		47424	105248				
+Tỳ Nữ	0	6524	3	5	150	1	20	20	20	20	20	1		50336	98976				
+Tỳ Nữ	0	6524	3	5	150	1	20	20	20	20	20	1		52160	103968				
+Tỳ Nữ	0	6525	3	5	150	1	20	20	20	20	20	1				\setting\map\map_info\hl_yl_guizu\npc\meinv.txt			
+Người Làm	0	6526	3	5	150	1	20	20	20	20	20	1		48288	104064				
+Người Làm	0	6527	3	5	150	1	20	20	20	20	20	1		49088	104640				
+Người Làm	0	6528	3	5	150	1	20	20	20	20	20	1		48864	104608				

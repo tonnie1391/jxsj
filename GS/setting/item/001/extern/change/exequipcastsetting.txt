@@ -1,0 +1,10 @@
+DetailType	Desc	Cast1NameMa	Cast1NameFm	Cast1Id	Cast2NameMa	Cast2NameFm	Cast2Id	Cast3NameMa	Cast3NameFm	Cast3Id	Cast4NameMa	Cast4NameFm	Cast4Id	Refine1Name	Refine2Name
+10	Thủ Trạc	Thánh Lân	Tỏa Hồn	1	Hồng Hoang	Ngự Thần	2							Tiêu Dao-	Thủy Hoàng-
+11	Hương Nang Bội	Chiến Thần Hàn Ngọc	Chiến Thần Minh Nguyệt	3	Chiến Thần Đằng Vân	Chiến Thần Băng Tinh	4							Tiêu Dao-	Thủy Hoàng-
+7	Giày	Bá Vương Phá Trận	Huyền Nữ Vũ Ảnh	5	Hậu Nghệ Đạp Diệm	Hằng Nga Bôn Nguyệt	6							Tiêu Dao-	
+3	Áo	Phong Long	Phong Long	7	Loạn Thần	Loạn Thần	8							Vũ Uy-	Thủy Hoàng-
+6	Hộ Thân Phù	Phong Long	Phong Long	9	Loạn Thần	Loạn Thần	10							Vũ Uy-	
+4	Nhẫn	Phong Long	Phong Long	11	Loạn Thần	Loạn Thần	12							Vũ Uy-	
+9	Nón	Huyền Dương	Huyền Dương	13	Kinh Vân	Kinh Vân	14							Trục Lộc-	
+5	Liên	Cửu Long Huỳnh Quang	Cửu Long Huỳnh Quang	15	Thiên Điệp Lưu Vân	Thiên Điệp Lưu Vân	16							Trục Lộc-	
+8	Lưng	Hoa Hạ Đằng Long	Hoa Hạ Phi Phượng	17	Thần Châu Viêm Đế	Thần Châu Nữ Oa	18	Linh Quân Đằng Long	Linh Quân Phi Phượng	19	Thiên Vấn Viêm Đế	Thiên Vấn Nữ Oa	20	Trục Lộc-	

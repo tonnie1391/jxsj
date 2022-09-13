@@ -1,0 +1,1 @@
+种类	具体类别	详细类别	等级	永久性	优惠券名称	优惠类别	Tip	Data1	Data2	Data3	Data4	Data5	Data6

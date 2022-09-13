@@ -1,0 +1,8 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_in_match_2	1															\setting\map\map_info\hl_guizu\trap\trap_in_match_2.txt			
+trap_in_stage_2	1															\setting\map\map_info\hl_guizu\trap\trap_in_stage_2.txt			
+Vạn Hữu Toàn	0	6511	3	5	150	1	20	20	20	20	20	1		51008	101664		1		
+Cát Tường	0	6539	3	5	150	1	20	20	20	20	20	1		51200	101856		1		
+Như Ý 	0	6541	3	5	150	1	20	20	20	20	20	1		47552	104800		1		
+Hoa Đồng	0	6542	3	5	150	1	20	20	20	20	20	1				\setting\map\map_info\hl_guizu\npc\huatong.txt	1		
+Vạn Lý Đạt	0	6660	3	5	150	1	20	20	20	20	20	1		46816	105504				

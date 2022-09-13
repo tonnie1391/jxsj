@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cố Trọng Nhan	0	944	3	5	60	1	20	20	20	20	20	1		51840	102688		1		0
+to_exit501	1															\setting\map\map_info\maowu_1\trap\to_exit501.txt			
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		51392	103104		1		

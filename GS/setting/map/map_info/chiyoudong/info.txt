@@ -1,0 +1,17 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Xi Vưu	0	4360	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt	58976	93920				
+Yêu Thuật Sĩ Tây Vực	0	4359	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\chiyoudong\npc\shushi.txt			
+Quái Mệnh Cổ Sư	0	2305	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\chiyoudong\npc\area1.txt			
+Man Độc Thủ	0	2306	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\chiyoudong\npc\area2.txt			
+Phục Cầm Sinh	0	2308	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\chiyoudong\npc\area4.txt			
+U Cư Quái Khách	0	2307	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\chiyoudong\npc\area3.txt			
+to_miaoling	1															\setting\map\map_info\chiyoudong\trap\to_miaoling.txt			
+Miêu Lĩnh	0	2525	4	5	1	1	20	20	20	20	20	1		51072	102944		1		
+to_hunyangdianming1	1															\setting\map\map_info\chiyoudong\trap\to_hunyangdianming1.txt			
+Hỗn Dương Điện-Minh	0	2525	4	5	1	1	20	20	20	20	20	1		52256	105088		1		
+to_hunyangdianming2	1															\setting\map\map_info\chiyoudong\trap\to_hunyangdianming2.txt			
+Hỗn Dương Điện-Minh	0	2525	4	5	1	1	20	20	20	20	20	1		55520	102976		1		
+to_hunyangdianan1	1															\setting\map\map_info\chiyoudong\trap\to_hunyangdianan1.txt			
+Hỗn Dương Điện-Ám	0	2525	4	5	1	1	20	20	20	20	20	1		57152	97504		1		
+to_hunyangdianan2	1															\setting\map\map_info\chiyoudong\trap\to_hunyangdianan2.txt			
+Hỗn Dương Điện-Ám	0	2525	4	5	1	1	20	20	20	20	20	1		54560	96448		1		

@@ -1,0 +1,37 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Dương Anh	0	1	3	5	150	1	20	20	20	20	20	1		50720	122752		1		
+Dương Thiết Tâm	0	2	3	5	150	1	20	20	20	20	20	1		50784	122912		1		
+Dương Thiết Tâm	0	4	3	5	150	1	20	20	20	20	20	1		50976	118592		1		
+Quý Thúc Ban	0	5	3	5	90	1	20	20	20	20	20	1		50560	122752		1		
+Quý Thúc Ban	0	6	3	5	90	1	20	20	20	20	20	1		50656	118560		1		
+Tần Công Xích	0	9	0	5	25	1	20	20	20	20	20	1		53056	122432		1		1
+Lê Việt	0	10	0	5	25	1	20	20	20	20	20	1		53440	122688		1		
+Lưu Mặc	0	11	0	5	25	1	20	20	20	20	20	1		53152	122976		1		0
+Bùi Dực Phi	0	12	3	5	90	1	20	20	20	20	20	1		50656	125824		1		
+Cầu Chỉ Thủy	0	13	3	5	90	1	20	20	20	20	20	1		53632	126016		1		
+Lâu Nhất Quan	0	301	3	5	90	1	20	20	20	20	20	1		51072	119072		1		
+Lâu Nhất Quan	0	302	3	5	90	1	20	20	20	20	20	1		50464	122848		1		
+Khước Thương	0	309	0	5	25	1	20	20	20	20	20	1		60256	122848		1		
+Lý Tiển 	0	310	0	5	25	1	20	20	20	20	20	1		60672	122816		1		
+Công Dương Tôn	0	311	0	5	25	1	20	20	20	20	20	1		60672	123328		1		
+Đệ Tử Thiên Vương Trấn Lôi	0	1434	3	5	60	1	20	20	20	20	20	1		55360	123616		1		
+Đến Hành Dinh Ngoại Viện	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119424		1		
+Đến bến đò	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123296		1		
+Đến Khoang Thuyền 1	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123072		1		
+Đến Khoang Thuyền 2	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123616		1		
+Đến Thanh Loa Đảo	0	2525	4	5	1	1	20	20	20	20	20	1		57536	123840		1		
+Đến Thanh Loa Đảo	0	2525	4	5	1	1	20	20	20	20	20	1		60192	123424		1		
+Đến Hành Dinh Ngoại Viện	0	2525	4	5	1	1	20	20	20	20	20	1		50336	126304		1		
+Đến Hành Dinh Ngoại Viện	0	2525	4	5	1	1	20	20	20	20	20	1		53280	126496		1		
+Đến Khoang Thuyền 2	0	2525	4	5	1	1	20	20	20	20	20	1		51008	122688		1		
+Đến Khoang Thuyền 3	0	2525	4	5	1	1	20	20	20	20	20	1		53440	122464		1		
+to_exit17	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit17.txt			
+to_exit21	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit25.txt			
+to_exit26	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit26.txt			
+to_exit27	1															\setting\map\map_info\qingluodao_shinei\trap\to_exit27.txt			
+to_floor2	1															\setting\map\map_info\qingluodao_shinei\trap\to_floor2.txt			
+to_floor3	1															\setting\map\map_info\qingluodao_shinei\trap\to_floor3.txt			

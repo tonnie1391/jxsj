@@ -1,0 +1,6 @@
+EventType	ClassName	FileName	FileNameTrap	MissionType	Desc
+活动类型Id	类型名	类型配置	比赛场Trap点	类型对应的Mission	描述
+1	DragonBoat	dragonboat.txt	dragonboat_trap.txt	NewEPlatForm.BoatFight:GetNewMission	Đua Thuyền Rồng
+2	SnowBattle	snowbattle.txt	snowbattle_trap.txt	NewEPlatForm.SnowFight:GetNewMission	Ném Tuyết
+3	TowerDefence	towerdefence.txt	towerdefence_trap.txt	NewEPlatForm.TowerDefence:GetNewMission	Bảo vệ Hồn Tổ Tiên
+4	CastleFight	castlefight.txt	castlefight_trap.txt	NewEPlatForm.CastleFight:GetNewMission	Dạ Lam Quan

@@ -1,0 +1,73 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ hạ Nhạc Hữu Tình	0	910	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\hanshuigudu_shinei\npc\daneigaoshou.txt	1		2
+Quật Địa Binh	0	818	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\hanshuigudu_shinei\npc\heiyidaoke.txt	1		
+Cố Trọng Nhan	0	944	3	5	60	1	20	20	20	20	20	1		53632	125920		1		0
+Lương Côn Hiền	0	867	0	5	55	1	20	20	20	20	20	1		59520	119168		1		0
+Long Đoạn	0	868	0	5	55	1	20	20	20	20	20	1		60000	118688		1		1
+Trưởng Thị Vệ Báo Nhãn	0	819	3	5	60	1	20	20	20	20	20	1		50816	122816		1		1
+Hồng Nương Tử	0	864	3	5	60	1	20	20	20	20	20	1		55776	114304		1		
+Hồng Nương Tử	0	864	3	5	60	1	20	20	20	20	20	1		55648	123200		1		
+Tâm Như Đại Sư	0	830	3	5	60	1	20	20	20	20	20	1		55616	114528		1		
+Tâm Như Đại Sư	0	830	3	5	60	1	20	20	20	20	20	1		55520	123072		1		
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		61664	114496		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		61632	114688		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		61472	114720		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56224	126240		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56128	126400		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56320	126112		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56416	126720		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56512	126560		1		4
+Báo Nhãn	0	820	3	5	60	1	20	20	20	20	20	1		56608	126432		1		4
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	1		50720	122720		1		4
+Báo Nhãn	0	811	0	0	55	1	20	20	20	20	20	1		50912	122944		1		4
+Từ Trường Phúc	0	824	0	5	55	1	20	20	20	20	20	1		53216	122592		1		
+Hứa Nguyên	0	866	0	5	55	1	20	20	20	20	20	1		60160	119648		1		3
+Ưng Vũ	0	817	0	5	55	1	20	20	20	20	20	1				\setting\map\map_info\hanshuigudu_shinei\npc\yipintangwushi.txt	1		0
+Triệu Khoách	0	809	3	5	60	1	20	20	20	20	20	1		56544	126144		1		
+Triệu Khoách	0	1180	3	5	60	1	20	20	20	20	20	1		61504	114464		1		
+Triệu Khoách	0	1193	3	5	60	1	20	20	20	20	20	1		56096	114272		1		
+Nhạc Hữu Tình	0	870	0	5	55	1	20	20	20	20	20	1		62400	114368		1		2
+to_gaibangfenduo2	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_gaibangfenduo2.txt			
+to_midao1	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_midao1.txt			
+to_midao2	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_midao2.txt			
+to_midao3	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_midao3.txt			
+to_midao4	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_midao4.txt			
+to_midaochukou	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_midaochukou.txt			
+to_yusouhouyuan	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_yusouhouyuan.txt			
+to_exit16	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit16.txt			
+to_exit17	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit17.txt			
+to_exit18	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit18.txt			
+to_exit19	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit19.txt			
+to_exit20	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit20.txt			
+to_exit21	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit21.txt			
+to_exit22	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit22.txt			
+to_exit23	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit23.txt			
+to_exit24	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit24.txt			
+to_exit25	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit25.txt			
+to_exit26	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit26.txt			
+to_exit27	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit27.txt			
+to_exit28	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit28.txt			
+to_exit29	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit29.txt			
+Ẩn Sở Nội Thất	0	2525	4	5	1	1	20	20	20	20	20	1		56320	125888		1		
+Ẩn Sở Tiền Thất	0	2525	4	5	1	1	20	20	20	20	20	1		59424	126752		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		60448	118880		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		60704	122816		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		57984	123168		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		54144	118464		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		50912	122688		1		
+Lối ra tắt	0	2525	4	5	1	1	20	20	20	20	20	1		62784	114720		1		
+Rời Sơn Động	0	2525	4	5	1	1	20	20	20	20	20	1		56480	119680		1		
+Rời Ẩn Sở	0	2525	4	5	1	1	20	20	20	20	20	1		56064	126688		1		
+Rời Long Vương Miếu	0	2525	4	5	1	1	20	20	20	20	20	1		55168	123584		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		61504	115264		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		59584	119744		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		60192	123392		1		
+Mật Đạo	0	2525	4	5	1	1	20	20	20	20	20	1		57536	123808		1		
+Rời Nhà tranh	0	2525	4	5	1	1	20	20	20	20	20	1		50336	126272		1		
+Rời Nhà tranh	0	2525	4	5	1	1	20	20	20	20	20	1		53280	126432		1		
+Rời Soái Trướng	0	2525	4	5	1	1	20	20	20	20	20	1		52832	123040		1		
+Rời Phân Đà Cái Bang	0	2525	4	5	1	1	20	20	20	20	20	1		53376	119520		1		
+Rời Phân Đà Cái Bang	0	2525	4	5	1	1	20	20	20	20	20	1		50400	123264		1		
+Rời khỏi	0	2525	4	5	1	1	20	20	20	20	20	1		50240	119456		1		
+Rời Long Vương Miếu	0	2525	4	5	1	1	20	20	20	20	20	1		55360	115200		1		
+to_exit14	1															\setting\map\map_info\hanshuigudu_shinei\trap\to_exit14.txt			

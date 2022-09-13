@@ -1,0 +1,27 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hợp Đài Trác Mộc	0	3486	3	5	90	1	20	20	20	20	20	1		50656	100128		1		
+Sa Lỗ	0	3487	3	5	90	1	20	20	20	20	20	1		49344	101088		1		
+Tang Cát Liệt	0	3488	3	5	90	1	20	20	20	20	20	1		50848	102816		1		
+Nhạn Bắc Thiên	0	3489	3	5	90	1	20	20	20	20	20	1		54304	100000		1		
+Ba Khắc Tây	0	3490	3	5	150	1	20	20	20	20	20	1		52736	99168		1		
+to_yunzhongzhen	1															\setting\map\map_info\samanjiao\trap\to_yunzhongzhen.txt			
+to_mengguwangting	1															\setting\map\map_info\samanjiao\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	1	1	20	20	20	20	20	1		49056	99072				
+Vân Trung Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		54560	104384				
+6000	0	6000	5	5	1	1	20	20	20	20	20	1		54272	97632		1		
+6029	0	6029	5	5	1	1	20	20	20	20	20	1		48800	103168		1		
+6029	0	6029	5	5	1	1	20	20	20	20	20	1		49344	99296		1		
+6029	0	6029	5	5	1	1	20	20	20	20	20	1		50496	101056		1		
+6074	0	6074	5	5	1	1	20	20	20	20	20	1		55296	100128		1		
+6030	0	6030	5	5	1	1	20	20	20	20	20	1		50720	104320		1		
+Ba Nhĩ Tư	0	6118	5	5	1	1	20	20	20	20	20	1		50848	100896		1		
+A Nhĩ Bố Cổ	0	6118	5	5	1	1	20	20	20	20	20	1		51232	100480		1		
+Vạn Lịch	0	6119	5	5	1	1	20	20	20	20	20	1		53600	98688		1		
+Mã Thích Lặc	0	6119	5	5	1	1	20	20	20	20	20	1		53824	98912		1		
+Thoát Lý	0	6120	5	5	1	1	20	20	20	20	20	1		50080	101504		1		
+Bao Vệ Thành	0	6121	5	5	1	1	20	20	20	20	20	1		53536	100768		1		
+Bao Vệ Thiên	0	6121	5	5	1	1	20	20	20	20	20	1		53696	100928		1		
+Cao Kiên	0	6123	5	5	1	1	20	20	20	20	20	1		50816	103808		1		
+Cao Lực	0	6122	5	5	1	1	20	20	20	20	20	1		52832	98464		1		
+Cổ Lực La	0	6122	5	5	1	1	20	20	20	20	20	1		54144	103392				
+Hoa Giản Mộc	0	6122	5	5	1	1	20	20	20	20	20	1		53856	103584				

@@ -1,0 +1,26 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Cẩm Mao Báo	0	2313	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\fuliudong\npc\area1.txt			
+Thiết Giác Man Binh	0	2314	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\fuliudong\npc\area2.txt			
+Phục Lưu Ngạc	0	2315	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\fuliudong\npc\area3.txt			
+Phản Quân Mâu Thủ	0	2316	0	5	105	1	20	20	20	20	20	3	\setting\npc\droprate\droprate011.txt			\setting\map\map_info\fuliudong\npc\area4.txt			
+to_wulingshan	1															\setting\map\map_info\fuliudong\trap\to_wulingshan.txt			
+to_luonvdong	1															\setting\map\map_info\fuliudong\trap\to_luonvdong.txt			
+Vũ Lăng Sơn	0	2525	4	5	1	1	20	20	20	20	20	1		61120	114752		1		
+Lạc Nữ Động	0	2525	4	5	1	1	20	20	20	20	20	1		60352	103040		1		
+Lư Khải Quang	0	4364	3	5	150	1	20	20	20	20	20	1		60896	114208		1		
+to_taohuayuan	1															\setting\map\map_info\fuliudong\trap\to_taohuayuan.txt			
+Đào Hoa Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		58144	119104		1		
+to_yelangjiuxu	1															\setting\map\map_info\fuliudong\trap\to_yelangjiuxu.txt			
+Tàn Tích Dạ Lang	0	2525	4	5	1	1	20	20	20	20	20	1		50912	111456		1		
+Phục Lưu hỏa chủng	0	4647	3	5	1	1	20	20	20	20	20	1		56864	103456		1		
+Phục Lưu hỏa chủng	0	4647	3	5	1	1	20	20	20	20	20	1		56928	103456		1		
+Phục Lưu hỏa chủng	0	4647	3	5	1	1	20	20	20	20	20	1		56960	103328		1		
+Phục Lưu Thần Thú	0	4651	0	5	130	1	20	20	20	20	20	1		57024	103520		1		
+to_fenmingtangchen1	1															\setting\map\map_info\fuliudong\trap\to_fenmingtangchen1.txt			
+Phần Minh Đường-Trần	0	2525	4	5	1	1	20	20	20	20	20	1		61216	109600		1		
+to_fenmingtangchen2	1															\setting\map\map_info\fuliudong\trap\to_fenmingtangchen2.txt			
+Phần Minh Đường-Trần	0	2525	4	5	1	1	20	20	20	20	20	1		57344	104736		1		
+to_fenmingtangshi1	1															\setting\map\map_info\fuliudong\trap\to_fenmingtangshi1.txt			
+Phần Minh Đường-Thệ	0	2525	4	5	1	1	20	20	20	20	20	1		53664	104544		1		
+to_fenmingtangshi2	1															\setting\map\map_info\fuliudong\trap\to_fenmingtangshi2.txt			
+Phần Minh Đường-Thệ	0	2525	4	5	1	1	20	20	20	20	20	1		55232	114528		1		

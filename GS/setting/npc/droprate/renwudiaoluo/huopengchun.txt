@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		20	1	622	1	300000		机关术心得
+		1	13	12	1	10000		宝果子
+		1	13	13	1	10000		二丫
+		18	1	80	1	200000		福袋
+		18	1	114	2	430000		2级玄晶
+		18	1	114	3	50000		3级玄晶

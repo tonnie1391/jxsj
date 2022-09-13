@@ -1,0 +1,699 @@
+Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
+1	head	1		\image\effect\fightskill\public\state_weak.spr	\image\icon\fightskill\state\weak.spr	1	0	1	Suy yếu, lực tấn công giảm xuống 50%
+2		1	Cyan		\image\icon\fightskill\state\slowall.spr	1	0	1	Làm chậm, tốc độ di chuyển và xuất chiêu giảm xuống 50%
+3		1	Gold		\image\icon\fightskill\state\burn.spr	1	0	1	Bỏng, sát thương tăng 1.5 lần
+4		1	Green3		\image\icon\fightskill\state\poisoning.spr	1	0	1	Trúng độc, sát thương độc nhận được kéo dài
+5	head	1		\image\effect\fightskill\public\state_stun.spr	\image\icon\fightskill\state\stun.spr	1	0	1	Choáng, ngừng di chuyển, ngừng xuất chiêu, không thể sử dụng đạo cụ
+6	head	1		\image\effect\fightskill\public\state_fixed.spr	\image\icon\fightskill\state\fixed.spr	1	0	1	Bất động, không thể di chuyển, không thể khinh công
+7	body	1		\image\effect\fightskill\public\state_palsy.spr	\image\icon\fightskill\state\palsy.spr	1	0	1	Tê liệt, không thể di chuyển, không thể xuất chiêu
+8	head	1		\image\effect\fightskill\public\state_slowrun.spr	\image\icon\fightskill\state\slowrun.spr	1	0	1	Tốc độ di chuyển giảm
+9	body	1		\image\effect\fightskill\public\state_freeze.spr	\image\icon\fightskill\state\freeze.spr	1	0	1	Đóng băng, không thể di chuyển, không thể xuất chiêu, không thể sử dụng đạo cụ, không bị sát thương
+10	head	1		\image\effect\fightskill\public\state_confuse.spr	\image\icon\fightskill\state\confuse.spr	1	0	1	Hỗn loạn, không thể điều chỉnh, đi qua đi lại, có thể sử dụng đạo cụ
+11	head	1		\image\effect\other\tanhao.spr		1	0	1	Chấm than trên đầu_Chính tuyến
+12	head	1		\image\effect\other\wenhao.spr		1	0	1	Chấm hỏi trên đầu_Chính tuyến
+13	minimap	1		\image\effect\other\tanhao_map.spr		1	0		Chấm than trên bản đồ nhỏ_Chính tuyến
+14	minimap	1		\image\effect\other\wenhao_map.spr		1	0		Chấm hỏi trên bản đồ nhỏ_Chính tuyến
+15	ground	0		\image\effect\fightskill\shaolin\sl_70_alhsg_b.spr	\image\icon\fightskill\state\aluohanshengong.spr	1	1	2	A La Hán Thần Công
+16	body	1		\image\effect\fightskill\shaolin\sl_70_ptxf_b.spr	\image\icon\fightskill\state\putixinfa.spr	1	1	2	Bồ Đề Tâm Pháp
+17	body	1		\image\effect\fightskill\shaolin\sl_30_bdmw_b.spr	\image\icon\fightskill\state\budongmingwang.spr	1	0	3	Bất Động Minh Vương
+18	head	1		\image\effect\fightskill\tianwang\tw_70_twzy_b.spr	\image\icon\fightskill\state\tianwangzhanyi.spr	1	1	2	Thiên Vương Chiến Ý
+19	body	1		\image\effect\fightskill\tianwang\tw_70_jzz_b.spr	\image\icon\fightskill\state\jinzhongzhao.spr	1	1	2	Kim Chung Tráo
+20	ground	0		\image\effect\fightskill\tangmen\tm_30_cds_b2.spr	\image\icon\fightskill\state\cuidushu.spr	1	1	2	Tôi Độc Thuật
+21	ground	0		\image\effect\fightskill\wudu\wu_30_wxg_b.spr		1	1	2	Vô Hình Cổ
+22	head	1		\image\effect\fightskill\wudu\wu_70_wgsx_b.spr	\image\icon\fightskill\state\wangushixin.spr	1	0	2	Vạn Cổ Thực Tâm
+23	head	1		\image\effect\fightskill\wudu\wu_30_bmxg_b.spr	\image\icon\fightskill\state\beimoxueguang.spr	1	0	2	Bi Ma Huyết Quang
+24	head	1		\image\effect\fightskill\wudu\wu_50_cxdc_b.spr	\image\icon\fightskill\state\chuanxinduci.spr	1	0	2	Xuyên Tâm Độc Thích
+25	head	1			\image\icon\fightskill\state\cihangpudu.spr	1	1	2	Từ Hàng Phổ Độ
+26	ground	0		\image\effect\fightskill\emei\em_50_fxcy_b.spr	\image\icon\fightskill\state\foxinciyou.spr	1	1	2	Phật Tâm Từ Hựu
+27	ground	0		\image\effect\fightskill\emei\em_70_ls_b.spr	\image\icon\fightskill\state\liushui.spr	1	1	2	Lưu Thủy Quyết
+28	ground	0		\image\effect\fightskill\emei\em_10_md_b.spr	\image\icon\fightskill\state\mengdie.spr	1	1	2	Mộng Điệp
+29	ground	0		\image\effect\fightskill\emei\em_50_qyfc_b.spr	\image\icon\fightskill\state\qingyinfanchang.spr	1	1	2	Thanh Âm Phạn Xướng
+30	ground	0		\image\effect\fightskill\emei\em_90_pdzs_b.spr	\image\icon\fightskill\state\cihangpudu.spr	1	1	2	Thiên Phật Thiên Diệp
+31	body	1		\image\effect\fightskill\cuiyan\cy_30_xy_b.spr	\image\icon\fightskill\state\xueying.spr	1	1	2	Tuyết Ảnh
+32	body	1		\image\effect\fightskill\cuiyan\cy_70_xyhc_b.spr	\image\icon\fightskill\state\xueyinghongchen.spr	1	1	2	Tuyết Ánh Hồng Trần
+33		1	Hide		\image\icon\fightskill\state\yuxueyin.spr	1	1	1	Ẩn thân
+34	body	1		\image\effect\fightskill\gaibang\gb_50_hbls_b.spr	\image\icon\fightskill\state\huabuliushou.spr	1	1	2	Hoạt Bất Lưu Thủ
+35	head	1		\image\effect\fightskill\tianren\tr_50_bsqf_b.spr	\image\icon\fightskill\state\beisuqingfeng.spr	1	0	2	Bi Tô Thanh Phong
+36	head	1		\image\effect\fightskill\tianren\tr_10_lmdp_b.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Lệ Ma Đoạt Hồn
+37	head	1		\image\effect\fightskill\wudang\wd_30_zwww_b.spr	\image\icon\fightskill\state\zuowangwuwo.spr	1	1	2	Tọa Vọng Vô Ngã
+38	body	1		\image\effect\fightskill\wudang\wd_70_zwqj_b.spr	\image\icon\fightskill\state\zhenwuqijie.spr	1	1	2	Chân Vũ Thất Tiệt
+39	ground	0		\image\effect\fightskill\wudang\wd_70_qxj_b.spr	\image\icon\fightskill\state\qixingjue.spr	1	1	2	Thất Tinh Quyết
+40	head	1		\image\effect\fightskill\kunlun\kl_30_qff_b.spr	\image\icon\fightskill\state\qingfengfu.spr	1	1	2	Thanh Phong Phù
+41	ground	0		\image\effect\fightskill\kunlun\kl_70_yqsq_b.spr	\image\icon\fightskill\state\yiqisanqing.spr	1	1	2	Nhất Khí Tam Thanh
+42	body	1		\image\effect\fightskill\kunlun\kl_70_dgxf_b.spr	\image\icon\fightskill\state\daoguxianfeng.spr	1	1	2	Đạo Cốt Tiên Phong
+43	ground	0		\image\effect\fightskill\mingjiao\mj_70_jgtm_b.spr	\image\icon\fightskill\state\jingetiema.spr	1	1	2	Kim Qua Thiết Mã
+44	ground	1		\image\effect\fightskill\mingjiao\mj_30_mqpz_b.spr	\image\icon\fightskill\state\miqipiaozong.spr	1	1	2	Di Khí Phiêu Tung
+45	head	1		\image\effect\fightskill\mingjiao\mj_70_qkdny_b.spr	\image\icon\fightskill\state\qiankundanuoyi.spr	1	0	3	Càn Khôn Đại Na Di
+46	head	1		\image\effect\fightskill\daliduanshi\ds_70_syj_b.spr	\image\icon\fightskill\state\shiyuanjue.spr	1	0	3	Thí Nguyên Quyết
+47	ground	0		\image\effect\fightskill\daliduanshi\ds_30_bmsg_b.spr	\image\icon\fightskill\state\beimingshengong.spr	1	1	2	Bắc Minh Thần Công
+48		1			\image\icon\fightskill\state\yuxueyin.spr	1	1		Ngự Tuyết Ẩn
+49		1			\image\icon\fightskill\state\protect.spr	1	1		Đang bảo hộ, ko thể đổi PK, ko bị tấn công, ko bị trừng phạt khi trọng thương
+50	head	1		\image\effect\fightskill\mingjiao\mj_50_pysf_b.spr	\image\icon\fightskill\state\piaoyishenfa.spr	1	1	2	Phiêu Dực Thân Pháp
+51	ground	0		\image\effect\fightskill\daliduanshi\ds_50_lbwb_b.spr	\image\icon\fightskill\state\lingboweibu.spr	1	1	3	Lăng Ba Vi Bộ
+52	body	1		\image\effect\fightskill\daliduanshi\ds_50_tnbf_b.spr	\image\icon\fightskill\state\tiannanbufa.spr	1	1	2	Thiên Nam Bộ Pháp
+53		0			\image\icon\fightskill\state\yumashu.spr	1	1		Ngự Mã Thuật
+54		1			\image\icon\fightskill\state\huabuliushou.spr	1	1		Tật Ảnh
+55		1			\image\icon\fightskill\state\armor.spr	1	1		Chiến Ý
+56	head	1		\image\effect\other\tanhaoIII.spr		1	0	1	Chấm than trên đầu_Nhiệm vụ tuần hoàn
+57	head	1		\image\effect\other\wenhaoIII.spr		1	0	1	Chấm hỏi trên đầu_Nhiệm vụ tuần hoàn
+58	minimap	1		\image\effect\other\tanhao_mapIII.spr		1	0		Chấm than trên bản đồ nhỏ_Nhiệm vụ tuần hoàn
+59	minimap	1		\image\effect\other\wenhao_mapIII.spr		1	0		Chấm hỏi trên bản đồ nhỏ_Nhiệm vụ tuần hoàn
+60	head	1		\image\effect\fightskill\tangmen\tm_30_cds_b1.spr	\image\icon\fightskill\state\weak.spr	1	0	3	Hấp Tinh Trận
+61		1			\image\icon\fightskill\state\jingetiema.spr	1	1		Vật phẩm chiến trường cộng thêm
+62	head	1		\image\effect\other\state_jigaoyichou_vn.spr		1	0	1	Tỷ thí thắng lợi
+63	head	1		\image\effect\other\state_ganbaixiafeng_vn.spr		1	0	1	Tỷ thí thất bại
+64	head	1		\image\effect\other\state_talking.spr		1	0	1	Hệ thống nhiệm vụ_Đang hiển thị đối thoại
+65		1			\image\icon\fightskill\state\xiulianzhuangtai.spr	1	1		Kinh nghiệm đánh quái tăng 2 lần
+66		1			\image\icon\fightskill\state\xingyuntisheng.spr	1	1		May mắn tăng
+67	head	1		\image\effect\other\tanhaoII.spr		1	0	1	Chấm than trên đầu_Phụ tuyến
+68	head	1		\image\effect\other\wenhaoII.spr		1	0	1	Chấm hỏi trên đầu_Phụ tuyến
+69	minimap	1		\image\effect\other\tanhao_mapII.spr		1	0		Chấm than trên bản đồ nhỏ_Phụ tuyến
+70	minimap	1		\image\effect\other\wenhao_mapII.spr		1	0		Chấm hỏi trên bản đồ nhỏ_Phụ tuyến
+71		1			\image\icon\fightskill\state\lock.spr	0	0		Thời gian mở khoá
+72	ground	0		\image\effect\fightskill\npc\npc_aura_l.spr		1	1	1	Vòng sáng NPC Tinh Anh
+73	ground	0		\image\effect\fightskill\npc\npc_aura_m.spr		1	1	1	Vòng sáng NPC Thủ Lĩnh
+74	ground	0		\image\effect\fightskill\npc\npc_aura_h.spr		1	1	1	Vòng sáng NPC BOSS
+75	ground	0		\image\effect\other\selected.spr		1	0	1	Chọn mục tiêu
+76		1			\image\icon\fightskill\state\xiuwei.spr	1	1		Bắt đầu tu luyện
+77	ground	0		\image\effect\other\needfire_b.spr		1	1	1	Lửa trại
+78		1			\image\icon\fightskill\state\zhen.spr	1	1		Trận pháp
+79		1			\image\icon\fightskill\state\drinking.spr	1	1		Uống rượu tăng kinh nghiệm
+80		1			\image\icon\fightskill\state\armor.spr	1	1		Hộ Giáp Phiến
+81		1			\image\icon\fightskill\state\series.spr	1	1		Ngũ Hành Thạch
+82		1			\image\icon\fightskill\state\burnish.spr	1	1		Ma Đao Thạch
+83	head	1		\image\effect\other\state_gettask.spr		0	1	1	Hệ thống nhiệm vụ_Nhận nhiệm vụ
+84	head	1		\image\effect\other\state_finishtask.spr		0	1	1	Hệ thống nhiệm vụ_Hoàn thành nhiệm vụ
+85	head	1		\image\effect\other\state_taskstep_vn.spr		0	1	1	Hệ thống nhiệm vụ_Bước hoàn thành
+86	ground	2		\image\effect\other\state_levelup.spr		0	1	1	Thăng cấp
+87	ground	2		\image\effect\other\state_revive.spr		0	1	1	Trùng sinh
+88	ground	2		\image\effect\other\state_reputeup.spr		0	1	1	Thăng cấp danh vọng
+89	head	1		\image\effect\other\teamopen.spr		1	1	1	Trạng thái đội ngũ khai mở
+90	head	1		\image\effect\other\state_trading_vn.spr		1	1	1	Trạng thái tiến hành giao dịch
+91	head	1		\image\effect\other\sleep.spr		1	1	1	Trạng thái ngủ
+92	head	1		\image\effect\other\state_trading_vn.spr		1	1	1	Trạng thái bán hàng
+93	ground	2		\image\effect\other\state_rage.spr		0	0	1	Trạng thái cuồng nộ
+94	head	1		\image\effect\other\state_autofight_vn.spr		1	0	1	Trạng thái tự chiến đấu
+95	head	1		\image\effect\fightskill\wudu\wu_10_jtkl_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Cửu Thiên Cuồng Lôi
+96	head	1		\image\effect\fightskill\wudu\wu_10_hxjm_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Hóa Huyết Tiệt Mạch
+97	head	1		\image\effect\fightskill\wudu\wu_30_bphg_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Băng Phách Hàn Quang
+98	head	1		\image\effect\fightskill\wudu\wu_50_wgzq_b.spr	\image\icon\fightskill\state\wenguzhiqi.spr	1	0	3	Ôn Cổ Chi Khí
+99	head	1		\image\effect\fightskill\wudu\wu_70_cyst_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Xích Diệm Thực Thiên
+100	head	1		\image\effect\fightskill\wudu\wu_90_djfg_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Đoạn Cân Hủ Cốt
+101	head	1		\image\effect\fightskill\wudu\wu_90_cypj_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Xuyên Y Phá Giáp
+102	ground	0		\image\effect\fightskill\emei\em_90_pdzs_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Phổ Độ Chúng Sinh
+103	head	1		\image\effect\fightskill\tianren\tr_30_sfz_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Thúc Phọc Chú
+104	head	1		\image\effect\fightskill\tianren\tr_50_hyfh_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Huyễn Ảnh Phi Hồ
+105	head	1		\image\effect\fightskill\tianren\tr_10_fhwj_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Phi Hồng Vô Tích
+106	head	1		\image\effect\fightskill\tianren\tr_70_nzxj_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Nghịch Chuyển Tâm Kinh
+107		1			\image\icon\fightskill\state\miqipiaozong.spr	1	1		Trong trạng thái bảo hộ tạm thời, không thể chiến đấu với NPC và người chơi khác.
+108	body	1		\image\effect\fightskill\kunlun\kl_10_bdbq_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Bách Độc Bất Xâm
+109		1			\image\icon\fightskill\state\partner\state_xksy_huan.spr	1	1	2	Hư Không Thiểm Ảnh-Huyễn
+110	body	1		\image\effect\fightskill\kunlun\kl_50_qhax_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Khinh Hàn Ngạo Tuyết
+111	body	1		\image\effect\fightskill\kunlun\kl_50_hswy_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Hóa Tủy Vô Ý
+112	body	1			\image\icon\fightskill\state\tongweixianhua_child.spr	1	1	2	Hạo Nhiên Chính Khí
+113	body	1		\image\effect\fightskill\kunlun\kl_90_ltj_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Lôi Đình Quyết
+114	body	1		\image\effect\fightskill\kunlun\kl_90_jgbp_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Kim Cang Bất Phá
+115	head	1		\image\effect\other\wenhaoIV.spr		1	0	1	Chấm hỏi trên đầu_Nhiệm vụ chưa hoàn thành
+116	minimap	1		\image\effect\other\wenhao_mapIV.spr		1	0	1	Chấm hỏi trên bản đồ nhỏ_Nhiệm vụ chưa hoàn thành
+117	ground	0		\image\effect\fightskill\daliduanshi\ds_70_krcg_b.spr	\image\icon\fightskill\state\kurongchangong.spr	1	1	3	Khô Vinh Thiền Công
+118	head	1		\image\effect\fightskill\wudu\wu_70_wgsx_b.spr	\image\icon\fightskill\state\wangushixin.spr	1	0	2	Giảm kháng tất cả
+119	head	1		\image\effect\fightskill\tianren\tr_10_lmdp_b.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Giảm lực tấn công
+120	head	1		\image\effect\fightskill\tianwang\tw_70_twzy_b.spr	\image\icon\fightskill\state\tianwangzhanyi.spr	1	1	2	Tăng tấn công
+121	head	1		\image\effect\fightskill\tianren\tr_70_nzxj_b.spr	\image\icon\fightskill\state\weak.spr	1	0	2	Thâu Thiên Hoán Nhật
+122	head	1		\image\effect\fightskill\tianren\tr_90_hflh_b.spr	\image\icon\fightskill\state\weak.spr	1	0	2	Giảm hiệu suất hồi sinh lực
+123	head	1		\image\effect\fightskill\wudu\wu_10_hxjm_b.spr	\image\icon\fightskill\state\weak.spr	1	0	2	Giảm sinh lực tối đa
+124	head	1		\image\effect\fightskill\wudu\wu_10_jtkl_b.spr	\image\icon\fightskill\state\weak.spr	1	0	2	Giảm sinh lực tối đa
+125	head	1		\image\effect\fightskill\tianren\tr_30_sfz_b.spr	\image\icon\fightskill\state\armor.spr	1	0	2	Giảm kháng lôi công
+126	head	1		\image\effect\fightskill\tianren\tr_50_hyfh_b.spr	\image\icon\fightskill\state\shiyuanjue.spr	1	0	2	Giảm chính xác
+127	ground	1		\image\effect\fightskill\public\rage_earth_c2.spr	\image\icon\fightskill\state\qingfengfu.spr	1	0	2	Duy trì đánh lôi
+128		1			\image\icon\fightskill\state\drinking.spr	1	1		Hiệu quả thức ăn lâu dài
+129	head	1		\image\effect\fightskill\public\state_confuse.spr	\image\icon\fightskill\state\confuse.spr	1	0	1	Bất lực, không thể xuất chiêu
+130	body	1		\image\effect\fightskill\tianwang\tw_60_jlpt_b.spr	\image\icon\fightskill\state\jingleipotian.spr	1	1	3	Kinh Lôi Phá Thiên
+131		1			\image\icon\fightskill\state\tianwangbensheng.spr	1	1		Kinh Lôi Phá Thiên
+132	head	1		\image\effect\fightskill\tianwang\tw_60_twbs_b.spr	\image\icon\fightskill\state\tianwangbensheng.spr	1	1	3	Thiên Vương Bản Sinh
+133	head	1		\image\effect\fightskill\wudu\wu_30_bmxg_b.spr	\image\icon\fightskill\state\duanjinren.spr	1	0	3	Đoạn Cân Nhẫn
+134	head	1			\image\icon\fightskill\state\cihangpudu.spr	1	1		Bất Diệt Bất Tuyệt
+135	ground	0		\image\effect\fightskill\gaibang\gb_60_scll_b.spr	\image\icon\fightskill\state\shichengliulong.spr	1	1	3	Thời Thừa Lục Long
+136	ground	0		\image\effect\fightskill\npc\npc_aura_h.spr	\image\icon\fightskill\state\burn.spr	1	1	2	Hỏa Liên Phần Hoa
+137	body	1		\image\effect\fightskill\wudang\wd_50_cywj_b.spr	\image\icon\fightskill\state\chunyangwuji.spr	1	1	1	Nội Lực Hộ Thuẫn
+138	head	1		\image\effect\fightskill\kunlun\kl_60_kss_b.spr	\image\icon\fightskill\state\kaishenshu.spr	1	1	2	Khai Thần Thuật
+139	head	1			\image\icon\fightskill\state\cihangpudu.spr	1	1		Thâu Thiên Hoán Nhật_Bản thân
+140	head	1		\image\effect\fightskill\wudang\wd_30_zwww_b.spr	\image\icon\fightskill\state\zuowangwuwo.spr	1	1	2	Vô Ngã Tâm Pháp
+141	head	1			\image\icon\fightskill\state\juyuanshu.spr	1	1		Tụ Nguyên Thuật
+142		1			\image\icon\fightskill\state\xuanbingwuxi.spr	1	1		Huyền Băng Vô Tức
+143	ground	0		\image\effect\fightskill\emei\em_90_fgpz_d.spr	\image\icon\fightskill\state\boluoxinjing.spr	1	1	3	Ba La Tâm Kinh
+144	head	1		\image\effect\fightskill\shaolin\sl_50_xlfh_b2.spr	\image\icon\fightskill\state\huabuliushou.spr	1	1	3	Hàng Long Phục Hổ
+145	head	1		\image\effect\other\dushuzhong_vn.spr		1	0	1	Hệ thống nhiệm vụ_Đang đọc sách
+146		1			\image\icon\fightskill\state\xiulianzhuangtai.spr	1	1		Kinh nghiệm đánh quái tăng
+147	head	1		\image\effect\other\state_autonavigate_vn.spr		1	0		Trạng thái tự động tìm đường
+148		0			\image\icon\fightskill\state\kurongchangong.spr	1	1		Khi sử dụng Hồn Thạch cường hóa Ngũ Hành Ấn, hiệu quả tăng 20%<enter>Khi cường hóa trang bị, bạc (bạc khóa) cần dùng giảm một nửa<enter>Thời gian tu luyện mỗi ngày tăng 0.5 giờ<enter>Dùng Lệnh Bài Nghĩa Quân, Lệnh Bài Bạch Hổ Đường, Lệnh Bài Gia Tộc, Lệnh Bài Mông Cổ Tây Hạ, Lệnh Bài Thi Đấu Môn Phái, danh vọng thu được tăng 50%
+149	head	1		\image\effect\other\bird.spr		1	0	1	Hệ thống nhiệm vụ_Phi Điểu Trung
+150		1			\image\icon\fightskill\state\juyuanshu.spr	1	1		Bàn Thạch Phù
+151	body	1		\image\effect\fightskill\shaolin\sl_10_fmdf_a.spr		0	1		Phục Ma Đao Pháp
+152	ground	1		\image\effect\fightskill\shaolin\sl_50_pjdf_a.spr		0	1		Phá Giới Đao Pháp
+153	ground	2		\image\effect\fightskill\shaolin\sl_70_ptxf_a.spr		0	1		Bồ Đề Tâm Pháp
+154	ground	1		\image\effect\fightskill\shaolin\sl_90_wxz_a.spr		0	1		Thiên Trúc Tuyệt Đao
+155	body	1		\image\effect\fightskill\shaolin\sl_10_pdgf_a.spr		0	1		Phổ Độ Côn Pháp
+156	body	1		\image\effect\fightskill\shaolin\sl_50_fmgf_a.spr		0	1		Phục Ma Côn Pháp
+157	ground	2		\image\effect\fightskill\shaolin\sl_50_szh_a.spr		0	1		Sư Tử Hống
+158	body	1		\image\effect\fightskill\shaolin\sl_90_hslh_a.spr		0	1		Thất Tinh La Sát Côn
+159	ground	1		\image\effect\fightskill\tianwang\tw_30_dhc_a.spr		0	1		Đoạn Hồn Thích
+160	ground	2		\image\effect\fightskill\tianwang\tw_70_twzy_a.spr		0	1		Thiên Vương Chiến Ý
+161	ground	2		\image\effect\fightskill\tianwang\tw_70_jzz_a.spr		0	1		Kim Chung Tráo
+162	body	1		\image\effect\fightskill\tangmen\tm_10_zxj_a.spr		0	1		Truy Tâm Tiễn
+163	ground	1		\image\effect\fightskill\tangmen\tm_50_tldw_a.spr		0	1		Thiên La Địa Võng
+164	body	2		\image\effect\fightskill\tangmen\tm_30_myz_a.spr		0	1		Mê Ảnh Tung
+165	ground	1		\image\effect\fightskill\tangmen\tm_90_bylh_a.spr		0	1		Bạo Vũ Lê Hoa
+166	ground	1		\image\effect\fightskill\cuiyan\cy_10_fjcx_a.spr	\image\icon\fightskill\state\qingyinfanchang.spr	0	1		Hộ Thân Chân Khí
+167	body	1		\image\effect\fightskill\cuiyan\cy_50_mylx_a.spr	\image\icon\fightskill\state\lianshenhuanxu.spr	1	1		Chân Khí Hộ Thể
+168	ground	1		\image\effect\fightskill\tangmen\tm_50_xlfd_a.spr		0	1		Tiểu Lý Phi Đao
+169		1			\image\icon\fightskill\state\autocd2.spr	0	0		Đã dùng Chân Khí Hộ Thể, không thể thi triển lại
+170		1			\image\icon\fightskill\state\tabingjue.spr	0	1		Bộ Long Hồn
+171	ground	1		\image\effect\fightskill\wudu\wu_10_xdds_a.spr		0	1		Huyết Đao Độc Sát
+172	body	1		\image\effect\fightskill\wudu\wu_50_bdcx_a.spr		0	1		Bách Độc Xuyên Tâm
+173	body	2		\image\effect\fightskill\wudu\wu_70_wgsx_a.spr		0	1		Vạn Cổ Thực Tâm
+174	ground	1		\image\effect\fightskill\wudu\wu_90_xyz_a.spr		0	1		Huyền Âm Trảm
+175	ground	1		\image\effect\fightskill\wudu\wu_10_dsz_a.spr		0	1		Độc Sa Chưởng
+176	ground	2		\image\effect\fightskill\wudu\wu_30_bmxg_a.spr		0	1		Bi Ma Huyết Quang
+177	ground	1		\image\effect\fightskill\wudu\wu_50_tgds_a.spr		0	1		Thiên Canh Địa Sát
+178	ground	2		\image\effect\fightskill\wudu\wu_50_cxdc_a.spr		0	1		Xuyên Tâm Độc Thích
+179	ground	1		\image\effect\fightskill\wudu\wu_90_yfsg_a.spr		0	1		Âm Phong Thực Cốt
+180	body	1		\image\effect\fightskill\emei\em_10_pxcy_a.spr		0	1		Phiêu Tuyết Xuyên Vân
+181	ground	2		\image\effect\fightskill\emei\em_10_md_a.spr		0	1		Từ Hàng Phổ Độ
+182	ground	1		\image\effect\fightskill\emei\em_50_sxtg_a.spr		0	1		Tứ Tượng Đồng Quy
+183	body	1		\image\effect\fightskill\emei\em_90_fssy_a.spr		0	1		Phong Sương Toái Ảnh
+184	ground	1		\image\effect\fightskill\emei\em_10_fyzy_a.spr		0	1		Phật Âm Chiến Ý
+185	ground	2		\image\effect\fightskill\emei\em_90_fgpz_a.spr		0	1		Phật Quang Phổ Chiếu
+186	ground	1		\image\effect\fightskill\cuiyan\cy_10_fjcx_a.spr		0	1		Phong Quyển Tàn Tuyết
+187	ground	1		\image\effect\fightskill\cuiyan\cy_50_bhcs_a.spr		0	1		Bích Hải Triều Sinh
+188	ground	2		\image\effect\fightskill\cuiyan\cy_30_xy_a.spr		0	1		Tuyết Ảnh
+189	ground	1		\image\effect\fightskill\cuiyan\cy_90_bxxz_a.spr		0	1		Băng Tâm Tiên Tử
+190	ground	1		\image\effect\fightskill\cuiyan\cy_10_fhxy_a.spr		0	1		Phong Hoa Tuyết Nguyệt
+191	body	2		\image\effect\fightskill\cuiyan\cy_70_yxy_a.spr		0	1		Ngự Tuyết Ẩn
+192	ground	1		\image\effect\fightskill\cuiyan\cy_50_mylx_a.spr		0	1		Mục Dã Lưu Tinh
+193	body	1		\image\effect\fightskill\cuiyan\cy_90_bzwy_a.spr		0	1		Băng Tung Vô Ảnh
+194	ground	1		\image\effect\fightskill\gaibang\gb_10_jrss_a.spr		0	1		Kiến Nhân Thân Thủ
+195	ground	1		\image\effect\fightskill\gaibang\gb_50_klyh_a.spr		0	1		Hàng Long Hữu Hối
+196	body	2		\image\effect\fightskill\gaibang\gb_50_hbls_a.spr		0	1		Hoạt Bất Lưu Thủ
+197	body	1		\image\effect\fightskill\gaibang\gb_90_flzt_a.spr		0	1		Phi Long Tại Thiên
+198	body	1		\image\effect\fightskill\gaibang\gb_10_ymtb_a.spr		0	1		Duyên Môn Thác Bát
+199	ground	1		\image\effect\fightskill\gaibang\gb_50_bdeg_a.spr		0	1		Bổng Đả Ác Cẩu
+200	ground	1		\image\effect\fightskill\gaibang\gb_90_txwg_a.spr		0	1		Thiên Hạ Vô Cẩu
+201	ground	1		\image\effect\fightskill\tianren\tr_10_cyrx_a.spr		0	1		Tàn Dương Như Huyết
+202	ground	1		\image\effect\fightskill\tianren\tr_50_lhqt_a.spr		0	1		Liệt Hỏa Tình Thiên
+203	ground	2		\image\effect\fightskill\tianren\tr_50_bsqf_a.spr		0	1		Bi Tô Thanh Phong
+204	ground	2	Purple		\image\icon\fightskill\state\partner\shanchutongban.spr	0	0	3	Mê Hoa Loạn Điệp
+205	ground	1		\image\effect\fightskill\tianren\tr_90_ylj_a.spr		0	1		Vân Long Kích
+206	ground	1		\image\effect\fightskill\tianren\tr_10_tzly_a.spr		0	1		Đạn Chỉ Liệt Diệm
+207	ground	1		\image\effect\fightskill\tianren\tr_50_tsth_a.spr		0	1		Thôi Sơn Điền Hải
+208	ground	2		\image\effect\fightskill\tianren\tr_10_lmdp_a.spr		0	1		Lệ Ma Đoạt Hồn
+209	ground	2		\image\effect\fightskill\public\state_palsy.spr	\image\icon\fightskill\state\palsy.spr	1	0	3	Túy Nhãn Khán Hoa
+210	ground	1		\image\effect\fightskill\tianren\tr_90_twlx_a.spr		0	1		Thiên Ngoại Lưu Tinh
+211	ground	1		\image\effect\fightskill\wudang\wd_10_bjef_a.spr		0	1		Bác Cập Nhi Phục
+212	ground	2		\image\effect\fightskill\wudang\wd_30_zwww_a.spr		0	1		Tọa Vọng Vô Ngã
+213	ground	1		\image\effect\fightskill\wudang\wd_50_wwwj_a.spr		0	1		Vô Ngã Vô Kiếm
+214	ground	1		\image\effect\fightskill\wudang\wd_90_tdwj_a.spr		0	1		Thiên Địa Vô Cực
+215	ground	1		\image\effect\fightskill\wudang\wd_10_jfjt_a.spr		0	1		Kiếm Phi Kinh Thiên
+216	ground	1		\image\effect\fightskill\wudang\wd_50_shty_a.spr		0	1		Tam Hoàn Sáo Nguyệt
+217	body	1		\image\effect\fightskill\wudang\wd_90_rjhy_a.spr		0	1		Nhân Kiếm Hợp Nhất
+218	ground	1		\image\effect\fightskill\kunlun\kl_10_hff_a.spr		0	1		Hô Phong Pháp
+219	body	2		\image\effect\fightskill\kunlun\kl_30_qff_a.spr		0	1		Thanh Phong Phù
+220	ground	1		\image\effect\fightskill\kunlun\kl_50_kfzd_a.spr		0	1		Cuồng Phong Sậu Điện
+221	body	2		\image\effect\fightskill\kunlun\kl_70_yqsq_a.spr		0	1		Nhất Khí Tam Thanh
+222	body	1		\image\effect\fightskill\kunlun\kl_90_axxf_a.spr		0	1		Ngạo Tuyết Tiếu Phong
+223	ground	1		\image\effect\fightskill\kunlun\kl_10_klzd_a.spr		0	1		Cuồng Lôi Chấn Địa
+224	ground	1		\image\effect\fightskill\kunlun\kl_50_tjxl_a.spr		0	1		Thiên Tế Tấn Lôi
+225	ground	2		\image\effect\fightskill\kunlun\kl_70_dgxf_a.spr		0	1		Đạo Cốt Tiên Phong
+226	body	1		\image\effect\fightskill\kunlun\kl_10_klzd_a.spr		0	1		Lôi Động Cửu Thiên
+227	ground	1		\image\effect\fightskill\tianwang\tw_10_hfly_a.spr		0	1		Hồi Phong Lạc Nhạn
+228	ground	1		\image\effect\fightskill\tianwang\tw_50_ygsd_a.spr		0	1		Dương Quan Tam Điệp
+229	ground	1		\image\effect\fightskill\tianwang\tw_90_zxzy_a.spr		0	1		Truy Tinh Trục Nguyệt
+230	ground	1		\image\effect\fightskill\tianwang\tw_10_xyj_a.spr		0	1		Hành Vân Quyết
+231	ground	1		\image\effect\fightskill\tianwang\tw_50_zfj_a.spr		0	1		Truy Phong Quyết
+232	ground	1		\image\effect\fightskill\tianwang\tw_90_clj_a.spr		0	1		Thừa Long Quyết
+233		1			\image\icon\fightskill\state\autocd2.spr	1	0		Hàng Long Bất Vũ đang trong thời gian chờ, không thể thi triển lần nữa
+234	ground	2		\image\effect\fightskill\shaolin\sl_70_wxjz_a.spr		0	1		Vô Tướng Trảm Chỉ
+235	body	1		\image\effect\fightskill\shaolin\sl_90_dmdj_a.spr		0	1		Đạt Ma Độ Giang
+236	body	1		\image\effect\fightskill\tangmen\tm_10_cyr_a.spr		0	1		Xuyên Vân Nhẫn
+237	body	2		\image\effect\fightskill\tangmen\tm_70_mqpz_a.spr		0	1		Di Khí Phiêu Tung
+238	head	1		\image\effect\fightskill\tangmen\tm_90_shyy_a.spr		0	1		Nhiếp Hồn Nguyệt Ảnh
+239	ground	1		\image\effect\fightskill\tangmen\tm_10_dhb_a.spr		0	1		Đoạt Hồn Tiêu
+240	ground	1		\image\effect\fightskill\tangmen\tm_90_jgfx_a.spr		0	1		Cửu Cung Phi Tinh
+241	ground	2		\image\effect\fightskill\wudu\wu_10_jtkl_a.spr		0	1		Cửu Thiên Cuồng Lôi
+242	body	2		\image\effect\fightskill\wudu\wu_10_hxjm_a.spr		0	1		Hóa Huyết Tiệt Mạch
+243	body	2		\image\effect\fightskill\wudu\wu_30_bphg_a.spr		0	1		Băng Phách Hàn Quang
+244	ground	2		\image\effect\fightskill\wudu\wu_50_wgzq_a.spr		0	1		Ôn Cổ Chi Khí
+245	body	2		\image\effect\fightskill\wudu\wu_70_cyst_a.spr		0	1		Xích Diệm Thực Thiên
+246	body	2		\image\effect\fightskill\wudu\wu_90_djfg_a.spr		0	1		Đoạn Cân Hủ Cốt
+247	body	2		\image\effect\fightskill\wudu\wu_90_cypj_a.spr		0	1		Xuyên Y Phá Giáp
+248	ground	1		\image\effect\fightskill\emei\em_10_yyzq_a.spr		0	1		Nhất Diệp Tri Thu
+249	ground	1		\image\effect\fightskill\emei\em_90_seqx_a.spr		0	1		Tam Nga Tế Tuyết
+250	ground	2		\image\effect\fightskill\tianren\tr_30_sfz_a.spr		0	1		Thúc Phọc Chú
+251	ground	2		\image\effect\fightskill\tianren\tr_50_hyfh_a.spr		0	1		Huyễn Ảnh Phi Hồ
+252	ground	2		\image\effect\fightskill\tianren\tr_10_fhwj_a.spr		0	1		Phi Hồng Vô Tích
+253	ground	2		\image\effect\fightskill\tianren\tr_70_nzxj_a.spr		0	1		Nghịch Chuyển Tâm Kinh
+254	head	2		\image\effect\fightskill\tianren\tr_90_hflh_b.spr	\image\icon\fightskill\state\ruyisuogugong.spr	1	1	3	Bổng Đả Cẩu Đầu
+255	body	2		\image\effect\fightskill\kunlun\kl_10_bdbq_a.spr		0	1		Bách Độc Bất Xâm
+256	body	2		\image\effect\fightskill\kunlun\kl_10_xksy_a.spr		0	1		Hư Không Thiểm Ảnh
+257	body	2		\image\effect\fightskill\kunlun\kl_50_qhax_a.spr		0	1		Khinh Hàn Ngạo Tuyết
+258	body	2		\image\effect\fightskill\kunlun\kl_50_hswy_a.spr		0	1		Hóa Tủy Vô Ý
+259	body	2		\image\effect\fightskill\kunlun\kl_70_zhkl_a.spr		0	1		Chân Hỏa Kháng Lực
+260	body	2		\image\effect\fightskill\kunlun\kl_90_ltj_a.spr		0	1		Lôi Đình Quyết
+261	body	2		\image\effect\fightskill\kunlun\kl_90_jgbp_a.spr		0	1		Kim Cang Bất Phá
+262	ground	2		\image\effect\fightskill\public\rage_normal_a.spr		0	1		Nộ khí (Thường)
+263	ground	2		\image\effect\fightskill\public\rage_gold_a.spr		0	1		Nộ khí (Kim)
+264	ground	2		\image\effect\fightskill\public\rage_wood_a.spr		0	1		Nộ khí (Mộc)
+265	ground	2		\image\effect\fightskill\public\rage_water_a.spr		0	1		Nộ khí (Thủy)
+266	ground	2		\image\effect\fightskill\public\rage_fire_a.spr		0	1		Nộ khí (Hỏa)
+267	ground	2		\image\effect\fightskill\public\rage_earth_a.spr		0	1		Nộ khí (Thổ)
+268	ground	1		\image\effect\fightskill\mingjiao\mj_10_kts_a.spr		0	1		Khai Thiên Thức
+269	ground	1		\image\effect\fightskill\mingjiao\mj_50_pds_a.spr		0	1		Phách Địa Thế
+270	ground	1		\image\effect\fightskill\mingjiao\mj_90_lts_a.spr		0	1		Long Thôn Thức
+271	ground	1		\image\effect\fightskill\mingjiao\mj_10_shfx_a.spr		0	1		Thánh Hỏa Phần Tâm
+272	ground	2		\image\effect\fightskill\mingjiao\mj_30_mqpz_a.spr		0	1		Di Khí Phiêu Tung
+273	ground	1		\image\effect\fightskill\mingjiao\mj_50_wwjf_a.spr		0	1		Vạn Vật Câu Phần
+274	ground	2		\image\effect\fightskill\mingjiao\mj_50_pysf_a.spr		0	1		Phiêu Dực Thân Pháp
+275	ground	2		\image\effect\fightskill\mingjiao\mj_70_qkdny_d.spr		0	1		Càn Khôn Đại Na Di
+276	ground	1		\image\effect\fightskill\mingjiao\mj_90_shly_a.spr		0	1		Thánh Hỏa Liêu Nguyên
+277	ground	1		\image\effect\fightskill\daliduanshi\ds_10_szdx_a.spr		0	1		Thần Chỉ Điểm Huyệt
+278	ground	2		\image\effect\fightskill\daliduanshi\ds_30_yyz_a.spr		0	1		Nhất Dương Chỉ
+279	ground	1		\image\effect\fightskill\daliduanshi\ds_50_yzqk_a.spr		0	1		Nhất Chỉ Càn Khôn
+280	ground	2		\image\effect\fightskill\daliduanshi\ds_50_lbwb_a.spr		0	1		Lăng Ba Vi Bộ
+281	ground	1		\image\effect\fightskill\daliduanshi\ds_90_qysz_a.spr		0	1		Càn Dương Thần Chỉ
+282	ground	1		\image\effect\fightskill\daliduanshi\ds_10_fybh_a.spr		0	1		Phong Vân Biến Huyễn
+283	ground	1		\image\effect\fightskill\daliduanshi\ds_50_jymt_a.spr		0	1		Kim Ngọc Mãn Đường
+284	ground	2		\image\effect\fightskill\daliduanshi\ds_50_tnbf_a.spr		0	1		Thiên Nam Bộ Pháp
+285	ground	1		\image\effect\fightskill\daliduanshi\ds_90_lmsj_a.spr		0	1		Lục Mạch Thần Kiếm
+286	ground	1		\image\effect\fightskill\shaolin\sl_30_bdmw_a.spr		0	1		boss Tấn công nhiều đoạn quanh mình
+287	ground	0		\image\effect\fightskill\emei\em_50_jyfg_d.spr		1	0		npc vòng sáng xanh
+288	ground	2		\image\effect\fightskill\wudang\wd_50_cywj_a.spr		0	1		Thuần Dương Vô Cực
+289	ground	2		\image\effect\fightskill\gaibang\gb_60_scll_a.spr		0	1		Thời Thừa Lục Long
+290	ground	0		\image\effect\fightskill\wudu\wu_90_djfg_a.spr	\image\icon\fightskill\state\kurongchangong.spr	1	0		Lục Dương Dung Tuyết Công
+291		1			\image\icon\fightskill\state\yumashu.spr	1	1		Trạng thái chinh chiến<enter>Chỉ có thể chiến đấu khi người khác có cùng trạng thái
+292		0			\image\icon\fightskill\state\kurongchangong.spr	1	1		Khi cường hóa trang bị, bạc (bạc khóa) cần dùng giảm 20%
+293		0			\image\icon\fightskill\state\tianwangbensheng.spr	1	1		Bảo vệ thành chính
+294	ground	0		\image\effect\fightskill\npc\npc_aura_m.spr	\image\icon\fightskill\state\weak.spr	1	1	2	Quân uy<enter>Khi ở trong đại doanh hoặc hay khi ở gần Chiến Thần Mông Cổ Tây Hạ, sức mạnh sẽ tăng.<enter>
+295		0			\image\icon\fightskill\state\duanjinren.spr	1	1		Biến thân Tranh đoạt lãnh thổ
+296		1			\image\icon\fightskill\state\lock.spr	0	0		Đổi môn phái đang chờ, không thể thay đổi được
+297	body	1		\image\effect\fightskill\shaolin\sl_70_jgbh_b.spr	\image\icon\fightskill\state\jingangbuhuai.spr	1	1	3	Kim Cang Bất Hoại
+298	head	1			\image\icon\fightskill\state\pijingzhanji.spr	1	1	3	Phi Kinh Trảm Thích
+299		1			\image\icon\fightskill\state\huaxuejiemai1.spr	1	0	3	Huyết Đỉnh Công_Tăng sát thương phải chịu
+300		1	Black		\image\icon\fightskill\state\huaxuejiemai2.spr	1	0	1	Ôn Cổ Chi Khí_Làm tăng sát thương
+301	body	1		\image\effect\fightskill\wudu\wu_70_qds_a.spr	\image\icon\fightskill\state\zhuifengduji.spr	1	1	3	Truy Phong Độc Thích
+302	head	1		\image\effect\fightskill\emei\em_70_jdmz_b.spr	\image\icon\fightskill\state\jindingmianzhang.spr	1	1	3	Kim Đỉnh Miên Chưởng
+303	ground	0			\image\icon\fightskill\state\toulongzhuanfeng.spr	1	1	3	Thâu Long Chuyển Phượng
+304	ground	0		\image\effect\fightskill\wudang\wd_70_lyxf_b.spr	\image\icon\fightskill\state\liangyixinfa.spr	1	1	3	Lưỡng Nghi Tâm Pháp
+305	ground	1				0	1		Lưu Tinh Cản Nguyệt
+306	body	1		\image\effect\fightskill\kunlun\kl_70_lyzq_b.spr	\image\icon\fightskill\state\liangyizhenqi.spr	1	1	3	Lưỡng Nghi Chân Khí
+307	head	1		\image\effect\fightskill\wudu\wu_30_bphg_b.spr	\image\icon\fightskill\state\yudalihua.spr	1	0	3	Băng Phách Hàn Quang
+308	head	1		\image\effect\fightskill\cuiyan\cy_70_ydlh_b.spr	\image\icon\fightskill\state\yudalihua.spr	1	1	3	Vũ Đả Lê Hoa
+309	head	1		\image\effect\fightskill\public\tabingjue.spr	\image\icon\fightskill\state\tabingjue.spr	1	1	3	Đạp Băng Quyết
+310	head	1		\image\effect\fightskill\public\chengshuangshi.spr	\image\icon\fightskill\state\chengshuangshi.spr	1	1	3	Thừa Sương Thức
+311	head	1		\image\effect\fightskill\public\xueyingwu.spr	\image\icon\fightskill\state\xueyingwu.spr	1	1	3	Tuyết Ảnh Vũ
+312	head	1		\image\effect\fightskill\public\jianbingyu.spr	\image\icon\fightskill\state\jianbingyu.spr	1	1	3	Kiên Băng Ngự
+313		1			\image\icon\fightskill\state\autocd1.spr	1	0		Thí Nguyên Quyết đang chờ, không thể thi triển lần nữa
+314		1			\image\icon\fightskill\state\autocd1.spr	1	0		Bất Động Minh Vương đang chờ, không thể thi triển lần nữa
+315	body	1	Gray	\image\effect\fightskill\kunlun\kl_50_hswy_b.spr	\image\icon\fightskill\state\zhaohunqu_state.spr	1	0		Hàn Nguyệt Yên Tỏa
+316		1			\image\icon\fightskill\state\autocd1.spr	1	0		Khô Vinh Thiền Công đang chờ, không thể thi triển lần nữa
+317		1			\image\icon\fightskill\state\autocd1.spr	1	0		Hàng Long Phục Hổ đang chờ, không thể thi triển lần nữa
+318		1			\image\icon\fightskill\state\autocd1.spr	1	0		Kinh Lôi Phá Thiên đang chờ, không thể thi triển lần nữa
+319		1			\image\icon\fightskill\state\autocd1.spr	1	0		Thiên Vương Bản Sinh đang chờ, không thể thi triển lần nữa
+320		1			\image\icon\fightskill\state\autocd1.spr	1	0		Đoạn Cân Nhẫn đang chờ, không thể thi triển lần nữa
+321		1			\image\icon\fightskill\state\autocd1.spr	1	0		Khu Độc Thuật đang chờ, không thể thi triển lần nữa
+322		1			\image\icon\fightskill\state\autocd1.spr	1	0		Bất Diệt Bất Tuyệt đang chờ, không thể thi triển lần nữa
+323		1			\image\icon\fightskill\state\autocd1.spr	1	0		Huyền Băng Vô Tức đang chờ, không thể thi triển lần nữa
+324		1			\image\icon\fightskill\state\autocd2.spr	1	0		Từ Bi Quyết đang chờ, không thể thi triển lần nữa
+325		1			\image\icon\fightskill\state\autocd2.spr	1	0		Lục Kiếm Tề Phát đang chờ, không thể thi triển lần nữa
+326		1			\image\icon\fightskill\state\autocd2.spr	1	0		Kim Cang Bất Hoại đang chờ, không thể thi triển lần nữa
+327		1			\image\icon\fightskill\state\autocd1.spr	1	0		Hóa Huyết Tiệt Mạch đang chờ, không thể thi triển lần nữa
+328		1			\image\icon\fightskill\state\autocd2.spr	1	0		Truy Phong Độc Thích đang chờ, không thể thi triển lần nữa
+329		1			\image\icon\fightskill\state\autocd2.spr	1	0		Kim Đỉnh Miên Chưởng đang chờ, không thể thi triển lần nữa
+330		1			\image\icon\fightskill\state\autocd2.spr	1	0		Đạp Tuyết Vô Ngấn đang chờ, không thể thi triển lần nữa
+331		1			\image\icon\fightskill\state\autocd1.spr	1	0		Lưỡng Nghi Tâm Pháp đang chờ, không thể thi triển lần nữa
+332		1			\image\icon\fightskill\state\autocd1.spr	1	0		Lưỡng Nghi Chân Khí đang chờ, không thể thi triển lần nữa
+333		0			\image\icon\fightskill\state\kurongchangong.spr	1	1		Tiêu phí đồng tại Kỳ Trân Các hoàn trả 20%
+334	ground	0		\image\effect\fightskill\public\guanxian_halo_1.spr		1	0	1	Vòng sáng quan hàm 1
+335	ground	0		\image\effect\fightskill\public\guanxian_halo_2.spr		1	0	1	Vòng sáng quan hàm 2
+336	ground	0		\image\effect\fightskill\public\guanxian_halo_3.spr		1	0	1	Vòng sáng quan hàm 3
+337	ground	0		\image\effect\fightskill\public\guanxian_halo_4.spr		1	0	1	Vòng sáng quan hàm 4
+338	ground	0		\image\effect\fightskill\public\guanxian_halo_5.spr		1	0	1	Vòng sáng quan hàm 5
+339	ground	0		\image\effect\fightskill\public\guanxian_halo_6.spr		1	0	1	Vòng sáng quan hàm 6
+340	ground	0		\image\effect\fightskill\public\guanxian_halo_7.spr		1	0	1	Vòng sáng quan hàm 7
+341	ground	0		\image\effect\fightskill\public\guanxian_halo_8.spr		1	0	1	Vòng sáng quan hàm 8
+342		0			\image\icon\fightskill\state\jianbingyu.spr	1	0		Hiển thị khi tách cường hóa trang bị
+343		0			\image\icon\fightskill\state\tongweixianhua_child.spr	1	1		Thông Vi Hiển Hóa
+344	ground	0		\image\effect\other\deadaura.spr		1	0	1	
+345		1	Hide		\image\icon\fightskill\state\huihunjue_state.spr	1	1	1	Ẩn thân
+346		1			\image\icon\fightskill\state\zhuihunyin_state.spr	1	1	2	Truy Hồn Dẫn
+347		1			\image\icon\fightskill\state\zhaohunqu_state.spr	1	1	2	Chiêu Hồn Khúc
+348		0			\image\icon\fightskill\state\miqipiaozong.spr	1	1		Trong lúc Ủy thác trên mạng<enter>Dưới trạng thái hiện tại không thể di chuyển
+349	head	1		\image\effect\other\state_onlineexp.spr		1	0		Trạng thái tự động tìm đường
+350	ground	0		\image\effect\fightskill\public\guanxian_halo_8.spr		1	1	2	npc Dùng buff Hoàng đế
+351		1			\image\icon\fightskill\state\wenguzhiqi.spr	1	0		Khí độc quanh thân, công lực giảm mạnh.
+352		1			\image\icon\fightskill\state\zhaohunqu_state.spr	1	1		Tinh hoa của trời, giải được bách độc.
+353		0			\image\icon\fightskill\state\tianwangbensheng.spr	1	1		Sơ Chiến Sa Trường
+354	ground	1		\image\effect\other\statue_aura1.spr		1	0		
+355	ground	1		\image\effect\other\statue_aura2.spr		1	0		
+356	body	1		\image\effect\other\vip_aura.spr		1	0		
+357	head	1		\image\effect\fightskill\daliduanshi\ds_70_syj_b2.spr	\image\icon\fightskill\state\shiyuanjue.spr	1	1	3	Đại Tượng Vô Hình
+358	head	1		\image\effect\fightskill\gaibang\gb_110_qlg_b.spr	\image\icon\fightskill\state\qinlonggong.spr	1	1	3	Trảo Long Công
+359	ground	1		\image\effect\fightskill\wudang\wd_60_tyzq_b.spr	\image\icon\fightskill\state\taiyizhenqi.spr	1	1	3	Thái Ất Chân Khí
+360	body	1		\image\effect\fightskill\tianwang\tw_110_blzlq_b.spr		1	1		Bôn Lôi Toàn Long Thương
+361	head	1			\image\icon\fightskill\state\zhanlongjue.spr	1	1		Trảm Long Quyết_Du Nhẫn Hữu Dư
+362	ground	1		\image\effect\fightskill\shaolin\sl_110_zbxg_c.spr		0	1		Túy Bát Tiên Côn
+363	ground	1		\image\effect\fightskill\wudu\wu_10_xdds_a.spr		0	1		Chu Cáp Thanh Minh
+364	ground	1		\image\effect\fightskill\wudu\wu_10_dsz_a.spr		0	1		Hóa Cốt Miên Chưởng
+365	ground	1		\image\effect\fightskill\emei\em_110_fgzq_a.spr		0	1		Phật Quang Chiến Khí
+366	ground	1		\image\effect\fightskill\emei\em_110_jyfg_a.spr		0	1		Kiếm Ảnh Phật Quang
+367	head	1		\image\effect\fightskill\daliduanshi\ds_110_mdz_b.spr	\image\icon\fightskill\state\miaodizhi.spr	1	1	3	Diệu Đề Chỉ_Khí
+368	ground	1				0	1		Phi Hồng Vô Tích
+369	head	1			\image\icon\fightskill\state\mizhonghuanying.spr	1	1		Mê Tung Huyễn Ảnh
+370	body	1		\image\effect\fightskill\mingjiao\mj_110_shlf_a.spr		0	1		Thánh Hỏa Lệnh Pháp
+371	ground	0		\image\effect\fightskill\kunlun\kl_110_wrww_d.spr		0	1		Vô Nhân Vô Ngã
+372	head	1		\image\effect\fightskill\kunlun\kl_110_wrww_b.spr	\image\icon\fightskill\state\wurenwuwo.spr	1	1	2	Vô Nhân Vô Ngã
+373	body	1		\image\effect\fightskill\cuiyan\cy_70_yxy_a.spr		0	1		Lôi Đình Quyết
+374	ground	1		\image\effect\fightskill\kunlun\kl_90_ltj_a.spr	\image\icon\fightskill\state\leitingjue.spr	1	0	2	Lôi Đình Quyết
+375	body	1		\image\effect\fightskill\tangmen\tm_110_qjsg_b.spr	\image\icon\fightskill\state\qijueshaguang.spr	1	1	3	Thất Tuyệt Sát Quang
+376	head	1		\image\effect\fightskill\wudu\wu_110_hgmz_b.spr	\image\icon\fightskill\state\huagumianzhang.spr	1	0	3	Hóa Cốt Miên Chưởng
+377	head	1		\image\effect\fightskill\mingjiao\mj_110_jxhy_b.spr	\image\icon\fightskill\state\jiuxihunyang.spr	1	1	3	Cửu Hi Hỗn Dương
+378	body	1		\image\effect\fightskill\mingjiao\mj_110_shlf_b.spr	\image\icon\fightskill\state\shenghuolingfa.spr	1	1	3	Thánh Hỏa Lệnh Pháp
+379	ground	1		\image\effect\fightskill\emei\em_110_fgzq_b.spr	\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Phật Quang Chiến Khí
+380	body	2		\image\effect\fightskill\cuiyan\cy_110_smmf_d.spr		0	1		Thập Diện Mai Phục
+381		1			\image\icon\fightskill\state\autocd1.spr	1	0		Thất Tuyệt Sát Quang đang đợi thi triển
+382		1			\image\icon\fightskill\state\autocd2.spr	1	0		Cửu Hi Hỗn Dương đang đợi thi triển
+383		1			\image\icon\fightskill\state\autocd2.spr	1	0		Hàn Nguyệt Yên Tỏa đang trong thời gian chờ, không thể phát động
+384		1			\image\icon\fightskill\state\autocd2.spr	1	0		Trảo Long Công đang đợi thi triển
+385		1			\image\icon\fightskill\state\autocd1.spr	1	0		Thúc Phọc Chú đang đợi thi triển
+386		1			\image\icon\fightskill\state\piaoyishenfa.spr	1	1		Chung Nam Vãn Chiếu_Lạc Nhật Dư Huy
+387	ground	0		\image\effect\fightskill\tianren\tr_110_sfz_b.spr	\image\icon\fightskill\state\huabuliushou.spr	1	1	3	Thúc Phọc Chú
+388	head	1		\image\effect\fightskill\cuiyan\cy_110_smmf_b.spr	\image\icon\fightskill\state\yuxueyin.spr	1	1	3	Thập Diện Mai Phục
+389	ground	1		\image\effect\fightskill\wudang\wd_110_wdjyg_a.spr		0	1		Vạn Kiếm Quy Tông
+390	ground	0		\image\effect\fightskill\wudang\wd_110_wdjyg_b.spr	\image\icon\fightskill\state\chuanxinduci.spr	1	1	3	Kiếm Tâm Thông Dụng
+391	ground	0		\image\effect\fightskill\kunlun\kl_110_ltj_b.spr	\image\icon\fightskill\state\leitingjue.spr	1	1	2	Lôi Đình Quyết
+392	ground	0		\image\effect\fightskill\tianren\tr_110_fhwj_b.spr		1	1		Phi Hồng Vô Tích
+393	ground	1		\image\effect\fightskill\daliduanshi\ds_110_jtyj_a.spr		0	1		Kinh Thiên Nhất Kiếm
+394	body	1		\image\effect\fightskill\gaibang\gb_10_ymtb_a.spr		0	1		Đả Cẩu Trận Pháp
+395	head	1			\image\icon\fightskill\state\chengshuangshi.spr	1	1	3	Hiệu quả của bao tay
+396	body	1		\image\effect\fightskill\shaolin\sl_100_rysgg_b.spr	\image\icon\fightskill\state\ruyisuogugong.spr	0	1	3	Như Ý Thúc Cốt Công
+397	ground	1		\image\effect\fightskill\tianwang\tw_100_lhdmq_b.spr	\image\icon\fightskill\state\lianhuanduomingqiang.spr	1	1	3	Liên Hoàn Đoạt Mệnh
+398	ground	1		\image\effect\fightskill\emei\em_100_wxsg_a.spr	\image\icon\fightskill\state\wanxiangshengong.spr	0	1	2	Vạn Tướng Thần Công 
+399	head	1		\image\effect\fightskill\gaibang\gb_100_bwxj_b.spr	\image\icon\fightskill\state\bawangxiejia.spr	1	1	3	Bá Vương Tá Giáp
+400		0			\image\icon\fightskill\state\piaoyishenfa.spr	1	1	2	Nguyệt Hoa Thiên Lý
+401	ground	0		\image\effect\other\beauty_1.spr		1	0		
+402	ground	0		\image\effect\other\beauty_2.spr		1	0		
+403	ground	0		\image\effect\other\beauty_3.spr		1	0		
+404	head	1		\image\effect\other\radish.spr		1	0		Hiệu ứng La Bặc
+405		0			\image\icon\fightskill\state\bootskill_s.spr	1	1	2	Du Long Chân Khí
+406	ground	1		\image\effect\other\wldh_aura_1.spr		1	0	1	
+407	ground	1		\image\effect\other\wldh_aura_2.spr		1	0	1	
+408	ground	1		\image\effect\other\wldh_aura_3.spr		1	0	1	
+409	body	1		\image\effect\other\vip_aura_2.spr		1	0		
+410	body	1		\image\effect\other\vip_aura_3.spr		1	0		
+411	ground	0		\image\effect\fightskill\gaibang\gb_100_mcqh_b.spr	\image\icon\fightskill\state\mingchaqiuhao.spr	1	1	2	Minh Sát Thu Hào
+412	head	1			\image\icon\fightskill\state\autocd1.spr	1	0		Bá Vương Tá Giáp đang được sử dụng.
+413	head	1			\image\icon\fightskill\state\autocd1.spr	1	0		Mục Dã Ưng Dương đang được sử dụng.
+414	ground	1		\image\effect\fightskill\public\rage_earth_c2.spr	\image\icon\fightskill\state\fukong.spr	1	0		Phù Không, không thể di chuyển, không thể xuất chiêu
+415	ground	0	Red		\image\icon\fightskill\state\zhican.spr	1	0		Chí Tàn, không thể dùng khinh công
+416	body	1		\image\effect\other\deadaura.spr	\image\icon\fightskill\state\lianyufugu.spr	1	0		Luyện Ngục Hủ Cổ 
+417	head	1		\image\effect\fightskill\tianren\tr_100_nzxj_b.spr	\image\icon\fightskill\state\nizhuanxinjing.spr	1	0		Nghịch Chuyển Tâm Kinh_Trói buộc
+418	ground	1		\image\effect\fightskill\tianwang\tw_100_qkc_b.spr	\image\icon\fightskill\state\qiankunchui.spr	1	1	3	Càn Khôn Đảo Huyền 
+419		1			\image\icon\fightskill\state\autocd2.spr	1	0		Nghịch Chuyển Tâm Kinh đang được sử dụng.
+420	head	0			\image\icon\fightskill\state\fanliangyidaofa.spr	1	0	2	Phản Lưỡng Nghi Đao Pháp 
+421	head	1			\image\icon\fightskill\state\autocd2.spr	1	0		Nghịch Chuyển Tâm Kinh đang được sử dụng.
+422	head	0		\image\effect\fightskill\wudu\wu_30_bphg_b.spr	\image\icon\fightskill\state\yufengshu.spr	1	0	3	Ngự Phong Thuật
+423	head	1		\image\effect\fightskill\tangmen\tm_90_shyy_a.spr	\image\icon\fightskill\state\jiuquyiheqiang.spr	1	1	2	Cửu Khúc Hợp Thương
+424	body	1		\image\effect\fightskill\npc\npc_l_melee_earth_d.spr	\image\icon\fightskill\state\lianshenhuanxu.spr	1	1	2	Luyện Thần Hoàn Hư
+425		1			\image\icon\fightskill\state\autocd1.spr	1	0		Như Ý Thúc Cốt Công đang chờ, không thể thi triển lần nữa
+426		1			\image\icon\fightskill\state\autocd2.spr	1	0		Luyện Thần Hoàn Hư đang chờ, không thể thi triển lần nữa
+427	body	1		\image\effect\fightskill\shaolin\sl_10_fmdf_a.spr		0	1		Đại Thừa Như Lai Chú_Đặc hiệu xuất chiêu
+428	body	1		\image\effect\fightskill\tangmen\tm_100_cyj_a.spr		0	1		Xuyên Vân Tiễn_Đặc hiệu xuất chiêu
+429	body	1		\image\effect\fightskill\cuiyan\cy_100_fxph_a.spr		0	1		Phi Tự Phiêu Hoa_Đặc hiệu xuất chiêu
+430		0			\image\icon\fightskill\state\partner\shanchutongban.spr	1	0		Xin xóa đồng hành
+431		0			\image\icon\fightskill\state\partner\tongbanchongsheng.spr	1	0		Xin trùng sinh đồng hành
+432		0			\image\icon\fightskill\state\partner\chushouxiangzhu.spr	1	1		Giúp đỡ<enter>Hiện đồng hành đang giúp đỡ bạn
+433	body	1		\image\effect\fightskill\cuiyan\cy_100_ylxf_a.spr		0	1		Dạ Lai Tây Phong_Đặc hiệu xuất chiêu
+434	body	1		\image\effect\fightskill\kunlun\kl_100_flydf_a.spr		0	1		Phản Lưỡng Nghi Đao Pháp_Đặc hiệu xuất chiêu
+435	body	1		\image\effect\fightskill\kunlun\kl_100_yfs_a.spr		0	1		Ngự Phong Thuật_Đặc hiệu xuất chiêu
+436	body	1		\image\effect\fightskill\mingjiao\mj_100_hpfy_a.spr		0	1		Hồn Phách Phi Dương_Đặc hiệu xuất chiêu
+437	body	1		\image\effect\fightskill\daliduanshi\ds_100_xbjj_a.spr		0	1		Huyền Băng Cửu Kiếp_Đặc hiệu xuất chiêu
+438	body	1		\image\effect\fightskill\cuiyan\cy_90_bxxz_a.spr	\image\icon\fightskill\state\yudalihua.spr	1	1	3	Lưu Phong Hồi Tuyết
+439	head	0			\image\icon\fightskill\state\fanliangyidaofa.spr	1	1	2	Lưỡng Nghi Hóa Hình
+440	head	1			\image\icon\fightskill\state\slowrun.spr	1	0		Mệt mỏi
+441	head	1		\image\effect\fightskill\tianren\tr_50_hyfh_b.spr	\image\icon\fightskill\state\slowall.spr	1	0	3	Băng Tâm Thiến Ảnh
+442	ground	0		\image\effect\fightskill\wudu\wu_30_wxg_b.spr	\image\icon\fightskill\state\jiuxihunyang.spr	1	1	2	Vô Hình Cổ
+447	head	1		\image\effect\other\state_boss.spr	\image\icon\fightskill\state\tianwangbensheng.spr	1	1	3	Thiên Hà Hộ Thể
+448		1			\image\icon\fightskill\state\autocd1.spr	1	0		Thiên Hà Hộ Thể đang chờ, không thể thi triển lúc này
+449		0			\image\icon\fightskill\state\yumashu.spr	1	1		Sĩ khí<enter>Điểm Tài Nguyên chiếm lĩnh càng nhiều, lợi ích nhận được càng cao.<enter>Cấp 4 tăng lên cấp 5 sẽ tăng nhiều hơn
+450	head	1		\image\effect\other\tongbanshuofuzhong_vn.spr		1	0		Đang thuyết phục
+451	head	1		\image\effect\fightskill\daliduanshi\ds_70_syj_b2.spr		1	0		Đang thuyết phục
+452		0			\image\icon\fightskill\state\boluoxinjing.spr	0	1		Đồng hành
+453	body	1		\image\effect\fightskill\public\jiehun\qiuhunguanghuan_m.spr		1	0	2	Vòng sáng cầu hôn nam
+454	body	1		\image\effect\fightskill\public\jiehun\qiuhunguanghuan_f.spr		1	0	2	Vòng sáng cầu hôn nữ
+455	head	1		\image\effect\fightskill\tianwang\tw_70_twzy_b.spr	\image\icon\fightskill\state\tianwangzhanyi.spr	1	1	2	Thiên Canh Chiến Khí
+456	ground	0		\image\effect\fightskill\shaolin\sl_70_alhsg_b.spr	\image\icon\fightskill\state\aluohanshengong.spr	1	1	2	Di Hoa Tiếp Mộc
+457	ground	0		\image\effect\fightskill\emei\em_10_md_b.spr	\image\icon\fightskill\state\mengdie.spr	1	1	2	Nhuận Vật Vô Thanh
+458	ground	1		\image\effect\fightskill\tianwang\tw_100_lhdmq_b.spr	\image\icon\fightskill\state\lianhuanduomingqiang.spr	1	1	3	Như Nhật Trung Thiên
+459	body	1		\image\effect\fightskill\tianwang\tw_70_jzz_b.spr	\image\icon\fightskill\state\jinzhongzhao.spr	1	1	2	Cố Nhược Kim Thang
+460	body	1		\image\effect\fightskill\emei\em_30_chpd_d.spr	\image\icon\fightskill\state\cihangpudu.spr	0	1	2	Bình nước nhỏ_Cộng máu
+461	body	1		\image\effect\fightskill\public\blade_d.spr	\image\icon\fightskill\state\cihangpudu.spr	0	1	2	Cuốc nhỏ_Giảm máu
+462	ground	1		\image\effect\other\vip_aura.spr		1	0		
+463	body	1		\image\effect\other\wangguan_vn.spr		1	0	1	Vương Miện Việt Nam
+464		0			\image\icon\fightskill\state\chengshuangshi.spr	1	1		Bất khuất
+465	ground	1		\image\effect\other\state_boss.spr		1	1	1	Đang ngồi
+470		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Nhắc nhở mở khóa trang bị Đồng hành
+471	ground	1				1	0	2	Vòng sáng npc Thất Tịch _Hủy bỏ
+472	head	1		\image\effect\other\state_unlock.spr		0	0		Đang mở khóa…
+473	ground	0		\image\effect\fightskill\emei\em_90_pdzs_b.spr	\image\icon\fightskill\state\cihangpudu.spr	1	1	2	Khí Tráng Sơn Hà
+474		0			\image\icon\fightskill\state\zhuifengduji.spr	1	1	2	Chiến Thần Đơn<enter>Công lực tăng thêm, có thể sử dụng một số kỹ năng hiếm thấy
+475	ground	1		\image\effect\other\statue_aura1.spr		1	0	1	
+476		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Xin phép mở khóa Chân nguyên
+477	ground	0		\image\effect\other\beauty_4.spr		1	0	1	Vòng sáng hoạt động 10 mỹ nữ
+478	ground	0		\image\effect\other\beauty_5.spr		1	0	1	Vòng sáng hoạt động 10 mỹ nữ
+479	ground	0		\image\effect\other\beauty_6.spr		1	0	1	Vòng sáng hoạt động 10 mỹ nữ
+480		1			\image\icon\fightskill\state\autocd1.spr	1	0		Hái quả
+481		1			\image\icon\fightskill\state\chuanxinduci.spr	1	1		Ngũ Chuyển Tâm Pháp
+482	body	1		\image\effect\fightskill\shaolin\sl_120_xlby_a.spr	\image\icon\fightskill\state\daoshao120.spr	1	1	3	Hàng Long Bất Vũ
+483	head	1		\image\effect\fightskill\tianwang\tw_120_hxwj_b.spr	\image\icon\fightskill\state\qiangtian120.spr	1	1	3	Hoành Hành Vô Kỵ
+484	ground	0		\image\effect\fightskill\shaolin\sl_90_wxz_a.spr	\image\icon\fightskill\state\chuitian120.spr	1	1	2	Hóa Kình Quyết
+485	ground	0		\image\effect\fightskill\tangmen\tm_120_yzz_a.spr	\image\icon\fightskill\state\xianjing120.spr	1	1	3	Ảnh Tung Trận
+486	head	1		\image\effect\fightskill\tangmen\tm_120_shd_a.spr	\image\icon\fightskill\state\xiujian120.spr	1	1	3	Truy Hồn Đoạt Mệnh
+487	head	1		\image\effect\fightskill\wudu\wd_120_sxg_a1.spr	\image\icon\fightskill\state\daodu120_2.spr	1	1	3	Thất Tâm Cổ
+488	body	1		\image\effect\fightskill\wudu\wd_120_sxg_a2.spr	\image\icon\fightskill\state\daodu120_3.spr	1	1	3	Thất Tâm Cổ
+489		1			\image\icon\fightskill\state\zhangdu120.spr	1	0		Lý Đại Đào Cương
+490	head	1		\image\effect\other\make_succeed.spr	\image\icon\fightskill\state\zhange120.spr	1	1	3	Diệp Để Tàng Hoa
+491	ground	0		\image\effect\fightskill\emei\em_120_qxjq_a.spr	\image\icon\fightskill\state\fue120.spr	1	1	2	Thanh Tâm Tịnh Khí
+492	body	1		\image\effect\fightskill\cuiyan\cy_120_bxyl_b.spr	\image\icon\fightskill\state\jiancui120.spr	1	1	3	Băng Tâm Ngọc Lăng
+493	ground	1		\image\effect\fightskill\cuiyan\cy_100_fxph_a.spr	\image\icon\fightskill\state\daocui120_1.spr	1	1	2	Ảm Tướng Vọng
+494	head	1		\image\effect\fightskill\daliduanshi\ds_70_syj_b2.spr	\image\icon\fightskill\state\daocui120_2.spr	1	1	2	Tương Tư
+495		1			\image\icon\fightskill\state\gungai120.spr	1	1		Tung Hạc Công
+496		1			\image\icon\fightskill\state\moren120.spr	1	1		Ma Đao Thôn Thần
+497	ground	2	Yellow	\image\effect\fightskill\npc\xoyo_saiyaren_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Phong Ma Côn Pháp
+498	ground	0		\image\effect\fightskill\wudang\wd_120_yhmm_b.spr	\image\icon\fightskill\state\jianwu120.spr	1	1	3	Tử Tiêu Hoành Vân
+499	body	1		\image\effect\fightskill\kunlun\kl_120_jrwy_a.spr	\image\icon\fightskill\state\jiankun120.spr	1	1	3	Tích Nhưỡng Vi Nhạc
+500	ground	0		\image\effect\fightskill\shaolin\sl_70_alhsg_b.spr	\image\icon\fightskill\state\aluohanshengong.spr	1	1	2	A La Hán Thần Công_Đồng đội 
+501	head	1		\image\effect\fightskill\tianwang\tw_70_twzy_b.spr	\image\icon\fightskill\state\tianwangzhanyi.spr	1	1	2	Thiên Vương Chiến Ý_Phe ta
+502	body	1		\image\effect\fightskill\tianwang\tw_70_jzz_b.spr	\image\icon\fightskill\state\jinzhongzhao.spr	1	1	2	Kim Chung Tráo_Phe ta
+503	ground	0		\image\effect\fightskill\tangmen\tm_30_cds_b2.spr	\image\icon\fightskill\state\cuidushu.spr	1	1	2	Tôi Độc Thuật_Đồng đội
+504	ground	0		\image\effect\fightskill\emei\em_50_fxcy_b.spr	\image\icon\fightskill\state\foxinciyou.spr	1	1	2	Phật Tâm Từ Hựu_Đồng đội 
+505	ground	0		\image\effect\fightskill\emei\em_70_ls_b.spr	\image\icon\fightskill\state\liushui.spr	1	1	2	Lưu Thủy Quyết_Đồng đội
+506	ground	0		\image\effect\fightskill\emei\em_10_md_b.spr	\image\icon\fightskill\state\mengdie.spr	1	1	2	Mộng Điệp_Đồng đội
+507	ground	0		\image\effect\fightskill\emei\em_50_qyfc_b.spr	\image\icon\fightskill\state\qingyinfanchang.spr	1	1	2	Thanh Âm Phạn Xướng_Đồng đội 
+508	body	1		\image\effect\fightskill\cuiyan\cy_70_xyhc_b.spr	\image\icon\fightskill\state\xueyinghongchen.spr	1	1	2	Tuyết Ánh Hồng Trần_Đồng đội 
+509	body	1		\image\effect\fightskill\wudang\wd_70_zwqj_b.spr	\image\icon\fightskill\state\zhenwuqijie.spr	1	1	2	Chân Vũ Thất Tiệt_Đồng đội 
+510	ground	0		\image\effect\fightskill\wudang\wd_70_qxj_b.spr	\image\icon\fightskill\state\qixingjue.spr	1	1	2	Thất Tinh Quyết_Đồng đội
+511	head	1		\image\effect\fightskill\kunlun\kl_30_qff_b.spr	\image\icon\fightskill\state\qingfengfu.spr	1	1	2	Thanh Phong Phù_Phe ta
+512	ground	0		\image\effect\fightskill\kunlun\kl_70_yqsq_b.spr	\image\icon\fightskill\state\yiqisanqing.spr	1	1	2	Nhất Khí Tam Thanh_Phe ta
+513	body	1		\image\effect\fightskill\kunlun\kl_70_dgxf_b.spr	\image\icon\fightskill\state\daoguxianfeng.spr	1	1	2	Đạo Cốt Tiên Phong_Phe ta
+514	ground	0		\image\effect\fightskill\mingjiao\mj_70_jgtm_b.spr	\image\icon\fightskill\state\jingetiema.spr	1	1	2	Kim Qua Thiết Mã_Đồng đội 
+515	ground	0		\image\effect\fightskill\daliduanshi\ds_30_bmsg_b.spr	\image\icon\fightskill\state\beimingshengong.spr	1	1	2	Bắc Minh Thần Công_Đồng đội 
+516	ground	0		\image\effect\fightskill\emei\em_90_pdzs_b.spr	\image\icon\fightskill\state\armor.spr	1	1	2	Phổ Độ Chúng Sinh_Đồng đội 
+517	head	1		\image\effect\fightskill\kunlun\kl_110_wrww_b.spr	\image\icon\fightskill\state\wurenwuwo.spr	1	1	2	Vô Nhân Vô Ngã_Đồng đội 
+518	ground	1		\image\effect\fightskill\emei\em_110_fgzq_b.spr	\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Phật Quang Chiến Khí_Phe ta
+519	ground	1		\image\effect\fightskill\emei\em_100_wxsg_a.spr	\image\icon\fightskill\state\wanxiangshengong.spr	0	1	2	Vạn Tướng Thần Công_Phe ta
+520	ground	0		\image\effect\fightskill\gaibang\gb_100_mcqh_b.spr	\image\icon\fightskill\state\mingchaqiuhao.spr	1	1	2	Minh Sát Thu Hào_Đội
+521	ground	1		\image\effect\fightskill\shaolin\sl_90_wxz_a.spr	\image\icon\fightskill\state\chuitian120.spr	1	1	2	Tạ Kình Quyết
+522	ground	1		\image\effect\fightskill\emei\em_120_qxjq_a.spr	\image\icon\fightskill\state\fue120.spr	1	1	2	Thanh Tâm Tịnh Khí_Đồng đội 
+523		1			\image\icon\fightskill\state\autocd2.spr	1	0		Vũ Đả Lê Hoa đang chờ, không thể thi triển lần nữa
+524	body	1		\image\effect\fightskill\wudu\wu_70_hxjm_b.spr	\image\icon\fightskill\state\daodu120_1.spr	1	0	3	Thất Tâm Cổ
+525		0			\image\icon\fightskill\state\liangyixinfa.spr	1	1	3	Lưỡng Nghi Tâm Pháp
+526		0			\image\icon\fightskill\state\knock.spr	1	0	3	Đại Thừa Như Lai Chú
+527		1			\image\icon\fightskill\state\zhaohunqu_state.spr	1	1	3	Đạp Tuyết Vô Ngấn
+528	head	1			\image\icon\fightskill\state\jianwu120.spr	1	0	3	Vân Hải Mê Mang
+529		1			\image\icon\fightskill\state\weak.spr	1	0	1	Hồn Phách Phi Dương
+530		1			\image\icon\fightskill\state\xueyingwu.spr	1	1	3	Xuân Nê Hộ Hoa
+531		1			\image\icon\fightskill\state\partner\tongbanchongsheng.spr	1	1	3	Ý Chí Bất Khuất
+532	head	1		\image\effect\fightskill\public\state_slowrun.spr	\image\icon\fightskill\state\slowrun.spr	1	0	1	Vân Già Vụ Nhiễu
+533		1	Green3		\image\icon\fightskill\state\burn.spr	1	0	1	Cực Độc<enter>gây sát thương ngày càng cao
+534	head	1		\image\effect\fightskill\wudu\wu_70_cyst_a.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	3	Chước Nhiệt Tổ Chú
+535	head	1		\image\effect\fightskill\npc\xoyo_jiantou1_big.spr	\image\icon\fightskill\state\zhican.spr	1	0	3	Bạn sẽ bị Hồng Liên Bộc Viêm Chùy tấn công
+536		1			\image\icon\fightskill\state\fukong.spr	1	1	3	Miễn sát thương
+537	ground	1		\image\effect\fightskill\npc\xoyo_jiantou5.spr	\image\icon\fightskill\state\fukong.spr	1	0	3	Thử Vật Tối Tương Tư<enter>Bạn sẽ tiếp tục gây sát thương cho đồng đội xung quanh
+538		1		\image\effect\fightskill\tianren\tr_50_bsqf_b.spr	\image\icon\fightskill\state\beisuqingfeng.spr	1	0	3	Chước Giới
+539	ground	0		\image\effect\fightskill\shaolin\sl_30_bdmw_b.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Gây sát thương chí mạng cho phe ta
+540	ground	0		\image\effect\fightskill\npc\junying__boss_1.spr	\image\icon\fightskill\state\limoduopo.spr	1	1	2	Tăng phòng thủ
+541	ground	0		\image\effect\fightskill\npc\junying__boss_2.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Giảm phòng thủ
+542	body	1		\image\effect\fightskill\gaibang\gb_50_klyh_d.spr	\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Tăng Lực tấn công
+543	body	1		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Bạn tiếp tục giảm sinh lực
+544	body	1		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Bạn tiếp tục giảm nội lực
+545	body	1		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Bạn tiếp tục giảm thể lực
+546		1			\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Tăng lực tấn công
+547	head	1		\image\effect\fightskill\npc\xoyo_jiantou1.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Vô Ngấn<enter>Sau một thời gian sẽ nổ đồng thời ảnh hưởng đến đối phương.
+548	ground	1		\image\effect\fightskill\npc\xoyo_jiantou1.spr	\image\icon\fightskill\state\beimoxueguang.spr	1	0	3	Nguyện Quân Đa Thái Hiệt<enter>Bạn sẽ gây sát thương cho bản thân
+549	head	1		\image\effect\fightskill\gaibang\gb_110_qlg_b.spr	\image\icon\fightskill\state\fukong.spr	1	0	3	<color=red>Khổng Tước Phệ Tâm<color><enter>Bạn sẽ gây sát thương chí mạng cho đồng đội gần đó
+550		1	Black		\image\icon\fightskill\state\weak.spr	1	0	1	Hàn Kiếp<enter>Mau chóng đánh vỡ Khối Băng xóa trạng thái này
+551		1	Green3		\image\icon\fightskill\state\poisoning.spr	1	0	1	Trúng Độc<enter>Đến gần đầu nguồn nơi phát sinh độc tố để giải độc
+552		0			\image\icon\fightskill\state\knock.spr	1	0	3	Mau chạy đi
+553		0			\image\icon\fightskill\state\wangushixin.spr	1	0	3	Ách Vận<enter>Sau 3 giây gây sát thương phạm vi cho phe ta ở gần đó
+554		1			\image\icon\fightskill\state\limoduopo.spr	1	0	2	Bạn tiếp tục giảm sinh lực, nội lực và thể lực
+555	ground	1		\image\effect\fightskill\npc\xoyo_jiantou4.spr	\image\icon\fightskill\state\zhuifengduji.spr	1	0	2	Xuân
+556	ground	1		\image\effect\fightskill\npc\xoyo_jiantou3.spr	\image\icon\fightskill\state\zhuifengduji.spr	1	0	2	Hạ
+557	ground	1		\image\effect\fightskill\npc\xoyo_jiantou1.spr	\image\icon\fightskill\state\zhuifengduji.spr	1	0	2	Thu
+558	ground	1		\image\effect\fightskill\npc\xoyo_jiantou5.spr	\image\icon\fightskill\state\zhuifengduji.spr	1	0	2	Đông 
+559		1			\image\icon\fightskill\state\daodu120_1.spr	1	0	2	Duy trì sát thương
+560		1			\image\icon\fightskill\state\daodu120_3.spr	1	1	2	Tăng tốc độ tấn công
+561		1			\image\icon\fightskill\state\daodu120_3.spr	1	1	2	Tăng tốc độ di chuyển
+562		1			\image\icon\fightskill\state\daodu120_3.spr	1	1	2	Tăng sinh lực tối đa
+563		1			\image\icon\fightskill\state\daodu120_3.spr	1	1	2	Tăng Lực tấn công
+564		1			\image\icon\fightskill\state\daodu120_3.spr	1	1	2	Tăng điểm chí mạng
+565		1			\image\icon\fightskill\state\daodu120_1.spr	1	0	2	Giảm tốc độ tấn công
+566		1			\image\icon\fightskill\state\daodu120_1.spr	1	0	2	Giảm tốc độ di chuyển
+567		1			\image\icon\fightskill\state\daodu120_1.spr	1	0	2	Giảm HP tối đa
+568		1			\image\icon\fightskill\state\daodu120_1.spr	1	0	2	Giảm lực tấn công
+569		1			\image\icon\fightskill\state\palsy.spr	1	0	2	Nổ sau 5 giây
+570		1			\image\icon\fightskill\state\zhican.spr	1	0	2	Khinh công tăng tiêu hao
+571		1			\image\icon\fightskill\state\limoduopo.spr	1	0	2	Tăng sát thương
+572		1			\image\icon\fightskill\state\foxinciyou.spr	1	1	2	Tăng sinh, nội
+573		1			\image\icon\fightskill\state\kurongchangong.spr	1	1		Tăng 50% điểm khi dùng các lệnh bài danh vọng BHĐ,TK,GT,MP,NQ,VLCT
+574		1			\image\icon\fightskill\state\kurongchangong.spr	1	1		Sử dụng Hồn Thạch cường hóa Ngũ Hành Ấn, hiệu quả tăng 20%
+575		0			\image\icon\fightskill\state\partner\shanchutongban.spr	1	1		Tăng sức mạnh
+576		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Xin mở khóa bảo thạch
+577		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Xin tách nguyên thạch
+583	head	1		\image\effect\fightskill\gaibang\gb_110_qlg_b.spr	\image\icon\fightskill\state\fukong.spr	1	0	3	Bạn sẽ gây sát thương cho đồng đội xung quanh
+584		0			\image\icon\fightskill\state\zhaohunqu_state.spr	1	1		Đang tham gia thám hiểm phó bản gia tộc cao cấp
+585		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Ưu đãi chuyển<enter>Giảm 100% khi dùng Cường Hóa Truyền Phù tiến hành chuyển trang bị
+586		0			\image\icon\fightskill\state\burn.spr	1	0		Không được tiếp tục báo danh Mông Cổ Tây Hạ Liên Server
+587		0			\image\icon\fightskill\state\juyuanshu.spr	1	1		Tăng phần thưởng phó bản gia tộc buff
+588		0			\image\icon\fightskill\state\chengshuangshi.spr	1	1	1	Chúc phúc của Tần Oa
+589	head	0		\image\effect\other\bird.spr		1	1		Giám định buff
+590	head	0		\image\effect\other\smallfish.spr		1	1		1--19
+591	head	0		\image\effect\other\middlefish.spr		1	1		20--29
+592	head	0		\image\effect\other\bigfish.spr		1	1		30--39
+593	head	0		\image\effect\other\superfish.spr		1	1		40--50
+594	ground	1		\image\effect\fightskill\npc\xoyo_jiantou5_big_b.spr	\image\icon\fightskill\state\daodu120_3.spr	1	0	3	Tình Cổ_Lam
+595	ground	1		\image\effect\fightskill\npc\xoyo_jiantou4_big_b.spr	\image\icon\fightskill\state\daodu120_1.spr	1	0	3	Tình Cổ_Lục
+596	ground	0		\image\effect\fightskill\npc\xoyo_jiantou1_big_b.spr	\image\icon\fightskill\state\daodu120_2.spr	1	0	3	Tình Cổ_Đỏ
+597	ground	1		\image\effect\fightskill\tianwang\tw_60_jlpt_b.spr	\image\icon\fightskill\state\stun.spr	1	0	3	Giam cầm
+598	ground	0			\image\icon\fightskill\state\qiankundanuoyi.spr	1	1	2	Bị giới hạn bởi Thời Quang Tỏa, không thể vào Lăng Tần Thủy Hoàng
+599	ground	0		\image\effect\other\needfire_b.spr	\image\icon\fightskill\state\qiangtian120.spr	1	1	1	 Cổ Vũ Chiến Kỳ
+600	body	1		\image\effect\fightskill\tianwang\tw_70_jzz_b.spr	\image\icon\fightskill\state\jinzhongzhao.spr	1	0	3	Không bị sát thương
+601	body	1		\image\effect\fightskill\wudu\wu_90_yfsg_a.spr	\image\icon\fightskill\state\huihunjue_state.spr	1	0	3	Sẽ tử vong khi trạng thái biến mất
+602		1			\image\icon\fightskill\state\drinking.spr	1	1		Uống rượu tăng kinh nghiệm
+603	ground	2	Yellow	\image\effect\fightskill\npc\xoyo_saiyaren_x.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Người Saiya
+604		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Xin chuyển hóa chân nguyên
+605		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	1		Chiến Sĩ Chúc Phúc
+606	body	2		\image\effect\fightskill\public\lantern.spr	\image\icon\fightskill\state\zhaohunqu_state.spr	1	1		Chúc phúc của Tinh Linh
+607		1			\image\icon\fightskill\state\burnish.spr	1	1		Long Trụ hệ Kim_chiếm vị trí
+608		1			\image\icon\fightskill\state\zhuifengduji.spr	1	1		Long Trụ hệ Mộc_chiếm vị trí
+609		1			\image\icon\fightskill\state\armor.spr	1	1		Long Trụ hệ Thủy_chiếm vị trí
+610		1			\image\icon\fightskill\state\partner\shanchutongban.spr	1	1		Long Trụ hệ Hỏa_chiếm vị trí
+611		1			\image\icon\fightskill\state\series.spr	1	1		Long Trụ hệ Thổ_chiếm vị trí
+612	body	1		\image\effect\fightskill\public\rosepink.spr		1	0	1	Hồng phấn
+613	body	1		\image\effect\fightskill\public\rosered.spr		1	0	1	Hồng đỏ
+614	head	0		\image\effect\fightskill\public\state_slowrun.spr	\image\icon\fightskill\state\slowrun.spr	1	0	1	Sợ hãi, thể lực giảm mạnh, tránh xa Hắc Xích Lặc
+615	head	1		\image\effect\fightskill\wudu\wu_70_wgsx_b.spr	\image\icon\fightskill\state\wangushixin.spr	1	0	1	Độc xà bám theo, mùi chất độc khiến Triết Côn để ý
+616		0			\image\icon\fightskill\book\biyuefeixing.spr	1	0	1	Lang Nha
+617		0			\image\icon\fightskill\book\muyeyingyang.spr	1	0	1	Sừng Hươu
+618	head	0		\image\effect\other\rqbb.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Bảo bối hot
+619	body	0		\image\effect\other\prettyswing.spr		1	1	2	Hải Dương Tâm
+620	body	0		\image\effect\other\rosefly.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Tuyệt Đại Giai Nhân
+621	ground	0			\image\icon\fightskill\state\jdjr.spr	1	1	2	Túy Ngọa Hoa Ấm
+622	ground	0		\image\effect\other\beauty_6.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Tuyệt Đại Giai Nhân
+623	ground	0		\image\effect\other\beauty_2.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Tuyệt Đại Giai Nhân
+624	ground	0		\image\effect\other\beauty_3.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Tuyệt Đại Giai Nhân
+625	body	0		\image\effect\fightskill\public\jiehun\shb2.spr	\image\icon\fightskill\state\jdjr.spr	1	1	2	Hoa Hồng Tiên Tử
+626	body	0		\image\effect\fightskill\public\jiehun\shb2.spr		1	1	2	Tổ đội tặng 9 hoa
+627	body	0			\image\icon\fightskill\state\jiuquyiheqiang.spr	1	1	2	Tiêm Binh Lợi Nhẫn
+628	body	0			\image\icon\fightskill\state\wenguzhiqi.spr	1	1	2	Tiêu Yên Thực Giáp
+629		1			\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Phần thưởng của dũng sĩ thảo nguyên, có thể tránh Thiết Mộc Chân tấn công
+630		1			\image\icon\fightskill\state\foguangzhanqi.spr	1	1	2	Giảm mạnh sát thương thuốc độc
+631		0			\image\icon\fightskill\state\slowrun.spr	1	0		Lực tấn công bị giảm mạnh
+632	ground	0		\image\effect\fightskill\npc\xoyo_jiantou4.spr	\image\icon\fightskill\state\daodu120_1.spr	1	0		Bị nhiễm bệnh, sát thương tăng 
+633	ground	0		\image\feature\npc\passerby\passerby400\passerby400_st01.spr		1	1	2	Huy Hoàng Tinh
+634	ground	1		\image\effect\fightskill\daliduanshi\ds_50_lbwb_a.spr	\image\icon\fightskill\state\limoduopo.spr	1	0	2	Tăng sát thương
+635	ground	2	Yellow	\image\effect\fightskill\npc\xoyo_saiyaren_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Trạng thái đặc biệt
+636		2			\image\icon\fightskill\state\gunshao120.spr	1	1	3	Anh Hoa Tử Đạn
+637	body	2	Yellow	\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Trạng thái đặc biệt
+638	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Phát huy tấn công cơ bản +30%, phát huy tấn công kỹ năng +30%, kháng tất cả giảm 300
+639	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Kháng tất cả tăng 300
+640	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Kháng phản đòn +30%, chí mạng +15%
+641	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Phản đòn tầm xa 20%
+642	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Tốc độ di chuyển +30%
+643	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	Cấp kỹ năng môn phái +1
+644	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	
+645	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	
+646	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	
+647	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+648	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+649	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+650	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+651	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+652	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+653	body	2		\image\effect\fightskill\wudu\wu_10_xdds_d.spr	\image\icon\fightskill\state\gunshao120.spr	1	1	3	vn_Vị trí
+654	ground	0		\image\effect\fightskill\tangmen\tm_120_yzz_a.spr	\image\icon\fightskill\state\xianjing120.spr	1	1	3	Mê Ảnh Tung_Xuất Kỳ Bất Ý
+655	body	1			\image\icon\fightskill\state\aluohanshengong.spr	1	1	3	Phật Quang Phổ Chiếu
+656	ground	0		\image\effect\other\task_shuihen.spr		1	1	3	Thủy Ngấn
+657	ground	0		\image\effect\other\task_bomb.spr		1	1	3	Nhiệm vụ_Nổ Tung
+658	ground	0		\image\effect\other\task_petal.spr		1	1	3	Nhiệm vụ_Cánh Hoa
+659	ground	0		\image\effect\other\task_wavelet.spr		1	1	3	Nhiệm vụ_Sóng Gợn
+660	body	0		\image\effect\fightskill\kunlun\kl_70_lyzq_b.spr	\image\icon\fightskill\state\pijingzhanji.spr	1	1	3	Tăng tốc độ chạy
+661	ground	0		\image\effect\other\rosefly_npc.spr		1	1	3	Nhiệm vụ_Cánh Hoa Rơi
+662	body	0		\image\effect\fightskill\tianren\tr_110_sfz_b.spr		1	1	3	Nhiệm vụ_Đom Đóm
+670	body	1		\image\effect\fightskill\gumupai\jgm_10_qyph_a.spr		0	1		Thu Nhạn Bàng Hoàng
+671	body	1		\image\effect\fightskill\gumupai\jgm_50_byhw_a.spr		0	1		Bạch Vân Hồi Vọng
+672	body	1		\image\effect\fightskill\gumupai\jgm_90_gyph_a.spr		0	1		Cô Nguyệt Bồi Hồi
+673	body	1		\image\effect\fightskill\gumupai\jgm_30_hxc_a.spr		0	1		Hồng Tụ Triền
+674	body	1		\image\effect\fightskill\gumupai\jgm_40_jycb_a.spr		0	1		Tịnh Ảnh Trầm Bích
+675	body	1		\image\effect\fightskill\gumupai\jgm_110_znwz_a.spr		0	1		Chung Nam Vãn Chiếu
+676	body	1		\image\effect\fightskill\gumupai\jgm_120_ftw_a.spr		0	1		Phi Thiên Vũ
+677	body	1		\image\effect\fightskill\gumupai\zgm_10_bx_a.spr		0	1		Biệt Tự
+678	body	1		\image\effect\fightskill\gumupai\zgm_40_bpyz_a.spr		0	1		Băng Phách Ngân Châm
+679	body	1		\image\effect\fightskill\gumupai\zgm_50_gy_a.spr		0	1		Cô Ảnh
+680	body	1		\image\effect\fightskill\gumupai\zgm_70_yfz_a.spr		0	1		Ngọc Phong Châm
+681	body	1		\image\effect\fightskill\gumupai\zgm_90_lh_a.spr		0	1		Ly Hận
+682	body	1				0	1		Kinh Hồng Chiếu Ảnh
+683	body	1		\image\effect\fightskill\gumupai\zgm_110_wnrf_a.spr		0	1		Ngũ Nội Như Phần
+684	body	1		\image\effect\fightskill\gumupai\jgm_101_shy_b.spr	\image\icon\fightskill\state\pomengxing_s.spr	1	0	3	Phá Mộng Hành
+685		1	Gold		\image\icon\fightskill\state\shihunyin_s.spr	1	0	3	Hồng Tụ Triền_Thất Hồn Dẫn
+686	ground	1		\image\effect\fightskill\gumupai\jgm_40_jycb_b.spr	\image\icon\fightskill\state\jingyingchenbi_s.spr	1	1	2	Tịnh Ảnh Trầm Bích
+687		1			\image\icon\fightskill\state\jue_s.spr	1	1	2	Tuyệt
+688		1			\image\icon\fightskill\state\jin_s.spr	1	1	2	Cấm
+689	body	1		\image\effect\fightskill\gumupai\zgm_40_bpyz_b.spr	\image\icon\fightskill\state\binpoyinzhen_s.spr	1	1	2	Ưu đãi kế thừa<enter>Kế thừa cường hóa lần tiếp theo chiết khấu 100%, hao 1 Cường Hóa Truyền Phù, khi thành công trạng thái sẽ mất.
+690	body	1		\image\effect\fightskill\tianren\tr_50_hyfh_d.spr	\image\icon\fightskill\state\sanhunduan_s.spr	1	0	3	Băng Phách Ngân Châm_Tam Hồn Đoạn
+691	body	1	Cyan	\image\effect\fightskill\gumupai\zgm_70_yfz_b.spr	\image\icon\fightskill\state\liuxiuwan_s.spr	1	0	3	Ngọc Phong Châm_Lưu Tụ Vãn
+692	body	1		\image\effect\fightskill\gumupai\zgm_101_msy_b.spr	\image\icon\fightskill\state\mishenyin_s.spr	1	0	3	Mê Thần Dẫn
+693	ground	1		\image\effect\fightskill\gumupai\zgm_30_fhtx_b.spr	\image\icon\fightskill\state\feihongtaxue_s.spr	1	1	2	Phi Hồng Đạp Tuyết
+694	ground	1			\image\icon\fightskill\state\kanzhuchengbi_s.spr	1	1	3	Khán Chu Thành Bích_Thôn Tư
+695	body	1		\image\effect\fightskill\gumupai\zgm_60_xsdf_b.spr	\image\icon\fightskill\state\xushidaifa_s.spr	1	1	2	Súc Thế Đãi Phát
+696	head	1		\image\effect\fightskill\gumupai\zgm_85_xydy_b.spr	\image\icon\fightskill\state\xingyundaiyu_s.spr	1	1	2	Hành Vân Đới Vũ_Phản Chiếu Nghênh Triều
+697	head	1		\image\effect\fightskill\gumupai\zgm_105_flys_b.spr	\image\icon\fightskill\state\fengliuyunsan_s.spr	1	1	2	Phong Lưu Vân Tán
+698	body	1	Red		\image\icon\fightskill\state\huangquanpanshan_s.spr	1	0	3	Hoàng Tuyền Lảo Đảo
+699	body	1		\image\effect\fightskill\gumupai\zgm_110_hqps_b.spr	\image\icon\fightskill\state\jiyufenxin_s.spr	1	0	3	Tích Úc Phần Tâm
+700	head	1		\image\effect\fightskill\gumupai\zgm_120_wjyh_b.spr	\image\icon\fightskill\state\wujiyunhe_s.spr	1	1	2	Vụ Tập Vân Hợp
+701	body	1		\image\effect\fightskill\npc\jianta_paohuo.spr		0	1		Cường Kích Pháo
+702	ground	1		\image\effect\fightskill\npc\zhanche_paohuo.spr		0	1		Xuyên Tâm Nỏ
+704		1			\image\icon\fightskill\state\partner\chushouxiangzhu.spr	1	1	3	Ngụy trang
+705		1			\image\icon\fightskill\state\boluoxinjing.spr	0	1	2	Có thể tạm trang bị một số trang bị cao cấp
+706		1			\image\icon\fightskill\state\autocd2.spr	1	0		Phật Quang Phổ Chiếu đang trong thời gian chờ, không thể phát động
+707	body	1		\image\effect\fightskill\emei\em_90_fgpz_d.spr	\image\icon\fightskill\state\tianwangbensheng.spr	1	1	3	Tuyệt Xứ Phùng Sinh
+708	ground	1		\image\effect\fightskill\public\huahuan_jiaodi.spr		1	1		Cước Đế Hoa Hoàn
+709	body	1		\image\effect\fightskill\public\huahuan_shenshang.spr		1	1		Thân Thượng Hoa Hoàn
+710	body	1		\image\effect\other\wings.spr		1	1		Cánh Đỏ
+711		1			\image\icon\fightskill\state\autocd1.spr	1	0		Minh Châu Ám Đầu đang trong thời gian chờ, không thể phát động
+712		1			\image\icon\fightskill\state\autocd1.spr	1	0		Mộ Vân Ngưng Bích đang trong thời gian chờ, không thể phát động
+713		1			\image\icon\fightskill\state\autocd2.spr	1	0		Mê Thần Dẫn đang trong thời gian chờ, không thể phát động
+714	head	1		\image\effect\fightskill\shaolin\sl_50_xlfh_b.spr	\image\icon\fightskill\state\tianwangbensheng.spr	1	1	3	Chinh Chiến Bát Phương
+715		1			\image\icon\fightskill\state\autocd1.spr	1	0		Chinh Chiến Bát Phương đang trong thời gian chờ, không thể phát động
+716	body	1		\image\effect\fightskill\tianwang\tw_110_blzlq_b.spr	\image\icon\fightskill\state\yumashu.spr	1	1		Kinh Lôi Trảm
+717	body	1		\image\effect\fightskill\shaolin\sl_10_lhq_a.spr		0	1		Hàng Long Quyết
+718	body	1		\image\effect\fightskill\tianwang\tw_10_jlz_d.spr	\image\icon\fightskill\state\tianwangbensheng.spr	1	1		Thiết Bố Sam
+719		1			\image\icon\fightskill\state\autocd1.spr	1	0		Như Lai Thần Chưởng đang trong thời gian chờ, không thể phát động

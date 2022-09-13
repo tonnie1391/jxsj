@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_dayutai	1															\setting\map\map_info\wangukuwang\trap\to_dayutai.txt			
+Đại Vũ Đài	0	2525	4	5	1	1	20	20	20	20	20	1		53920	103328		1		
+to_suoyunyuan	1															\setting\map\map_info\wangukuwang\trap\to_suoyunyuan.txt			
+Tỏa Vân Uyên	0	2525	4	5	1	1	20	20	20	20	20	1		59296	100928		1		
+Âu Dương Phi	0	6887	0	5	120	1	20	20	20	20	20	16		52416	101824				
+Thượng Quan Na Na	0	6890	0	5	120	1	20	20	20	20	20	16		58240	101728				

@@ -1,0 +1,44 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Thủ Khố	0	2599	3	5	90	1	20	20	20	20	20	1		52800	105696		1		
+Chủ Tiệm Binh Khí	0	2576	3	5	90	1	20	20	20	20	20	1		52736	110880		1		
+Chủ Tiệm Phòng Cụ	0	2577	3	5	90	1	20	20	20	20	20	1		53632	111776		1		
+Chủ Tiệm Thuốc	0	2578	3	5	90	1	20	20	20	20	20	1		54336	108448		1		
+Chủ Tiệm Tạp Hóa	0	2579	3	5	90	1	20	20	20	20	20	1		53120	108896		1		
+Tổng Quản Môn Phái	0	2580	3	5	90	1	20	20	20	20	20	1		53792	109792		1		
+Truyền Tống Môn Phái	0	2581	3	5	90	1	20	20	20	20	20	1		53536	106624		1		
+Đoan Mộc Duệ	0	3544	3	5	90	1	20	20	20	20	20	1		58720	109344		1		1
+Ngột Tán	0	3545	3	5	90	1	20	20	20	20	20	1		54400	103968		1		
+Bồ Sát Phong Nô	0	3546	3	5	90	1	20	20	20	20	20	1		50784	106176		1		
+Vinh Đồ	0	3547	3	5	90	1	20	20	20	20	20	1		56992	110560		1		1
+Hoàn Nhan Tương	0	3548	3	5	150	1	20	20	20	20	20	1		57632	105344		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		54816	104128				2
+to_yunzhongzhen	1															\setting\map\map_info\tianrenjiao\trap\to_yunzhongzhen.txt			
+to_bianjingfu	1															\setting\map\map_info\tianrenjiao\trap\to_bianjingfu.txt			
+to_tianrenjiaojindi	1															\setting\map\map_info\tianrenjiao\trap\to_tianrenjiaojindi.txt			
+to_liangshanpo	1															\setting\map\map_info\tianrenjiao\trap\to_liangshanpo.txt			
+Lương Sơn Bạc	0	2525	4	5	1	1	20	20	20	20	20	1		58496	119040		1		
+Vân Trung Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		46784	106944		1		
+Biện Kinh Phủ	0	2525	4	5	1	1	20	20	20	20	20	1		49504	115488		1		
+Cấm Địa Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		56544	95776		1		
+Điểm tìm đường Truyền Tống Môn Phái	0	2615	5	5	1	1	20	20	20	20	20	1		53536	106624		1		
+Chủ Tửu Lầu	0	2634	3	5	90	1	20	20	20	20	20	1		55072	109152		1		
+bianjingfu_digong	1															\setting\map\map_info\tianrenjiao\trap\bianjingfu_digong.txt			
+yunzhongzhen_digong	1															\setting\map\map_info\tianrenjiao\trap\yunzhongzhen_digong.txt			
+tianrenjiaojindi_digong	1															\setting\map\map_info\tianrenjiao\trap\tianrenjiaojindi_digong.txt			
+digong_bianjingfu	1															\setting\map\map_info\tianrenjiao\trap\digong_bianjingfu.txt			
+digong_yunzhongzhen	1															\setting\map\map_info\tianrenjiao\trap\digong_yunzhongzhen.txt			
+digong_tianrenjiaojindi	1															\setting\map\map_info\tianrenjiao\trap\digong_tianrenjiaojindi.txt			
+digong_liangshanpo	1															\setting\map\map_info\tianrenjiao\trap\digong_liangshanpo.txt			
+liangshanpo_digong	1															\setting\map\map_info\tianrenjiao\trap\liangshanpo_digong.txt			
+Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		50816	114016		1		
+Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		48480	108320		1		
+Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		57664	100256		1		
+Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		57856	118432		1		
+Lối ra Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		52416	112032		1		
+Lối ra Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		51232	109472		1		
+Lối ra Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		56192	104640		1		
+Lối ra Địa Cung Thiên Nhẫn	0	2525	4	5	1	1	20	20	20	20	20	1		56224	114528		1		
+Tháp Lạp	0	5054	3	5	125	1	20	20	20	20	20	1		52224	110336		1		
+Thiên Nhẫn Minh Hỏa	0	5067	3	5	1	1	20	20	20	20	20	1		56000	111936		1		
+Thiên Nhẫn Âm Hỏa	0	5068	3	5	1	1	20	20	20	20	20	1		56800	112608		1		
+Rương thuốc Thiên Nhẫn	0	5075	3	5	1	1	20	20	20	20	20	1		57408	112896		1		

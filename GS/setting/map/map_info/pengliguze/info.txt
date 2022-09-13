@@ -1,0 +1,33 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngựa Hoang	0	2152	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\area1.txt	1		
+Khỉ Hoang	0	2151	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\area2.txt	1		
+Ngựa Hoang	0	2152	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\area3.txt	1		
+Hươu Rừng	0	2150	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\area4.txt	1		
+to_caishiji	1															\setting\map\map_info\pengliguze\trap\to_caishiji.txt			
+to_jiuyixi	1															\setting\map\map_info\pengliguze\trap\to_jiuyixi.txt			
+to_huanghelou	1															\setting\map\map_info\pengliguze\trap\to_huanghelou.txt			
+Sói Hoang	0	668	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\yelang.txt	1		
+Tôn Tử Sở	0	596	3	5	65	1	20	20	20	20	20	1		41088	94336		1		
+A Lợi Tư	0	600	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt	50912	81152		1		
+Cam Thượng Hổ 	0	613	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	40608	94336		1		
+Thái Thạch Cơ	0	2525	4	5	65	1	20	20	20	20	20	1		52064	77376				
+Cửu Nghi Khê	0	2525	4	5	65	1	20	20	20	20	20	1		52160	103008				
+Hoàng Hạc Lâu	0	2525	4	5	65	1	20	20	20	20	20	1		38336	92768				
+Hắc Long Đàm	0	2525	4	5	65	1	20	20	20	20	20	1		44032	85248				
+Thổ Long	0	847	0	5	65	1	20	20	20	20	20	1	\setting\npc\droprate\droprate007.txt			\setting\map\map_info\pengliguze\npc\tulong.txt	1		
+Kim Tá Nạp Tư	0	981	3	5	65	1	20	20	20	20	20	1		43072	98336		1		
+Thần Mộc Nạp Tư	0	979	3	5	65	1	20	20	20	20	20	1		51232	96576		1		
+Kiều Nữ Nạp Tư	0	982	3	5	65	1	20	20	20	20	20	1		42080	94784		1		
+Ngân Vũ Nạp Tư	0	588	3	5	65	1	20	20	20	20	20	1		42496	94816		1		
+Nộ Hầu Nạp Tư 	0	599	3	5	65	1	20	20	20	20	20	1		48992	83584		1		
+A Thổ Bá	0	855	3	5	65	1	20	20	20	20	20	1		44032	99680		1		
+Phệ Long Thú	0	956	0	5	65	1	20	20	20	20	20	2	\setting\npc\droprate\droprate007.txt	40064	90432		1		
+to_heilongtan	1															\setting\map\map_info\pengliguze\trap\to_heilongtan.txt			
+Trang Minh Trung	0	3047	0	5	65	1	20	20	20	20	20	16		47552	82592				0
+Trác Lãnh Sơn	0	3048	0	5	65	1	20	20	20	20	20	16		52064	88768				1
+Liễu Tứ Gia	0	3049	0	5	65	1	20	20	20	20	20	16		38976	89024				2
+Long Viễn Sơn	0	3050	0	5	65	1	20	20	20	20	20	16		44160	101984				3
+Tử Đàn Tùng Mộc 	0	4516	3	5	65	1	20	20	20	20	20	1		52352	79712		1		
+Tử Đàn Tùng Mộc 	0	4516	3	5	65	1	20	20	20	20	20	1		52320	79104		1		
+Tử Đàn Tùng Mộc 	0	4516	3	5	65	1	20	20	20	20	20	1		52096	80192		1		
+Hươu Chúa	0	4561	0	5	130	1	20	20	20	20	20	1		40320	78528				

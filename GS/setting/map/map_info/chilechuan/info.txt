@@ -1,0 +1,24 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Húc Nhật Can	0	3107	0	5	95	1	20	20	20	20	20	16		51744	119808				
+Tra Can Ba Lạp	0	3108	0	5	95	1	20	20	20	20	20	16		55552	103296				1
+Cáp Nhĩ Ba Lạp	0	3109	0	5	95	1	20	20	20	20	20	16		58816	120512				2
+Tô Hách Ba Lỗ	0	3110	0	5	95	1	20	20	20	20	20	16		61632	103424				3
+to_yunzhongzhen	1															\setting\map\map_info\chilechuan\trap\to_yunzhongzhen.txt			
+Vân Trung Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		62048	122592		1		
+Truy Binh Thát Đát	0	2253	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\area1.txt			
+Kỵ Binh Kim Quốc	0	2254	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\area2.txt			
+Đà Lôi Bộ Kỵ Binh	0	2255	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\area3.txt			
+Đại Mạc Đao Khách	0	2256	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\area4.txt			
+Thủ Lĩnh Thương Đội	0	1836	3	5	60	1	20	20	20	20	20	1		57984	103232		1		
+Phó Thủ Lĩnh Thương Đội	0	1837	3	5	60	1	20	20	20	20	20	1		57824	103232		1		
+Cận Vệ Thiết Mộc Chân	0	1842	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\tiemuzhenjinwei.txt			
+Gián Điệp Đại Tống	0	1849	3	5	60	1	20	20	20	20	20	1		55488	117408		1		
+Cấm Vệ Kim Quốc	0	1850	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\jinjunjinwei.txt			
+Sứ Giả Thát Đát	0	1854	3	5	60	1	20	20	20	20	20	1		60736	105792		1		
+Hộ Vệ Thát Đát	0	1853	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\dadahuwei.txt			
+Thiết Phù Đồ Kỵ Binh	0	1855	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt			\setting\map\map_info\chilechuan\npc\tiefutuqibing.txt			
+Thác Lôi	0	1839	0	5	95	1	20	20	20	20	20	3	\setting\npc\droprate\droprate010.txt	53152	122400				
+to_mobeicaoyuan	1															\setting\map\map_info\chilechuan\trap\to_mobeicaoyuan.txt			
+Mạc Bắc Thảo Nguyên	0	2525	4	5	1	1	20	20	20	20	20	1		59136	102400		1		
+to_mengguwangting	1															\setting\map\map_info\chilechuan\trap\to_mengguwangting.txt			
+Mông Cổ Vương Đình	0	2525	4	5	1	1	20	20	20	20	20	1		51296	103136		1		

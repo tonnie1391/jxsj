@@ -1,0 +1,9 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Hiệu Úy Mộ Binh (Tây Hạ)	0	20163	3	5	35	1	20	20	20	20	20	1		53984	104800		1		
+Hiệu Úy Mộ Binh (Tây Hạ)	0	20163	3	5	35	1	20	20	20	20	20	1		54336	105216		1		
+Quan Quân Nhu (Tây Hạ)	0	2507	3	5	35	1	20	20	20	20	20	1		52896	104672		1		
+Quan Quân Nhu (Tây Hạ)	0	2507	3	5	35	1	20	20	20	20	20	1		54432	106304		1		
+Mã Phu (Tây Hạ)	0	2508	3	5	35	1	20	20	20	20	20	1		52416	105152		1		
+Mã Phu (Tây Hạ)	0	2508	3	5	35	1	20	20	20	20	20	1		53952	106656		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		53472	104192		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		54848	105664		1		

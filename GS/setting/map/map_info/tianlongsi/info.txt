@@ -1,0 +1,35 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Kỵ Binh Tây Hạ	0	2198	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\area3.txt	1		
+Hộ Tự Tăng Binh	0	2199	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\area1.txt	1		
+Dũng Sĩ Ô Man	0	2200	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\area2.txt	1		
+Dũng Sĩ Ô Man	0	2200	0	5	85	1	20	20	20	20	20	1	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\area4.txt	1		
+to_diancangshan	1															\setting\map\map_info\tianlongsi\trap\to_diancangshan.txt			
+to_erhaimoyan	1															\setting\map\map_info\tianlongsi\trap\to_erhaimoyan.txt			
+Điểm Thương Sơn	0	2525	4	5	85	1	20	20	20	20	20	1		55936	123040				
+Nhĩ Hải Ma Nham	0	2525	4	5	85	1	20	20	20	20	20	1		61600	112800				
+Sài Đình	0	642	3	5	85	1	20	20	20	20	20	1		58528	117824		1		
+Huệ Minh Thiền Sư	0	630	3	5	85	1	20	20	20	20	20	1		60416	100416		1		
+Quý Như	0	627	3	5	85	1	20	20	20	20	20	1		58496	119104		1		
+Lê Mộ	0	643	3	5	85	1	20	20	20	20	20	1		57888	119168		1		
+La Mẫu Tư	0	631	3	5	85	1	20	20	20	20	20	1		59328	116608		1		
+Ma Ma Nhĩ	0	653	3	5	85	1	20	20	20	20	20	1		51872	108768		1		
+Đồ Nhã	0	651	3	5	85	1	20	20	20	20	20	1		59328	115392		1		
+A Đồng	0	621	3	5	85	1	20	20	20	20	20	1		57856	122336		1		
+Cáp Mộc	0	624	0	5	85	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt	61056	103392		1		
+Tín đồ	0	625	0	5	85	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\xintu.txt	1		
+Man Binh	0	575	0	5	85	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt			\setting\map\map_info\tianlongsi\npc\manbing.txt	1		
+ 	0	623	3	5	85	1	20	20	20	20	20	1				\setting\map\map_info\tianlongsi\npc\caolianwuseng.txt	1		
+Dung Đại	0	4412	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt	52192	107392		1		
+Điền Nhị	0	4413	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt	52128	108096		1		
+Cát Tam	0	4414	0	5	115	1	20	20	20	20	20	2	\setting\npc\droprate\droprate009.txt	52640	108064		1		
+Tăng binh	0	628	3	5	85	1	20	20	20	20	20	1		59808	101216		1		
+Tăng binh	0	628	3	5	85	1	20	20	20	20	20	1		59648	101088		1		
+to_dariluo	1															\setting\map\map_info\tianlongsi\trap\to_dariluo.txt			
+Nơi ở Đại Nhật La	0	2525	4	5	85	1	20	20	20	20	20	1		60384	116160				
+to_shangxianzhuang	1															\setting\map\map_info\tianlongsi\trap\to_shangxianzhuang.txt			
+Thượng Tiên Trang	0	2525	4	5	85	1	20	20	20	20	20	1		54976	120896				
+Đại Điêu	0	1084	3	5	85	1	20	20	20	20	20	1		60928	117184		1		
+Cam Chính Cô	0	3099	0	5	85	1	20	20	20	20	20	16		51136	119040				0
+Cảnh Dung Phục	0	3100	0	5	85	1	20	20	20	20	20	16		52192	106336				1
+Cô Dự Tẩu	0	3101	0	5	85	1	20	20	20	20	20	16		59104	107424				2
+Đoạn Lăng Nguyệt	0	3102	0	5	85	1	20	20	20	20	20	16		57376	120192				3

@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+86_trap1	1															\setting\map\map_info\xiaoyaogu_lv7\trap\86_trap1.txt			
+86_trap2	1															\setting\map\map_info\xiaoyaogu_lv7\trap\86_trap2.txt			
+86_trap3	1															\setting\map\map_info\xiaoyaogu_lv7\trap\86_trap3.txt			
+86_trap4	1															\setting\map\map_info\xiaoyaogu_lv7\trap\86_trap4.txt			

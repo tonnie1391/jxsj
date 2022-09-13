@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vạn Lý Đạt	0	6512	3	5	150	1	20	20	20	20	20	1		51360	102080				
+Vạn Thọ	0	6516	3	5	150	1	20	20	20	20	20	1		54144	98784				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		53664	99424				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		53216	99424				
+Tỳ Nữ	0	6521	3	5	150	1	20	20	20	20	20	1		51136	102080				
+Tỳ Nữ	0	6522	3	5	150	1	20	20	20	20	20	1		53312	99232				
+Tỳ Nữ	0	6522	3	5	150	1	20	20	20	20	20	1		53568	99616				
+Tỳ Nữ	0	6523	3	5	150	1	20	20	20	20	20	1		53312	99616				
+Tỳ Nữ	0	6523	3	5	150	1	20	20	20	20	20	1		53568	99232				
+Tỳ Nữ	0	6524	3	5	150	1	20	20	20	20	20	1		52096	97472				
+Tỳ Nữ	0	6524	3	5	150	1	20	20	20	20	20	1		55584	101696				
+Tỳ Nữ	0	6525	3	5	150	1	20	20	20	20	20	1				\setting\map\map_info\hl_yl_wanghou\npc\meinv.txt			
+Người Làm	0	6526	3	5	150	1	20	20	20	20	20	1		51296	99296				
+Người Làm	0	6527	3	5	150	1	20	20	20	20	20	1		51424	99008				
+Người Làm	0	6528	3	5	150	1	20	20	20	20	20	1		51136	98880				

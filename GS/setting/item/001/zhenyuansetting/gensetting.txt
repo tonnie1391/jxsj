@@ -1,0 +1,9 @@
+ZhenYuanTemp	PartnerName	Attrib1ValueMin	Attrib1ValueMax	Attrib2ValueMin	Attrib2ValueMax	Attrib3ValueMin	Attrib3ValueMax	Attrib4ValueMin	Attrib4ValueMax	AttribPoten1Rate1	AttribPoten2Rate1	AttribPoten3Rate1	AttribPoten4Rate1
+1	Diệp Tịnh	0	0	0	0	0	0	0	0	30	30	20	20
+2	Bảo Ngọc	0	0	0	0	0	0	0	0	30	30	20	20
+3	Hạ Tiểu Sảnh	0	0	0	0	0	0	0	0	30	30	20	20
+4	Oanh Oanh	0	0	0	0	0	0	0	0	30	30	20	20
+5	Mộc Siêu	0	0	0	0	0	0	0	0	49	30	1	20
+6	Tử Uyển	0	0	0	0	0	0	0	0	40	20	20	20
+7	Tần Trọng	0	0	0	0	0	0	0	0	49	30	20	1
+8	Hỗn Độn Chân Nguyên	0	0	0	0	0	0	0	0	20	20	20	20

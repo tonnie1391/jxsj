@@ -1,0 +1,4 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Linh Động Quỷ Mẫu	0	4403	3	5	105	1	20	20	20	20	20	1		52160	100672				
+to_erhaimoyan	1															\setting\map\map_info\xianlingdong\trap\to_erhaimoyan.txt			
+Nhĩ Hải Ma Nham	0	2525	4	5	1	1	20	20	20	20	20	1		51648	101216		1		

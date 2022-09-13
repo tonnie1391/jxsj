@@ -1,0 +1,41 @@
+Id	Index	Class	Level	Desc	Type	Param1	Param2	Effect
+ID	Id loại nhỏ	Loại phần thưởng, 1 phần thưởng miễn phí, 2 phần thưởng thu phí	Cấp nhận	Miêu tả	Loại vật phẩm	Phần thưởng 1	Phần thưởng 2	Thêm ánh sáng?
+1	1	1	100	Vô Hạn Truyền Tống Phù	Item	18,1,195,1,1,1,10080	18,1,195,1,1,1,10080	
+1	2	1	100	Bạc khóa 120000	BindMoney	120000		
+1	3	1	100	Túi Bạc	Item	18,1,1525,4,1	18,1,1525,4,1	
+1	4	1	100	Đại Bạch Câu Hoàn x2	Item	18,1,71,2,2	18,1,71,2,2	
+1	5	1	100	Huyền Tinh 6 x2	Item	18,1,114,6,2	18,1,114,6,2	
+1	6	1	100	Du Du Vui Vẻ	Item	1,12,82,4,1	1,12,82,4,1	
+2	1	1	101	Huyền Tinh 7 x1	Item	18,1,114,7,1	18,1,114,7,1	
+2	2	1	101	Vé ưu đãi Huyền Tinh 7 x3	Item	18,1,394,1,3	18,1,394,1,3	
+2	3	1	101	Lệnh bài chúc phúc (sơ) x1	Item	18,1,212,1,1	18,1,212,1,1	
+2	4	1	101	Càn Khôn Phù	Item	18,1,85,1,1	18,1,85,1,1	
+2	5	1	101	Túi Bạc	Item	18,1,1525,5,1	18,1,1525,5,1	
+2	6	1	101	Vé ưu đãi phòng cụ +8	Item	18,1,1796,1,1	18,1,1796,1,1	7
+3	1	1	102	Lệnh bài chúc phúc (sơ) x2	Item	18,1,212,1,2	18,1,212,1,2	
+3	2	1	102	Vé ưu đãi vũ khí +8	Item	18,1,1496,1,1	18,1,1496,1,1	7
+3	3	1	102	Túi quà Bí Cảnh x1	Item	18,1,1804,1,1	18,1,1804,1,1	
+3	4	1	102	Vé ưu đãi phòng cụ +12	Item	18,1,1497,1,1	18,1,1497,1,1	8
+4	1	1	103	Huyền Tinh 7 x2	Item	18,1,114,7,2	18,1,114,7,2	
+4	2	1	103	Vé ưu đãi Huyền Tinh 7 x2	Item	18,1,394,1,2	18,1,394,1,2	
+4	3	1	103	Vé ưu đãi trang sức +12	Item	18,1,1797,1,1	18,1,1797,1,1	8
+4	4	1	103	Vé ưu đãi phòng cụ +14	Item	18,1,1796,2,1	18,1,1796,2,1	9
+5	1	1	104	Huyền Tinh 7 x2	Item	18,1,114,7,2	18,1,114,7,2	
+5	2	1	104	Vé ưu đãi Huyền Tinh 7 x3	Item	18,1,394,1,3	18,1,394,1,3	
+5	3	1	104	Vé ưu đãi phòng cụ +14	Item	18,1,1796,2,1	18,1,1796,2,1	9
+5	4	1	104	Mặt ngẫu nhiên	Item	18,1,1799,1,1	18,1,1799,2,1	
+5	5	1	104	Vé ưu đãi vũ khí +13	Item	18,1,1795,1,1	18,1,1795,1,1	9
+5	6	1	104	Vé ưu đãi trang sức +14	Item	18,1,1498,1,1	18,1,1498,1,1	9
+6	1	1	105	Vé ưu đãi Huyền Tinh 9 x2	Item	18,1,395,1,2	18,1,395,1,2	
+6	2	1	105	Lệnh bài chúc phúc (sơ) x3	Item	18,1,212,1,3	18,1,212,1,3	
+6	3	1	105	Vé ưu đãi trang sức +14	Item	18,1,1498,1,1	18,1,1498,1,1	9
+6	4	1	105	Huyền Tinh 8 x2	Item	18,1,114,8,2	18,1,114,8,2	
+7	1	1	106	Bách Luyện Hoàn x3	Item	18,1,468,1,3	18,1,468,1,3	
+7	2	1	106	Lệnh bài chúc phúc (trung) x2	Item	18,1,212,2,2	18,1,212,2,2	
+7	3	1	106	Huyền Tinh 8 x2	Item	18,1,114,8,2	18,1,114,8,2	
+7	4	1	106	Bạc khóa 50 vạn	BindMoney	500000		
+8	1	1	107	Huyền Tinh 9 x1	Item	18,1,1,9,1	18,1,1,9,1	
+8	2	1	107	Thiệp bạc x2	Item	18,1,541,6,2	18,1,541,6,2	
+8	3	1	107	Trứng Du Long (khóa) x1	Item	18,1,525,2,1	18,1,525,2,1	
+8	4	1	107	Trận pháp-Cao (7 ngày) x1	Item	18,1,1803,1,1,1,10080	18,1,1803,1,1,1,10080	
+8	5	1	107	Tinh Phách-Trung x2	Item	18,1,544,6,2	18,1,544,6,2	
