@@ -1081,6 +1081,6 @@ TASK_GROUP	TASK_ID_FIRST	TASK_ID_LAST	TASK_NAME	TASK_OVERDATE	SYNC_FLAG	CLIENT_F
 2210	6	10	Sử dụng Thiên Tâm Thạch		1	0
 2210	11	15	Sử dụng Rương Thiên Long		1	0
 2210	16	20	Sử dụng Thiên Niên Linh Quả		1	0
-2211	1	2	Phần thưởng đua top lãnh thổ		1	0
-2212	1	2	Phần thưởng đua top tài phú		1	0
+2211	1	5	Phần thưởng đua top lãnh thổ		1	0
+2212	1	5	Phần thưởng đua top tài phú		1	0
 2216	50	53	Sử dụng bình tinh hoạt		1	0
