@@ -251,12 +251,24 @@ function tbItem:TestUI()
 		-- me.AddItem(18,1,1724,1)
 	-- end
 	local tbAwardDomain = {
-			[1] = {item={1}},
-			[2] = {},
-			[3] = {},
-		}
-	local a = tbAwardDomain[1].item[1]
-	me.Msg(""..a)
+		
+		
+	}
+	
+	local nRank = 3;
+	
+	if tbAwardDomain[nRank].tbItem then
+		for nIndex = 1, #tbAwardDomain[nRank].tbItem do
+			local nG, nD, nP, nL = unpack(tbAwardDomain[nRank].tbItem[nIndex].item);
+			me.AddStackItem(nG, nD, nP, nL, {bForceBind=tbAwardDomain[nRank].tbItem[nIndex].nBind}, tbAwardDomain[nRank].tbItem[nIndex].nNum)
+		end
+		-- me.AddBindMoney(tbAwardDomain[nRank].nBindMoney)
+	end 
+	
+	if tbAwardDomain[nRank].nBindMoney then
+		me.AddBindMoney(tbAwardDomain[nRank].nBindMoney)
+	end 
+	
 	-- local tbPlayerTemp =  me.GetTempTable("Player");
 	-- local nNpcId = tbPlayerTemp.tbFollowPartner.nParnerId;
 	-- local pNpc = KNpc.GetById(nNpcId);

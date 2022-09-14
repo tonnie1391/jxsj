@@ -7,6 +7,82 @@ tbLiGuan.receiveAwardMoney		= 2;
 tbLiGuan.receiveAwardDate		= 20221010; 
 tbLiGuan.removeAwardDate		= 20221020; 
 
+tbLiGuan.awardDomain = {
+	[1] = {
+		tbItem = {
+			{item={18, 1, 1, 9}, 	nNum=30, 	nBind=0, 	nTime=30},
+			{item={1,12, 30, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 10000000,
+		-- nBindMoney = 10000000,
+	},
+	[2] = {
+		tbItem = {
+			{item={18, 1, 1, 9}, 	nNum=20, 	nBind=0, 	nTime=30},
+			{item={1,12, 31, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 7000000,
+		-- nBindMoney = 10000000,
+	},
+	[3] = {
+		tbItem = {
+			{item={18, 1, 1, 9}, 	nNum=15, 	nBind=0, 	nTime=30},
+			{item={1,12, 32, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 4000000,
+		-- nBindMoney = 10000000,
+	},
+}
+
+tbLiGuan.awardMoney = {
+	[1] = {
+		tbItem = {
+			{item={18, 1, 114, 10}, nNum=5, 	nBind=1, 	nTime=30},
+			{item={18, 1, 464, 1}, 	nNum=2, 	nBind=0, 	nTime=30},
+			{item={18, 1, 465, 1}, 	nNum=2, 	nBind=0, 	nTime=30},
+			{item={18, 1, 326, 2}, 	nNum=2, 	nBind=0, 	nTime=30},
+			{item={18, 1, 326, 3}, 	nNum=2, 	nBind=0, 	nTime=30},
+			{item={1,12, 27, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 1500000,
+		nBindMoney = 5000000,
+		nTitle={999,1,4}
+	},
+	[2] = {
+		tbItem = {
+			{item={18, 1, 114, 10}, nNum=3, 	nBind=1, 	nTime=30},
+			{item={18, 1, 464, 1}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={18, 1, 465, 1}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={18, 1, 326, 2}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={18, 1, 326, 3}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={1,12, 28, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 1000000,
+		nBindMoney = 3000000,
+		nTitle={999,1,3}
+	},
+	[3] = {
+		tbItem = {
+			{item={18, 1, 114, 10}, nNum=3, 	nBind=1, 	nTime=30},
+			{item={18, 1, 464, 1}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={18, 1, 465, 1}, 	nNum=1, 	nBind=0, 	nTime=30},
+			{item={1,12, 29, 10}, 	nNum=1, 	nBind=1, 	nTime=90},
+		},
+		nCashMoney = 700000,
+		nBindMoney = 3000000,
+		nTitle={999,1,2}
+	},
+	[4] = {
+		tbItem = {
+			{item={18, 1, 114, 10}, 	nNum=1, 	nBind=1, 	nTime=30},
+		},
+		nCashMoney = 500000,
+		nBindMoney = 1000000,
+		nTitle={999,1,1}
+	},
+	
+}
+
 function tbLiGuan:OnDialog()
 	DoScript("\\script\\npc\\liguan.lua")
 	local szMsg = "Lễ Quan: Chào đại hiệp, người cần gì?";
@@ -75,17 +151,6 @@ function tbLiGuan:sendAwardTop(nType, nSure)
 			end
 		end
 	else
-		local tbAwardDomain = {
-			[1] = {item={}},
-			[2] = {},
-			[3] = {},
-		}
-		local tbAwardMoney = {
-			[1] = {item={}},
-			[2] = {},
-			[3] = {},
-			[9]	= {},
-		}
 		local nRank = self:checkPermission(nType);
 		if nRank == 0 then
 			Dialog:Say("Lễ Quan:\n\n Ngươi không đủ tư cách nhận thưởng.",tbOpt);
