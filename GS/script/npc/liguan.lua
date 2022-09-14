@@ -1,15 +1,15 @@
 local tbLiGuan = Npc:GetClass("liguan");
 
-tbLiGuan.nTaskGroupId		= 2211;
-tbLiGuan.nTaskIdDomain		= 1;
-tbLiGuan.nTaskIdMoney		= 2;
+tbLiGuan.taskGroupId			= 2211;
+tbLiGuan.receiveAwardDomain		= 1;
+tbLiGuan.receiveAwardMoney		= 2;
 
-tbLiGuan.receiveAwardDate	= 20221010; 
-tbLiGuan.removeAwardDate	= 20221020; 
+tbLiGuan.receiveAwardDate		= 20221010; 
+tbLiGuan.removeAwardDate		= 20221020; 
 
 function tbLiGuan:OnDialog()
 	DoScript("\\script\\npc\\liguan.lua")
-	local szMsg = "Chào đại hiệp, người cần gì?";
+	local szMsg = "Lễ Quan: Chào đại hiệp, người cần gì?";
 	local tbOpt = 
 	{
 		{"Phúc lợi", self.FuLi, self},
@@ -34,15 +34,82 @@ function tbLiGuan:receiveAwardTop()
 		{"Kết thúc đối thoại"},
 	}
 
-	Dialog:Say("Hãy chọn điều người cần", tbOpt);          
+	Dialog:Say("Lễ Quan: Hãy chọn điều người cần", tbOpt);          
 end
 
 function tbLiGuan:sendAwardTop(nType, nSure)
 	if not nSure then
-	
+		if nType == 1 then
+			if me.CountFreeBagCell() < 30 then
+				Dialog:Say("Lễ Quan:\n\n Hành trang không đủ khoảng trống để nhận thưởng.");
+				return 0
+			end
+			if me.nCashMoney + 10000000 > me.GetMaxCarryMoney() then
+				Dialog:Say("Lễ Quan:\n\n Ngân lượng mang theo bên người đã đạt tối đa.");
+				return 0
+			end
+			if me.GetTask(self.taskGroupId, self.receiveAwardDomain) > 0 then
+				Dialog:Say("Lễ Quan:\n\n Ngươi đã nhận phần thưởng này rồi.",tbOpt);
+				return 0
+			else
+				self:sendAwardTop(nType, 1);
+			end
+		elseif nType == 2 then
+			if me.CountFreeBagCell() < 20 then
+				Dialog:Say("Lễ Quan:\n\n Hành trang không đủ khoảng trống để nhận thưởng.");
+				return 0
+			end
+			if me.GetBindMoney() + 5000000 > me.GetMaxCarryMoney() then
+				Dialog:Say("Lễ Quan:\n\n Ngân lượng mang theo bên người đã đạt tối đa.");
+				return 0
+			end
+			if me.nCashMoney + 1500000 > me.GetMaxCarryMoney() then
+				Dialog:Say("Lễ Quan:\n\n Ngân lượng mang theo bên người đã đạt tối đa.");
+				return 0
+			end
+			if me.GetTask(self.TSK_GROUP, self.TSK_FIRSTDONATE) > 0 then
+				Dialog:Say("Lễ Quan:\n\n Ngươi đã nhận phần thưởng này rồi.",tbOpt);
+				return 0
+			else
+				self:sendAwardTop(nType, 1);
+			end
+		end
 	else
-	
+		local tbAwardDomain = {
+			[1] = {item={}},
+			[2] = {},
+			[3] = {},
+		}
+		local tbAwardMoney = {
+			[1] = {item={}},
+			[2] = {},
+			[3] = {},
+			[9]	= {},
+		}
+		local nRank = self:checkPermission(nType);
+		if nRank == 0 then
+			Dialog:Say("Lễ Quan:\n\n Ngươi không đủ tư cách nhận thưởng.",tbOpt);
+			return 0
+		end
+		if nType == 1 then			
+			
+		elseif nType == 2 then
+		
+		end
 	end
+end
+
+function tbLiGuan:checkPermission(nType)
+	if nType == 1 then
+		if me.szName == "" then
+			return 1;
+		end
+	elseif nType == 2 then
+		if me.szName == "" then
+			return 1;
+		end
+	end
+	return 0;
 end
 
 function tbLiGuan:seeAwardTop(nType)
@@ -66,7 +133,7 @@ function tbLiGuan:seeAwardTop(nType)
 			  - Ngựa Top 3 Bang hội. 
 			]]
 		Dialog:Say(szMsg);
-	else
+	elseif nType == 2 then
 		local szMsg = 
 			[[Phần thưởng dành cho Top 3 nhân vật có vinh dự tài phú cao nhất.
 			
@@ -117,5 +184,5 @@ function tbLiGuan:FuLi()
 		{"Kết thúc đối thoại"},
 	}
 
-	Dialog:Say("Hãy chọn điều người cần", tbOpt);          
+	Dialog:Say("Lễ Quan: Hãy chọn điều người cần", tbOpt);          
 end

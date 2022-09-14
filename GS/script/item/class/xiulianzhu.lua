@@ -248,9 +248,15 @@ function tbItem:TestUI()
 	
 	-- GCExcute({"GmCmd:OpenNewXLandBattle", 1});
 	-- for i = 1, 12 do
-		me.AddItem(18,1,1724,1)
+		-- me.AddItem(18,1,1724,1)
 	-- end
-	
+	local tbAwardDomain = {
+			[1] = {item={1}},
+			[2] = {},
+			[3] = {},
+		}
+	local a = tbAwardDomain[1].item[1]
+	me.Msg(""..a)
 	-- local tbPlayerTemp =  me.GetTempTable("Player");
 	-- local nNpcId = tbPlayerTemp.tbFollowPartner.nParnerId;
 	-- local pNpc = KNpc.GetById(nNpcId);
