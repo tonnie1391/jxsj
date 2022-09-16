@@ -245,93 +245,23 @@ function tbItem:TestUI()
 	-- DoScript("\\script\\item\\class\\vn_tianxinshi.lua");
 	
 	-- GCExcute({"GmCmd:LoadScript", "\\script\\boss\\atlantis\\atlantis_def.lua"})
-	
 	-- GCExcute({"GmCmd:OpenNewXLandBattle", 1});
-	-- for i = 1, 12 do
-		-- me.AddItem(18,1,1724,1)
-	-- end
-	local tbAwardDomain = {
-		
-		
-	}
-	
-	local nRank = 3;
-	
-	if tbAwardDomain[nRank].tbItem then
-		for nIndex = 1, #tbAwardDomain[nRank].tbItem do
-			local nG, nD, nP, nL = unpack(tbAwardDomain[nRank].tbItem[nIndex].item);
-			me.AddStackItem(nG, nD, nP, nL, {bForceBind=tbAwardDomain[nRank].tbItem[nIndex].nBind}, tbAwardDomain[nRank].tbItem[nIndex].nNum)
-		end
-		-- me.AddBindMoney(tbAwardDomain[nRank].nBindMoney)
-	end 
-	
-	if tbAwardDomain[nRank].nBindMoney then
-		me.AddBindMoney(tbAwardDomain[nRank].nBindMoney)
-	end 
-	
-	-- local tbPlayerTemp =  me.GetTempTable("Player");
-	-- local nNpcId = tbPlayerTemp.tbFollowPartner.nParnerId;
-	-- local pNpc = KNpc.GetById(nNpcId);
-	-- Npc.tbFollowPartner:CallBackPartner(pNpc);
-	
-	-- me.AddItem(1,12,24,10)
-	-- me.AddItem(1,12,25,10)
-	-- me.AddItem(1,12,26,10)
-	-- me.AddItem(1,12,20023,4)
-	
-		-- local pItem = me.AddItemEx(1,12,20053,10, {bForceBind=1},nil,GetTime() + 3600 * 24 * 30);
 
-	-- GCExcute({"Newland:StartSignup_GC"})
-	-- me.SetTask(2210,12,0)
-	-- me.SetTask(2210,17,0)
-	-- me.Msg(me.GetTask(2210,6).."-"..me.GetTask(2210,7));
+	local pTong = KTong.GetTong(me.dwTongId);
+	local szTongName = pTong.GetName();
+	me.Msg(""..szTongName)
 	
 	-- GCExcute({"FactionBattle:StartFactionBattle"})
 	-- GlobalExcute{"GM:DoCommand",[[Wlls.MACTH_TIME_UPDATA_RANK = 18*600]]};
 	-- local tbDate = FactionBattle:GetFactionData(1);
-
-	-- me.JoinFaction(10)
-	-- me.SetTask(2209,1,0)
-	-- Transfer:NewWorld2GlobalMap(me);
-	-- local nMapIndex = SubWorldID2Idx(1860);
-	
-	-- local nBaseExp = me.GetBaseAwardExp()
-	-- me.Msg(""..nBaseExp)
-	-- pItem.SetTimeOut(0, GetTime() + 3600 * 24 * 7);
-	-- pItem.Sync();
-
-	-- me.DropRateItem("\\setting\\npc\\droprate\\qinling\\big_boss.txt", 24, 0, 0, me);
 	
 	--- MO GIOI HAN CAP ---
 	-- KGblTask.SCSetDbTaskInt(DBTASD_SERVER_STARTTIME, KGblTask.SCGetDbTaskInt(DBTASD_SERVER_STARTTIME) - (3600 * 24 * 65));
 	-- local nTimeOpenServer = KGblTask.SCGetDbTaskInt(DBTASD_SERVER_STARTTIME);
-	
-	-- GCExcute({"LimitLogin:LogoutCalculate", me.nId, 2371098491})
-	-- me.AddFightSkill(163,20)
-	
-	-- me.ResetFightSkillPoint();
-	-- me.UnAssignPotential();
-	-- me.AddPotential(-4392);
-	
-	-- me.AddStackItem(18, 1, 20424, 1, {bForceBind = 1}, 20)
-	-- me.AddStackItem(18, 1, 20424, 1, {bForceBind = 0}, 20)
-	
+
 	-- Task:DoAccept(489, 701)
 	-- Task:CloseTask(489, "giveup")
 	-- Task:OnGiveUp(488, 701)
-
-	-- Partner:DoPartnerCallBack(me, 0);
-	-- for i = me.nPartnerCount, 1, -1 do
-		-- local pPartner = me.GetPartner(i - 1);
-		-- if pPartner then
-			-- me.DeletePartner(i - 1);
-		-- end
-	-- end
-	-- me.NewWorld(20088,1675,3133)
-end
-
-function tbItem:DelTask()
-	Task:CloseTask(489, "giveup") 
 end
 
 function tbItem:MoveBLH()
