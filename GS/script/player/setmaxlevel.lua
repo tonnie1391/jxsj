@@ -16,7 +16,7 @@ function Player:SetMaxLevelGC()
 	local nOffset = 0;
 	for i = 1, #tbContent do
 		if nOpenDay == 0 then
-			nOffset = 60;
+			nOffset = 100;
 			break;
 		elseif nOpenDay == i then
 			nOffset = tbContent[i]

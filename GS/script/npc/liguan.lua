@@ -8,8 +8,8 @@ tbLiGuan.receiveAwardDomainDate		= 2;
 tbLiGuan.receiveAwardMoneyRank		= 3;
 tbLiGuan.receiveAwardMoneyDate		= 4;
 
-tbLiGuan.receiveAwardDateBegin		= 20211010; 
-tbLiGuan.receiveAwardDateEnd		= 20221020; 
+tbLiGuan.receiveAwardDateBegin		= 20221031; 
+tbLiGuan.receiveAwardDateEnd		= 20221102; 
 
 tbLiGuan.tongNameGetReward = {
 	{szTongName="",	nRank=1},
@@ -76,10 +76,10 @@ tbLiGuan.awardMoney = {
 			{item={1,12, 29, 10}, 	nNum=1, 	nBind=1, 	nTime=365},
 		},
 		nCashMoney = 700000,
-		nBindMoney = 3000000,
+		nBindMoney = 2000000,
 		nTitle={999,1,2,0}
 	},
-	[4] = {
+	[10] = {
 		tbItem = {
 			{item={18, 1, 114, 10}, 	nNum=1, 	nBind=1, 	nTime=30},
 		},
@@ -101,7 +101,7 @@ function tbLiGuan:OnDialog()
 	}
 	
 	local currentDate = tonumber(os.date("%Y%m%d", GetTime()));
-	if self.receiveAwardDateBegin <= currentDate and currentDate <= self.receiveAwardDateEnd then
+	if currentDate <= self.receiveAwardDateEnd then
 		table.insert(tbOpt, 1, {"<color=yellow>Sự kiện Đua Top<color>", self.receiveAwardTop, self,});
 	end
 	
@@ -110,20 +110,24 @@ end
 
 function tbLiGuan:receiveAwardTop()
 	local tbOpt = {
-		{"Nhận thưởng Top Lãnh Thổ", self.sendAwardTop, self, 1},
-		{"Xem Top Lãnh Thổ", self.seeAwardTop, self, 1},
-		{"Nhận thưởng Top Tài Phú", self.sendAwardTop, self, 2},
-		{"Xem Top Tài Phú", self.seeAwardTop, self, 2},
+		{"Xem Phần thưởng Top Lãnh Thổ", self.seeAwardTop, self, 1},
+		{"Xem Phần thưởng Top Tài Phú", self.seeAwardTop, self, 2},
 		{"Kết thúc đối thoại"},
 	}
-
+	
+	local currentDate = tonumber(os.date("%Y%m%d", GetTime()));
+	if self.receiveAwardDateBegin <= currentDate and currentDate <= self.receiveAwardDateEnd then
+		table.insert(tbOpt, 1, {"<color=yellow>Nhận thưởng Top Lãnh Thổ<color>", self.sendAwardTop, self, 1});
+		table.insert(tbOpt, 2, {"<color=yellow>Nhận thưởng Top Tài Phú<color>", self.sendAwardTop, self, 2});
+	end
+	
 	Dialog:Say("Lễ Quan: Hãy chọn điều người cần", tbOpt);          
 end
 
 function tbLiGuan:sendAwardTop(nType, nSure)
 	local nRank = self:checkPermission(nType);
-	local szRank = 1 and "Lãnh Thổ" or "Tài phú";
-	
+	local szRank = (nType == 1 and "Lãnh Thổ" or "Tài phú");
+	local nCurDate = tonumber(os.date("%Y%m%d", GetTime()));
 	if not nSure then
 		if nType == 1 then
 			if me.CountFreeBagCell() < 30 then
@@ -167,7 +171,7 @@ function tbLiGuan:sendAwardTop(nType, nSure)
 				return 0
 			end
 			if nRank == 99 then
-				Dialog:Say("Xin lỗi, chỉ có Bang chủ mới có thể đến nhận phần thưởng cho các thành viên.");
+				Dialog:Say("Xin lỗi, chỉ có Thủ lĩnh mới có thể đến nhận phần thưởng cho các thành viên.");
 				return 0
 			end
 			
@@ -193,6 +197,7 @@ function tbLiGuan:sendAwardTop(nType, nSure)
 				me.SetCurTitle(unpack(self.awardDomain[nRank].nTitle));
 			end
 			
+			me.SetTask(self.taskGroupId, self.receiveAwardDomainDate, nCurDate)
 		elseif nType == 2 then
 			if self.awardMoney[nRank].tbItem then
 				for nIndex = 1, #self.awardMoney[nRank].tbItem do
@@ -216,32 +221,37 @@ function tbLiGuan:sendAwardTop(nType, nSure)
 				me.SetCurTitle(unpack(self.awardMoney[nRank].nTitle));
 			end
 			
+			me.SetTask(self.taskGroupId, self.receiveAwardMoneyDate, nCurDate)
 		end
 		KDialog.NewsMsg(1, Env.NEWSMSG_COUNT, "<color=green>"..me.szName.."<color> nhận phần thưởng <color=red> TOP "..nRank.." "..szRank.."<color>");
-		KDialog.MsgToGlobal("<color=green>"..me.szName.."<color> nhận phần thưởng <color=red> TOP "..nRank.." "..szRank.."<color>");	
+		KDialog.MsgToGlobal("<color=green>"..me.szName.."<color> nhận phần thưởng <color=yellow> TOP "..nRank.." "..szRank.."<color>");	
 	end
 end
 
 function tbLiGuan:checkPermission(nType)
 	if nType == 1 then
 		local pTong = KTong.GetTong(me.dwTongId);
-		local szTongName = pTong.GetName();
-		local nKinId, nMemberId = me.GetKinMember();
-		if Tong:CheckSelfRight(me.dwTongId, nKinId, nMemberId, Tong.POW_MASTER) ~= 1 then
-			return 99;
-		end
-		
-		for nIndex = 1, #self.tongNameGetReward do
-			if szTongName == self.tongNameGetReward[nIndex].szTongName then
-				return self.tongNameGetReward[nIndex].nRank;
+		if pTong then
+			local szTongName = pTong.GetName() or 0;
+			local nKinId, nMemberId = me.GetKinMember();
+			if Tong:CheckPresidentRight(nTongId, nKinId, nMemberId) ~= 1 then
+				return 99;
 			end
+			
+			for nIndex = 1, #self.tongNameGetReward do
+				if szTongName == self.tongNameGetReward[nIndex].szTongName then
+					return self.tongNameGetReward[nIndex].nRank;
+				end
+			end
+		else
+			return 99;
 		end
 	elseif nType == 2 then
 		local nHonorRank = PlayerHonor:GetPlayerHonorRankByName(me.szName, PlayerHonor.HONOR_CLASS_MONEY, 0);
 		if 0 < nHonorRank and nHonorRank <= 3 then
 			return nHonorRank;
 		elseif 4 <= nHonorRank and nHonorRank <= 10 then
-			return 4
+			return 10
 		end
 	end
 	return 0;
@@ -291,7 +301,7 @@ function tbLiGuan:seeAwardTop(nType)
 			  - Ngựa Top 2 Cao thủ 
 			
 				   <color=red>Hạng 3:<color>
-			  - 300 vạn Bạc khóa
+			  - 200 vạn Bạc khóa
 			  - 70 vạn Bạc thường
 			  - 1 Thương Hải Nguyệt Minh
 			  - 1 Thái Vân Truy Nguyệt

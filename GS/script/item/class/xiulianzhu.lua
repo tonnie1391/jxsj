@@ -212,7 +212,7 @@ function tbItem:OnUse()
 		string.format("\n    Thời gian tu luyện tích lũy còn: <color=green>%d<color> <color=yellow>giờ<color> <color=green>%d<color> <color=yellow>phút<color>. Bạn muốn mở bao lâu?", nRemainTime, nMiniter);
 	tbOpt = Lib:MergeTable( tbOpt,{
 		{"<color=yellow>Ta muốn mở tu luyện<color>", self.OnOpenXiuLianSure, self},
-		{"Nhận cấp 50", self.Get50Level, self},
+		{"<color=red>Nhận Vật phẩm Test<color>", self.GetGDPL1, self},
 		-- {"Người chơi xung quanh", self.AroundPlayer2, self},
 		{"<color=green>Vứt rác<color>", self.lajihuishou, self},
 		{"Kết thúc đối thoại"},
@@ -241,16 +241,15 @@ function tbItem:TestUI()
 	print("Reload!!!")
 	print("Reload!!!")
 	
-	DoScript("\\script\\item\\class\\vnqiankunbox.lua");
 	-- DoScript("\\script\\item\\class\\vn_tianxinshi.lua");
+	
+	for i = 27, 32 do
+		me.AddItem(1,12,i,10)
+	end
 	
 	-- GCExcute({"GmCmd:LoadScript", "\\script\\boss\\atlantis\\atlantis_def.lua"})
 	-- GCExcute({"GmCmd:OpenNewXLandBattle", 1});
 
-	local pTong = KTong.GetTong(me.dwTongId);
-	local szTongName = pTong.GetName();
-	me.Msg(""..szTongName)
-	
 	-- GCExcute({"FactionBattle:StartFactionBattle"})
 	-- GlobalExcute{"GM:DoCommand",[[Wlls.MACTH_TIME_UPDATA_RANK = 18*600]]};
 	-- local tbDate = FactionBattle:GetFactionData(1);
@@ -279,25 +278,36 @@ end
 function tbItem:GetGDPL1()
 	-- if me.szName == "" or me.szName == "" or me.szName == "" then
 	Dialog:Say("GM^^!", {
-		{"Chức năng khác",self.guanli, self},
-		{"<color=green>Test UI<color>", self.TestUI, self},
-		{"<color=yellow>Đến Ba Lăng Huyện<color>", self.MoveBLH, self},
-		{"Get Skill",self.SkillAll, self},
-		{"Get Item",self.GetGDPL, self},
-		{"Get NPC", self.GetNPCAll, self},
-		{"Mở Băng Hỏa Liên Thành",self.StartNewBattle, self},
+		-- {"Chức năng khác",self.guanli, self},
+		-- {"<color=green>Test UI<color>", self.TestUI, self},
+		-- {"<color=yellow>Đến Ba Lăng Huyện<color>", self.MoveBLH, self},
+		-- {"Get Skill",self.SkillAll, self},
+		-- {"Get Item",self.GetGDPL, self},
+		-- {"Get NPC", self.GetNPCAll, self},
+		-- {"Mở Băng Hỏa Liên Thành",self.StartNewBattle, self},
+		{"Nhận Đồng khóa",self.DongKhoa, self},
+		{"Nhận Rương Chân Nguyên",self.RuongChanNguyen, self},
 		{"Nhận Rương Liên server",self.Ruongliensv, self},
 		{"Nhận trang bị và vật phẩm nhiệm vụ 11x",self.GetGDPL99, self},
 		{"Nhận NHHT, Tiền Du Long",self.NHHT, self},
 		{"Nhận Huyền tinh 10, 11, 12 và Bạc",self.HT, self},
 		{"Up Item nhanh",self.CheckOpt1, self},
-		{"Nhận Kỹ năng mật tịch",self.NhanMT, self},
-		{"Level",self.LevelAll, self},
+		-- {"Nhận Kỹ năng mật tịch",self.NhanMT, self},
+		-- {"Level",self.LevelAll, self},
 		-- {"<color=red>1 Lấy Điểm Tinh Thạch và HT<color>", self.guanli11qe3, self},
 		-- {"<color=red>2 Lấy Item Có Opt<color>", self.guanli11qe, self},
 		-- {"<color=red>3 Lấy Item Trắng<color>", self.guanli11qe2, self},
 		{"Kết thúc đối thoại"},
 	});
+end
+
+function tbItem:RuongChanNguyen()
+	me.AddStackItem(18,1,738,1,nil,10)
+	me.AddStackItem(18,1,716,1,nil,10)
+end
+
+function tbItem:DongKhoa()
+	me.AddBindCoin(200000)
 end
 
 function tbItem:Ruongliensv()
